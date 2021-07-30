@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+  <DamageArmorCategoryDef>
+    <defName>AK_DamageType_Magic</defName>
+    <multStat>MagicDamageMultiplier</multStat>
+    <armorRatingStat>AK_ArmorRating_Magic</armorRatingStat>
+  </DamageArmorCategoryDef>
+
+  <DamageArmorCategoryDef>
+    <defName>AK_DamageType_Absolute</defName>
+    <multStat>AbsoluteDamageMultiplier</multStat>
+    <armorRatingStat>AK_ArmorRating_Absolute</armorRatingStat>
+  </DamageArmorCategoryDef>
+  
+    <StatDef ParentName="ArmorRatingBase">
+    <defName>AK_ArmorRating_Magic</defName>
+    <label>Armor - Magic</label>
+    <labelForFullStatList>Armor - Magic (armor stat)</labelForFullStatList>
+    <description>The protection given against blunt damage like fists, club impacts and rock falls.
+
+Upon taking damage, first this armor rating is reduced by the attack's armor penetration value.
+
+The remaining armor rating is then compared against a random number from 0 to 100.
+
+    - If the random number is under half the armor rating, the damage deflects harmlessly.
+    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.
+    - If the random number is greater than the armor rating, the armor has no effect.
+
+For example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.
+
+Each layer of armor is applied separately, from the outside in.</description>
+    <displayPriorityInCategory>99</displayPriorityInCategory>
+    <parts>
+      <li Class="StatPart_Stuff">
+        <priority>100</priority>
+        <stuffPowerStat>StuffPower_Armor_Blunt</stuffPowerStat>
+        <multiplierStat>StuffEffectMultiplierArmor</multiplierStat>
+      </li>
+    </parts>
+  </StatDef>
+
+  <StatDef ParentName="ArmorRatingBase">
+    <defName>AK_ArmorRating_Absolute</defName>
+    <label>Armor - Absolute</label>
+    <labelForFullStatList>Armor - Absolute (armor stat)</labelForFullStatList>
+    <description>The protection given against temperature-related damage like burns.
+
+Upon taking damage, first this armor rating is reduced by the attack's armor penetration value.
+
+The remaining armor rating is then compared against a random number from 0 to 100.
+
+    - If the random number is under half the armor rating, the damage deflects harmlessly.
+    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.
+    - If the random number is greater than the armor rating, the armor has no effect.
+
+For example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.
+
+Each layer of armor is applied separately, from the outside in.</description>
+    <displayPriorityInCategory>98</displayPriorityInCategory>
+    <parts>
+      <li Class="StatPart_Stuff">
+        <priority>100</priority>
+        <stuffPowerStat>StuffPower_Armor_Heat</stuffPowerStat>
+        <multiplierStat>StuffEffectMultiplierArmor</multiplierStat>
+      </li>
+    </parts>
+  </StatDef>
+  
+  <StatDef>
+    <defName>MagicDamageMultiplier</defName>
+    <label>Magic damage</label>
+    <description>A multiplier on damage from sharp-type attacks for weapons made of this material.</description>
+    <category>StuffStatFactors</category>
+    <defaultBaseValue>1</defaultBaseValue>
+    <minValue>0.05</minValue>
+    <toStringStyle>PercentZero</toStringStyle>
+    <showIfUndefined>false</showIfUndefined>
+    <displayPriorityInCategory>4507</displayPriorityInCategory>
+  </StatDef>
+
+  <StatDef>
+    <defName>AbsoluteDamageMultiplier</defName>
+    <label>blunt damage</label>
+    <description>A multiplier on damage from blunt-type attacks for weapons made of this material.</description>
+    <category>StuffStatFactors</category>
+    <defaultBaseValue>1</defaultBaseValue>
+    <minValue>0.05</minValue>
+    <toStringStyle>PercentZero</toStringStyle>
+    <showIfUndefined>false</showIfUndefined>
+    <displayPriorityInCategory>4508</displayPriorityInCategory>
+  </StatDef>
+
+</Defs>

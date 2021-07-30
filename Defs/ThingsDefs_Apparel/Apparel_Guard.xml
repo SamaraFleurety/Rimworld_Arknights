@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="AK_ArmorBase_Guard">
+    <defName>AK_Apparel_Sutor</defName>
+    <label>史尔特尔服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Guard/42t2</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/AK_Agents/Guard/42t2</wornGraphicPath>
+    </apparel>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_ArmorBase_Guard">
+    <defName>AK_Apparel_Blaze</defName>
+    <label>煌服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Guard/Blaze</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/AK_Agents/Guard/Blaze</wornGraphicPath>
+    </apparel>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_ArmorBase_Guard">
+    <defName>AK_Apparel_Chen</defName>
+    <label>陈服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Guard/Chen</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/AK_Agents/Guard/Chen</wornGraphicPath>
+    </apparel>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_ArmorBase_Guard">
+    <defName>AK_Apparel_Cutter</defName>
+    <label>刻刀服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Guard/Cutter</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/AK_Agents/Guard/Cutter</wornGraphicPath>
+    </apparel>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_ArmorBase_Guard">
+    <defName>AK_Apparel_Franka</defName>
+    <label>芙兰卡服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Guard/Franka</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/AK_Agents/Guard/Franka</wornGraphicPath>
+    </apparel>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_ArmorBase_Guard">
+    <defName>AK_Apparel_Frostleaf</defName>
+    <label>霜叶服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Guard/Frostleaf</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/AK_Agents/Guard/Frostleaf</wornGraphicPath>
+    </apparel>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_ArmorBase_Guard">
+    <defName>AK_Apparel_Lappland</defName>
+    <label>拉普兰德服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Guard/Lappland</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/AK_Agents/Guard/Lappland</wornGraphicPath>
+    </apparel>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_ArmorBase_Guard">
+    <defName>AK_Apparel_Mousse</defName>
+    <label>慕斯服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Guard/Mousse</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/AK_Agents/Guard/Mousse</wornGraphicPath>
+    </apparel>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_ArmorBase_Guard">
+    <defName>AK_Apparel_Silverash</defName>
+    <label>银灰服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Guard/Silverash</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/AK_Agents/Guard/Silverash</wornGraphicPath>
+    </apparel>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_ArmorBase_Guard">
+    <defName>AK_Apparel_Skadi</defName>
+    <label>斯卡蒂服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Guard/Skadi</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/AK_Agents/Guard/Skadi</wornGraphicPath>
+    </apparel>
+  </ThingDef>
+    
+  <ThingDef ParentName="AK_ArmorBase_Guard">
+    <defName>AK_Apparel_Cuora</defName>
+    <label>蛇屠箱服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Guard/Cuora</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/AK_Agents/Guard/Cuora</wornGraphicPath>
+    </apparel>
+  </ThingDef>  
+  
+  <ThingDef ParentName="AK_ArmorBase_Guard">
+    <defName>AK_Apparel_Thorns</defName>
+    <label>棘刺服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Guard/Thorns</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/AK_Agents/Guard/Thorns</wornGraphicPath>
+    </apparel>
+  </ThingDef>
+  
+ </Defs>

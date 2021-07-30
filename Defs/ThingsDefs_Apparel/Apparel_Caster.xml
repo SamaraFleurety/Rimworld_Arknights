@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="AK_ArmorBase_Caster">
+    <defName>AK_Apparel_Absinthe</defName>
+    <label>苦艾服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Caster/Absinthe</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+	<apparel>
+      <wornGraphicPath>Things/AK_Agents/Caster/Absinthe</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_ArmorBase_Caster">
+    <defName>AK_Apparel_Ifrit</defName>
+    <label>伊芙利特服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Caster/Ifrit</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+	<apparel>
+      <wornGraphicPath>Things/AK_Agents/Caster/Ifrit</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_ArmorBase_Caster">
+    <defName>AK_Apparel_Amiya</defName>
+    <label>阿米娅服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <techLevel>Industrial</techLevel>
+    <graphicData>
+      <texPath>Things/AK_Agents/Caster/Amiya</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+ 	<apparel>
+      <wornGraphicPath>Things/AK_Agents/Caster/Amiya</wornGraphicPath>
+ 	</apparel>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_ArmorBase_Caster">
+    <defName>AK_Apparel_Ceobe</defName>
+    <label>刻俄柏服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <techLevel>Industrial</techLevel>
+    <graphicData>
+      <texPath>Things/AK_Agents/Caster/Ceobe</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>	
+      <wornGraphicPath>Things/AK_Agents/Caster/Ceobe</wornGraphicPath>
+ 	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="AK_ArmorBase_Caster">
+    <defName>AK_Apparel_Dusk</defName>
+    <label>夕服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <techLevel>Industrial</techLevel>
+ 
+    <graphicData>
+      <texPath>Things/AK_Agents/Caster/Dusk</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/AK_Agents/Caster/Dusk</wornGraphicPath>
+ 	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="AK_ArmorBase_Caster">
+    <defName>AK_Apparel_Mostima</defName>
+    <label>莫斯提马服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <techLevel>Industrial</techLevel>
+    <graphicData>
+      <texPath>Things/AK_Agents/Caster/Mostima</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+      <apparel>
+      <wornGraphicPath>Things/AK_Agents/Caster/Mostima</wornGraphicPath>
+ 	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="AK_ArmorBase_Caster">
+    <defName>AK_Apparel_Mint</defName>
+    <label>薄绿服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <techLevel>Industrial</techLevel>
+    <graphicData>
+      <texPath>Things/AK_Agents/Caster/Mint</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+ 	<apparel>
+      <wornGraphicPath>Things/AK_Agents/Caster/Mint</wornGraphicPath>
+ 	</apparel>
+	
+<!--Eyfl 艾雅法拉 此处命名不符合规范但我懒得改了 -->	
+  </ThingDef>
+    <ThingDef ParentName="AK_ArmorBase_Caster">
+    <defName>AK_Apparel_Carbon</defName>
+    <label>艾雅法拉服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <techLevel>Industrial</techLevel>
+    <graphicData>
+      <texPath>Things/AK_Agents/Caster/Carbon</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+ 	<apparel>
+      <wornGraphicPath>Things/AK_Agents/Caster/Carbon</wornGraphicPath>
+ 	</apparel>
+  </ThingDef>
+  
+ </Defs>

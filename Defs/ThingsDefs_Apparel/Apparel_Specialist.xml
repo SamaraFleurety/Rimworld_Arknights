@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="AK_ArmorBase">
+    <defName>AK_Apparel_Doctor</defName>
+    <label>博士的服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Specialist/Doctor</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/AK_Agents/Specialist/Doctor</wornGraphicPath>
+    </apparel>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_ArmorBase_Specialist">
+    <defName>AK_Apparel_ProjektRed</defName>
+    <label>红的服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Specialist/ProjektRed</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/AK_Agents/Specialist/ProjektRed</wornGraphicPath>
+    </apparel>
+  </ThingDef>
+    
+  <ThingDef ParentName="AK_ArmorBase_Specialist">
+    <defName>AK_Apparel_Robin</defName>
+    <label>罗宾的服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Specialist/Robin</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/AK_Agents/Specialist/Robin</wornGraphicPath>
+    </apparel>
+  </ThingDef>
+  
+ </Defs>

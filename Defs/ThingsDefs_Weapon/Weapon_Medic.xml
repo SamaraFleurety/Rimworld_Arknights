@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="AK_WeaponBase_Medic">
+    <defName>AK_Weapon_GavialW</defName>
+    <label>嘉维尔的杖</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Medic/GavialW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Medic">
+    <defName>AK_Weapon_KaltsitW</defName>
+    <label>凯尔希的医疗枪</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Medic/KaltsitW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Medic">
+    <defName>AK_Weapon_PerfumerW</defName>
+    <label>调香师的拖把</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Medic/PerfumerW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Medic">
+    <defName>AK_Weapon_SilenceW</defName>
+    <label>赫默的药瓶</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Medic/SilenceW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+</Defs>

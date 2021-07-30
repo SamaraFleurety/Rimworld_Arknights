@@ -1,0 +1,84 @@
+{PAWN_nameDef} 名
+{PAWN_pronoun} he
+{PAWN_objective} him
+{PAWN_possessive} his
+<></>
+<statOffsets>
+	社交
+		NegotiationAbility 谈判能力
+		TradePriceImprovement 交易价格改善
+		SocialImpact 社交效果
+		PawnBeauty 魅力
+	
+	战斗
+		ArmorRating_Sharp 利器防御
+		ArmorRating_Blunt 钝器防御
+		ArmorRating_Heat  热能防御
+		Flammability 可燃性
+		ShootingAccuracyPawn
+		AimingDelayFactor
+		HuntingStealth
+		MeleeHitChance 近战命中率
+		MeleeDodgeChance 近战闪避率
+		MeleeDPS
+		PainShockThreshold 昏迷阈值
+		IncomingDamageFactor 承伤系数
+		PsychicSensitivity
+
+	健康
+		MedicalTendSpeed
+		MedicalTendQuality
+		MedicalOperationSpeed
+		MedicalSurgerySuccessChance 手术成功
+		MentalBreakThreshold 精神崩溃阈值
+		ComfyTemperatureMax
+		ComfyTemperatureMin
+		CookSpeed
+		MeatAmount
+		Mass
+		LeatherAmount
+		FoodPoisonChance 食物中毒率
+		ToxicSensitivity
+		HungerRateMultiplier 饥饿系数
+		ImmunityGainSpeed 免疫获得
+		RestRateMultiplier
+	
+	PlantWorkSpeed
+	PlantHarvestYield 植物收获
+	AnimalGatherYield 动物产出
+	TameAnimalChance 驯服成功
+	TrainAnimalChance 训练成功
+
+	WorkSpeedGlobal 全局工作速度
+	ResearchSpeed 研究速度
+	CarryingCapacity 携带能力
+	MoveSpeed 移动速度
+	Mass
+	LeatherAmount
+
+	ConstructionSpeed
+	ConstructSuccessChance 建造成功率
+	
+	GlobalLearningFactor
+	GeneralLaborSpeed
+	SmoothingSpeed
+	MiningYield 采矿产出
+	DrugSynthesisSpeed
+	ResearchSpeed
+	CookSpeed
+
+skillGains
+	Intellectual
+	Social
+	Medicine
+	Artistic
+	Crafting
+	Animals
+	Plants
+	Cooking
+	Mining
+	Construction
+	Shooting
+	Melee
+	
+	

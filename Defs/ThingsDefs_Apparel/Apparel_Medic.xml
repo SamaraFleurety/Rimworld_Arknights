@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="AK_ArmorBase_Medic">
+    <defName>AK_Apparel_Gavial</defName>
+    <label>嘉维尔服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Medic/Gavial</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/AK_Agents/Medic/Gavial</wornGraphicPath>
+    </apparel>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_ArmorBase_Medic">
+    <defName>AK_Apparel_Kaltsit</defName>
+    <label>凯尔希服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Medic/Kaltsit</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/AK_Agents/Medic/Kaltsit</wornGraphicPath>
+    </apparel>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_ArmorBase_Medic">
+    <defName>AK_Apparel_myrrh</defName>
+    <label>末药服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Medic/Myrrh</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/AK_Agents/Medic/Myrrh</wornGraphicPath>
+    </apparel>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_ArmorBase_Medic">
+    <defName>AK_Apparel_Silence</defName>
+    <label>赫默服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Medic/Silence</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/AK_Agents/Medic/Silence</wornGraphicPath>
+    </apparel>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_ArmorBase_Medic">
+    <defName>AK_Apparel_Perfumer</defName>
+    <label>调香师服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Medic/Perfumer</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/AK_Agents/Medic/Perfumer</wornGraphicPath>
+    </apparel>
+  </ThingDef>
+  
+ </Defs>

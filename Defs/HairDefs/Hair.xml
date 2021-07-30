@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	
+<!-- 术士 -->
+
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Amiya</defName>
+		<label>阿米娅发型</label>
+		<texPath>Things/Hair/Caster/Amiya</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Ifrit</defName>
+		<label>伊芙利特发型</label>
+		<texPath>Things/Hair/Caster/Ifrit</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Absinthe</defName>
+		<label>苦艾发型</label>
+		<texPath>Things/Hair/Caster/Absinthe</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Ceobe</defName>
+		<label>刻俄柏发型</label>
+		<texPath>Things/Hair/Caster/Ceobe</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Dusk</defName>
+		<label>夕发型</label>
+		<texPath>Things/Hair/Caster/Dusk</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Eyfl</defName>
+		<label>艾雅法拉发型</label>
+		<texPath>Things/Hair/Caster/Eyfl</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Mint</defName>
+		<label>薄绿发型</label>
+		<texPath>Things/Hair/Caster/Mint</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Skyfire</defName>
+		<label>天火发型</label>
+		<texPath>Things/Hair/Caster/Skyfire</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Mostima</defName>
+		<label>莫斯提马发型</label>
+		<texPath>Things/Hair/Caster/Mostima</texPath>
+	</HairDef>
+
+<!-- 重装 -->
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Cuora</defName>
+		<label>蛇屠箱发型</label>
+		<texPath>Things/Hair/Defender/Cuora</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Eunectes</defName>
+		<label>森蚺发型</label>
+		<texPath>Things/Hair/Defender/Eunectes</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Hoshiguma</defName>
+		<label>星熊发型</label>
+		<texPath>Things/Hair/Defender/Hoshiguma</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Liskarm</defName>
+		<label>雷蛇发型</label>
+		<texPath>Things/Hair/Defender/Liskarm</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_MudRock</defName>
+		<label>泥岩发型</label>
+		<texPath>Things/Hair/Defender/MudRock</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Nian</defName>
+		<label>年发型</label>
+		<texPath>Things/Hair/Defender/Nian</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Saria</defName>
+		<label>塞雷娅发型</label>
+		<texPath>Things/Hair/Defender/Saria</texPath>
+	</HairDef>
+
+<!-- 近卫 -->
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Surtr</defName>
+		<label>史尔特尔发型</label>
+		<texPath>Things/Hair/Guard/42t2</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Blaze</defName>
+		<label>煌发型</label>
+		<texPath>Things/Hair/Guard/Blaze</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Chen</defName>
+		<label>陈发型</label>
+		<texPath>Things/Hair/Guard/Chen</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Cutter</defName>
+		<label>刻刀发型</label>
+		<texPath>Things/Hair/Guard/Cutter</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Lappland</defName>
+		<label>拉普兰德发型</label>
+		<texPath>Things/Hair/Guard/Lappland</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Franka</defName>
+		<label>芙兰卡发型</label>
+		<texPath>Things/Hair/Guard/Franka</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Mousse</defName>
+		<label>慕斯发型</label>
+		<texPath>Things/Hair/Guard/Mousse</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseM">
+		<defName>AK_Hair_Silverash</defName>
+		<label>银灰发型</label>
+		<texPath>Things/Hair/Guard/Silverash</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Skadi</defName>
+		<label>斯卡蒂发型</label>
+		<texPath>Things/Hair/Guard/Skadi</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseM">
+		<defName>AK_Hair_Thorns</defName>
+		<label>棘刺发型</label>
+		<texPath>Things/Hair/Guard/Thorns</texPath>
+	</HairDef>
+
+<!-- 医疗 -->
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Gavial</defName>
+		<label>嘉维尔发型</label>
+		<texPath>Things/Hair/Medic/Gavial</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Kaltsit</defName>
+		<label>凯尔希发型</label>
+		<texPath>Things/Hair/Medic/Kaltsit</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Myrrh</defName>
+		<label>末药发型</label>
+		<texPath>Things/Hair/Medic/Myrrh</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Silence</defName>
+		<label>赫默发型</label>
+		<texPath>Things/Hair/Medic/Silence</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Perfumer</defName>
+		<label>调香师发型</label>
+		<texPath>Things/Hair/Medic/Perfumer</texPath>
+	</HairDef>
+
+<!-- 狙击 -->
+	
+	<HairDef ParentName="AK_HairBaseM">
+		<defName>AK_Hair_Executor</defName>
+		<label>送葬人发型</label>
+		<texPath>Things/Hair/Sniper/Executor</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Exusiai</defName>
+		<label>能天使发型</label>
+		<texPath>Things/Hair/Sniper/Exusiai</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Greythroat</defName>
+		<label>灰喉发型</label>
+		<texPath>Things/Hair/Sniper/Greythroat</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Jessica</defName>
+		<label>杰西卡发型</label>
+		<texPath>Things/Hair/Sniper/Jessica</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Pinecone</defName>
+		<label>松果发型</label>
+		<texPath>Things/Hair/Sniper/Pinecone</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Provence</defName>
+		<label>普罗旺斯发型</label>
+		<texPath>Things/Hair/Sniper/Provence</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Rosmontis</defName>
+		<label>迷迭香发型</label>
+		<texPath>Things/Hair/Sniper/Rosmontis</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Schwarz</defName>
+		<label>黑的发型</label>
+		<texPath>Things/Hair/Sniper/Schwarz</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_AgentW</defName>
+		<label>W的发型</label>
+		<texPath>Things/Hair/Sniper/W</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Rosa</defName>
+		<label>早露的发型</label>
+		<texPath>Things/Hair/Sniper/Rosa</texPath>
+	</HairDef>
+	
+<!-- 特种 -->
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Red</defName>
+		<label>红的发型</label>
+		<texPath>Things/Hair/Specialist/Red</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Robin</defName>
+		<label>罗宾发型</label>
+		<texPath>Things/Hair/Specialist/Robin</texPath>
+	</HairDef>
+
+<!-- 辅助 -->
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Angelina</defName>
+		<label>安洁莉娜发型</label>
+		<texPath>Things/Hair/Supporter/Angelina</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Magallan</defName>
+		<label>麦哲伦发型</label>
+		<texPath>Things/Hair/Supporter/Magallan</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Mayer</defName>
+		<label>梅尔发型</label>
+		<texPath>Things/Hair/Supporter/Mayer</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Pramanix</defName>
+		<label>初雪发型</label>
+		<texPath>Things/Hair/Supporter/Pramanix</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Suzuran</defName>
+		<label>铃兰发型</label>
+		<texPath>Things/Hair/Supporter/Suzuran</texPath>
+	</HairDef>
+
+<!-- 先锋 -->
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Bagpipe</defName>
+		<label>风笛发型</label>
+		<texPath>Things/Hair/Vanguard/Bagpipe</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Reed</defName>
+		<label>苇草发型</label>
+		<texPath>Things/Hair/Vanguard/Reed</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Saga</defName>
+		<label>嵯峨发型</label>
+		<texPath>Things/Hair/Vanguard/Saga</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Texas</defName>
+		<label>德克萨斯发型</label>
+		<texPath>Things/Hair/Vanguard/Texas</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Vanilla</defName>
+		<label>香草发型</label>
+		<texPath>Things/Hair/Vanguard/Vanilla</texPath>
+	</HairDef>
+
+<!-- 整合 -->
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Alina</defName>
+		<label>阿丽娜发型</label>
+		<texPath>Things/Hair/Reunion/Alina</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Frostnova</defName>
+		<label>霜星发型</label>
+		<texPath>Things/Hair/Reunion/Frostnova</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Ftalulah</defName>
+		<label>塔露拉发型</label>
+		<texPath>Things/Hair/Reunion/Ftalulah</texPath>
+	</HairDef>
+
+</Defs>

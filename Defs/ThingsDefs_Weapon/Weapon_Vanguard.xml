@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="AK_WeaponBase_Vanguard">
+    <defName>AK_Weapon_BagpipeW</defName>
+    <label>风笛的破城矛</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Vanguard/BagpipeW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Vanguard">
+    <defName>AK_Weapon_ReedW</defName>
+    <label>苇草的长枪</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Vanguard/ReedW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Vanguard">
+    <defName>AK_Weapon_SagaW</defName>
+    <label>嵯峨的薙刀</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Vanguard/SagaW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Vanguard">
+    <defName>AK_Weapon_TexasW</defName>
+    <label>德克萨斯的热能剑</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Vanguard/TexasW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Vanguard">
+    <defName>AK_Weapon_VanillaW</defName>
+    <label>香草的斧枪</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Vanguard/VanillaW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+</Defs>

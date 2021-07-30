@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef Name="AK_WeaponBase" ParentName="BaseMeleeWeapon_Sharp_Quality">
+    <defName>MeleeWeapon_Ikwa</defName>
+    <label>ikwa</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/Item/Equipment/WeaponMelee/Ikwa</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <uiIconScale>1.25</uiIconScale>
+    <techLevel>Neolithic</techLevel>
+    <weaponTags Inherit="False">
+    </weaponTags>
+    <costStuffCount>50</costStuffCount>
+    <statBases>
+      <WorkToMake>5000</WorkToMake>
+      <Mass>1.1</Mass>
+    </statBases>
+    <equippedAngleOffset>-25</equippedAngleOffset>
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Woody</li>
+    </stuffCategories>
+    <tools>
+      <li>
+        <label>handle</label>
+        <capacities>
+          <li>Blunt</li>
+          <li>Poke</li>
+        </capacities>
+        <power>9</power>
+        <cooldownTime>2</cooldownTime>
+      </li>
+      <li>
+        <label>head</label>
+        <capacities>
+          <li>Stab</li>
+        </capacities>
+        <power>15</power>
+        <cooldownTime>2</cooldownTime>
+      </li>
+      <li>
+        <label>edge</label>
+        <capacities>
+          <li>Cut</li>
+        </capacities>
+        <power>15</power>
+        <cooldownTime>2</cooldownTime>
+      </li>
+    </tools>
+    <recipeMaker>
+      <researchPrerequisite>Smithing</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>3</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+  </ThingDef>
+  
+  <ThingDef Name="AK_WeaponBase_Caster" ParentName="AK_WeaponBase" Abstract="True">  
+	<thingCategories Inherit="False">
+      <li>AK_Weapon_Caster</li>
+    </thingCategories>
+  </ThingDef>
+  
+  <ThingDef Name="AK_WeaponBase_Vanguard" ParentName="AK_WeaponBase" Abstract="True">  
+	<thingCategories Inherit="False">
+      <li>AK_Weapon_Vanguard</li>
+    </thingCategories>
+  </ThingDef>
+  
+  <ThingDef Name="AK_WeaponBase_Guard" ParentName="AK_WeaponBase" Abstract="True">  
+	<thingCategories Inherit="False">
+      <li>AK_Weapon_Guard</li>
+    </thingCategories>
+  </ThingDef>
+  
+  <ThingDef Name="AK_WeaponBase_Defender" ParentName="AK_WeaponBase" Abstract="True">  
+	<thingCategories Inherit="False">
+      <li>AK_Weapon_Defender</li>
+    </thingCategories>
+  </ThingDef>
+  
+  <ThingDef Name="AK_WeaponBase_Supporter" ParentName="AK_WeaponBase" Abstract="True">  
+	<thingCategories Inherit="False">
+      <li>AK_Weapon_Supporter</li>
+    </thingCategories>
+  </ThingDef>
+  
+  <ThingDef Name="AK_WeaponBase_Specialist" ParentName="AK_WeaponBase" Abstract="True">  
+	<thingCategories Inherit="False">
+      <li>AK_Weapon_Specialist</li>
+    </thingCategories>
+  </ThingDef>
+  
+  <ThingDef Name="AK_WeaponBase_Sniper" ParentName="AK_WeaponBase" Abstract="True">  
+	<thingCategories Inherit="False">
+      <li>AK_Weapon_Sniper</li>
+    </thingCategories>
+  </ThingDef>
+  
+  <ThingDef Name="AK_WeaponBase_Medic" ParentName="AK_WeaponBase" Abstract="True">  
+	<thingCategories Inherit="False">
+      <li>AK_Weapon_Medic</li>
+    </thingCategories>
+  </ThingDef>
+  
+  <ThingDef Name="AK_WeaponBase_Reunion" ParentName="AK_WeaponBase" Abstract="True">  
+	<thingCategories Inherit="False">
+      <li>AK_Weapon_Reunion</li>
+    </thingCategories>
+  </ThingDef>
+  
+</Defs>

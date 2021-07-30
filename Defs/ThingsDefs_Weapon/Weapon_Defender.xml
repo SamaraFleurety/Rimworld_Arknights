@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="AK_WeaponBase_Defender">
+    <defName>AK_Weapon_CuoraW</defName>
+    <label>蛇屠箱的棒球棍</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Defender/CuoraW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+
+  <ThingDef ParentName="AK_WeaponBase_Defender">
+    <defName>AK_Weapon_EuneWa</defName>
+    <label>森蚺的挂斧</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Defender/EuneW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Defender">
+    <defName>AK_Weapon_EuneWb</defName>
+    <label>森蚺的盾</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Defender/EuneW2</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Defender">
+    <defName>AK_Weapon_HoshigumaW</defName>
+    <label>般若</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Defender/HoshigumaW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Defender">
+    <defName>AK_Weapon_LiskarmW</defName>
+    <label>雷蛇的防暴盾</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Defender/LiskarmW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Defender">
+    <defName>AK_Weapon_MudRockW</defName>
+    <label>泥岩大锤</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Defender/MudRockW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Defender">
+    <defName>AK_Weapon_NianWa</defName>
+    <label>年的剑</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Defender/NianW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Defender">
+    <defName>AK_Weapon_NianWb</defName>
+    <label>年的盾</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Defender/NianW2</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Defender">
+    <defName>AK_Weapon_SariaW</defName>
+    <label>塞雷亚的盾</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Defender/SariaW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+</Defs>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="AK_WeaponBase_Supporter">
+    <defName>AK_Weapon_AngelinaW</defName>
+    <label>安洁莉娜的法杖</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Supporter/AngelinaW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Supporter">
+    <defName>AK_Weapon_MagallanW</defName>
+    <label>麦哲伦的摄像机</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Supporter/MagallanW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Supporter">
+    <defName>AK_Weapon_SuzuranW</defName>
+    <label>铃兰的法杖</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Supporter/SuzuranW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+</Defs>

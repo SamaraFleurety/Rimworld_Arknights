@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="AK_WeaponBase_Caster">
+    <defName>AK_Weapon_AbsintheW</defName>
+    <label>苦艾的法杖</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Caster/AbsintheW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Caster">
+    <defName>AK_Weapon_IfritW</defName>
+    <label>伊芙利特的喷火枪</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Caster/IfritW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+
+  <ThingDef ParentName="AK_WeaponBase_Caster">
+    <defName>AK_Weapon_AmiyaW</defName>
+    <label>阿米娅的戒指</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Caster/AmiyaW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Caster">
+    <defName>AK_Weapon_CeobeWa</defName>
+    <label>刻俄柏的法杖</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Caster/CeobeW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+    
+  <ThingDef ParentName="AK_WeaponBase_Caster">
+    <defName>AK_Weapon_CeobeWb</defName>
+    <label>刻俄柏的投枪</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Caster/CeobeW2</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+    
+  <ThingDef ParentName="AK_WeaponBase_Caster">
+    <defName>AK_Weapon_CeobeWc</defName>
+    <label>刻俄柏的飞刀</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Caster/CeobeW3</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Caster">
+    <defName>AK_Weapon_DuskW</defName>
+    <label>夕的法杖</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Caster/DuskW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Caster">
+    <defName>AK_Weapon_MintW</defName>
+    <label>薄绿的法杖</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Caster/MintW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Caster">
+    <defName>AK_Weapon_MostimaWa</defName>
+    <label>荒时之锁</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Caster/MostimaW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Caster">
+    <defName>AK_Weapon_MostimaWb</defName>
+    <label>序时之钥</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Caster/MostimaW2</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Caster">
+    <defName>AK_Weapon_MostimaWc</defName>
+    <label>莫斯提马的法杖</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Caster/MostimaW3</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Caster">
+    <defName>AK_Weapon_SkyfireW</defName>
+    <label>天火的法杖</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Caster/SkyfireW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+</Defs>

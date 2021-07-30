@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<!-- 首领 -->
+  <ThingDef ParentName="AK_WeaponBase_Reunion">
+    <defName>AK_Weapon_ChaserW</defName>
+    <label>利刃佩刀</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Reunion/Weapon/ChaserW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Reunion">
+    <defName>AK_Weapon_frostnovaW</defName>
+    <label>霜星的短刀</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Reunion/Weapon/FrostnovaW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Reunion">
+    <defName>AK_Weapon_PatriotW</defName>
+    <label>爱国者武器</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Reunion/Weapon/PatriotW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Reunion">
+    <defName>AK_Weapon_PatriotWB</defName>
+    <label>爱国者武器B</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Reunion/Weapon/PatriotWB</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+<!-- 士兵 -->
+  <ThingDef ParentName="AK_WeaponBase_Reunion">
+    <defName>AK_Weapon_MilitantW</defName>
+    <label>武装人员大斧</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Reunion/Soldier/ArmedMilitant/MilitantW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+	<weaponTags>
+      <li></li>
+    </weaponTags>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Reunion">
+    <defName>AK_Weapon_AvengerW</defName>
+    <label>复仇者的武士刀</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Reunion/Soldier/Avenger/AvengerW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Reunion">
+    <defName>AK_Weapon_GuerrillaSniperW</defName>
+    <label>游击队狙击步枪</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Reunion/Soldier/GuerrillaSniper/GuerrillaSniperW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Reunion">
+    <defName>AK_Weapon_GuerrillaSoldierW</defName>
+    <label>游击队斧</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Reunion/Soldier/GuerrillaSoldier/GuerrillaSoldierW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Reunion">
+    <defName>AK_Weapon_ImperialStrikerW</defName>
+    <label>前锋投枪</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Reunion/Soldier/ImperialStriker/ImperialStrikerW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Reunion">
+    <defName>AK_Weapon_InfectedPatrolW</defName>
+    <label>纠察官佩刀</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Reunion/Soldier/InfectedPatrol/InfectedPatrol</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Reunion">
+    <defName>AK_Weapon_ShieldGuardW</defName>
+    <label>巨盾</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Reunion/Soldier/ShieldGuard/ShieldGuardW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Reunion">
+    <defName>AK_Weapon_UrsusRaiderW</defName>
+    <label>突击手长枪</label>
+    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
+    <graphicData>
+      <texPath>Things/AK_Reunion/Soldier/UrsusRaider/UrsusRaiderW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+</Defs>
