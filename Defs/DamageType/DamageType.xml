@@ -15,7 +15,7 @@
   
     <StatDef ParentName="ArmorRatingBase">
     <defName>AK_ArmorRating_Magic</defName>
-    <label>Armor - Magic</label>
+    <label>法术伤害抗性</label>
     <labelForFullStatList>Armor - Magic (armor stat)</labelForFullStatList>
     <description>The protection given against blunt damage like fists, club impacts and rock falls.
 
@@ -42,7 +42,7 @@ Each layer of armor is applied separately, from the outside in.</description>
 
   <StatDef ParentName="ArmorRatingBase">
     <defName>AK_ArmorRating_Absolute</defName>
-    <label>Armor - Absolute</label>
+    <label>真实伤害抗性</label>
     <labelForFullStatList>Armor - Absolute (armor stat)</labelForFullStatList>
     <description>The protection given against temperature-related damage like burns.
 
