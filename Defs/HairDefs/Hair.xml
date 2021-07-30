@@ -195,6 +195,24 @@
 		<texPath>Things/Hair/Medic/Perfumer</texPath>
 	</HairDef>
 
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Shining</defName>
+		<label>闪灵发型</label>
+		<texPath>Things/Hair/Medic/Shining</texPath>
+	</HairDef>
+
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Nightingale</defName>
+		<label>夜莺发型</label>
+		<texPath>Things/Hair/Medic/Nightingale</texPath>
+	</HairDef>
+
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Ptilopsis</defName>
+		<label>白面鸮发型</label>
+		<texPath>Things/Hair/Medic/Ptilopsis</texPath>
+	</HairDef>
+
 <!-- 狙击 -->
 	
 	<HairDef ParentName="AK_HairBaseM">

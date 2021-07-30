@@ -66,4 +66,44 @@
     </apparel>
   </ThingDef>
   
+  <ThingDef ParentName="AK_ArmorBase_Medic">
+    <defName>AK_Apparel_Shining</defName>
+    <label>闪灵服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Medic/Shining</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/AK_Agents/Medic/Shining</wornGraphicPath>
+    </apparel>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_ArmorBase_Medic">
+    <defName>AK_Apparel_Nightingale</defName>
+    <label>夜莺服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Medic/Nightingale</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/AK_Agents/Medic/Nightingale</wornGraphicPath>
+    </apparel>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_ArmorBase_Medic">
+    <defName>AK_Apparel_Ptilopsis</defName>
+    <label>白面鸮服装</label>
+    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
+    <graphicData>
+      <texPath>Things/AK_Agents/Medic/Ptilopsis</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/AK_Agents/Medic/Ptilopsis</wornGraphicPath>
+    </apparel>
+  </ThingDef>
+  
+  
  </Defs>

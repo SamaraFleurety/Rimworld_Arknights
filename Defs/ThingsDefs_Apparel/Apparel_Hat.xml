@@ -30,6 +30,32 @@
 		</apparel>
 	</ThingDef>
 	
+	<ThingDef ParentName="AK_HatBase">
+		<defName>AK_Hat_ShiningH</defName>
+		<label>闪灵帽子</label>
+		<description>A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons.</description>
+		<graphicData>
+			<texPath>Things/AK_Agents/HatAccessory/ShiningH</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/HatAccessory/ShiningH</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+	
+	<ThingDef ParentName="AK_HatBase">
+		<defName>AK_Hat_NightingaleH</defName>
+		<label>夜莺帽子</label>
+		<description>A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons.</description>
+		<graphicData>
+			<texPath>Things/AK_Agents/HatAccessory/NightingaleH</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/HatAccessory/NightingaleH</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+	
 <!-- 整合 -->
 
 	<ThingDef ParentName="AK_HatBase">
