@@ -5,7 +5,7 @@
   <ThingDef ParentName="BuildingBase">
     <defName>AK_Building_IfritGrill</defName>
     <label>伊芙利特的烧烤架</label>
-    <description>哥伦比亚生产的烧烤架，可以用来烹饪食物，也能产生少量热量。可以补充燃料.</description>    
+    <description>哥伦比亚生产的烧烤架，可以用来烹饪食物，也能产生少量热量。可以补充燃料。</description>    
     <thingClass>Building_WorkTable</thingClass>
     <category>Building</category>
 	<minifiedDef>MinifiedThing</minifiedDef> <!-- 可拆卸 -->

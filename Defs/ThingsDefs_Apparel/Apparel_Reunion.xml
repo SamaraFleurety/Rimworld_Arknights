@@ -4,7 +4,6 @@
   <ThingDef ParentName="AK_ArmorBase_Reunion">
     <defName>AK_Apparel_FTalulah</defName>
     <label>塔露拉服装</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <graphicData>
       <texPath>Things/AK_Reunion/FTalulah</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -31,7 +30,6 @@
   <ThingDef ParentName="AK_ArmorBase_Reunion">
     <defName>AK_Apparel_Frostnova</defName>
     <label>霜星服装</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <graphicData>
       <texPath>Things/AK_Reunion/Frostnova</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -58,7 +56,6 @@
   <ThingDef ParentName="AK_ArmorBase_Reunion">
     <defName>AK_Apparel_Alina</defName>
     <label>阿丽娜服装</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <graphicData>
       <texPath>Things/AK_Reunion/Alina</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -71,7 +68,6 @@
   <ThingDef ParentName="AK_ArmorBase_Reunion">
     <defName>AK_Apparel_Patriot</defName>
     <label>爱国者服装</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <graphicData>
       <texPath>Things/AK_Reunion/Patriot</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -98,7 +94,6 @@
   <ThingDef ParentName="AK_ArmorBase_Reunion">
     <defName>AK_Apparel_Chaser</defName>
     <label>皇帝的利刃服装</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <graphicData>
       <texPath>Things/AK_Reunion/Chaser</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -128,7 +123,6 @@
   <ThingDef ParentName="AK_ArmorBase_Reunion">
     <defName>AK_Apparel_Soldier_ArmedMilitant</defName>
     <label>武装人员服装</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <graphicData>
       <texPath>Things/AK_Reunion/Soldier/ArmedMilitant/Militant</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -141,7 +135,6 @@
   <ThingDef ParentName="AK_ArmorBase_Reunion">
     <defName>AK_Apparel_Soldier_Avenger</defName>
     <label>复仇者服装</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <graphicData>
       <texPath>Things/AK_Reunion/Soldier/Avenger/Avenger</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -154,7 +147,6 @@
   <ThingDef ParentName="AK_ArmorBase_Reunion">
     <defName>AK_Apparel_Soldier_GuerrillaSniper</defName>
     <label>游击队狙击手服装</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <graphicData>
       <texPath>Things/AK_Reunion/Soldier/GuerrillaSniper/GuerrillaSniper</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -180,7 +172,6 @@
   <ThingDef ParentName="AK_ArmorBase_Reunion">
     <defName>AK_Apparel_Soldier_GuerrillaSoldierArmorA</defName>
     <label>游击队士兵装甲A型</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <graphicData>
       <texPath>Things/AK_Reunion/Soldier/GuerrillaSoldier/GuerrillaSoldierArmorA</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -206,7 +197,6 @@
   <ThingDef ParentName="AK_ArmorBase_Reunion">
     <defName>AK_Apparel_Soldier_GuerrillaSoldiercoat</defName>
     <label>游击队士兵大衣</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <graphicData>
       <texPath>Things/AK_Reunion/Soldier/GuerrillaSoldier/GuerrillaSoldiercoat</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -236,7 +226,6 @@
   <ThingDef ParentName="AK_ArmorBase_Reunion">
     <defName>AK_Apparel_Soldier_ImperialStriker</defName>
     <label>帝国前锋精锐服装</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <graphicData>
       <texPath>Things/AK_Reunion/Soldier/ImperialStriker/ImperialStriker</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -264,7 +253,6 @@
   <ThingDef ParentName="AK_ArmorBase_Reunion">
     <defName>AK_Apparel_Soldier_InfectedPatrol</defName>
     <label>帝国感染者纠察官服装</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <graphicData>
       <texPath>Things/AK_Reunion/Soldier/InfectedPatrol/InfectedPatrol</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -345,7 +333,6 @@
   <ThingDef ParentName="AK_ArmorBase_Reunion">
     <defName>AK_Apparel_Soldier_StandardUniform</defName>
     <label>浪雪</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <graphicData>
       <texPath>Things/AK_Reunion/Soldier/StandardUniform/StandardUniform</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -358,7 +345,6 @@
 	<ThingDef ParentName="AK_ArmorBase_Reunion">
     <defName>AK_Apparel_Soldier_StandardUniformL</defName>
     <label>浪雪零</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <graphicData>
       <texPath>Things/AK_Reunion/Soldier/StandardUniform/StandardUniformL</texPath>
       <graphicClass>Graphic_Single</graphicClass>

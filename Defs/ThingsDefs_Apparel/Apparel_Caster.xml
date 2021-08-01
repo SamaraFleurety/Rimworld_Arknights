@@ -4,7 +4,6 @@
   <ThingDef ParentName="AK_ArmorBase_Caster">
     <defName>AK_Apparel_Absinthe</defName>
     <label>苦艾服装</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Caster/Absinthe</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -17,7 +16,6 @@
   <ThingDef ParentName="AK_ArmorBase_Caster">
     <defName>AK_Apparel_Ifrit</defName>
     <label>伊芙利特服装</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Caster/Ifrit</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -30,7 +28,6 @@
   <ThingDef ParentName="AK_ArmorBase_Caster">
     <defName>AK_Apparel_Amiya</defName>
     <label>阿米娅服装</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <techLevel>Industrial</techLevel>
     <graphicData>
       <texPath>Things/AK_Agents/Caster/Amiya</texPath>
@@ -44,7 +41,6 @@
   <ThingDef ParentName="AK_ArmorBase_Caster">
     <defName>AK_Apparel_Ceobe</defName>
     <label>刻俄柏服装</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <techLevel>Industrial</techLevel>
     <graphicData>
       <texPath>Things/AK_Agents/Caster/Ceobe</texPath>
@@ -58,7 +54,6 @@
   <ThingDef ParentName="AK_ArmorBase_Caster">
     <defName>AK_Apparel_Dusk</defName>
     <label>夕服装</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <techLevel>Industrial</techLevel>
  
     <graphicData>
@@ -73,7 +68,6 @@
   <ThingDef ParentName="AK_ArmorBase_Caster">
     <defName>AK_Apparel_Mostima</defName>
     <label>莫斯提马服装</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <techLevel>Industrial</techLevel>
     <graphicData>
       <texPath>Things/AK_Agents/Caster/Mostima</texPath>
@@ -87,7 +81,6 @@
   <ThingDef ParentName="AK_ArmorBase_Caster">
     <defName>AK_Apparel_Mint</defName>
     <label>薄绿服装</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <techLevel>Industrial</techLevel>
     <graphicData>
       <texPath>Things/AK_Agents/Caster/Mint</texPath>
@@ -102,7 +95,6 @@
     <ThingDef ParentName="AK_ArmorBase_Caster">
     <defName>AK_Apparel_Carbon</defName>
     <label>艾雅法拉服装</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <techLevel>Industrial</techLevel>
     <graphicData>
       <texPath>Things/AK_Agents/Caster/Carbon</texPath>

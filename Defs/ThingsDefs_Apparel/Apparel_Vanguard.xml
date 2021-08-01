@@ -4,7 +4,6 @@
   <ThingDef ParentName="AK_ArmorBase_Vanguard">
     <defName>AK_Apparel_Bagpipe</defName>
     <label>风笛的服装</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Vanguard/Bagpipe</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -17,7 +16,6 @@
   <ThingDef ParentName="AK_ArmorBase_Vanguard">
     <defName>AK_Apparel_Reed</defName>
     <label>苇草的服装</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Vanguard/Reed</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -30,7 +28,6 @@
   <ThingDef ParentName="AK_ArmorBase_Vanguard">
     <defName>AK_Apparel_Texas</defName>
     <label>德克萨斯的服装</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Vanguard/Texas</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -43,7 +40,6 @@
   <ThingDef ParentName="AK_ArmorBase_Vanguard">
     <defName>AK_Apparel_Vanilla</defName>
     <label>香草的服装</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Vanguard/Vanilla</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -56,7 +52,6 @@
   <ThingDef ParentName="AK_ArmorBase_Vanguard">
     <defName>AK_Apparel_Saga</defName>
     <label>嵯峨的服装</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Vanguard/Saga</texPath>
       <graphicClass>Graphic_Single</graphicClass>

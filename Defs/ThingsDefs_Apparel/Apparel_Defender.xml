@@ -4,7 +4,6 @@
   <ThingDef ParentName="AK_ArmorBase_Defender">
     <defName>AK_Apparel_Eunectes</defName>
     <label>森蚺服装</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Defender/Eunectes</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -17,7 +16,6 @@
   <ThingDef ParentName="AK_ArmorBase_Defender">
     <defName>AK_Apparel_Hoshiguma</defName>
     <label>星熊服装</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Defender/Hoshiguma</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -53,7 +51,6 @@
   <ThingDef ParentName="AK_ArmorBase_Defender">
     <defName>AK_Apparel_MudRock</defName>
     <label>泥岩服装</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Defender/MudRockA</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -66,7 +63,6 @@
   <ThingDef ParentName="AK_ArmorBase_Defender">
     <defName>AK_Apparel_Nian</defName>
     <label>年服装</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Defender/Nian</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -79,7 +75,6 @@
   <ThingDef ParentName="AK_ArmorBase_Defender">
     <defName>AK_Apparel_Saria</defName>
     <label>塞雷娅服装</label>
-    <description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Defender/Saria</texPath>
       <graphicClass>Graphic_Single</graphicClass>
