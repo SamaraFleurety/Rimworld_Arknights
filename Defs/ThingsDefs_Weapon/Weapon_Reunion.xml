@@ -9,6 +9,9 @@
       <texPath>Things/AK_Reunion/Weapon/ChaserW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<weaponTags>
+      <li></li>
+    </weaponTags>
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Reunion">
@@ -19,6 +22,9 @@
       <texPath>Things/AK_Reunion/Weapon/FrostnovaW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<weaponTags>
+      <li></li>
+    </weaponTags>
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Reunion">
@@ -29,6 +35,9 @@
       <texPath>Things/AK_Reunion/Weapon/PatriotW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<weaponTags>
+      <li></li>
+    </weaponTags>
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Reunion">
@@ -39,6 +48,9 @@
       <texPath>Things/AK_Reunion/Weapon/PatriotWB</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<weaponTags>
+      <li></li>
+    </weaponTags>
   </ThingDef>
 <!-- 士兵 -->
   <ThingDef ParentName="AK_WeaponBase_Reunion">
@@ -50,7 +62,7 @@
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
 	<weaponTags>
-      <li></li>
+      <li>AK_WeaponTag_MilitantW</li>
     </weaponTags>
   </ThingDef>
   
@@ -62,6 +74,9 @@
       <texPath>Things/AK_Reunion/Soldier/Avenger/AvengerW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<weaponTags>
+      <li>AK_WeaponTag_AvengerW</li>
+    </weaponTags>
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Reunion">
@@ -72,6 +87,9 @@
       <texPath>Things/AK_Reunion/Soldier/GuerrillaSniper/GuerrillaSniperW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<weaponTags>
+      <li>AK_WeaponTag_GuerrillaSniperW</li>
+    </weaponTags>
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Reunion">
@@ -82,6 +100,9 @@
       <texPath>Things/AK_Reunion/Soldier/GuerrillaSoldier/GuerrillaSoldierW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<weaponTags>
+      <li>AK_WeaponTag_GuerrillaSoldierW</li>
+    </weaponTags>
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Reunion">
@@ -92,6 +113,9 @@
       <texPath>Things/AK_Reunion/Soldier/ImperialStriker/ImperialStrikerW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<weaponTags>
+      <li>AK_WeaponTag_ImperialStrikerW</li>
+    </weaponTags>
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Reunion">
@@ -102,6 +126,9 @@
       <texPath>Things/AK_Reunion/Soldier/InfectedPatrol/InfectedPatrol</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<weaponTags>
+      <li>AK_WeaponTag_InfectedPatrolW</li>
+    </weaponTags>
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Reunion">
@@ -112,6 +139,9 @@
       <texPath>Things/AK_Reunion/Soldier/ShieldGuard/ShieldGuardW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<weaponTags>
+      <li>AK_WeaponTag_ShieldGuardW</li>
+    </weaponTags>
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Reunion">
@@ -122,6 +152,9 @@
       <texPath>Things/AK_Reunion/Soldier/UrsusRaider/UrsusRaiderW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<weaponTags>
+      <li>AK_WeaponTag_UrsusRaiderW</li>
+    </weaponTags>
   </ThingDef>
   
 </Defs>

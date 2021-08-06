@@ -90,7 +90,7 @@
 		<statOffsets>
           <MoveSpeed>0.75</MoveSpeed>
 		  <PainShockThreshold>0.35</PainShockThreshold>
-		  <MeleeDodgeChance>0.1</MeleeDodgeChance>
+		  <MeleeDodgeChance>2</MeleeDodgeChance>
         </statOffsets>
       </li>
     </degreeDatas>
@@ -122,7 +122,7 @@
         <label>近卫干员</label>
         <description>{PAWN_nameDef}是您的利刃。{PAWN_pronoun}将所向披靡.</description>
 		<statOffsets>
-          <MeleeDodgeChance>0.25</MeleeDodgeChance>
+          <MeleeDodgeChance>2</MeleeDodgeChance>
 		  <PainShockThreshold>0.5</PainShockThreshold>
         </statOffsets>
 		<skillGains>
@@ -201,7 +201,7 @@
         <description>空降，支援，斩首，暗杀是{PAWN_pronoun}的职责.</description>
 		<statOffsets>
           <MoveSpeed>0.75</MoveSpeed>
-		  <MeleeDodgeChance>0.25</MeleeDodgeChance>
+		  <MeleeDodgeChance>5.0</MeleeDodgeChance>
 		  <HuntingStealth>0.5</HuntingStealth>
         </statOffsets>
 		<skillGains>
@@ -240,7 +240,7 @@
         <label>重装干员</label>
         <description>{PAWN_nameDef}有着最好的身体素质，保护是{PAWN_pronoun}的座右铭.</description>
 		<statOffsets>
-          <MoveSpeed>-0.5</MoveSpeed>
+		  <MeleeDodgeChance>2.0</MeleeDodgeChance>
 		  <PainShockThreshold>0.75</PainShockThreshold>
         </statOffsets>
 		<skillGains>

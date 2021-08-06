@@ -56,8 +56,8 @@
     <defName>AK_Pawn_Soldier_ArmedMilitant</defName>
     <label>武装人员</label>
     <combatPower>35</combatPower>
-	<weaponTags> <!-- FIXME:没写 -->
-      <li></li>
+	<weaponTags> 
+      <li>AK_WeaponTag_MilitantW</li>
     </weaponTags> 
 	<apparelRequired>
       <li>AK_Apparel_Soldier_ArmedMilitant</li>
@@ -69,8 +69,8 @@
     <defName>AK_Pawn_Soldier_Avenger</defName>
     <label>复仇者</label>
     <combatPower>35</combatPower>
-	<weaponTags> <!-- FIXME:没写 -->
-      <li></li>
+	<weaponTags> 
+      <li>AK_WeaponTag_AvengerW</li>
     </weaponTags> 
 	<apparelRequired>
       <li>AK_Apparel_Soldier_Avenger</li>
@@ -82,8 +82,8 @@
     <defName>AK_Pawn_Soldier_GuerrillaSniper</defName>
     <label>游击队狙击手</label>
     <combatPower>35</combatPower>
-	<weaponTags> <!-- FIXME:没写 -->
-      <li></li>
+	<weaponTags>
+      <li>AK_WeaponTag_GuerrillaSniperW</li>
     </weaponTags> 
 	<apparelRequired>
       <li>AK_Apparel_Soldier_GuerrillaSniper</li>
@@ -95,8 +95,8 @@
     <defName>AK_Pawn_Soldier_ImperialStriker</defName>
     <label>帝国前锋精锐</label>
     <combatPower>35</combatPower>
-	<weaponTags> <!-- FIXME:没写 -->
-      <li></li>
+	<weaponTags> 
+      <li>AK_WeaponTag_ImperialStrikerW</li>
     </weaponTags> 
 	<apparelRequired>
       <li>AK_Apparel_Soldier_ImperialStriker</li>
@@ -107,8 +107,8 @@
     <defName>AK_Pawn_Soldier_GuerrillaSoldier</defName>
     <label>游击队战士</label>
     <combatPower>35</combatPower>
-	<weaponTags> <!-- FIXME:没写 -->
-      <li></li>
+	<weaponTags> 
+      <li>AK_WeaponTag_GuerrillaSoldierW</li>
     </weaponTags> 
 	<apparelRequired>
       <li>AK_Apparel_Soldier_GuerrillaSoldierArmorA</li>
@@ -121,8 +121,8 @@
     <defName>AK_Pawn_Soldier_InfectedPatrol</defName>
     <label>帝国感染者纠察官</label>
     <combatPower>35</combatPower>
-	<weaponTags> <!-- FIXME:没写 -->
-      <li></li>
+	<weaponTags> 
+      <li>AK_WeaponTag_InfectedPatrolW</li>
     </weaponTags> 
 	<apparelRequired>
       <li>AK_Apparel_Soldier_InfectedPatrol</li>
@@ -134,8 +134,8 @@
     <defName>AK_Pawn_Soldier_ShieldGuard</defName>
     <label></label>
     <combatPower>35</combatPower>
-	<weaponTags> <!-- FIXME:没写 -->
-      <li></li>
+	<weaponTags>
+      <li>AK_WeaponTag_ShieldGuardW</li>
     </weaponTags> 
 	<apparelRequired>
       <li>AK_Apparel_Soldier_ShieldGuard</li>
@@ -147,8 +147,8 @@
     <defName>AK_Pawn_Soldier_UrsusRaider</defName>
     <label>乌萨斯突击手</label>
     <combatPower>35</combatPower>
-	<weaponTags> <!-- FIXME:没写 -->
-      <li></li>
+	<weaponTags> 
+      <li>AK_WeaponTag_UrsusRaiderW</li>
     </weaponTags> 
 	<apparelRequired>
       <li>AK_Apparel_Soldier_UrsusRaider</li>
