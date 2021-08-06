@@ -5,7 +5,7 @@
     <defName>AK_Building_RecruitConsole</defName>
     <label>干员招募台</label>
     <description>招募干员用的特殊通讯台。</description>
-    <thingClass>Building_CommsConsole</thingClass>
+    <thingClass>AK_DLL.RecruitConsole</thingClass>
     <graphicData>
       <texPath>Things/Building/Misc/RecruitConsole</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
