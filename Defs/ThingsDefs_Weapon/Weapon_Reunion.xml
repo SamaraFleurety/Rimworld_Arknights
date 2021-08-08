@@ -62,7 +62,7 @@
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
 	<weaponTags>
-      <li>AK_WeaponTag_MilitantW</li>
+      <li>AK_WeaponTag_Militant</li>
     </weaponTags>
   </ThingDef>
   
@@ -75,7 +75,7 @@
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
 	<weaponTags>
-      <li>AK_WeaponTag_AvengerW</li>
+      <li>AK_WeaponTag_Avenger</li>
     </weaponTags>
   </ThingDef>
   
@@ -88,7 +88,7 @@
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
 	<weaponTags>
-      <li>AK_WeaponTag_GuerrillaSniperW</li>
+      <li>AK_WeaponTag_GuerrillaSniper</li>
     </weaponTags>
   </ThingDef>
   
@@ -101,7 +101,7 @@
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
 	<weaponTags>
-      <li>AK_WeaponTag_GuerrillaSoldierW</li>
+      <li>AK_WeaponTag_GuerrillaSoldier</li>
     </weaponTags>
   </ThingDef>
   
@@ -114,7 +114,7 @@
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
 	<weaponTags>
-      <li>AK_WeaponTag_ImperialStrikerW</li>
+      <li>AK_WeaponTag_ImperialStriker</li>
     </weaponTags>
   </ThingDef>
   
@@ -127,7 +127,7 @@
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
 	<weaponTags>
-      <li>AK_WeaponTag_InfectedPatrolW</li>
+      <li>AK_WeaponTag_InfectedPatrol</li>
     </weaponTags>
   </ThingDef>
   
@@ -140,7 +140,7 @@
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
 	<weaponTags>
-      <li>AK_WeaponTag_ShieldGuardW</li>
+      <li>AK_WeaponTag_ShieldGuard</li>
     </weaponTags>
   </ThingDef>
   
@@ -153,7 +153,7 @@
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
 	<weaponTags>
-      <li>AK_WeaponTag_UrsusRaiderW</li>
+      <li>AK_WeaponTag_UrsusRaider</li>
     </weaponTags>
   </ThingDef>
   
