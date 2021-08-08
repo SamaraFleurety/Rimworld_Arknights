@@ -14,6 +14,7 @@
     <statBases>
       <Mass>4</Mass>
       <Flammability>0</Flammability>
+	  <DeteriorationRate>0</DeteriorationRate>
       <ArmorRating_Sharp>1.00</ArmorRating_Sharp>
       <ArmorRating_Blunt>0.36</ArmorRating_Blunt>
       <ArmorRating_Heat>0.27</ArmorRating_Heat>

@@ -2,7 +2,7 @@
 <Defs>
 
   <ThingDef ParentName="AK_WeaponBase_Guard">
-    <defName>AK_Weapon_42t2</defName>
+    <defName>AK_Weapon_Sutor</defName>
     <label>莱瓦汀</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>

@@ -61,7 +61,7 @@
     </weaponTags> 
 	<apparelRequired>
       <li>AK_Apparel_Soldier_ArmedMilitant</li>
-	  <li>AK_Hat_ArmedMilitantH</li>
+	  <li>AK_Hat_ArmedMilitant</li>
     </apparelRequired>
   </PawnKindDef>
 
@@ -74,7 +74,7 @@
     </weaponTags> 
 	<apparelRequired>
       <li>AK_Apparel_Soldier_Avenger</li>
-	  <li>AK_Hat_AvengerH</li>
+	  <li>AK_Hat_Avenger</li>
     </apparelRequired>
   </PawnKindDef>
 
@@ -87,7 +87,7 @@
     </weaponTags> 
 	<apparelRequired>
       <li>AK_Apparel_Soldier_GuerrillaSniper</li>
-	  <li>AK_Hat_GuerrillaSniperH</li>
+	  <li>AK_Hat_GuerrillaSniper</li>
     </apparelRequired>
   </PawnKindDef>
 
@@ -113,7 +113,7 @@
 	<apparelRequired>
       <li>AK_Apparel_Soldier_GuerrillaSoldierArmorA</li>
 	  <li>AK_Apparel_Soldier_GuerrillaSoldiercoat</li>
-	  <li>AK_Hat_GuerrillaSniperH</li>
+	  <li>AK_Hat_GuerrillaSniper</li>
     </apparelRequired>
   </PawnKindDef>
 
@@ -126,7 +126,7 @@
     </weaponTags> 
 	<apparelRequired>
       <li>AK_Apparel_Soldier_InfectedPatrol</li>
-	  <li>AK_Hat_InfectedPatrolH</li>
+	  <li>AK_Hat_InfectedPatrol</li>
     </apparelRequired>
   </PawnKindDef>
 
@@ -139,7 +139,7 @@
     </weaponTags> 
 	<apparelRequired>
       <li>AK_Apparel_Soldier_ShieldGuard</li>
-	  <li>AK_Hat_ShieldGuardH</li>
+	  <li>AK_Hat_ShieldGuard</li>
     </apparelRequired>
   </PawnKindDef>
 
@@ -152,7 +152,7 @@
     </weaponTags> 
 	<apparelRequired>
       <li>AK_Apparel_Soldier_UrsusRaider</li>
-	  <li>AK_Hat_UrsusRaiderH</li>
+	  <li>AK_Hat_UrsusRaider</li>
     </apparelRequired>
   </PawnKindDef>
   
