@@ -57,7 +57,7 @@
     <label>武装人员</label>
     <combatPower>35</combatPower>
 	<weaponTags> 
-      <li>AK_WeaponTag_MilitantW</li>
+      <li>AK_WeaponTag_Militant</li>
     </weaponTags> 
 	<apparelRequired>
       <li>AK_Apparel_Soldier_ArmedMilitant</li>
@@ -70,7 +70,7 @@
     <label>复仇者</label>
     <combatPower>35</combatPower>
 	<weaponTags> 
-      <li>AK_WeaponTag_AvengerW</li>
+      <li>AK_WeaponTag_Avenger</li>
     </weaponTags> 
 	<apparelRequired>
       <li>AK_Apparel_Soldier_Avenger</li>
@@ -83,7 +83,7 @@
     <label>游击队狙击手</label>
     <combatPower>35</combatPower>
 	<weaponTags>
-      <li>AK_WeaponTag_GuerrillaSniperW</li>
+      <li>AK_WeaponTag_GuerrillaSniper</li>
     </weaponTags> 
 	<apparelRequired>
       <li>AK_Apparel_Soldier_GuerrillaSniper</li>
@@ -96,7 +96,7 @@
     <label>帝国前锋精锐</label>
     <combatPower>35</combatPower>
 	<weaponTags> 
-      <li>AK_WeaponTag_ImperialStrikerW</li>
+      <li>AK_WeaponTag_ImperialStriker</li>
     </weaponTags> 
 	<apparelRequired>
       <li>AK_Apparel_Soldier_ImperialStriker</li>
@@ -108,7 +108,7 @@
     <label>游击队战士</label>
     <combatPower>35</combatPower>
 	<weaponTags> 
-      <li>AK_WeaponTag_GuerrillaSoldierW</li>
+      <li>AK_WeaponTag_GuerrillaSoldier</li>
     </weaponTags> 
 	<apparelRequired>
       <li>AK_Apparel_Soldier_GuerrillaSoldierArmorA</li>
@@ -122,7 +122,7 @@
     <label>帝国感染者纠察官</label>
     <combatPower>35</combatPower>
 	<weaponTags> 
-      <li>AK_WeaponTag_InfectedPatrolW</li>
+      <li>AK_WeaponTag_InfectedPatrol</li>
     </weaponTags> 
 	<apparelRequired>
       <li>AK_Apparel_Soldier_InfectedPatrol</li>
@@ -135,7 +135,7 @@
     <label></label>
     <combatPower>35</combatPower>
 	<weaponTags>
-      <li>AK_WeaponTag_ShieldGuardW</li>
+      <li>AK_WeaponTag_ShieldGuard</li>
     </weaponTags> 
 	<apparelRequired>
       <li>AK_Apparel_Soldier_ShieldGuard</li>
@@ -148,7 +148,7 @@
     <label>乌萨斯突击手</label>
     <combatPower>35</combatPower>
 	<weaponTags> 
-      <li>AK_WeaponTag_UrsusRaiderW</li>
+      <li>AK_WeaponTag_UrsusRaider</li>
     </weaponTags> 
 	<apparelRequired>
       <li>AK_Apparel_Soldier_UrsusRaider</li>
