@@ -6,22 +6,12 @@
 	<description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</description>
 	<useHitPoints>false</useHitPoints>
     <techLevel>Industrial</techLevel>
-    <recipeMaker>
-      <researchPrerequisite>FlakArmor</researchPrerequisite>
-      <unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef>
-      <skillRequirements>
-        <Crafting>4</Crafting>
-      </skillRequirements>
-    </recipeMaker>
     <graphicData>
       <texPath>Things/Pawn/Humanlike/Apparel/FlakVest/FlakVest</texPath>
       <graphicClass>Graphic_Single</graphicClass>
       <drawSize>1.50</drawSize>
     </graphicData>
     <statBases>
-<!--  <MaxHitPoints>200</MaxHitPoints> -->
-      <DeteriorationRate>0</DeteriorationRate>
-      <WorkToMake>9000</WorkToMake>
       <Mass>4</Mass>
       <Flammability>0</Flammability>
       <ArmorRating_Sharp>1.00</ArmorRating_Sharp>
@@ -31,17 +21,9 @@
       <Insulation_Cold>1</Insulation_Cold>
       <EquipDelay>5</EquipDelay>
     </statBases>
-    <equippedStatOffsets>
-      <MoveSpeed>-0.12</MoveSpeed>
-    </equippedStatOffsets>
     <thingCategories Inherit="False">
       <li>AK_Apparel</li>
     </thingCategories>
-    <costList>
-      <Cloth>30</Cloth>
-      <Steel>60</Steel>
-      <ComponentIndustrial>1</ComponentIndustrial>
-    </costList>
     <apparel>
       <bodyPartGroups>
         <li>Torso</li>
@@ -65,7 +47,10 @@
           <only>(255,255,255)</only>
         </li>
       </options>
-    </colorGenerator> 
+    </colorGenerator>
+    <burnableByRecipe>true</burnableByRecipe>
+	<relicChance>0</relicChance>
+	<tradeability>None</tradeability>
   </ThingDef>
 
   <ThingDef Name="AK_ArmorBase_Caster" ParentName="AK_ArmorBase" Abstract="True">  
@@ -233,10 +218,8 @@
       <li>AK_Apparel_Reunion</li>
     </thingCategories>
   </ThingDef>
-	
+<!-- FIXME -->
   <ThingDef Name="AK_HatBase" ParentName="ArmorHelmetMakeableBase" Abstract="True">
-    <defName>Apparel_AdvancedHelmet</defName>
-    <label>flak helmet</label>
 	<thingCategories Inherit="False">
       <li>AK_Apparel_Hat</li>
     </thingCategories>

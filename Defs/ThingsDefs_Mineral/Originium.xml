@@ -25,7 +25,7 @@
   <ThingDef ParentName="AK_ResourceBase">
     <defName>AK_ORG_Raw</defName>
     <label>源石粗矿</label>
-    <description>An iron-carbon metal alloy used for building a huge variety of structures, weapons, and machines.</description>
+    <description>源石粗矿。</description>
     <graphicData>
       <texPath>Things/ORG/ORG_Raw</texPath>
       <graphicClass>Graphic_StackCount</graphicClass>
@@ -95,4 +95,28 @@
     </building>
   </ThingDef>
   
+   <ThingDef ParentName="ResourceBase">
+    <defName>AK_ORG_Pure</defName>
+    <label>至纯源石</label>
+    <description>提纯后的源石。</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/ComponentIndustrial</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <statBases>
+      <MaxHitPoints>70</MaxHitPoints>
+      <MarketValue>32</MarketValue>
+      <Mass>0.6</Mass>
+      <Flammability>0.0</Flammability>
+      <DeteriorationRate>2.0</DeteriorationRate>
+    </statBases>
+    <intricate>true</intricate>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+
 </Defs>
