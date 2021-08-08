@@ -2,7 +2,7 @@
 <Defs>
 
   <ThingDef ParentName="AK_WeaponBase_Caster">
-    <defName>AK_Weapon_AbsintheW</defName>
+    <defName>AK_Weapon_Absinthe</defName>
     <label>苦艾的法杖</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -12,7 +12,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Caster">
-    <defName>AK_Weapon_IfritW</defName>
+    <defName>AK_Weapon_Ifrit</defName>
     <label>伊芙利特的喷火枪</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -22,7 +22,7 @@
   </ThingDef>
 
   <ThingDef ParentName="AK_WeaponBase_Caster">
-    <defName>AK_Weapon_AmiyaW</defName>
+    <defName>AK_Weapon_Amiya</defName>
     <label>阿米娅的戒指</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -32,7 +32,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Caster">
-    <defName>AK_Weapon_CeobeWa</defName>
+    <defName>AK_Weapon_CeobeTypeA</defName>
     <label>刻俄柏的法杖</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -42,7 +42,7 @@
   </ThingDef>
     
   <ThingDef ParentName="AK_WeaponBase_Caster">
-    <defName>AK_Weapon_CeobeWb</defName>
+    <defName>AK_Weapon_CeobeTypeB</defName>
     <label>刻俄柏的投枪</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -52,7 +52,7 @@
   </ThingDef>
     
   <ThingDef ParentName="AK_WeaponBase_Caster">
-    <defName>AK_Weapon_CeobeWc</defName>
+    <defName>AK_Weapon_CeobeTypeC</defName>
     <label>刻俄柏的飞刀</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -62,7 +62,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Caster">
-    <defName>AK_Weapon_DuskW</defName>
+    <defName>AK_Weapon_Dusk</defName>
     <label>夕的法杖</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -72,7 +72,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Caster">
-    <defName>AK_Weapon_MintW</defName>
+    <defName>AK_Weapon_Mint</defName>
     <label>薄绿的法杖</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -82,7 +82,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Caster">
-    <defName>AK_Weapon_MostimaWa</defName>
+    <defName>AK_Weapon_MostimaTypeA</defName>
     <label>荒时之锁</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -92,7 +92,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Caster">
-    <defName>AK_Weapon_MostimaWb</defName>
+    <defName>AK_Weapon_MostimaTypeB</defName>
     <label>序时之钥</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -102,7 +102,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Caster">
-    <defName>AK_Weapon_MostimaWc</defName>
+    <defName>AK_Weapon_MostimaTypeC</defName>
     <label>莫斯提马的法杖</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -112,7 +112,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Caster">
-    <defName>AK_Weapon_SkyfireW</defName>
+    <defName>AK_Weapon_Skyfire</defName>
     <label>天火的法杖</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>

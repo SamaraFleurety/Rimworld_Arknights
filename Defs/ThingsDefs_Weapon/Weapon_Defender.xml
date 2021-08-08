@@ -2,7 +2,7 @@
 <Defs>
 
   <ThingDef ParentName="AK_WeaponBase_Defender">
-    <defName>AK_Weapon_CuoraW</defName>
+    <defName>AK_Weapon_Cuora</defName>
     <label>蛇屠箱的棒球棍</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -12,7 +12,7 @@
   </ThingDef>
 
   <ThingDef ParentName="AK_WeaponBase_Defender">
-    <defName>AK_Weapon_EuneWa</defName>
+    <defName>AK_Weapon_EuneTypeA</defName>
     <label>森蚺的挂斧</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -22,7 +22,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Defender">
-    <defName>AK_Weapon_EuneWb</defName>
+    <defName>AK_Weapon_EuneTypeB</defName>
     <label>森蚺的盾</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -32,7 +32,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Defender">
-    <defName>AK_Weapon_HoshigumaW</defName>
+    <defName>AK_Weapon_Hoshiguma</defName>
     <label>般若</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -42,7 +42,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Defender">
-    <defName>AK_Weapon_LiskarmW</defName>
+    <defName>AK_Weapon_Liskarm</defName>
     <label>雷蛇的防暴盾</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -52,7 +52,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Defender">
-    <defName>AK_Weapon_MudRockW</defName>
+    <defName>AK_Weapon_MudRock</defName>
     <label>泥岩大锤</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -62,7 +62,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Defender">
-    <defName>AK_Weapon_NianWa</defName>
+    <defName>AK_Weapon_NianTypeA</defName>
     <label>年的剑</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -72,7 +72,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Defender">
-    <defName>AK_Weapon_NianWb</defName>
+    <defName>AK_Weapon_NianTypeB</defName>
     <label>年的盾</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -82,7 +82,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Defender">
-    <defName>AK_Weapon_SariaW</defName>
+    <defName>AK_Weapon_Saria</defName>
     <label>塞雷亚的盾</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>

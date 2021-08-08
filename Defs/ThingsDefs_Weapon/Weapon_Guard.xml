@@ -2,7 +2,7 @@
 <Defs>
 
   <ThingDef ParentName="AK_WeaponBase_Guard">
-    <defName>AK_Weapon_42t2W</defName>
+    <defName>AK_Weapon_42t2</defName>
     <label>莱瓦汀</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -12,7 +12,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Guard">
-    <defName>AK_Weapon_BlazeW</defName>
+    <defName>AK_Weapon_Blaze</defName>
     <label>煌的电锯</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -22,7 +22,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Guard">
-    <defName>AK_Weapon_ChenWa</defName>
+    <defName>AK_Weapon_ChenTypeA</defName>
     <label>陈的剑</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -32,7 +32,7 @@
   </ThingDef>
     
   <ThingDef ParentName="AK_WeaponBase_Guard">
-    <defName>AK_Weapon_ChenWb</defName>
+    <defName>AK_Weapon_ChenTypeB</defName>
     <label>赤霄</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -42,7 +42,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Guard">
-    <defName>AK_Weapon_CutterWa</defName>
+    <defName>AK_Weapon_CutterTypeA</defName>
     <label>刻刀的剑</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -52,7 +52,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Guard">
-    <defName>AK_Weapon_CutterWb</defName>
+    <defName>AK_Weapon_CutterTypeB</defName>
     <label>刻刀的飞刀</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -62,7 +62,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Guard">
-    <defName>AK_Weapon_FrankaW</defName>
+    <defName>AK_Weapon_Franka</defName>
     <label>芙兰卡的铝热剑</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -72,7 +72,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Guard">
-    <defName>AK_Weapon_FrostleafW</defName>
+    <defName>AK_Weapon_Frostleaf</defName>
     <label>霜叶的斧</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -82,7 +82,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Guard">
-    <defName>AK_Weapon_LapplandW</defName>
+    <defName>AK_Weapon_Lappland</defName>
     <label>拉普兰德的剑</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -92,7 +92,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Guard">
-    <defName>AK_Weapon_MousseW</defName>
+    <defName>AK_Weapon_Mousse</defName>
     <label>慕斯的爪</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -102,7 +102,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Guard">
-    <defName>AK_Weapon_SilverashW</defName>
+    <defName>AK_Weapon_Silverash</defName>
     <label>银灰的手杖</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -112,7 +112,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Guard">
-    <defName>AK_Weapon_SkadiW</defName>
+    <defName>AK_Weapon_Skadi</defName>
     <label>搅动潮汐之剑</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -122,7 +122,7 @@
   </ThingDef>
     
   <ThingDef ParentName="AK_WeaponBase_Guard">
-    <defName>AK_Weapon_SpecterW</defName>
+    <defName>AK_Weapon_Specter</defName>
     <label>幽灵鲨的电锯</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>

@@ -5,7 +5,7 @@
 <!-- 干员 -->
 
 	<ThingDef ParentName="AK_HatBase">
-		<defName>AK_Hat_SkadiH</defName>
+		<defName>AK_Hat_Skadi</defName>
 		<label>斯卡蒂帽子</label>
 		<description>A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons.</description>
 		<graphicData>
@@ -18,7 +18,7 @@
 	</ThingDef>
 	
 	<ThingDef ParentName="AK_HatBase">
-		<defName>AK_Hat_MousseH</defName>
+		<defName>AK_Hat_Mousse</defName>
 		<label>慕斯帽子</label>
 		<description>A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons.</description>
 		<graphicData>
@@ -31,7 +31,7 @@
 	</ThingDef>
 	
 	<ThingDef ParentName="AK_HatBase">
-		<defName>AK_Hat_ShiningH</defName>
+		<defName>AK_Hat_Shining</defName>
 		<label>闪灵帽子</label>
 		<description>A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons.</description>
 		<graphicData>
@@ -44,7 +44,7 @@
 	</ThingDef>
 	
 	<ThingDef ParentName="AK_HatBase">
-		<defName>AK_Hat_NightingaleH</defName>
+		<defName>AK_Hat_Nightingale</defName>
 		<label>夜莺帽子</label>
 		<description>A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons.</description>
 		<graphicData>
@@ -59,7 +59,7 @@
 <!-- 整合 -->
 
 	<ThingDef ParentName="AK_HatBase">
-		<defName>AK_Hat_FrostnovaH</defName>
+		<defName>AK_Hat_Frostnova</defName>
 		<label>霜星发饰</label>
 		<description>A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons.</description>
 		<graphicData>
@@ -72,7 +72,7 @@
 	</ThingDef>
 
 	<ThingDef ParentName="AK_HatBase">
-		<defName>AK_Hat_PatriotH</defName>
+		<defName>AK_Hat_Patriot</defName>
 		<label>爱国者头盔</label>
 		<description>A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons.</description>
 		<graphicData>
@@ -87,7 +87,7 @@
 <!-- 整合小兵 -->	
 	
 	<ThingDef ParentName="AK_HatBase">
-		<defName>AK_Hat_ArmedMilitantH</defName>
+		<defName>AK_Hat_ArmedMilitant</defName>
 		<label>武装人员服装头盔</label>
 		<description>A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons.</description>
 		<graphicData>
@@ -100,7 +100,7 @@
 	</ThingDef>
 	
 <ThingDef ParentName="AK_HatBase">
-		<defName>AK_Hat_AvengerH</defName>
+		<defName>AK_Hat_Avenger</defName>
 		<label>复仇者兜帽</label>
 		<description>A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons.</description>
 		<graphicData>
@@ -113,7 +113,7 @@
 	</ThingDef>
 <!-- 不知道这是啥 -->
 <ThingDef ParentName="AK_HatBase">
-		<defName>AK_Hat_bbH</defName>
+		<defName>AK_Hat_bb</defName>
 		<label>bb帽子</label>
 		<description>A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons.</description>
 		<graphicData>
@@ -126,7 +126,7 @@
 	</ThingDef>
 	
 <ThingDef ParentName="AK_HatBase">
-		<defName>AK_Hat_GuerrillaSniperH</defName>
+		<defName>AK_Hat_GuerrillaSniper</defName>
 		<label>游击队狙击手帽子</label>
 		<description>A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons.</description>
 		<graphicData>
@@ -139,7 +139,7 @@
 	</ThingDef>
 	
 <ThingDef ParentName="AK_HatBase">
-		<defName>AK_Hat_GuerrillaSoldierH</defName>
+		<defName>AK_Hat_GuerrillaSoldier</defName>
 		<label>游击队士兵帽子</label>
 		<description>A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons.</description>
 		<graphicData>
@@ -152,7 +152,7 @@
 	</ThingDef>
 <!--	没贴图
 <ThingDef ParentName="AK_HatBase">
-		<defName>AK_Hat_ImperialStrikerH</defName>
+		<defName>AK_Hat_ImperialStriker</defName>
 		<label>帝国前锋精锐帽子</label>
 		<description>A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons.</description>
 		<graphicData>
@@ -165,7 +165,7 @@
 	</ThingDef>
 -->	
 <ThingDef ParentName="AK_HatBase">
-		<defName>AK_Hat_InfectedPatrolH</defName>
+		<defName>AK_Hat_InfectedPatrol</defName>
 		<label>帝国感染者纠察官头盔</label>
 		<description>A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons.</description>
 		<graphicData>
@@ -178,7 +178,7 @@
 	</ThingDef>
 	
 <ThingDef ParentName="AK_HatBase">
-		<defName>AK_Hat_ShieldGuardH</defName>
+		<defName>AK_Hat_ShieldGuard</defName>
 		<label>游击队盾卫头盔</label>
 		<description>A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons.</description>
 		<graphicData>
@@ -191,7 +191,7 @@
 	</ThingDef>
 	
 <ThingDef ParentName="AK_HatBase">
-		<defName>AK_Hat_UrsusRaiderH</defName>
+		<defName>AK_Hat_UrsusRaider</defName>
 		<label>乌萨斯突击手帽子</label>
 		<description>A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons.</description>
 		<graphicData>

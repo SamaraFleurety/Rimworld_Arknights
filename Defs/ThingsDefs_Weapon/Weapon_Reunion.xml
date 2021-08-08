@@ -2,7 +2,7 @@
 <Defs>
 <!-- 首领 -->
   <ThingDef ParentName="AK_WeaponBase_Reunion">
-    <defName>AK_Weapon_ChaserW</defName>
+    <defName>AK_Weapon_Chaser</defName>
     <label>利刃佩刀</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -15,7 +15,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Reunion">
-    <defName>AK_Weapon_frostnovaW</defName>
+    <defName>AK_Weapon_Frostnova</defName>
     <label>霜星的短刀</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -28,7 +28,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Reunion">
-    <defName>AK_Weapon_PatriotW</defName>
+    <defName>AK_Weapon_PatriotTypeA</defName>
     <label>爱国者武器</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -41,7 +41,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Reunion">
-    <defName>AK_Weapon_PatriotWB</defName>
+    <defName>AK_Weapon_PatriotTypeB</defName>
     <label>爱国者武器B</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -54,7 +54,7 @@
   </ThingDef>
 <!-- 士兵 -->
   <ThingDef ParentName="AK_WeaponBase_Reunion">
-    <defName>AK_Weapon_MilitantW</defName>
+    <defName>AK_Weapon_Militant</defName>
     <label>武装人员大斧</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -67,7 +67,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Reunion">
-    <defName>AK_Weapon_AvengerW</defName>
+    <defName>AK_Weapon_Avenger</defName>
     <label>复仇者的武士刀</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -80,7 +80,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Reunion">
-    <defName>AK_Weapon_GuerrillaSniperW</defName>
+    <defName>AK_Weapon_GuerrillaSniper</defName>
     <label>游击队狙击步枪</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -93,7 +93,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Reunion">
-    <defName>AK_Weapon_GuerrillaSoldierW</defName>
+    <defName>AK_Weapon_GuerrillaSoldier</defName>
     <label>游击队斧</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -106,7 +106,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Reunion">
-    <defName>AK_Weapon_ImperialStrikerW</defName>
+    <defName>AK_Weapon_ImperialStriker</defName>
     <label>前锋投枪</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -119,7 +119,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Reunion">
-    <defName>AK_Weapon_InfectedPatrolW</defName>
+    <defName>AK_Weapon_InfectedPatrol</defName>
     <label>纠察官佩刀</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -132,7 +132,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Reunion">
-    <defName>AK_Weapon_ShieldGuardW</defName>
+    <defName>AK_Weapon_ShieldGuard</defName>
     <label>巨盾</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -145,7 +145,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Reunion">
-    <defName>AK_Weapon_UrsusRaiderW</defName>
+    <defName>AK_Weapon_UrsusRaider</defName>
     <label>突击手长枪</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>

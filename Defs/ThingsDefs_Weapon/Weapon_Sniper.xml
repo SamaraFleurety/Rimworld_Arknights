@@ -2,7 +2,7 @@
 <Defs>
 
   <ThingDef ParentName="AK_WeaponBase_Sniper">
-    <defName>AK_Weapon_ExecutorW</defName>
+    <defName>AK_Weapon_Executor</defName>
     <label>送葬人的霰弹枪</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -12,7 +12,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Sniper">
-    <defName>AK_Weapon_ExusiaiW</defName>
+    <defName>AK_Weapon_Exusiai</defName>
     <label>能天使的Kriss Vector</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -22,7 +22,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Sniper">
-    <defName>AK_Weapon_GreythroatW</defName>
+    <defName>AK_Weapon_Greythroat</defName>
     <label>灰喉的弩</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -32,7 +32,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Sniper">
-    <defName>AK_Weapon_JessicaW</defName>
+    <defName>AK_Weapon_Jessica</defName>
     <label>杰西卡的黑钢标准手枪</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -42,7 +42,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Sniper">
-    <defName>AK_Weapon_PineconeW</defName>
+    <defName>AK_Weapon_Pinecone</defName>
     <label>松果的钉枪</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -52,7 +52,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Sniper">
-    <defName>AK_Weapon_ProvenceW</defName>
+    <defName>AK_Weapon_Provence</defName>
     <label>普罗旺斯的弩</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -62,7 +62,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Sniper">
-    <defName>AK_Weapon_RosmontisWa</defName>
+    <defName>AK_Weapon_RosmontisTypeA</defName>
     <label>迷迭香之拥</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -72,7 +72,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Sniper">
-    <defName>AK_Weapon_RosmontisWb</defName>
+    <defName>AK_Weapon_RosmontisTypeB</defName>
     <label>迷迭香的书</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -82,7 +82,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Sniper">
-    <defName>AK_Weapon_SchwarzW</defName>
+    <defName>AK_Weapon_Schwarz</defName>
     <label>黑的弩</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -92,7 +92,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Sniper">
-    <defName>AK_Weapon_AgentW</defName>
+    <defName>AK_Weapon_Agent</defName>
     <label>W的榴弹发射器</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -102,7 +102,7 @@
   </ThingDef>
     
   <ThingDef ParentName="AK_WeaponBase_Sniper">
-    <defName>AK_Weapon_RosaW</defName>
+    <defName>AK_Weapon_Rosa</defName>
     <label>早露的乌萨斯破城矛</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>

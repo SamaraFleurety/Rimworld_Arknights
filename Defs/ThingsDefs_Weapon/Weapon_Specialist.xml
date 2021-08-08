@@ -2,7 +2,7 @@
 <Defs>
 
   <ThingDef ParentName="AK_WeaponBase_Specialist">
-    <defName>AK_Weapon_RedW</defName>
+    <defName>AK_Weapon_Red</defName>
     <label>红的短剑</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -12,7 +12,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Specialist">
-    <defName>AK_Weapon_RobinW</defName>
+    <defName>AK_Weapon_Robin</defName>
     <label>罗宾的匕首</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>

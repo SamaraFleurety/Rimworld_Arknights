@@ -23,7 +23,7 @@
   </ThingDef>
 
   <ThingDef ParentName="AK_ResourceBase">
-    <defName>AK_ORG_Raw</defName>
+    <defName>AK_ORGRaw</defName>
     <label>源石粗矿</label>
     <description>源石粗矿。</description>
     <graphicData>
@@ -73,7 +73,7 @@
 	
   </ThingDef>
     <ThingDef ParentName="RockBase">
-    <defName>AK_ORG_Mineable</defName>
+    <defName>AK_ORGMineable</defName>
     <label>源石矿脉</label>
     <description>源石矿脉</description>
     <graphicData>
@@ -96,7 +96,7 @@
   </ThingDef>
   
    <ThingDef ParentName="ResourceBase">
-    <defName>AK_ORG_Pure</defName>
+    <defName>AK_ORGPure</defName>
     <label>至纯源石</label>
     <description>提纯后的源石。</description>
     <graphicData>

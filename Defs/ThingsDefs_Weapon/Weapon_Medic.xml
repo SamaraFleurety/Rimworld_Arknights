@@ -2,7 +2,7 @@
 <Defs>
 
   <ThingDef ParentName="AK_WeaponBase_Medic">
-    <defName>AK_Weapon_GavialW</defName>
+    <defName>AK_Weapon_Gavial</defName>
     <label>嘉维尔的杖</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -12,7 +12,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Medic">
-    <defName>AK_Weapon_KaltsitW</defName>
+    <defName>AK_Weapon_Kaltsit</defName>
     <label>凯尔希的医疗枪</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -22,7 +22,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Medic">
-    <defName>AK_Weapon_PerfumerW</defName>
+    <defName>AK_Weapon_Perfumer</defName>
     <label>调香师的拖把</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
@@ -32,7 +32,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Medic">
-    <defName>AK_Weapon_SilenceW</defName>
+    <defName>AK_Weapon_Silence</defName>
     <label>赫默的药瓶</label>
     <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
