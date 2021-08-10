@@ -45,6 +45,18 @@
     <terrainAffordanceNeeded>Medium</terrainAffordanceNeeded>
     <designationCategory>Misc</designationCategory>
     <comps>
+       <li Class="CompProperties_Refuelable">
+        <fuelConsumptionRate>0</fuelConsumptionRate>
+        <fuelCapacity>40.0</fuelCapacity>
+        <fuelConsumptionPerTickInRain>0</fuelConsumptionPerTickInRain>
+        <fuelFilter>
+          <thingDefs>
+            <li>AK_ORG_Pure</li>
+          </thingDefs>
+        </fuelFilter>
+        <initialFuelPercent>1</initialFuelPercent>
+        <showAllowAutoRefuelToggle>false</showAllowAutoRefuelToggle>
+      </li>
       <li Class="CompProperties_Power">
         <compClass>CompPowerTrader</compClass>
         <shortCircuitInRain>true</shortCircuitInRain>
