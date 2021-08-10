@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-<!--
+
   <AK_DLL.OperatorDef>
    <defName>AK_Null</defName>
    <name>无名</name>
@@ -86,6 +86,6 @@
    <adultHood></adultHood>
    <age>18</age>
    </AK_DLL.OperatorDef>
--->
+
 
 </Defs>

@@ -4,7 +4,7 @@
   <HediffDef Name="AK_Disease_ORG_Base" Abstract="True">
     <hediffClass>HediffWithComps</hediffClass>
     <defaultLabelColor>(0.9, 1.0, 0.35)</defaultLabelColor>
-	<description>A slow-growing bacterial disease. The bacteria have little effect on the victim during their growing phase, but upon reaching saturation levels will induce a toxin storm that leads to immediate death.\n\nThe body's immune system will clear blood rot eventually, so the standard treatment is to use normal medicine to suppress it until that happens. Glitterworld doctors can use a massive mechanite dose to clear the infection immediately, but it is expensive.</description>
+	<description>感染了源石病。</description>
     <initialSeverity>0.001</initialSeverity>
     <minSeverity>0.001</minSeverity>
     <tendable>true</tendable>
@@ -16,64 +16,38 @@
         <severityPerDayTended>-0.01</severityPerDayTended>
         <baseTendDurationHours>24</baseTendDurationHours>
       </li>
- <!--     <li Class="HediffCompProperties_Disappears">
+ <!-- <li Class="HediffCompProperties_Disappears">
         <disappearsAfterTicks>1800000~2400000</disappearsAfterTicks> 30 ! 45 days 
       </li>   -->
     </comps>
     <lethalSeverity>1</lethalSeverity>
     <makesSickThought>true</makesSickThought>
+    <stages>
+      <li>
+        <label>早期</label>
+        <partEfficiencyOffset>-0.25</partEfficiencyOffset>
+      </li>
+      <li>
+        <minSeverity>0.5</minSeverity>
+        <label>加重</label>
+        <partEfficiencyOffset>-0.5</partEfficiencyOffset>
+      </li>
+      <li>
+        <minSeverity>0.75</minSeverity>
+        <label>严重</label>
+        <partEfficiencyOffset>-0.75</partEfficiencyOffset>
+      </li>
+	  <li>
+        <minSeverity>0.9</minSeverity>
+        <label>极重</label>
+        <partEfficiencyOffset>-1.0</partEfficiencyOffset>
+      </li>
+    </stages>  
   </HediffDef>
 
   <HediffDef ParentName="AK_Disease_ORG_Base">
     <defName>AK_Disease_ORG_Leg</defName>
     <label>矿石病感染(腿部)</label>
-    <stages>
-      <li>
-        <label>minor</label>
-        <capMods>
-          <li>
-            <capacity>BloodFiltration</capacity>
-            <offset>-0.05</offset>
-          </li>
-          <li>
-            <capacity>BloodPumping</capacity>
-            <offset>-0.05</offset>
-          </li>
-        </capMods>
-      </li>
-      <li>
-        <minSeverity>0.6</minSeverity>
-        <label>major</label>
-        <vomitMtbDays>1.5</vomitMtbDays>
-        <capMods>
-            <li>
-            <capacity>BloodFiltration</capacity>
-            <offset>-0.1</offset>
-          </li>
-          <li>
-            <capacity>BloodPumping</capacity>
-            <offset>-0.1</offset>
-          </li>
-        </capMods>
-      </li>
-      <li>
-        <minSeverity>0.85</minSeverity>
-        <label>extreme</label>
-        <lifeThreatening>true</lifeThreatening>
-        <vomitMtbDays>0.75</vomitMtbDays>
-        <painOffset>0.05</painOffset>
-        <capMods>
-            <li>
-            <capacity>BloodFiltration</capacity>
-            <offset>-0.15</offset>
-          </li>
-          <li>
-            <capacity>BloodPumping</capacity>
-            <offset>-0.15</offset>
-          </li>
-        </capMods>
-      </li>
-    </stages>
   </HediffDef>
   
 <!-- 专属 -->
@@ -111,7 +85,7 @@
 			</li>
 		</stages>
 	</HediffDef>
-<!-- FIXME:名字；不会感觉疼痛；降低意识 -->	
+<!-- FIXME:名字；降低意识 -->	
 	<HediffDef ParentName="ChronicDiseaseBase">
 		<defName>AK_Disease_Personal_PossessedSoldier</defName>
 		<label>源石增生</label>

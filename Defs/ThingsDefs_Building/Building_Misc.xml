@@ -46,9 +46,8 @@
     <designationCategory>Misc</designationCategory>
     <comps>
        <li Class="CompProperties_Refuelable">
-        <fuelConsumptionRate>0</fuelConsumptionRate>
+        <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
         <fuelCapacity>40.0</fuelCapacity>
-        <fuelConsumptionPerTickInRain>0</fuelConsumptionPerTickInRain>
         <fuelFilter>
           <thingDefs>
             <li>AK_ORG_Pure</li>
