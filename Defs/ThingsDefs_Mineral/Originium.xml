@@ -53,10 +53,10 @@
     <deepLumpSizeRange>20~30</deepLumpSizeRange>
     <burnableByRecipe>false</burnableByRecipe>
     <smeltable>false</smeltable>
-    <stuffProps>
-<!--  <categories>
+<!--    <stuffProps>
+	  <categories>
         <li>AK_ORG_Raw</li>
-      </categories> -->
+      </categories> 
       <commonality>0</commonality>
       <constructEffect>ConstructMetal</constructEffect>
       <color>(255,255,255)</color>
@@ -67,8 +67,8 @@
         <MaxHitPoints>1</MaxHitPoints>
         <Beauty>1</Beauty>
         <Flammability>0</Flammability>
-      </statFactors>
-    </stuffProps>
+      </statFactors> 
+    </stuffProps>  -->
     <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
 	
   </ThingDef>
@@ -100,7 +100,7 @@
     <label>至纯源石</label>
     <description>提纯后的源石。</description>
     <graphicData>
-      <texPath>Things/Item/Resource/ComponentIndustrial</texPath>
+      <texPath>Things/ORG/ORG_Pure</texPath>
       <graphicClass>Graphic_StackCount</graphicClass>
     </graphicData>
     <soundInteract>Metal_Drop</soundInteract>
