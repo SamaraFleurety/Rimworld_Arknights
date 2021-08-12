@@ -13,6 +13,7 @@
 
 <AK_Back>返回</AK_Back>
 <AK_RecruitOperator>招募</AK_RecruitOperator>
+<AK_CanntRecruitOperator>无法重复招募干员</AK_CanntRecruitOperator>
 
 <AK_PawnNull>小人不存在</AK_PawnNull>
 <AK_CanReach>招募</AK_CanReach>
