@@ -20,10 +20,10 @@
 		<name>Eyjafjalla</name>
 		<nickname>Eyjafjalla</nickname>
 		<description>FIXME</description>
-		<weapon>AK_Weapon_Eyfl</weapon>
-		<hair>AK_Hair_Eyfl</hair>
+		<weapon>AK_Weapon_Eyjafjalla</weapon>
+		<hair>AK_Hair_Eyjafjalla</hair>
 		<apparel>
-			<li>AK_Apparel_Eyfl</li>
+			<li>AK_Apparel_Eyjafjalla</li>
 		</apparel>
 		<stand>UI/Image/Caster/EyjafjallaStand</stand>
 		<headPortrait>UI/Image/Caster/EyjafjallaPortrait</headPortrait>

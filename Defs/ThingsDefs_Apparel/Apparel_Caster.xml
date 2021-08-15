@@ -91,17 +91,16 @@
  	</apparel>
   </ThingDef>
   
-  <!--Eyfl 艾雅法拉 此处命名不符合规范但我懒得改了 -->	
     <ThingDef ParentName="AK_ArmorBase_Caster">
-    <defName>AK_Apparel_Eyfl</defName>
+    <defName>AK_Apparel_Eyjafjalla</defName>
     <label>艾雅法拉服装</label>
     <techLevel>Industrial</techLevel>
     <graphicData>
-      <texPath>Things/AK_Agents/Caster/Eyfl</texPath>
+      <texPath>Things/AK_Agents/Caster/Eyjafjalla</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
  	<apparel>
-      <wornGraphicPath>Things/AK_Agents/Caster/Eyfl</wornGraphicPath>
+      <wornGraphicPath>Things/AK_Agents/Caster/Eyjafjalla</wornGraphicPath>
  	</apparel>
   </ThingDef>
 
