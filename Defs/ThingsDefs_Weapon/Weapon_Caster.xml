@@ -109,4 +109,13 @@
     </graphicData>
   </ThingDef>
   
+  <ThingDef ParentName="AK_WeaponBase_Caster">
+    <defName>AK_Weapon_Eyjafjalla</defName>
+    <label>天火的法杖</label>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Caster/EyjafjallaW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
 </Defs>
