@@ -1,106 +1,172 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Defs>
-	<AK_DLL.OperatorDef Name="AK_RecruitBase" Abstract="True">
-		<name>无名</name>
-		<surname>罗德岛</surname>
-		<nickname>虚无弄臣</nickname>
-		<description>在路的尽头，他看到她们成了他</description>
-		<trait>
-			<li>Cannibal</li>
-			<li>Psychopath</li>
-		</trait>
+<Def>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Guard">
+		<defName>AK_Recruit_SilverAsh</defName>
+		<name>SilverAsh</name>
+		<nickname>SilverAsh</nickname>
+		<description></description>
+		<weapon>AK_Weapon_SilverAsh</weapon>
+		<hair>AK_Hair_SilverAsh</hair>
 		<apparel>
-			<li>Apparel_EltexSkullcap</li>
+			<li>AK_Apparel_SilverAsh</li>
 		</apparel>
-		<bodyTypeDef>Thin</bodyTypeDef>
-		<skill>
-			<li>
-				<skill>Animals</skill>
-				<level>5</level>
-				<fireLevel>0</fireLevel>
-			</li>
-			<li>
-				<skill>Artistic</skill>
-				<level>5</level>
-				<fireLevel>0</fireLevel>
-			</li>
-			<li>
-				<skill>Construction</skill>
-				<level>5</level>
-				<fireLevel>0</fireLevel>
-			</li>
-			<li>
-				<skill>Cooking</skill>
-				<level>5</level>
-				<fireLevel>0</fireLevel>
-			</li>
-			<li>
-				<skill>Crafting</skill>
-				<level>5</level>
-				<fireLevel>0</fireLevel>
-			</li>
-			<li>
-				<skill>Intellectual</skill>
-				<level>5</level>
-				<fireLevel>0</fireLevel>
-			</li>
-			<li>
-				<skill>Medicine</skill>
-				<level>5</level>
-				<fireLevel>0</fireLevel>
-			</li>
-			<li>
-				<skill>Melee</skill>
-				<level>10</level>
-				<fireLevel>1</fireLevel>
-			</li>
-			<li>
-				<skill>Mining</skill>
-				<level>5</level>
-				<fireLevel>0</fireLevel>
-			</li>
-			<li>
-				<skill>Plants</skill>
-				<level>5</level>
-				<fireLevel>0</fireLevel>
-			</li>
-			<li>
-				<skill>Shooting</skill>
-				<level>10</level>
-				<fireLevel>2</fireLevel>
-			</li>
-			<li>
-				<skill>Social</skill>
-				<level>5</level>
-				<fireLevel>0</fireLevel>
-			</li>
-		</skill>
-		<skinColor>(1.0,1.0,1.0)</skinColor>
-		<hairColor>(1.0,1.0,1.0)</hairColor>
-		<childHood></childHood>
-		<adultHood></adultHood>
-		<age>18</age>
+		<stand>UI/Image/Guard/SilverAshStand</stand>
+		<headPortrait>UI/Image/Guard/SilverAshPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
 
-	<AK_DLL.OperatorDef ParentName="AK_RecruitBase" Name="AK_RecruitBase_Guard" Abstract="True">
-		<trait>
-			<li>AK_Trait_Agent_Guard</li>
-		</trait>
-		<operatorTypes>guard</operatorTypes>
-	</AK_DLL.OperatorDef>
-	
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Guard">
-		<defName>AK_Recruit_Silverash</defName>
-		<name>银灰</name>
-		<nickname>银灰</nickname>
-		<weapon>AK_Weapon_Silverash</weapon>
-		<bodyTypeDef>Male</bodyTypeDef>
-		<hair>AK_Hair_Silverash</hair>
+		<defName>AK_Recruit_Skadi</defName>
+		<name>Skadi</name>
+		<nickname>Skadi</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Skadi</weapon>
+		<hair>AK_Hair_Skadi</hair>
 		<apparel>
-			<li>AK_Apparel_Silverash</li>
+			<li>AK_Apparel_Skadi</li>
 		</apparel>
-		<stand>UI/Image/Guard/SilverashStand</stand>
-		<headPortrait>UI/Image/Guard/SilverashPortrait</headPortrait>
+		<stand>UI/Image/Guard/SkadiStand</stand>
+		<headPortrait>UI/Image/Guard/SkadiPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
-	
-</Defs>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Guard">
+		<defName>AK_Recruit_Specter</defName>
+		<name>Specter</name>
+		<nickname>Specter</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Specter</weapon>
+		<hair>AK_Hair_Specter</hair>
+		<apparel>
+			<li>AK_Apparel_Specter</li>
+		</apparel>
+		<stand>UI/Image/Guard/SpecterStand</stand>
+		<headPortrait>UI/Image/Guard/SpecterPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Guard">
+		<defName>AK_Recruit_Thorns</defName>
+		<name>Thorns</name>
+		<nickname>Thorns</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Thorns</weapon>
+		<hair>AK_Hair_Thorns</hair>
+		<apparel>
+			<li>AK_Apparel_Thorns</li>
+		</apparel>
+		<stand>UI/Image/Guard/ThornsStand</stand>
+		<headPortrait>UI/Image/Guard/ThornsPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Guard">
+		<defName>AK_Recruit_Surtr</defName>
+		<name>Surtr</name>
+		<nickname>Surtr</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Surtr</weapon>
+		<hair>AK_Hair_Surtr</hair>
+		<apparel>
+			<li>AK_Apparel_Surtr</li>
+		</apparel>
+		<stand>UI/Image/Guard/SurtrStand</stand>
+		<headPortrait>UI/Image/Guard/SurtrPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Guard">
+		<defName>AK_Recruit_Blaze</defName>
+		<name>Blaze</name>
+		<nickname>Blaze</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Blaze</weapon>
+		<hair>AK_Hair_Blaze</hair>
+		<apparel>
+			<li>AK_Apparel_Blaze</li>
+		</apparel>
+		<stand>UI/Image/Guard/BlazeStand</stand>
+		<headPortrait>UI/Image/Guard/BlazePortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Guard">
+		<defName>AK_Recruit_Chen</defName>
+		<name>Chen</name>
+		<nickname>Chen</nickname>
+		<description></description>
+		<weapon>AK_Weapon_ChenTypeA</weapon>
+		<hair>AK_Hair_Chen</hair>
+		<apparel>
+			<li>AK_Apparel_Chen</li>
+		</apparel>
+		<stand>UI/Image/Guard/ChenStand</stand>
+		<headPortrait>UI/Image/Guard/ChenPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Guard">
+		<defName>AK_Recruit_Cutter</defName>
+		<name>Cutter</name>
+		<nickname>Cutter</nickname>
+		<description></description>
+		<weapon>AK_Weapon_CutterTypeA</weapon>
+		<hair>AK_Hair_Cutter</hair>
+		<apparel>
+			<li>AK_Apparel_Cutter</li>
+		</apparel>
+		<stand>UI/Image/Guard/CutterStand</stand>
+		<headPortrait>UI/Image/Guard/CutterPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Guard">
+		<defName>AK_Recruit_Franka</defName>
+		<name>Franka</name>
+		<nickname>Franka</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Franka</weapon>
+		<hair>AK_Hair_Franka</hair>
+		<apparel>
+			<li>AK_Apparel_Franka</li>
+		</apparel>
+		<stand>UI/Image/Guard/FrankaStand</stand>
+		<headPortrait>UI/Image/Guard/FrankaPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Guard">
+		<defName>AK_Recruit_Frostleaf</defName>
+		<name>Frostleaf</name>
+		<nickname>Frostleaf</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Frostleaf</weapon>
+		<hair>AK_Hair_Frostleaf</hair>
+		<apparel>
+			<li>AK_Apparel_Frostleaf</li>
+		</apparel>
+		<stand>UI/Image/Guard/FrostleafStand</stand>
+		<headPortrait>UI/Image/Guard/FrostleafPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Guard">
+		<defName>AK_Recruit_Lappland</defName>
+		<name>Lappland</name>
+		<nickname>Lappland</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Lappland</weapon>
+		<hair>AK_Hair_Lappland</hair>
+		<apparel>
+			<li>AK_Apparel_Lappland</li>
+		</apparel>
+		<stand>UI/Image/Guard/LapplandStand</stand>
+		<headPortrait>UI/Image/Guard/LapplandPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Guard">
+		<defName>AK_Recruit_Mousse</defName>
+		<name>Mousse</name>
+		<nickname>Mousse</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Mousse</weapon>
+		<hair>AK_Hair_Mousse</hair>
+		<apparel>
+			<li>AK_Apparel_Mousse</li>
+		</apparel>
+		<stand>UI/Image/Guard/MousseStand</stand>
+		<headPortrait>UI/Image/Guard/MoussePortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+</Def>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Def>
+
+	<AK_Recruit_Vanilla.name>香草</AK_Recruit_Vanilla.name>
+	<AK_Recruit_Vanilla.nickname>香草</AK_Recruit_Vanilla.nickname>
+	<AK_Recruit_Vanilla.description></AK_Recruit_Vanilla.description>
+
+	<AK_Recruit_Bagpipe.name>风笛</AK_Recruit_Bagpipe.name>
+	<AK_Recruit_Bagpipe.nickname>风笛</AK_Recruit_Bagpipe.nickname>
+	<AK_Recruit_Bagpipe.description></AK_Recruit_Bagpipe.description>
+
+	<AK_Recruit_Reed.name>苇草</AK_Recruit_Reed.name>
+	<AK_Recruit_Reed.nickname>苇草</AK_Recruit_Reed.nickname>
+	<AK_Recruit_Reed.description></AK_Recruit_Reed.description>
+
+	<AK_Recruit_Saga.name>嵯峨</AK_Recruit_Saga.name>
+	<AK_Recruit_Saga.nickname>嵯峨</AK_Recruit_Saga.nickname>
+	<AK_Recruit_Saga.description></AK_Recruit_Saga.description>
+
+	<AK_Recruit_Texas.name>德克萨斯</AK_Recruit_Texas.name>
+	<AK_Recruit_Texas.nickname>德克萨斯</AK_Recruit_Texas.nickname>
+	<AK_Recruit_Texas.description></AK_Recruit_Texas.description>
+
+</Def>

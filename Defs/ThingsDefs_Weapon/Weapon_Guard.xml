@@ -4,9 +4,8 @@
   <ThingDef ParentName="AK_WeaponBase_Guard">
     <defName>AK_Weapon_Surtr</defName>
     <label>莱瓦汀</label>
-    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
-      <texPath>Things/AK_Agents/Weapon/Guard/42t2W</texPath>
+      <texPath>Things/AK_Agents/Weapon/Guard/SurtrW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
   </ThingDef>
@@ -14,7 +13,6 @@
   <ThingDef ParentName="AK_WeaponBase_Guard">
     <defName>AK_Weapon_Blaze</defName>
     <label>煌的电锯</label>
-    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Guard/BlazeW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -24,7 +22,6 @@
   <ThingDef ParentName="AK_WeaponBase_Guard">
     <defName>AK_Weapon_ChenTypeA</defName>
     <label>陈的剑</label>
-    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Guard/ChenW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -34,7 +31,6 @@
   <ThingDef ParentName="AK_WeaponBase_Guard">
     <defName>AK_Weapon_ChenTypeB</defName>
     <label>赤霄</label>
-    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Guard/ChenW2</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -44,7 +40,6 @@
   <ThingDef ParentName="AK_WeaponBase_Guard">
     <defName>AK_Weapon_CutterTypeA</defName>
     <label>刻刀的剑</label>
-    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Guard/CutterW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -54,7 +49,6 @@
   <ThingDef ParentName="AK_WeaponBase_Guard">
     <defName>AK_Weapon_CutterTypeB</defName>
     <label>刻刀的飞刀</label>
-    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Guard/CutterW2</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -64,7 +58,6 @@
   <ThingDef ParentName="AK_WeaponBase_Guard">
     <defName>AK_Weapon_Franka</defName>
     <label>芙兰卡的铝热剑</label>
-    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Guard/FrankaW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -74,7 +67,6 @@
   <ThingDef ParentName="AK_WeaponBase_Guard">
     <defName>AK_Weapon_Frostleaf</defName>
     <label>霜叶的斧</label>
-    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Guard/FrostleafW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -84,7 +76,6 @@
   <ThingDef ParentName="AK_WeaponBase_Guard">
     <defName>AK_Weapon_Lappland</defName>
     <label>拉普兰德的剑</label>
-    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Guard/LapplandW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -94,7 +85,6 @@
   <ThingDef ParentName="AK_WeaponBase_Guard">
     <defName>AK_Weapon_Mousse</defName>
     <label>慕斯的爪</label>
-    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Guard/MousseW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -104,7 +94,6 @@
   <ThingDef ParentName="AK_WeaponBase_Guard">
     <defName>AK_Weapon_Silverash</defName>
     <label>银灰的手杖</label>
-    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Guard/SilverAshW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -114,7 +103,6 @@
   <ThingDef ParentName="AK_WeaponBase_Guard">
     <defName>AK_Weapon_Skadi</defName>
     <label>搅动潮汐之剑</label>
-    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Guard/SkadiW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -124,7 +112,6 @@
   <ThingDef ParentName="AK_WeaponBase_Guard">
     <defName>AK_Weapon_Specter</defName>
     <label>幽灵鲨的电锯</label>
-    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Guard/SpecterW</texPath>
       <graphicClass>Graphic_Single</graphicClass>

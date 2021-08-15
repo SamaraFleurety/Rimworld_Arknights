@@ -4,7 +4,6 @@
   <ThingDef ParentName="AK_WeaponBase_Vanguard">
     <defName>AK_Weapon_Bagpipe</defName>
     <label>风笛的破城矛</label>
-    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Vanguard/BagpipeW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -14,7 +13,6 @@
   <ThingDef ParentName="AK_WeaponBase_Vanguard">
     <defName>AK_Weapon_Reed</defName>
     <label>苇草的长枪</label>
-    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Vanguard/ReedW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -24,7 +22,6 @@
   <ThingDef ParentName="AK_WeaponBase_Vanguard">
     <defName>AK_Weapon_Saga</defName>
     <label>嵯峨的薙刀</label>
-    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Vanguard/SagaW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -34,7 +31,6 @@
   <ThingDef ParentName="AK_WeaponBase_Vanguard">
     <defName>AK_Weapon_Texas</defName>
     <label>德克萨斯的热能剑</label>
-    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Vanguard/TexasW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -44,7 +40,6 @@
   <ThingDef ParentName="AK_WeaponBase_Vanguard">
     <defName>AK_Weapon_Vanilla</defName>
     <label>香草的斧枪</label>
-    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Vanguard/VanillaW</texPath>
       <graphicClass>Graphic_Single</graphicClass>

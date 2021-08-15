@@ -224,7 +224,7 @@
 	<thingCategories Inherit="False">
       <li>AK_Apparel_Hat</li>
     </thingCategories>
-    <description>A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons.</description>
+    <description>和干员常服搭配的帽子.虽然不一定比制式头盔性能更好,但更舒适,也更能体现干员本人的个性.</description>
     <techLevel>Industrial</techLevel>
 	<useHitPoints>false</useHitPoints>
     <recipeMaker>
@@ -283,4 +283,7 @@
     </colorGenerator>
   </ThingDef>
   
+	<ThingDef Name="AK_HatBase_Reunion" ParentName="AK_HatBase" Abstract="True">
+	<description>平平无奇的一顶帽子.</description>
+	</ThingDef>
 </Defs>

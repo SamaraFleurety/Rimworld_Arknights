@@ -52,11 +52,11 @@
     <defName>AK_Apparel_MudRock</defName>
     <label>泥岩服装</label>
     <graphicData>
-      <texPath>Things/AK_Agents/Defender/MudRockA</texPath>
+      <texPath>Things/AK_Agents/Defender/MudRock</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <apparel>
-      <wornGraphicPath>Things/AK_Agents/Defender/MudRockA</wornGraphicPath>
+      <wornGraphicPath>Things/AK_Agents/Defender/MudRock</wornGraphicPath>
     </apparel>
   </ThingDef>
 

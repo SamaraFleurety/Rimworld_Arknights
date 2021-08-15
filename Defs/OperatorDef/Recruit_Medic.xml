@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Def>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Medic">
+		<defName>AK_Recruit_Shining</defName>
+		<name>Shining</name>
+		<nickname>Shining</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Shining</weapon>
+		<hair>AK_Hair_Shining</hair>
+		<apparel>
+			<li>AK_Apparel_Shining</li>
+		</apparel>
+		<stand>UI/Image/Medic/ShiningStand</stand>
+		<headPortrait>UI/Image/Medic/ShiningPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Medic">
+		<defName>AK_Recruit_Silence</defName>
+		<name>Silence</name>
+		<nickname>Silence</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Silence</weapon>
+		<hair>AK_Hair_Silence</hair>
+		<apparel>
+			<li>AK_Apparel_Silence</li>
+		</apparel>
+		<stand>UI/Image/Medic/SilenceStand</stand>
+		<headPortrait>UI/Image/Medic/SilencePortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Medic">
+		<defName>AK_Recruit_Gavial</defName>
+		<name>Gavial</name>
+		<nickname>Gavial</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Gavial</weapon>
+		<hair>AK_Hair_Gavial</hair>
+		<apparel>
+			<li>AK_Apparel_Gavial</li>
+		</apparel>
+		<stand>UI/Image/Medic/GavialStand</stand>
+		<headPortrait>UI/Image/Medic/GavialPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Medic">
+		<defName>AK_Recruit_Kaltsit</defName>
+		<name>Kaltsit</name>
+		<nickname>Kaltsit</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Kaltsit</weapon>
+		<hair>AK_Hair_Kaltsit</hair>
+		<apparel>
+			<li>AK_Apparel_Kaltsit</li>
+		</apparel>
+		<stand>UI/Image/Medic/KaltsitStand</stand>
+		<headPortrait>UI/Image/Medic/KaltsitPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Medic">
+		<defName>AK_Recruit_Nightingale</defName>
+		<name>Nightingale</name>
+		<nickname>Nightingale</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Nightingale</weapon>
+		<hair>AK_Hair_Nightingale</hair>
+		<apparel>
+			<li>AK_Apparel_Nightingale</li>
+		</apparel>
+		<stand>UI/Image/Medic/NightingaleStand</stand>
+		<headPortrait>UI/Image/Medic/NightingalePortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Medic">
+		<defName>AK_Recruit_Perfumer</defName>
+		<name>Perfumer</name>
+		<nickname>Perfumer</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Perfumer</weapon>
+		<hair>AK_Hair_Perfumer</hair>
+		<apparel>
+			<li>AK_Apparel_Perfumer</li>
+		</apparel>
+		<stand>UI/Image/Medic/PerfumerStand</stand>
+		<headPortrait>UI/Image/Medic/PerfumerPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Medic">
+		<defName>AK_Recruit_Ptilopsis</defName>
+		<name>Ptilopsis</name>
+		<nickname>Ptilopsis</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Ptilopsis</weapon>
+		<hair>AK_Hair_Ptilopsis</hair>
+		<apparel>
+			<li>AK_Apparel_Ptilopsis</li>
+		</apparel>
+		<stand>UI/Image/Medic/PtilopsisStand</stand>
+		<headPortrait>UI/Image/Medic/PtilopsisPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+</Def>

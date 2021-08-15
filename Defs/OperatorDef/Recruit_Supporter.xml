@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Def>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Supporter">
+		<defName>AK_Recruit_Suzuran</defName>
+		<name>Suzuran</name>
+		<nickname>Suzuran</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Suzuran</weapon>
+		<hair>AK_Hair_Suzuran</hair>
+		<apparel>
+			<li>AK_Apparel_Suzuran</li>
+		</apparel>
+		<stand>UI/Image/Supporter/SuzuranStand</stand>
+		<headPortrait>UI/Image/Supporter/SuzuranPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Supporter">
+		<defName>AK_Recruit_Angelina</defName>
+		<name>Angelina</name>
+		<nickname>Angelina</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Angelina</weapon>
+		<hair>AK_Hair_Angelina</hair>
+		<apparel>
+			<li>AK_Apparel_Angelina</li>
+		</apparel>
+		<stand>UI/Image/Supporter/AngelinaStand</stand>
+		<headPortrait>UI/Image/Supporter/AngelinaPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Supporter">
+		<defName>AK_Recruit_Magallan</defName>
+		<name>Magallan</name>
+		<nickname>Magallan</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Magallan</weapon>
+		<hair>AK_Hair_Magallan</hair>
+		<apparel>
+			<li>AK_Apparel_Magallan</li>
+		</apparel>
+		<stand>UI/Image/Supporter/MagallanStand</stand>
+		<headPortrait>UI/Image/Supporter/MagallanPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+</Def>

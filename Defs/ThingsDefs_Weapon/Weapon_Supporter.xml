@@ -4,7 +4,6 @@
   <ThingDef ParentName="AK_WeaponBase_Supporter">
     <defName>AK_Weapon_Angelina</defName>
     <label>安洁莉娜的法杖</label>
-    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Supporter/AngelinaW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -14,7 +13,6 @@
   <ThingDef ParentName="AK_WeaponBase_Supporter">
     <defName>AK_Weapon_Magallan</defName>
     <label>麦哲伦的摄像机</label>
-    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Supporter/MagallanW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -24,7 +22,6 @@
   <ThingDef ParentName="AK_WeaponBase_Supporter">
     <defName>AK_Weapon_Suzuran</defName>
     <label>铃兰的法杖</label>
-    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Supporter/SuzuranW</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -4,7 +4,6 @@
   <ThingDef ParentName="AK_WeaponBase_Medic">
     <defName>AK_Weapon_Gavial</defName>
     <label>嘉维尔的杖</label>
-    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Medic/GavialW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -14,7 +13,6 @@
   <ThingDef ParentName="AK_WeaponBase_Medic">
     <defName>AK_Weapon_Kaltsit</defName>
     <label>凯尔希的医疗枪</label>
-    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Medic/KaltsitW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -24,7 +22,6 @@
   <ThingDef ParentName="AK_WeaponBase_Medic">
     <defName>AK_Weapon_Perfumer</defName>
     <label>调香师的拖把</label>
-    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Medic/PerfumerW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -34,9 +31,35 @@
   <ThingDef ParentName="AK_WeaponBase_Medic">
     <defName>AK_Weapon_Silence</defName>
     <label>赫默的药瓶</label>
-    <description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</description>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Medic/SilenceW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Medic">
+    <defName>AK_Weapon_Shining</defName>
+    <label>闪灵的剑状医疗杖</label>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Medic/ShiningW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Medic">
+    <defName>AK_Weapon_Nightingale</defName>
+    <label>夜莺的法杖</label>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Medic/NightingaleW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  
+  <ThingDef ParentName="AK_WeaponBase_Medic">
+    <defName>AK_Weapon_Ptilopsis</defName>
+    <label>白面鸮的杖</label>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Medic/PtilopsisW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
   </ThingDef>

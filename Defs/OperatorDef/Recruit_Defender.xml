@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Def>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Defender">
+		<defName>AK_Recruit_Cuora</defName>
+		<name>Cuora</name>
+		<nickname>Cuora</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Cuora</weapon>
+		<hair>AK_Hair_Cuora</hair>
+		<apparel>
+			<li>AK_Apparel_Cuora</li>
+		</apparel>
+		<stand>UI/Image/Defender/CuoraStand</stand>
+		<headPortrait>UI/Image/Defender/CuoraPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Defender">
+		<defName>AK_Recruit_Eune</defName>
+		<name>Eune</name>
+		<nickname>Eune</nickname>
+		<description></description>
+		<weapon>AK_Weapon_EuneTypeA</weapon>
+		<hair>AK_Hair_Eune</hair>
+		<apparel>
+			<li>AK_Apparel_Eune</li>
+		</apparel>
+		<stand>UI/Image/Defender/EuneStand</stand>
+		<headPortrait>UI/Image/Defender/EunePortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Defender">
+		<defName>AK_Recruit_Hoshiguma</defName>
+		<name>Hoshiguma</name>
+		<nickname>Hoshiguma</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Hoshiguma</weapon>
+		<hair>AK_Hair_Hoshiguma</hair>
+		<apparel>
+			<li>AK_Apparel_Hoshiguma</li>
+		</apparel>
+		<stand>UI/Image/Defender/HoshigumaStand</stand>
+		<headPortrait>UI/Image/Defender/HoshigumaPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Defender">
+		<defName>AK_Recruit_Liskarm</defName>
+		<name>Liskarm</name>
+		<nickname>Liskarm</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Liskarm</weapon>
+		<hair>AK_Hair_Liskarm</hair>
+		<apparel>
+			<li>AK_Apparel_Liskarm</li>
+		</apparel>
+		<stand>UI/Image/Defender/LiskarmStand</stand>
+		<headPortrait>UI/Image/Defender/LiskarmPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Defender">
+		<defName>AK_Recruit_MudRock</defName>
+		<name>MudRock</name>
+		<nickname>MudRock</nickname>
+		<description></description>
+		<weapon>AK_Weapon_MudRock</weapon>
+		<hair>AK_Hair_MudRock</hair>
+		<apparel>
+			<li>AK_Apparel_MudRock</li>
+		</apparel>
+		<stand>UI/Image/Defender/MudRockStand</stand>
+		<headPortrait>UI/Image/Defender/MudRockPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Defender">
+		<defName>AK_Recruit_Nian</defName>
+		<name>Nian</name>
+		<nickname>Nian</nickname>
+		<description></description>
+		<weapon>AK_Weapon_NianTypeA</weapon>
+		<hair>AK_Hair_Nian</hair>
+		<apparel>
+			<li>AK_Apparel_Nian</li>
+		</apparel>
+		<stand>UI/Image/Defender/NianStand</stand>
+		<headPortrait>UI/Image/Defender/NianPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Defender">
+		<defName>AK_Recruit_Saria</defName>
+		<name>Saria</name>
+		<nickname>Saria</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Saria</weapon>
+		<hair>AK_Hair_Saria</hair>
+		<apparel>
+			<li>AK_Apparel_Saria</li>
+		</apparel>
+		<stand>UI/Image/Defender/SariaStand</stand>
+		<headPortrait>UI/Image/Defender/SariaPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+</Def>

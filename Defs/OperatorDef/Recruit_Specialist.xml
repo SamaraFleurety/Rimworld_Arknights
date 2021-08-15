@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Def>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Specialist">
+		<defName>AK_Recruit_Robin</defName>
+		<name>Robin</name>
+		<nickname>Robin</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Robin</weapon>
+		<hair>AK_Hair_Robin</hair>
+		<apparel>
+			<li>AK_Apparel_Robin</li>
+		</apparel>
+		<stand>UI/Image/Specialist/RobinStand</stand>
+		<headPortrait>UI/Image/Specialist/RobinPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Specialist">
+		<defName>AK_Recruit_Red</defName>
+		<name>Red</name>
+		<nickname>Red</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Red</weapon>
+		<hair>AK_Hair_Red</hair>
+		<apparel>
+			<li>AK_Apparel_Red</li>
+		</apparel>
+		<stand>UI/Image/Specialist/RedStand</stand>
+		<headPortrait>UI/Image/Specialist/RedPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+</Def>

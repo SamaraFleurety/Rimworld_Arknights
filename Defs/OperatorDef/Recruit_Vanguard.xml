@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Def>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Vanguard">
+		<defName>AK_Recruit_Vanilla</defName>
+		<name>Vanilla</name>
+		<nickname>Vanilla</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Vanilla</weapon>
+		<hair>AK_Hair_Vanilla</hair>
+		<apparel>
+			<li>AK_Apparel_Vanilla</li>
+		</apparel>
+		<stand>UI/Image/Vanguard/VanillaStand</stand>
+		<headPortrait>UI/Image/Vanguard/VanillaPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Vanguard">
+		<defName>AK_Recruit_Bagpipe</defName>
+		<name>Bagpipe</name>
+		<nickname>Bagpipe</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Bagpipe</weapon>
+		<hair>AK_Hair_Bagpipe</hair>
+		<apparel>
+			<li>AK_Apparel_Bagpipe</li>
+		</apparel>
+		<stand>UI/Image/Vanguard/BagpipeStand</stand>
+		<headPortrait>UI/Image/Vanguard/BagpipePortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Vanguard">
+		<defName>AK_Recruit_Reed</defName>
+		<name>Reed</name>
+		<nickname>Reed</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Reed</weapon>
+		<hair>AK_Hair_Reed</hair>
+		<apparel>
+			<li>AK_Apparel_Reed</li>
+		</apparel>
+		<stand>UI/Image/Vanguard/ReedStand</stand>
+		<headPortrait>UI/Image/Vanguard/ReedPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Vanguard">
+		<defName>AK_Recruit_Saga</defName>
+		<name>Saga</name>
+		<nickname>Saga</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Saga</weapon>
+		<hair>AK_Hair_Saga</hair>
+		<apparel>
+			<li>AK_Apparel_Saga</li>
+		</apparel>
+		<stand>UI/Image/Vanguard/SagaStand</stand>
+		<headPortrait>UI/Image/Vanguard/SagaPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Vanguard">
+		<defName>AK_Recruit_Texas</defName>
+		<name>Texas</name>
+		<nickname>Texas</nickname>
+		<description></description>
+		<weapon>AK_Weapon_Texas</weapon>
+		<hair>AK_Hair_Texas</hair>
+		<apparel>
+			<li>AK_Apparel_Texas</li>
+		</apparel>
+		<stand>UI/Image/Vanguard/TexasStand</stand>
+		<headPortrait>UI/Image/Vanguard/TexasPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+</Def>

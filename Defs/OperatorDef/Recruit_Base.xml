@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<AK_DLL.OperatorDef Name="AK_RecruitBase" Abstract="True">
+		<name>无名</name>
+		<surname>罗德岛</surname>
+		<nickname>虚无弄臣</nickname>
+		<description>在路的尽头，他看到她们成了他</description>
+		<trait>
+			<li>Cannibal</li>
+			<li>Psychopath</li>
+		</trait>
+		<apparel>
+			<li>Apparel_EltexSkullcap</li>
+		</apparel>
+		<bodyTypeDef>Thin</bodyTypeDef>
+		<skill>
+			<li>
+				<skill>Animals</skill>
+				<level>5</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Artistic</skill>
+				<level>5</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Construction</skill>
+				<level>5</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Cooking</skill>
+				<level>5</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Crafting</skill>
+				<level>5</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Intellectual</skill>
+				<level>5</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Medicine</skill>
+				<level>5</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Melee</skill>
+				<level>10</level>
+				<fireLevel>1</fireLevel>
+			</li>
+			<li>
+				<skill>Mining</skill>
+				<level>5</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Plants</skill>
+				<level>5</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Shooting</skill>
+				<level>10</level>
+				<fireLevel>2</fireLevel>
+			</li>
+			<li>
+				<skill>Social</skill>
+				<level>5</level>
+				<fireLevel>0</fireLevel>
+			</li>
+		</skill>
+		<skinColor>(1.0,1.0,1.0)</skinColor>
+		<hairColor>(1.0,1.0,1.0)</hairColor>
+		<childHood></childHood>
+		<adultHood></adultHood>
+		<age>18</age>
+		<isMale>false</isMale>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase" Name="AK_RecruitBase_Guard" Abstract="True">
+		<trait>
+			<li>AK_Trait_Agent_Guard</li>
+		</trait>
+		<operatorTypes>guard</operatorTypes>
+	</AK_DLL.OperatorDef>
+	
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase" Name="AK_RecruitBase_Supporter" Abstract="True">
+		<trait>
+			<li>AK_Trait_Agent_Supporter</li>
+		</trait>
+		<operatorTypes>supporter</operatorTypes>
+	</AK_DLL.OperatorDef>
+	
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase" Name="AK_RecruitBase_Vanguard" Abstract="True">
+		<trait>
+			<li>AK_Trait_Agent_Vanguard</li>
+		</trait>
+		<operatorTypes>vanguard</operatorTypes>
+	</AK_DLL.OperatorDef>
+	
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase" Name="AK_RecruitBase_Caster" Abstract="True">
+		<trait>
+			<li>AK_Trait_Agent_Caster</li>
+		</trait>
+		<operatorTypes>caster</operatorTypes>
+	</AK_DLL.OperatorDef>
+	
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase" Name="AK_RecruitBase_Defender" Abstract="True">
+		<trait>
+			<li>AK_Trait_Agent_Defender</li>
+		</trait>
+		<operatorTypes>defender</operatorTypes>
+	</AK_DLL.OperatorDef>
+	
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase" Name="AK_RecruitBase_Medic" Abstract="True">
+		<trait>
+			<li>AK_Trait_Agent_Medic</li>
+		</trait>
+		<operatorTypes>medic</operatorTypes>
+	</AK_DLL.OperatorDef>
+	
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase" Name="AK_RecruitBase_Sniper" Abstract="True">
+		<trait>
+			<li>AK_Trait_Agent_Sniper</li>
+		</trait>
+		<operatorTypes>sniper</operatorTypes>
+	</AK_DLL.OperatorDef>
+	
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase" Name="AK_RecruitBase_Specialist" Abstract="True">
+		<trait>
+			<li>AK_Trait_Agent_Specialist</li>
+		</trait>
+		<operatorTypes>specialist</operatorTypes>
+	</AK_DLL.OperatorDef>
+
+<!-- 模板 请勿直接使用	
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Guard">
+		<defName>AK_Recruit_Silverash</defName>
+		<name>Silverash</name>
+		<nickname>Silverash</nickname>
+		<weapon>AK_Weapon_Silverash</weapon>
+		<bodyTypeDef>Male</bodyTypeDef>
+		<hair>AK_Hair_Silverash</hair>
+		<apparel>
+			<li>AK_Apparel_Silverash</li>
+		</apparel>
+		<stand>UI/Image/Guard/SilverashStand</stand>
+		<headPortrait>UI/Image/Guard/SilverashPortrait</headPortrait>
+	</AK_DLL.OperatorDef>  -->
+	
+</Defs>
