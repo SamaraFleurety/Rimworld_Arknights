@@ -47,10 +47,10 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Defender">
-    <defName>AK_Weapon_MudRock</defName>
+    <defName>AK_Weapon_Mudrock</defName>
     <label>泥岩大锤</label>
     <graphicData>
-      <texPath>Things/AK_Agents/Weapon/Defender/MudRockW</texPath>
+      <texPath>Things/AK_Agents/Weapon/Defender/MudrockW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
   </ThingDef>

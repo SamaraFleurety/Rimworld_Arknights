@@ -58,17 +58,17 @@
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Defender">
-		<defName>AK_Recruit_MudRock</defName>
-		<name>MudRock</name>
-		<nickname>MudRock</nickname>
+		<defName>AK_Recruit_Mudrock</defName>
+		<name>Mudrock</name>
+		<nickname>Mudrock</nickname>
 		<description>FIXME</description>
-		<weapon>AK_Weapon_MudRock</weapon>
-		<hair>AK_Hair_MudRock</hair>
+		<weapon>AK_Weapon_Mudrock</weapon>
+		<hair>AK_Hair_Mudrock</hair>
 		<apparel>
-			<li>AK_Apparel_MudRock</li>
+			<li>AK_Apparel_Mudrock</li>
 		</apparel>
-		<stand>UI/Image/Defender/MudRockStand</stand>
-		<headPortrait>UI/Image/Defender/MudRockPortrait</headPortrait>
+		<stand>UI/Image/Defender/MudrockStand</stand>
+		<headPortrait>UI/Image/Defender/MudrockPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Defender">

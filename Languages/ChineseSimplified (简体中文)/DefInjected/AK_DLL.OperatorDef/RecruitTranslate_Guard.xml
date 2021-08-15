@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Def>
 
-	<AK_Recruit_SilverAsh.name>银灰</AK_Recruit_SilverAsh.name>
-	<AK_Recruit_SilverAsh.nickname>银灰</AK_Recruit_SilverAsh.nickname>
-	<AK_Recruit_SilverAsh.description>FIXME</AK_Recruit_SilverAsh.description>
+	<AK_Recruit_Silverash.name>银灰</AK_Recruit_Silverash.name>
+	<AK_Recruit_Silverash.nickname>银灰</AK_Recruit_Silverash.nickname>
+	<AK_Recruit_Silverash.description>FIXME</AK_Recruit_Silverash.description>
 
 	<AK_Recruit_Skadi.name>斯卡蒂</AK_Recruit_Skadi.name>
 	<AK_Recruit_Skadi.nickname>斯卡蒂</AK_Recruit_Skadi.nickname>

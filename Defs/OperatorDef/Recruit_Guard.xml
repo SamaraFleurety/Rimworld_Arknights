@@ -2,17 +2,17 @@
 <Defs>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Guard">
-		<defName>AK_Recruit_SilverAsh</defName>
-		<name>SilverAsh</name>
-		<nickname>SilverAsh</nickname>
+		<defName>AK_Recruit_Silverash</defName>
+		<name>Silverash</name>
+		<nickname>Silverash</nickname>
 		<description>FIXME</description>
-		<weapon>AK_Weapon_SilverAsh</weapon>
-		<hair>AK_Hair_SilverAsh</hair>
+		<weapon>AK_Weapon_Silverash</weapon>
+		<hair>AK_Hair_Silverash</hair>
 		<apparel>
-			<li>AK_Apparel_SilverAsh</li>
+			<li>AK_Apparel_Silverash</li>
 		</apparel>
-		<stand>UI/Image/Guard/SilverAshStand</stand>
-		<headPortrait>UI/Image/Guard/SilverAshPortrait</headPortrait>
+		<stand>UI/Image/Guard/SilverashStand</stand>
+		<headPortrait>UI/Image/Guard/SilverashPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Guard">

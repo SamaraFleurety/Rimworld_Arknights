@@ -84,9 +84,9 @@
 	</HairDef>
 	
 	<HairDef ParentName="AK_HairBaseF">
-		<defName>AK_Hair_MudRock</defName>
+		<defName>AK_Hair_Mudrock</defName>
 		<label>泥岩发型</label>
-		<texPath>Things/Hair/Defender/MudRock</texPath>
+		<texPath>Things/Hair/Defender/Mudrock</texPath>
 	</HairDef>
 	
 	<HairDef ParentName="AK_HairBaseF">

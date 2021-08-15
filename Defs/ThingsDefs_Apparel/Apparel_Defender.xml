@@ -49,14 +49,14 @@
   </ThingDef>
 
   <ThingDef ParentName="AK_ArmorBase_Defender">
-    <defName>AK_Apparel_MudRock</defName>
+    <defName>AK_Apparel_Mudrock</defName>
     <label>泥岩服装</label>
     <graphicData>
-      <texPath>Things/AK_Agents/Defender/MudRock</texPath>
+      <texPath>Things/AK_Agents/Defender/Mudrock</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <apparel>
-      <wornGraphicPath>Things/AK_Agents/Defender/MudRock</wornGraphicPath>
+      <wornGraphicPath>Things/AK_Agents/Defender/Mudrock</wornGraphicPath>
     </apparel>
   </ThingDef>
 

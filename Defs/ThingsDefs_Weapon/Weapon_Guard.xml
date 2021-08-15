@@ -92,10 +92,10 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Guard">
-    <defName>AK_Weapon_SilverAsh</defName>
+    <defName>AK_Weapon_Silverash</defName>
     <label>银灰的手杖</label>
     <graphicData>
-      <texPath>Things/AK_Agents/Weapon/Guard/SilverAshW</texPath>
+      <texPath>Things/AK_Agents/Weapon/Guard/SilverashW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
   </ThingDef>
@@ -116,5 +116,15 @@
       <texPath>Things/AK_Agents/Weapon/Guard/SpecterW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+  </ThingDef>   
+  
+  <ThingDef ParentName="AK_WeaponBase_Guard">
+    <defName>AK_Weapon_Thorns</defName>
+    <label>棘刺的剑</label>
+    <graphicData>
+      <texPath>Things/AK_Agents/Weapon/Guard/ThornsW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
   </ThingDef>
+  
 </Defs>

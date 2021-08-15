@@ -14,7 +14,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_ArmorBase_Specialist">
-    <defName>AK_Apparel_ProjektRed</defName>
+    <defName>AK_Apparel_Red</defName>
     <label>红的服装</label>
     <graphicData>
       <texPath>Things/AK_Agents/Specialist/ProjektRed</texPath>
