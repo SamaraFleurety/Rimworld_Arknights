@@ -2,14 +2,14 @@
 <Defs>
 
   <ThingDef ParentName="AK_ArmorBase_Guard">
-    <defName>AK_Apparel_Sutor</defName>
+    <defName>AK_Apparel_Surtr</defName>
     <label>史尔特尔服装</label>
     <graphicData>
-      <texPath>Things/AK_Agents/Guard/42t2</texPath>
+      <texPath>Things/AK_Agents/Guard/Surtr</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <apparel>
-      <wornGraphicPath>Things/AK_Agents/Guard/42t2</wornGraphicPath>
+      <wornGraphicPath>Things/AK_Agents/Guard/Surtr</wornGraphicPath>
     </apparel>
   </ThingDef>
   

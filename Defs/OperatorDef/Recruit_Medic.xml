@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Def>
+<Defs>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Medic">
 		<defName>AK_Recruit_Shining</defName>
 		<name>Shining</name>
 		<nickname>Shining</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Shining</weapon>
 		<hair>AK_Hair_Shining</hair>
 		<apparel>
@@ -19,7 +19,7 @@
 		<defName>AK_Recruit_Silence</defName>
 		<name>Silence</name>
 		<nickname>Silence</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Silence</weapon>
 		<hair>AK_Hair_Silence</hair>
 		<apparel>
@@ -33,7 +33,7 @@
 		<defName>AK_Recruit_Gavial</defName>
 		<name>Gavial</name>
 		<nickname>Gavial</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Gavial</weapon>
 		<hair>AK_Hair_Gavial</hair>
 		<apparel>
@@ -47,7 +47,7 @@
 		<defName>AK_Recruit_Kaltsit</defName>
 		<name>Kaltsit</name>
 		<nickname>Kaltsit</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Kaltsit</weapon>
 		<hair>AK_Hair_Kaltsit</hair>
 		<apparel>
@@ -61,7 +61,7 @@
 		<defName>AK_Recruit_Nightingale</defName>
 		<name>Nightingale</name>
 		<nickname>Nightingale</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Nightingale</weapon>
 		<hair>AK_Hair_Nightingale</hair>
 		<apparel>
@@ -75,7 +75,7 @@
 		<defName>AK_Recruit_Perfumer</defName>
 		<name>Perfumer</name>
 		<nickname>Perfumer</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Perfumer</weapon>
 		<hair>AK_Hair_Perfumer</hair>
 		<apparel>
@@ -89,7 +89,7 @@
 		<defName>AK_Recruit_Ptilopsis</defName>
 		<name>Ptilopsis</name>
 		<nickname>Ptilopsis</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Ptilopsis</weapon>
 		<hair>AK_Hair_Ptilopsis</hair>
 		<apparel>
@@ -99,4 +99,4 @@
 		<headPortrait>UI/Image/Medic/PtilopsisPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
 
-</Def>
+</Defs>

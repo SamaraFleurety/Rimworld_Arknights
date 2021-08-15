@@ -105,4 +105,18 @@
  	</apparel>
   </ThingDef>
   
+    </ThingDef>
+    <ThingDef ParentName="AK_ArmorBase_Caster">
+    <defName>AK_Apparel_Skyfire</defName>
+    <label>天火服装</label>
+    <techLevel>Industrial</techLevel>
+    <graphicData>
+      <texPath>Things/AK_Agents/Caster/Skyfire</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+ 	<apparel>
+      <wornGraphicPath>Things/AK_Agents/Caster/Skyfire</wornGraphicPath>
+ 	</apparel>
+  </ThingDef>
+  
  </Defs>

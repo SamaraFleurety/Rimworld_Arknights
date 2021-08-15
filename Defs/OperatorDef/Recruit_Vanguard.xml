@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Def>
+<Defs>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Vanguard">
 		<defName>AK_Recruit_Vanilla</defName>
 		<name>Vanilla</name>
 		<nickname>Vanilla</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Vanilla</weapon>
 		<hair>AK_Hair_Vanilla</hair>
 		<apparel>
@@ -19,7 +19,7 @@
 		<defName>AK_Recruit_Bagpipe</defName>
 		<name>Bagpipe</name>
 		<nickname>Bagpipe</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Bagpipe</weapon>
 		<hair>AK_Hair_Bagpipe</hair>
 		<apparel>
@@ -33,7 +33,7 @@
 		<defName>AK_Recruit_Reed</defName>
 		<name>Reed</name>
 		<nickname>Reed</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Reed</weapon>
 		<hair>AK_Hair_Reed</hair>
 		<apparel>
@@ -47,7 +47,7 @@
 		<defName>AK_Recruit_Saga</defName>
 		<name>Saga</name>
 		<nickname>Saga</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Saga</weapon>
 		<hair>AK_Hair_Saga</hair>
 		<apparel>
@@ -61,7 +61,7 @@
 		<defName>AK_Recruit_Texas</defName>
 		<name>Texas</name>
 		<nickname>Texas</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Texas</weapon>
 		<hair>AK_Hair_Texas</hair>
 		<apparel>
@@ -71,4 +71,4 @@
 		<headPortrait>UI/Image/Vanguard/TexasPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
 
-</Def>
+</Defs>

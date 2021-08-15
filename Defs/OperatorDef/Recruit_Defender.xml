@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Def>
+<Defs>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Defender">
 		<defName>AK_Recruit_Cuora</defName>
 		<name>Cuora</name>
 		<nickname>Cuora</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Cuora</weapon>
 		<hair>AK_Hair_Cuora</hair>
 		<apparel>
@@ -16,24 +16,24 @@
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Defender">
-		<defName>AK_Recruit_Eune</defName>
-		<name>Eune</name>
-		<nickname>Eune</nickname>
-		<description></description>
-		<weapon>AK_Weapon_EuneTypeA</weapon>
-		<hair>AK_Hair_Eune</hair>
+		<defName>AK_Recruit_Eunectes</defName>
+		<name>Eunectes</name>
+		<nickname>Eunectes</nickname>
+		<description>FIXME</description>
+		<weapon>AK_Weapon_EunectesTypeA</weapon>
+		<hair>AK_Hair_Eunectes</hair>
 		<apparel>
-			<li>AK_Apparel_Eune</li>
+			<li>AK_Apparel_Eunectes</li>
 		</apparel>
-		<stand>UI/Image/Defender/EuneStand</stand>
-		<headPortrait>UI/Image/Defender/EunePortrait</headPortrait>
+		<stand>UI/Image/Defender/EunectesStand</stand>
+		<headPortrait>UI/Image/Defender/EunectesPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Defender">
 		<defName>AK_Recruit_Hoshiguma</defName>
 		<name>Hoshiguma</name>
 		<nickname>Hoshiguma</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Hoshiguma</weapon>
 		<hair>AK_Hair_Hoshiguma</hair>
 		<apparel>
@@ -47,7 +47,7 @@
 		<defName>AK_Recruit_Liskarm</defName>
 		<name>Liskarm</name>
 		<nickname>Liskarm</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Liskarm</weapon>
 		<hair>AK_Hair_Liskarm</hair>
 		<apparel>
@@ -61,7 +61,7 @@
 		<defName>AK_Recruit_MudRock</defName>
 		<name>MudRock</name>
 		<nickname>MudRock</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_MudRock</weapon>
 		<hair>AK_Hair_MudRock</hair>
 		<apparel>
@@ -75,7 +75,7 @@
 		<defName>AK_Recruit_Nian</defName>
 		<name>Nian</name>
 		<nickname>Nian</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_NianTypeA</weapon>
 		<hair>AK_Hair_Nian</hair>
 		<apparel>
@@ -89,7 +89,7 @@
 		<defName>AK_Recruit_Saria</defName>
 		<name>Saria</name>
 		<nickname>Saria</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Saria</weapon>
 		<hair>AK_Hair_Saria</hair>
 		<apparel>
@@ -99,4 +99,4 @@
 		<headPortrait>UI/Image/Defender/SariaPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
 
-</Def>
+</Defs>

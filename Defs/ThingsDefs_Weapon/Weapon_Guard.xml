@@ -92,7 +92,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Guard">
-    <defName>AK_Weapon_Silverash</defName>
+    <defName>AK_Weapon_SilverAsh</defName>
     <label>银灰的手杖</label>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Guard/SilverAshW</texPath>

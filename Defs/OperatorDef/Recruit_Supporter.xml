@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Def>
+<Defs>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Supporter">
 		<defName>AK_Recruit_Suzuran</defName>
 		<name>Suzuran</name>
 		<nickname>Suzuran</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Suzuran</weapon>
 		<hair>AK_Hair_Suzuran</hair>
 		<apparel>
@@ -19,7 +19,7 @@
 		<defName>AK_Recruit_Angelina</defName>
 		<name>Angelina</name>
 		<nickname>Angelina</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Angelina</weapon>
 		<hair>AK_Hair_Angelina</hair>
 		<apparel>
@@ -33,7 +33,7 @@
 		<defName>AK_Recruit_Magallan</defName>
 		<name>Magallan</name>
 		<nickname>Magallan</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Magallan</weapon>
 		<hair>AK_Hair_Magallan</hair>
 		<apparel>
@@ -43,4 +43,4 @@
 		<headPortrait>UI/Image/Supporter/MagallanPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
 
-</Def>
+</Defs>

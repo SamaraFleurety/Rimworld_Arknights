@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Def>
+<Defs>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Guard">
 		<defName>AK_Recruit_SilverAsh</defName>
 		<name>SilverAsh</name>
 		<nickname>SilverAsh</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_SilverAsh</weapon>
 		<hair>AK_Hair_SilverAsh</hair>
 		<apparel>
@@ -19,7 +19,7 @@
 		<defName>AK_Recruit_Skadi</defName>
 		<name>Skadi</name>
 		<nickname>Skadi</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Skadi</weapon>
 		<hair>AK_Hair_Skadi</hair>
 		<apparel>
@@ -33,7 +33,7 @@
 		<defName>AK_Recruit_Specter</defName>
 		<name>Specter</name>
 		<nickname>Specter</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Specter</weapon>
 		<hair>AK_Hair_Specter</hair>
 		<apparel>
@@ -47,7 +47,7 @@
 		<defName>AK_Recruit_Thorns</defName>
 		<name>Thorns</name>
 		<nickname>Thorns</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Thorns</weapon>
 		<hair>AK_Hair_Thorns</hair>
 		<apparel>
@@ -61,7 +61,7 @@
 		<defName>AK_Recruit_Surtr</defName>
 		<name>Surtr</name>
 		<nickname>Surtr</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Surtr</weapon>
 		<hair>AK_Hair_Surtr</hair>
 		<apparel>
@@ -75,7 +75,7 @@
 		<defName>AK_Recruit_Blaze</defName>
 		<name>Blaze</name>
 		<nickname>Blaze</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Blaze</weapon>
 		<hair>AK_Hair_Blaze</hair>
 		<apparel>
@@ -89,7 +89,7 @@
 		<defName>AK_Recruit_Chen</defName>
 		<name>Chen</name>
 		<nickname>Chen</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_ChenTypeA</weapon>
 		<hair>AK_Hair_Chen</hair>
 		<apparel>
@@ -103,7 +103,7 @@
 		<defName>AK_Recruit_Cutter</defName>
 		<name>Cutter</name>
 		<nickname>Cutter</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_CutterTypeA</weapon>
 		<hair>AK_Hair_Cutter</hair>
 		<apparel>
@@ -117,7 +117,7 @@
 		<defName>AK_Recruit_Franka</defName>
 		<name>Franka</name>
 		<nickname>Franka</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Franka</weapon>
 		<hair>AK_Hair_Franka</hair>
 		<apparel>
@@ -131,7 +131,7 @@
 		<defName>AK_Recruit_Frostleaf</defName>
 		<name>Frostleaf</name>
 		<nickname>Frostleaf</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Frostleaf</weapon>
 		<hair>AK_Hair_Frostleaf</hair>
 		<apparel>
@@ -145,7 +145,7 @@
 		<defName>AK_Recruit_Lappland</defName>
 		<name>Lappland</name>
 		<nickname>Lappland</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Lappland</weapon>
 		<hair>AK_Hair_Lappland</hair>
 		<apparel>
@@ -159,7 +159,7 @@
 		<defName>AK_Recruit_Mousse</defName>
 		<name>Mousse</name>
 		<nickname>Mousse</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Mousse</weapon>
 		<hair>AK_Hair_Mousse</hair>
 		<apparel>
@@ -169,4 +169,4 @@
 		<headPortrait>UI/Image/Guard/MoussePortrait</headPortrait>
 	</AK_DLL.OperatorDef>
 
-</Def>
+</Defs>

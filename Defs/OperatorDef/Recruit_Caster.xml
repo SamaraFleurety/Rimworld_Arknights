@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Def>
+<Defs>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Caster">
 		<defName>AK_Recruit_Dusk</defName>
 		<name>Dusk</name>
 		<nickname>Dusk</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Dusk</weapon>
 		<hair>AK_Hair_Dusk</hair>
 		<apparel>
@@ -19,7 +19,7 @@
 		<defName>AK_Recruit_Eyjafjalla</defName>
 		<name>Eyjafjalla</name>
 		<nickname>Eyjafjalla</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Eyfl</weapon>
 		<hair>AK_Hair_Eyfl</hair>
 		<apparel>
@@ -33,7 +33,7 @@
 		<defName>AK_Recruit_Ifrit</defName>
 		<name>Ifrit</name>
 		<nickname>Ifrit</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Ifrit</weapon>
 		<hair>AK_Hair_Ifrit</hair>
 		<apparel>
@@ -47,7 +47,7 @@
 		<defName>AK_Recruit_Mint</defName>
 		<name>Mint</name>
 		<nickname>Mint</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Mint</weapon>
 		<hair>AK_Hair_Mint</hair>
 		<apparel>
@@ -61,7 +61,7 @@
 		<defName>AK_Recruit_Mostima</defName>
 		<name>Mostima</name>
 		<nickname>Mostima</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_MostimaTypeB</weapon>
 		<hair>AK_Hair_Mostima</hair>
 		<apparel>
@@ -75,7 +75,7 @@
 		<defName>AK_Recruit_Skyfire</defName>
 		<name>Skyfire</name>
 		<nickname>Skyfire</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Skyfire</weapon>
 		<hair>AK_Hair_Skyfire</hair>
 		<apparel>
@@ -89,7 +89,7 @@
 		<defName>AK_Recruit_Absinthe</defName>
 		<name>Absinthe</name>
 		<nickname>Absinthe</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Absinthe</weapon>
 		<hair>AK_Hair_Absinthe</hair>
 		<apparel>
@@ -103,7 +103,7 @@
 		<defName>AK_Recruit_Amiya</defName>
 		<name>Amiya</name>
 		<nickname>Amiya</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Amiya</weapon>
 		<hair>AK_Hair_Amiya</hair>
 		<apparel>
@@ -117,7 +117,7 @@
 		<defName>AK_Recruit_Ceobe</defName>
 		<name>Ceobe</name>
 		<nickname>Ceobe</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_CeobeTypeB</weapon>
 		<hair>AK_Hair_Ceobe</hair>
 		<apparel>
@@ -127,4 +127,4 @@
 		<headPortrait>UI/Image/Caster/CeobePortrait</headPortrait>
 	</AK_DLL.OperatorDef>
 
-</Def>
+</Defs>

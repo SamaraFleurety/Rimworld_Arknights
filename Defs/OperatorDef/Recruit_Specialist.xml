@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Def>
+<Defs>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Specialist">
 		<defName>AK_Recruit_Robin</defName>
 		<name>Robin</name>
 		<nickname>Robin</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Robin</weapon>
 		<hair>AK_Hair_Robin</hair>
 		<apparel>
@@ -19,7 +19,7 @@
 		<defName>AK_Recruit_Red</defName>
 		<name>Red</name>
 		<nickname>Red</nickname>
-		<description></description>
+		<description>FIXME</description>
 		<weapon>AK_Weapon_Red</weapon>
 		<hair>AK_Hair_Red</hair>
 		<apparel>
@@ -29,4 +29,4 @@
 		<headPortrait>UI/Image/Specialist/RedPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
 
-</Def>
+</Defs>

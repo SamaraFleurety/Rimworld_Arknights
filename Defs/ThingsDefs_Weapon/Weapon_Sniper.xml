@@ -83,7 +83,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Sniper">
-    <defName>AK_Weapon_Agent</defName>
+    <defName>AK_Weapon_AgentW</defName>
     <label>W的榴弹发射器</label>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Sniper/WW</texPath>

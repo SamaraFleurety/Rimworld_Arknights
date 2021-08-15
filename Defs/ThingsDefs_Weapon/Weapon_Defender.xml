@@ -11,7 +11,7 @@
   </ThingDef>
 
   <ThingDef ParentName="AK_WeaponBase_Defender">
-    <defName>AK_Weapon_EuneTypeA</defName>
+    <defName>AK_Weapon_EunectesTypeA</defName>
     <label>森蚺的挂斧</label>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Defender/EuneW</texPath>
@@ -20,7 +20,7 @@
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Defender">
-    <defName>AK_Weapon_EuneTypeB</defName>
+    <defName>AK_Weapon_EunectesTypeB</defName>
     <label>森蚺的盾</label>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Defender/EuneW2</texPath>
