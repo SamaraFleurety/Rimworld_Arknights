@@ -9,4 +9,57 @@
 		<CD>250</CD>
     </AK_DLL.OperatorAbilityDef>
 
+  <!--<ThingDef ParentName="AK_ArmorBase_Caster">
+    <defName>AK_Apparel_Absinthe</defName>
+    <label>苦艾服装</label>
+    <graphicData>
+      <texPath>Things/AK_Agents/Caster/Absinthe</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+	<apparel>
+      <wornGraphicPath>Things/AK_Agents/Caster/Absinthe</wornGraphicPath>
+	</apparel>
+	<tickerType>Normal</tickerType>
+    <verbs>
+	<li>
+        <verbClass>AK_DLL.Verb_Ability</verbClass>
+        <defaultProjectile>Bullet_MiniTurret</defaultProjectile>
+        <warmupTime>0</warmupTime>
+        <range>28.9</range>
+        <ticksBetweenBurstShots>8</ticksBetweenBurstShots>
+        <burstShotCount>2</burstShotCount>
+        <soundCast>GunShotA</soundCast>
+        <soundCastTail>GunTail_Light</soundCastTail>
+        <muzzleFlashScale>9</muzzleFlashScale>
+        <consumeFuelPerShot>1</consumeFuelPerShot>
+		<targetParams>
+          <canTargetPawns>true</canTargetPawns>
+        </targetParams>	
+	</li>
+	</verbs>
+	<tools>
+	    <li>
+         <label>测试？</label>
+         <capacities>
+          <li>Blunt</li>
+         </capacities>
+         <power>9</power>
+         <cooldownTime>2</cooldownTime>
+        </li>
+	</tools>
+    <comps>
+	  <li Class="AK_DLL.CompProperties_Abilities">
+        <abilityDef>AK_Test</abilityDef>
+		<maxCharges>1</maxCharges>
+		<destroyOnEmpty>false</destroyOnEmpty>
+        <displayGizmoWhileUndrafted>true</displayGizmoWhileUndrafted>未征召时显示技能
+      </li>
+      <li Class="AK_DLL.CompProperties_Ability_AddHediff">
+        <hediff>AK_Disease_ORG_Leg</hediff>
+        <severity>0.5</severity>
+		<bodyPart></bodyPart>可不写，不写加的hediff在全身
+      </li>
+	</comps>
+  </ThingDef>-->
+
 </Defs>
