@@ -10,6 +10,7 @@
 		<hair>AK_Hair_Shining</hair>
 		<apparel>
 			<li>AK_Apparel_Shining</li>
+			<li>AK_Hat_Shining</li>
 		</apparel>
 		<stand>UI/Image/Medic/ShiningStand</stand>
 		<headPortrait>UI/Image/Medic/ShiningPortrait</headPortrait>
@@ -66,6 +67,7 @@
 		<hair>AK_Hair_Nightingale</hair>
 		<apparel>
 			<li>AK_Apparel_Nightingale</li>
+			<li>AK_Hat_Nightingale</li>
 		</apparel>
 		<stand>UI/Image/Medic/NightingaleStand</stand>
 		<headPortrait>UI/Image/Medic/NightingalePortrait</headPortrait>

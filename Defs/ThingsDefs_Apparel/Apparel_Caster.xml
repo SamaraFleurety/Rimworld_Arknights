@@ -28,7 +28,6 @@
   <ThingDef ParentName="AK_ArmorBase_Caster">
     <defName>AK_Apparel_Amiya</defName>
     <label>阿米娅服装</label>
-    <techLevel>Industrial</techLevel>
     <graphicData>
       <texPath>Things/AK_Agents/Caster/Amiya</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -41,7 +40,6 @@
   <ThingDef ParentName="AK_ArmorBase_Caster">
     <defName>AK_Apparel_Ceobe</defName>
     <label>刻俄柏服装</label>
-    <techLevel>Industrial</techLevel>
     <graphicData>
       <texPath>Things/AK_Agents/Caster/Ceobe</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -54,7 +52,6 @@
   <ThingDef ParentName="AK_ArmorBase_Caster">
     <defName>AK_Apparel_Dusk</defName>
     <label>夕服装</label>
-    <techLevel>Industrial</techLevel>
     <graphicData>
       <texPath>Things/AK_Agents/Caster/Dusk</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -67,7 +64,6 @@
   <ThingDef ParentName="AK_ArmorBase_Caster">
     <defName>AK_Apparel_Mostima</defName>
     <label>莫斯提马服装</label>
-    <techLevel>Industrial</techLevel>
     <graphicData>
       <texPath>Things/AK_Agents/Caster/Mostima</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -80,7 +76,6 @@
   <ThingDef ParentName="AK_ArmorBase_Caster">
     <defName>AK_Apparel_Mint</defName>
     <label>薄绿服装</label>
-    <techLevel>Industrial</techLevel>
     <graphicData>
       <texPath>Things/AK_Agents/Caster/Mint</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -93,7 +88,6 @@
     <ThingDef ParentName="AK_ArmorBase_Caster">
     <defName>AK_Apparel_Eyjafjalla</defName>
     <label>艾雅法拉服装</label>
-    <techLevel>Industrial</techLevel>
     <graphicData>
       <texPath>Things/AK_Agents/Caster/Eyjafjalla</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -106,7 +100,6 @@
   <ThingDef ParentName="AK_ArmorBase_Caster">
     <defName>AK_Apparel_Skyfire</defName>
     <label>天火服装</label>
-    <techLevel>Industrial</techLevel>
     <graphicData>
       <texPath>Things/AK_Agents/Caster/Skyfire</texPath>
       <graphicClass>Graphic_Single</graphicClass>

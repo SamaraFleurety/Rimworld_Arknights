@@ -24,6 +24,7 @@
 		<hair>AK_Hair_Skadi</hair>
 		<apparel>
 			<li>AK_Apparel_Skadi</li>
+			<li>AK_Hat_Skadi</li>
 		</apparel>
 		<stand>UI/Image/Guard/SkadiStand</stand>
 		<headPortrait>UI/Image/Guard/SkadiPortrait</headPortrait>
@@ -165,6 +166,7 @@
 		<hair>AK_Hair_Mousse</hair>
 		<apparel>
 			<li>AK_Apparel_Mousse</li>
+			<li>AK_Hat_Mousse</li>
 		</apparel>
 		<stand>UI/Image/Guard/MousseStand</stand>
 		<headPortrait>UI/Image/Guard/MoussePortrait</headPortrait>
