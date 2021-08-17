@@ -55,7 +55,6 @@
     <defName>AK_Apparel_Dusk</defName>
     <label>夕服装</label>
     <techLevel>Industrial</techLevel>
- 
     <graphicData>
       <texPath>Things/AK_Agents/Caster/Dusk</texPath>
       <graphicClass>Graphic_Single</graphicClass>

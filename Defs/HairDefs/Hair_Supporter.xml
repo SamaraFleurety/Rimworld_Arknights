@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- 辅助 -->
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Angelina</defName>
+		<label>安洁莉娜发型</label>
+		<texPath>Things/Hair/Supporter/Angelina</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Magallan</defName>
+		<label>麦哲伦发型</label>
+		<texPath>Things/Hair/Supporter/Magallan</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Mayer</defName>
+		<label>梅尔发型</label>
+		<texPath>Things/Hair/Supporter/Mayer</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Pramanix</defName>
+		<label>初雪发型</label>
+		<texPath>Things/Hair/Supporter/Pramanix</texPath>
+	</HairDef>
+	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Suzuran</defName>
+		<label>铃兰发型</label>
+		<texPath>Things/Hair/Supporter/Suzuran</texPath>
+	</HairDef>
+
+</Defs>
