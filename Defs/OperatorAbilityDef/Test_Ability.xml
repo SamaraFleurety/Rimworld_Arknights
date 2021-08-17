@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+    <AK_DLL.OperatorAbilityDef>
+        <defName>AK_Test</defName>
+        <label>测试技能</label>
+        <description>添加buff的技能</description>
+        <icon>UI/Abilities/A</icon>
+		<CD>250</CD>
+    </AK_DLL.OperatorAbilityDef>
+
+</Defs>
