@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Def>
+<LanguageData>
 
 	<AK_Recruit_Silverash.name>银灰</AK_Recruit_Silverash.name>
 	<AK_Recruit_Silverash.nickname>银灰</AK_Recruit_Silverash.nickname>
@@ -49,4 +49,4 @@
 	<AK_Recruit_Mousse.nickname>慕斯</AK_Recruit_Mousse.nickname>
 	<AK_Recruit_Mousse.description>FIXME</AK_Recruit_Mousse.description>
 
-</Def>
+</LanguageData>

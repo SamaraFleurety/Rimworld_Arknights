@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Def>
+<LanguageData>
 
 	<AK_Recruit_Shining.name>闪灵</AK_Recruit_Shining.name>
 	<AK_Recruit_Shining.nickname>闪灵</AK_Recruit_Shining.nickname>
@@ -29,4 +29,4 @@
 	<AK_Recruit_Ptilopsis.nickname>白面鸮</AK_Recruit_Ptilopsis.nickname>
 	<AK_Recruit_Ptilopsis.description>FIXME</AK_Recruit_Ptilopsis.description>
 
-</Def>
+</LanguageData>

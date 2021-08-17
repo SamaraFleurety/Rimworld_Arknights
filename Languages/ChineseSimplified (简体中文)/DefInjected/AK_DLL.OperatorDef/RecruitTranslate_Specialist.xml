@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Def>
+<LanguageData>
 
 	<AK_Recruit_Robin.name>罗宾</AK_Recruit_Robin.name>
 	<AK_Recruit_Robin.nickname>罗宾</AK_Recruit_Robin.nickname>
@@ -9,4 +9,4 @@
 	<AK_Recruit_Red.nickname>红</AK_Recruit_Red.nickname>
 	<AK_Recruit_Red.description>FIXME</AK_Recruit_Red.description>
 
-</Def>
+</LanguageData>

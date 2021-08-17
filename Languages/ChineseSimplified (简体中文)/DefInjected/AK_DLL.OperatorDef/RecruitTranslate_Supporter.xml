@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Def>
+<LanguageData>
 
 	<AK_Recruit_Suzuran.name>铃兰</AK_Recruit_Suzuran.name>
 	<AK_Recruit_Suzuran.nickname>铃兰</AK_Recruit_Suzuran.nickname>
@@ -13,4 +13,4 @@
 	<AK_Recruit_Magallan.nickname>麦哲伦</AK_Recruit_Magallan.nickname>
 	<AK_Recruit_Magallan.description>FIXME</AK_Recruit_Magallan.description>
 
-</Def>
+</LanguageData>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Def>
+<LanguageData>
 
 	<AK_Recruit_Cuora.name>蛇屠箱</AK_Recruit_Cuora.name>
 	<AK_Recruit_Cuora.nickname>蛇屠箱</AK_Recruit_Cuora.nickname>
@@ -29,4 +29,4 @@
 	<AK_Recruit_Saria.nickname>塞雷亚</AK_Recruit_Saria.nickname>
 	<AK_Recruit_Saria.description>FIXME</AK_Recruit_Saria.description>
 
-</Def>
+</LanguageData>

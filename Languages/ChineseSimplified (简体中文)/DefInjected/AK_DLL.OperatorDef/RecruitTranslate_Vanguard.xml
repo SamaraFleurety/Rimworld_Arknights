@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Def>
+<LanguageData>
 
 	<AK_Recruit_Vanilla.name>香草</AK_Recruit_Vanilla.name>
 	<AK_Recruit_Vanilla.nickname>香草</AK_Recruit_Vanilla.nickname>
@@ -21,4 +21,4 @@
 	<AK_Recruit_Texas.nickname>德克萨斯</AK_Recruit_Texas.nickname>
 	<AK_Recruit_Texas.description>FIXME</AK_Recruit_Texas.description>
 
-</Def>
+</LanguageData>

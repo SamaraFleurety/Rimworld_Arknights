@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Def>
+<LanguageData>
 
 	<AK_Recruit_Dusk.name>夕</AK_Recruit_Dusk.name>
 	<AK_Recruit_Dusk.nickname>夕</AK_Recruit_Dusk.nickname>
@@ -37,4 +37,4 @@
 	<AK_Recruit_Ceobe.nickname>刻俄柏</AK_Recruit_Ceobe.nickname>
 	<AK_Recruit_Ceobe.description>FIXME</AK_Recruit_Ceobe.description>
 
-</Def>
+</LanguageData>
