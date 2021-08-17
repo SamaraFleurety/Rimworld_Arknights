@@ -29,6 +29,18 @@
 	</ThingDef>
 	
 	<ThingDef ParentName="AK_HatBase">
+		<defName>AK_Hat_Frostleaf</defName>
+		<label>霜叶帽子</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/HatAccessory/FrostleafH</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/HatAccessory/FrostleafH</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+	
+	<ThingDef ParentName="AK_HatBase">
 		<defName>AK_Hat_Shining</defName>
 		<label>闪灵帽子</label>
 		<graphicData>

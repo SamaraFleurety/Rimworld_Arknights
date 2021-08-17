@@ -136,6 +136,7 @@
 		<hair>AK_Hair_Frostleaf</hair>
 		<apparel>
 			<li>AK_Apparel_Frostleaf</li>
+			<li>AK_Hat_Frostleaf</li>
 		</apparel>
 		<stand>UI/Image/Guard/FrostleafStand</stand>
 		<headPortrait>UI/Image/Guard/FrostleafPortrait</headPortrait>

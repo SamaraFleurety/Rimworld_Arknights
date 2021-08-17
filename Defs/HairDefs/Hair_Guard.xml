@@ -63,4 +63,10 @@
 		<texPath>Things/Hair/Guard/Thorns</texPath>
 	</HairDef>
 
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Frostleaf</defName>
+		<label>霜叶发型</label>
+		<texPath>Things/Hair/Guard/Frostleaf</texPath>
+	</HairDef>
+
 </Defs>

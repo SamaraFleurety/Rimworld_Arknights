@@ -145,4 +145,16 @@
     </apparel>
   </ThingDef>
   
- </Defs>
+ 	<ThingDef ParentName="AK_ArmorBase_Guard">
+		<defName>AK_Apparel_Frostleaf</defName>
+		<label>霜叶服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Guard/Frostleaf</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Guard/Frostleaf</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+</Defs>
