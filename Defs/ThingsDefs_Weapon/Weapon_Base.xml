@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
+  <DamageDef>
+    <defName>AK_Projectile_Magic</defName>
+    <label>法术弹</label>
+    <workerClass>DamageWorker_AddInjury</workerClass>
+    <externalViolence>true</externalViolence>
+    <deathMessage>{0} 被法术杀死了.</deathMessage>
+    <hediff>AK_Injury_MagicShot</hediff>
+    <harmAllLayersUntilOutside>true</harmAllLayersUntilOutside>
+    <impactSoundType>Bullet</impactSoundType>
+    <armorCategory>AK_DamageType_Magic</armorCategory>
+    <overkillPctToDestroyPart>1.0~2.0</overkillPctToDestroyPart>
+    <isRanged>true</isRanged>
+    <makesAnimalsFlee>true</makesAnimalsFlee>
+  </DamageDef>
+  
+  <HediffDef ParentName="InjuryBase">
+    <defName>AK_Injury_MagicShot</defName>
+    <label>法术射弹</label>
+    <labelNoun>法术射击造成的伤口.</labelNoun>
+    <description>一个法术射击造成的伤口.</description>
+    <comps>
+      <li Class="HediffCompProperties_TendDuration">
+        <labelTendedWell>已包扎</labelTendedWell>
+        <labelTendedWellInner>已缝合</labelTendedWellInner>
+        <labelSolidTendedWell>已处理</labelSolidTendedWell>
+      </li>
+      <li Class="HediffCompProperties_Infecter">
+        <infectionChance>0.05</infectionChance>
+      </li>
+      <li Class="HediffCompProperties_GetsPermanent">
+        <permanentLabel>旧法术伤口</permanentLabel>
+        <instantlyPermanentLabel>永久法术旧伤</instantlyPermanentLabel>
+      </li>
+    </comps>
+    <injuryProps>
+      <painPerSeverity>0.015</painPerSeverity>
+      <averagePainPerSeverityPermanent>0.00625</averagePainPerSeverityPermanent>
+      <bleedRate>0.00</bleedRate>
+      <canMerge>true</canMerge>
+      <destroyedLabel>射掉</destroyedLabel>
+      <destroyedOutLabel>射掉</destroyedOutLabel>
+    </injuryProps>
+  </HediffDef>
+
   <ThingDef Abstract="True" Name="AK_WeaponBase">
     <description>此干员的惯用武器。</description>
     <thingClass>ThingWithComps</thingClass>
@@ -223,10 +267,71 @@
     </projectile>
   </ThingDef>
   
+    <ThingDef Name="AK_WeaponBase_Magic" ParentName="AK_WeaponBase_Ranged" Abstract="True">
+    <soundInteract>Interact_ChargeRifle</soundInteract>
+    <statBases>
+      <Mass>4.6</Mass>
+      <AccuracyTouch>0.55</AccuracyTouch>
+      <AccuracyShort>0.64</AccuracyShort>
+      <AccuracyMedium>0.55</AccuracyMedium>
+      <AccuracyLong>0.45</AccuracyLong>
+      <RangedWeapon_Cooldown>2.00</RangedWeapon_Cooldown>
+    </statBases>
+    <weaponClasses>
+      <li>RangedLight</li>
+    </weaponClasses>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>AK_MagicBullet_Base</defaultProjectile>
+        <warmupTime>1.0</warmupTime>
+        <range>33</range>
+        <ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+        <burstShotCount>3</burstShotCount>
+        <soundCast>Shot_ChargeRifle</soundCast>
+        <soundCastTail>GunTail_Medium</soundCastTail>
+        <muzzleFlashScale>9</muzzleFlashScale>
+      </li>
+    </verbs>
+    <tools>
+      <li>
+        <label>stock</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>9</power>
+        <cooldownTime>2</cooldownTime>
+      </li>
+      <li>
+        <label>barrel</label>
+        <capacities>
+          <li>Blunt</li>
+          <li>Poke</li>
+        </capacities>
+        <power>9</power>
+        <cooldownTime>2</cooldownTime>
+      </li>
+    </tools>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>AK_MagicBullet_Base</defName>
+    <label>子弹射击</label>
+    <graphicData>
+      <texPath>Things/Projectile/Charge_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>AK_Projectile_Magic</damageDef>
+      <damageAmountBase>15</damageAmountBase>
+      <armorPenetrationBase>0.35</armorPenetrationBase>
+      <speed>70</speed>
+    </projectile>
+  </ThingDef>
+
   
   
-  
-  <ThingDef Name="AK_WeaponBase_Caster" ParentName="AK_WeaponBase_Melee" Abstract="True">  
+  <ThingDef Name="AK_WeaponBase_Caster" ParentName="AK_WeaponBase_Magic" Abstract="True">  
 	<thingCategories Inherit="False">
       <li>AK_Weapon_Caster</li>
     </thingCategories>
@@ -250,7 +355,7 @@
     </thingCategories>
   </ThingDef>
   
-  <ThingDef Name="AK_WeaponBase_Supporter" ParentName="AK_WeaponBase_Melee" Abstract="True">  
+  <ThingDef Name="AK_WeaponBase_Supporter" ParentName="AK_WeaponBase_Magic" Abstract="True">  
 	<thingCategories Inherit="False">
       <li>AK_Weapon_Supporter</li>
     </thingCategories>
@@ -261,14 +366,27 @@
       <li>AK_Weapon_Specialist</li>
     </thingCategories>
   </ThingDef>
-  
-  <ThingDef Name="AK_WeaponBase_Sniper" ParentName="AK_WeaponBase_Rifle" Abstract="True">  
+<!-- FIXME ↓仅为了不红字占位，完善后删除-->
+  <ThingDef Name="AK_WeaponBase" ParentName="AK_WeaponBase_Rifle" Abstract="True">  
 	<thingCategories Inherit="False">
       <li>AK_Weapon_Sniper</li>
     </thingCategories>
   </ThingDef>
   
-  <ThingDef Name="AK_WeaponBase_Medic" ParentName="AK_WeaponBase_Melee" Abstract="True">  
+    <ThingDef
+  <ThingDef Name="AK_WeaponBase_Sniper_Rifle" ParentName="AK_WeaponBase_Rifle" Abstract="True">  
+	<thingCategories Inherit="False">
+      <li>AK_Weapon_Sniper</li>
+    </thingCategories>
+  </ThingDef>
+  
+    <ThingDef Name="AK_WeaponBase_Sniper_Bow" ParentName="AK_WeaponBase_Bow" Abstract="True">  
+	<thingCategories Inherit="False">
+      <li>AK_Weapon_Sniper</li>
+    </thingCategories>
+  </ThingDef>
+  
+  <ThingDef Name="AK_WeaponBase_Medic" ParentName="AK_WeaponBase_Magic" Abstract="True">  
 	<thingCategories Inherit="False">
       <li>AK_Weapon_Medic</li>
     </thingCategories>
