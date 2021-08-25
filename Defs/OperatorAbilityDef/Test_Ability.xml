@@ -7,6 +7,7 @@
         <description>添加buff的技能</description>
         <icon>UI/Abilities/A</icon>
 		<CD>250</CD>
+		<abilityType>Trap</abilityType>
     </AK_DLL.OperatorAbilityDef>
 
   <!--<ThingDef ParentName="AK_ArmorBase_Caster">
