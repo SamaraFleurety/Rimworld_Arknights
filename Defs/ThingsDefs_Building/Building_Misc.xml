@@ -100,6 +100,9 @@
     <stuffCategories>
       <li>Metallic</li>
     </stuffCategories>
+	<recipes>
+      <li>AK_Recipe_ORGRefine</li>
+    </recipes>
     <altitudeLayer>Building</altitudeLayer>
     <fillPercent>0.5</fillPercent>
     <useHitPoints>True</useHitPoints>
