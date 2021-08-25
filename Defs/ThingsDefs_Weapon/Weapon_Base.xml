@@ -15,7 +15,7 @@
     <isRanged>true</isRanged>
     <makesAnimalsFlee>true</makesAnimalsFlee>
   </DamageDef>
-  
+
   <HediffDef ParentName="InjuryBase">
     <defName>AK_Injury_MagicShot</defName>
     <label>法术射弹</label>
@@ -43,9 +43,9 @@
       <destroyedLabel>射掉</destroyedLabel>
       <destroyedOutLabel>射掉</destroyedOutLabel>
     </injuryProps>
-  </HediffDef>
-
-  <ThingDef Abstract="True" Name="AK_WeaponBase">
+  </HediffDef> 
+  
+  <ThingDef Name="AK_WeaponBase" Abstract="True">
     <description>此干员的惯用武器。</description>
     <thingClass>ThingWithComps</thingClass>
     <category>Item</category>
@@ -117,7 +117,7 @@
     </tools>
   </ThingDef>
   
-  <ThingDef Name="AK_WeaponBase_Ranged" Abstract="True" ParentName="AK_WeaponBase">
+  <ThingDef Name="AK_WeaponBase_Ranged"ParentName="AK_WeaponBase" Abstract="True" >
     <weaponClasses>
       <li>Ranged</li>
     </weaponClasses>
@@ -367,20 +367,19 @@
     </thingCategories>
   </ThingDef>
 <!-- FIXME ↓仅为了不红字占位，完善后删除-->
-  <ThingDef Name="AK_WeaponBase" ParentName="AK_WeaponBase_Rifle" Abstract="True">  
+  <ThingDef Name="AK_WeaponBase_Sniper" ParentName="AK_WeaponBase_Rifle" Abstract="True">  
 	<thingCategories Inherit="False">
       <li>AK_Weapon_Sniper</li>
     </thingCategories>
   </ThingDef>
   
-    <ThingDef
   <ThingDef Name="AK_WeaponBase_Sniper_Rifle" ParentName="AK_WeaponBase_Rifle" Abstract="True">  
 	<thingCategories Inherit="False">
       <li>AK_Weapon_Sniper</li>
     </thingCategories>
   </ThingDef>
   
-    <ThingDef Name="AK_WeaponBase_Sniper_Bow" ParentName="AK_WeaponBase_Bow" Abstract="True">  
+  <ThingDef Name="AK_WeaponBase_Sniper_Bow" ParentName="AK_WeaponBase_Bow" Abstract="True">  
 	<thingCategories Inherit="False">
       <li>AK_Weapon_Sniper</li>
     </thingCategories>
