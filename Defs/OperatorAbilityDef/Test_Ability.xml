@@ -2,7 +2,7 @@
 <Defs>
 
   <AK_DLL.OperatorAbilityDef>
-    <defName>AK_Test</defName>
+    <defName>AK_Test_Hediff</defName>
     <label>测试技能</label>
     <description>添加buff的技能</description>
     <icon>UI/Abilities/A</icon>
@@ -31,5 +31,186 @@
         <bodyPart></bodyPart><!--可不写，不写加的hediff在全身-->
     </compEffect>
   </AK_DLL.OperatorAbilityDef>
+
+  <AK_DLL.OperatorAbilityDef>
+    <defName>AK_Test_Heal</defName>
+    <label>测试技能</label>
+    <description>添加buff的技能</description>
+    <icon>UI/Abilities/A</icon>
+    <CD>2500</CD>
+    <abilityType>Heal</abilityType>
+    <verb>
+      <verbClass>AK_DLL.Verb_Ability</verbClass>
+      <defaultProjectile>Bullet_MiniTurret</defaultProjectile>
+      <warmupTime>0</warmupTime>
+      <range>28.9</range>
+      <ticksBetweenBurstShots>8</ticksBetweenBurstShots>
+      <burstShotCount>2</burstShotCount>
+      <soundCast>GunShotA</soundCast>
+      <soundCastTail>GunTail_Light</soundCastTail>
+      <muzzleFlashScale>9</muzzleFlashScale>
+      <consumeFuelPerShot>1</consumeFuelPerShot>
+      <targetParams>
+        <canTargetPawns>true</canTargetPawns>
+        <canTargetLocations>false</canTargetLocations>
+      </targetParams>
+    </verb>
+    <needCD>true</needCD>
+    <compEffect Class="AK_DLL.AbilityEffect_Heal">
+      <healPoint>10</healPoint>
+      <healHostile>true<healHostile/>
+      <healNeutral>true</healNeutral>
+      <healNullFaction>true</healNullFaction>
+    </compEffect>
+  </AK_DLL.OperatorAbilityDef>
+
+  <AK_DLL.OperatorAbilityDef>
+    <defName>AK_Test_Trap</defName>
+    <label>测试技能</label>
+    <description>添加buff的技能</description>
+    <icon>UI/Abilities/A</icon>
+    <CD>2500</CD>
+    <abilityType>Trap</abilityType>
+    <verb>
+      <verbClass>AK_DLL.Verb_Ability</verbClass>
+      <defaultProjectile>Bullet_MiniTurret</defaultProjectile>
+      <warmupTime>0</warmupTime>
+      <range>28.9</range>
+      <ticksBetweenBurstShots>8</ticksBetweenBurstShots>
+      <burstShotCount>2</burstShotCount>
+      <soundCast>GunShotA</soundCast>
+      <soundCastTail>GunTail_Light</soundCastTail>
+      <muzzleFlashScale>9</muzzleFlashScale>
+      <consumeFuelPerShot>1</consumeFuelPerShot>
+      <targetParams>
+        <canTargetPawns>true</canTargetPawns>
+        <canTargetLocations>false</canTargetLocations>
+      </targetParams>
+    </verb>
+    <needCD>true</needCD>
+    <compEffect Class="AK_DLL.AbilityEffect_Trap">
+        <duration>35000</duration><!--tick-->
+        <trap>AK_Test_Trap_Thing</trap>
+    </compEffect>
+  </AK_DLL.OperatorAbilityDef>
+
+   
+  <ThingDef ParentName="TrapIEDBase">
+    <defName>AK_Test_Trap_Thing</defName>
+    <label>IED incendiary trap</label>
+    <description>A pair of incendiary shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</description>
+    <thingClass>AK_DLL..Trap</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Security/IEDIncendiary</texPath>
+    </graphicData>
+    <costList>
+      <Shell_Incendiary>2</Shell_Incendiary>
+    </costList>
+    <designationHotKey>Misc8</designationHotKey>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>3.9</explosiveRadius>
+        <explosiveDamageType>Flame</explosiveDamageType>
+        <startWickHitPointsPercent>0.2</startWickHitPointsPercent>
+        <wickTicks>15</wickTicks>
+        <startWickOnDamageTaken>
+          <li>Bullet</li>
+          <li>Arrow</li>
+          <li>ArrowHighVelocity</li>
+        </startWickOnDamageTaken>
+      </li>
+    </comps>
+    <specialDisplayRadius>3.9</specialDisplayRadius>
+  </ThingDef>
+
+
+  <AK_DLL.OperatorAbilityDef>
+    <defName>AK_Test_Summon</defName>
+    <label>测试技能</label>
+    <description>添加buff的技能</description>
+    <icon>UI/Abilities/A</icon>
+    <CD>2500</CD>
+    <abilityType>Hediff</abilityType>
+    <verb>
+      <verbClass>AK_DLL.Verb_Ability</verbClass>
+      <defaultProjectile>Bullet_MiniTurret</defaultProjectile>
+      <warmupTime>0</warmupTime>
+      <range>28.9</range>
+      <ticksBetweenBurstShots>8</ticksBetweenBurstShots>
+      <burstShotCount>2</burstShotCount>
+      <soundCast>GunShotA</soundCast>
+      <soundCastTail>GunTail_Light</soundCastTail>
+      <muzzleFlashScale>9</muzzleFlashScale>
+      <consumeFuelPerShot>1</consumeFuelPerShot>
+      <targetParams>
+        <canTargetPawns>true</canTargetPawns>
+        <canTargetLocations>false</canTargetLocations>
+      </targetParams>
+    </verb>
+    <needCD>false</needCD>
+    <compEffect Class="AK_DLL.AbilityEffect_Summon">
+    <summoned>AK_Test_Summoned</summoned>
+    </compEffect>
+  </AK_DLL.OperatorAbilityDef>
+
+  <ThingDef ParentName="ThingBaseWolf">
+    <defName>AK_Test_Summoned</defName>
+    <label>timber wolf</label>
+    <description>A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have complex social lives and are fiercely intelligent.</description>
+    <thingClass>AK_DLL.Summoned</thingClass>
+    <race>
+      <meatLabel>wolf meat</meatLabel>
+    </race>
+  </ThingDef>
+
+
+  <PawnKindDef ParentName="AnimalKindBaseWolf">
+    <defName>AK_Test_Summoned</defName>
+    <label>timber wolf</label>
+    <labelPlural>timber wolves</labelPlural>
+    <race>AK_Test_Summoned</race>
+    <lifeStages>
+      <li>
+        <label>timber wolf puppy</label>
+        <labelPlural>timber wolf puppies</labelPlural>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Wolf_Timber/Wolf_Timber</texPath>
+          <drawSize>1.05</drawSize>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Wolf_Timber/Dessicated_Wolf_Timber</texPath>
+          <drawSize>1.05</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Wolf_Timber/Wolf_Timber</texPath>
+          <drawSize>1.5</drawSize>
+          <shadowData>
+            <volume>(0.25, 0.3, 0.25)</volume>
+            <offset>(0,0,-0.15)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Wolf_Timber/Dessicated_Wolf_Timber</texPath>
+          <drawSize>1.5</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Wolf_Timber/Wolf_Timber</texPath>
+          <drawSize>1.95</drawSize>
+          <shadowData>
+            <volume>(0.3, 0.4, 0.3)</volume>
+            <offset>(0,0,-0.15)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Wolf_Timber/Dessicated_Wolf_Timber</texPath>
+          <drawSize>1.95</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
 
 </Defs>
