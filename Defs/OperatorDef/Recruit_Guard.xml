@@ -8,11 +8,15 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Silverash</weapon>
 		<hair>AK_Hair_Silverash</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Silverash</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Guard/SilverashStand</stand>
 		<headPortrait>UI/Image/Guard/SilverashPortrait</headPortrait>
+		<abilities>
+			<li>AK_Test_Hediff</li>
+	    </abilities>
+		<bodyTypeDef>Male</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Guard">
@@ -22,10 +26,10 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Skadi</weapon>
 		<hair>AK_Hair_Skadi</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Skadi</li>
 			<li>AK_Hat_Skadi</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Guard/SkadiStand</stand>
 		<headPortrait>UI/Image/Guard/SkadiPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -37,9 +41,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Specter</weapon>
 		<hair>AK_Hair_Specter</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Specter</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Guard/SpecterStand</stand>
 		<headPortrait>UI/Image/Guard/SpecterPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -51,9 +55,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Thorns</weapon>
 		<hair>AK_Hair_Thorns</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Thorns</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Guard/ThornsStand</stand>
 		<headPortrait>UI/Image/Guard/ThornsPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -65,9 +69,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Surtr</weapon>
 		<hair>AK_Hair_Surtr</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Surtr</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Guard/SurtrStand</stand>
 		<headPortrait>UI/Image/Guard/SurtrPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -79,9 +83,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Blaze</weapon>
 		<hair>AK_Hair_Blaze</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Blaze</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Guard/BlazeStand</stand>
 		<headPortrait>UI/Image/Guard/BlazePortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -93,9 +97,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_ChenTypeA</weapon>
 		<hair>AK_Hair_Chen</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Chen</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Guard/ChenStand</stand>
 		<headPortrait>UI/Image/Guard/ChenPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -107,9 +111,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_CutterTypeA</weapon>
 		<hair>AK_Hair_Cutter</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Cutter</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Guard/CutterStand</stand>
 		<headPortrait>UI/Image/Guard/CutterPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -121,9 +125,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Franka</weapon>
 		<hair>AK_Hair_Franka</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Franka</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Guard/FrankaStand</stand>
 		<headPortrait>UI/Image/Guard/FrankaPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -135,10 +139,10 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Frostleaf</weapon>
 		<hair>AK_Hair_Frostleaf</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Frostleaf</li>
 			<li>AK_Hat_Frostleaf</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Guard/FrostleafStand</stand>
 		<headPortrait>UI/Image/Guard/FrostleafPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -150,9 +154,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Lappland</weapon>
 		<hair>AK_Hair_Lappland</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Lappland</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Guard/LapplandStand</stand>
 		<headPortrait>UI/Image/Guard/LapplandPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -164,10 +168,10 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Mousse</weapon>
 		<hair>AK_Hair_Mousse</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Mousse</li>
 			<li>AK_Hat_Mousse</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Guard/MousseStand</stand>
 		<headPortrait>UI/Image/Guard/MoussePortrait</headPortrait>
 	</AK_DLL.OperatorDef>

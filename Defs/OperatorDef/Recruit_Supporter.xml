@@ -8,9 +8,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Suzuran</weapon>
 		<hair>AK_Hair_Suzuran</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Suzuran</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Supporter/SuzuranStand</stand>
 		<headPortrait>UI/Image/Supporter/SuzuranPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -22,9 +22,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Angelina</weapon>
 		<hair>AK_Hair_Angelina</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Angelina</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Supporter/AngelinaStand</stand>
 		<headPortrait>UI/Image/Supporter/AngelinaPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -36,9 +36,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Magallan</weapon>
 		<hair>AK_Hair_Magallan</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Magallan</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Supporter/MagallanStand</stand>
 		<headPortrait>UI/Image/Supporter/MagallanPortrait</headPortrait>
 	</AK_DLL.OperatorDef>

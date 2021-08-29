@@ -8,9 +8,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Robin</weapon>
 		<hair>AK_Hair_Robin</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Robin</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Specialist/RobinStand</stand>
 		<headPortrait>UI/Image/Specialist/RobinPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -22,9 +22,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Red</weapon>
 		<hair>AK_Hair_Red</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Red</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Specialist/RedStand</stand>
 		<headPortrait>UI/Image/Specialist/RedPortrait</headPortrait>
 	</AK_DLL.OperatorDef>

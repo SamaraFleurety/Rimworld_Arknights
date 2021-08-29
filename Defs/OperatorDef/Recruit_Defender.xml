@@ -8,9 +8,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Cuora</weapon>
 		<hair>AK_Hair_Cuora</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Cuora</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Defender/CuoraStand</stand>
 		<headPortrait>UI/Image/Defender/CuoraPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -22,9 +22,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_EunectesTypeA</weapon>
 		<hair>AK_Hair_Eunectes</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Eunectes</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Defender/EunectesStand</stand>
 		<headPortrait>UI/Image/Defender/EunectesPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -36,9 +36,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Hoshiguma</weapon>
 		<hair>AK_Hair_Hoshiguma</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Hoshiguma</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Defender/HoshigumaStand</stand>
 		<headPortrait>UI/Image/Defender/HoshigumaPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -50,9 +50,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Liskarm</weapon>
 		<hair>AK_Hair_Liskarm</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Liskarm</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Defender/LiskarmStand</stand>
 		<headPortrait>UI/Image/Defender/LiskarmPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -64,9 +64,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Mudrock</weapon>
 		<hair>AK_Hair_Mudrock</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Mudrock</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Defender/MudrockStand</stand>
 		<headPortrait>UI/Image/Defender/MudrockPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -78,9 +78,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_NianTypeA</weapon>
 		<hair>AK_Hair_Nian</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Nian</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Defender/NianStand</stand>
 		<headPortrait>UI/Image/Defender/NianPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -92,9 +92,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Saria</weapon>
 		<hair>AK_Hair_Saria</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Saria</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Defender/SariaStand</stand>
 		<headPortrait>UI/Image/Defender/SariaPortrait</headPortrait>
 	</AK_DLL.OperatorDef>

@@ -8,9 +8,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Schwarz</weapon>
 		<hair>AK_Hair_Schwarz</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Schwarz</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Sniper/SchwarzStand</stand>
 		<headPortrait>UI/Image/Sniper/SchwarzPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -22,9 +22,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_AgentW</weapon>
 		<hair>AK_Hair_AgentW</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_AgentW</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Sniper/AgentWStand</stand>
 		<headPortrait>UI/Image/Sniper/AgentWPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -36,9 +36,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Executor</weapon>
 		<hair>AK_Hair_Executor</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Executor</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Sniper/ExecutorStand</stand>
 		<headPortrait>UI/Image/Sniper/ExecutorPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -50,9 +50,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Exusiai</weapon>
 		<hair>AK_Hair_Exusiai</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Exusiai</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Sniper/ExusiaiStand</stand>
 		<headPortrait>UI/Image/Sniper/ExusiaiPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -64,9 +64,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Greythroat</weapon>
 		<hair>AK_Hair_Greythroat</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Greythroat</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Sniper/GreythroatStand</stand>
 		<headPortrait>UI/Image/Sniper/GreythroatPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -78,9 +78,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Jessica</weapon>
 		<hair>AK_Hair_Jessica</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Jessica</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Sniper/JessicaStand</stand>
 		<headPortrait>UI/Image/Sniper/JessicaPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -92,9 +92,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Pinecone</weapon>
 		<hair>AK_Hair_Pinecone</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Pinecone</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Sniper/PineconeStand</stand>
 		<headPortrait>UI/Image/Sniper/PineconePortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -106,9 +106,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Provence</weapon>
 		<hair>AK_Hair_Provence</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Provence</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Sniper/ProvenceStand</stand>
 		<headPortrait>UI/Image/Sniper/ProvencePortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -120,9 +120,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Rosa</weapon>
 		<hair>AK_Hair_Rosa</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Rosa</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Sniper/RosaStand</stand>
 		<headPortrait>UI/Image/Sniper/RosaPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -134,9 +134,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_RosmontisTypeA</weapon>
 		<hair>AK_Hair_Rosmontis</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Rosmontis</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Sniper/RosmontisStand</stand>
 		<headPortrait>UI/Image/Sniper/RosmontisPortrait</headPortrait>
 	</AK_DLL.OperatorDef>

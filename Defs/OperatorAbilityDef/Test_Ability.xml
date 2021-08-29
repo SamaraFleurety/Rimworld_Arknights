@@ -58,7 +58,7 @@
     <needCD>true</needCD>
     <compEffect Class="AK_DLL.AbilityEffect_Heal">
       <healPoint>10</healPoint>
-      <healHostile>true<healHostile/>
+      <healHostile>true</healHostile>
       <healNeutral>true</healNeutral>
       <healNullFaction>true</healNullFaction>
     </compEffect>
@@ -99,7 +99,7 @@
     <defName>AK_Test_Trap_Thing</defName>
     <label>IED incendiary trap</label>
     <description>A pair of incendiary shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</description>
-    <thingClass>AK_DLL..Trap</thingClass>
+    <thingClass>AK_DLL.Trap</thingClass>
     <graphicData>
       <texPath>Things/Building/Security/IEDIncendiary</texPath>
     </graphicData>

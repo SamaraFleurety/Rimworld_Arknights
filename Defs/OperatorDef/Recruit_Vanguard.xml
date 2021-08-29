@@ -8,9 +8,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Vanilla</weapon>
 		<hair>AK_Hair_Vanilla</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Vanilla</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Vanguard/VanillaStand</stand>
 		<headPortrait>UI/Image/Vanguard/VanillaPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -22,9 +22,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Bagpipe</weapon>
 		<hair>AK_Hair_Bagpipe</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Bagpipe</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Vanguard/BagpipeStand</stand>
 		<headPortrait>UI/Image/Vanguard/BagpipePortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -36,9 +36,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Reed</weapon>
 		<hair>AK_Hair_Reed</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Reed</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Vanguard/ReedStand</stand>
 		<headPortrait>UI/Image/Vanguard/ReedPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -50,9 +50,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Saga</weapon>
 		<hair>AK_Hair_Saga</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Saga</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Vanguard/SagaStand</stand>
 		<headPortrait>UI/Image/Vanguard/SagaPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -64,9 +64,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Texas</weapon>
 		<hair>AK_Hair_Texas</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Texas</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Vanguard/TexasStand</stand>
 		<headPortrait>UI/Image/Vanguard/TexasPortrait</headPortrait>
 	</AK_DLL.OperatorDef>

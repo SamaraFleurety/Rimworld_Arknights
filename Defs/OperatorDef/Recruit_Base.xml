@@ -5,15 +5,15 @@
 		<surname>罗德岛</surname>
 		<nickname>虚无弄臣</nickname>
 		<description>在路的尽头，他看到她们成了他</description>
-		<trait>
+		<traits>
 			<li>Cannibal</li>
 			<li>Psychopath</li>
-		</trait>
-		<apparel>
+		</traits>
+		<apparels>
 			<li>Apparel_EltexSkullcap</li>
-		</apparel>
+		</apparels>
 		<bodyTypeDef>Thin</bodyTypeDef>
-		<skill>
+		<skills>
 			<li>
 				<skill>Animals</skill>
 				<level>5</level>
@@ -74,7 +74,7 @@
 				<level>5</level>
 				<fireLevel>0</fireLevel>
 			</li>
-		</skill>
+		</skills>
 		<skinColor>(1.0,1.0,1.0)</skinColor>
 		<hairColor>(1.0,1.0,1.0)</hairColor>
 		<childHood></childHood>
@@ -84,59 +84,59 @@
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase" Name="AK_RecruitBase_Guard" Abstract="True">
-		<trait>
+		<traits>
 			<li>AK_Trait_Agent_Guard</li>
-		</trait>
-		<operatorTypes>guard</operatorTypes>
+		</traits>
+		<operatorType>Guard</operatorType>
 	</AK_DLL.OperatorDef>
 	
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase" Name="AK_RecruitBase_Supporter" Abstract="True">
-		<trait>
+		<traits>
 			<li>AK_Trait_Agent_Supporter</li>
-		</trait>
-		<operatorTypes>supporter</operatorTypes>
+		</traits>
+		<operatorType>Supporter</operatorType>
 	</AK_DLL.OperatorDef>
 	
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase" Name="AK_RecruitBase_Vanguard" Abstract="True">
-		<trait>
+		<traits>
 			<li>AK_Trait_Agent_Vanguard</li>
-		</trait>
-		<operatorTypes>vanguard</operatorTypes>
+		</traits>
+		<operatorType>Vanguard</operatorType>
 	</AK_DLL.OperatorDef>
 	
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase" Name="AK_RecruitBase_Caster" Abstract="True">
-		<trait>
+		<traits>
 			<li>AK_Trait_Agent_Caster</li>
-		</trait>
-		<operatorTypes>caster</operatorTypes>
+		</traits>
+		<operatorType>Caster</operatorType>
 	</AK_DLL.OperatorDef>
 	
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase" Name="AK_RecruitBase_Defender" Abstract="True">
-		<trait>
+		<traits>
 			<li>AK_Trait_Agent_Defender</li>
-		</trait>
-		<operatorTypes>defender</operatorTypes>
+		</traits>
+		<operatorType>Defender</operatorType>
 	</AK_DLL.OperatorDef>
 	
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase" Name="AK_RecruitBase_Medic" Abstract="True">
-		<trait>
+		<traits>
 			<li>AK_Trait_Agent_Medic</li>
-		</trait>
-		<operatorTypes>medic</operatorTypes>
+		</traits>
+		<operatorType>Medic</operatorType>
 	</AK_DLL.OperatorDef>
 	
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase" Name="AK_RecruitBase_Sniper" Abstract="True">
-		<trait>
+		<traits>
 			<li>AK_Trait_Agent_Sniper</li>
-		</trait>
-		<operatorTypes>sniper</operatorTypes>
+		</traits>
+		<operatorType>Sniper</operatorType>
 	</AK_DLL.OperatorDef>
 	
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase" Name="AK_RecruitBase_Specialist" Abstract="True">
-		<trait>
+		<traits>
 			<li>AK_Trait_Agent_Specialist</li>
-		</trait>
-		<operatorTypes>specialist</operatorTypes>
+		</traits>
+		<operatorType>Specialist</operatorType>
 	</AK_DLL.OperatorDef>
 
 <!-- 模板 请勿直接使用	
@@ -147,9 +147,9 @@
 		<weapon>AK_Weapon_Silverash</weapon>
 		<bodyTypeDef>Male</bodyTypeDef>
 		<hair>AK_Hair_Silverash</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Silverash</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Guard/SilverashStand</stand>
 		<headPortrait>UI/Image/Guard/SilverashPortrait</headPortrait>
 	</AK_DLL.OperatorDef>  -->

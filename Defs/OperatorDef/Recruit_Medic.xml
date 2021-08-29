@@ -8,10 +8,10 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Shining</weapon>
 		<hair>AK_Hair_Shining</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Shining</li>
 			<li>AK_Hat_Shining</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Medic/ShiningStand</stand>
 		<headPortrait>UI/Image/Medic/ShiningPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -23,9 +23,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Silence</weapon>
 		<hair>AK_Hair_Silence</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Silence</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Medic/SilenceStand</stand>
 		<headPortrait>UI/Image/Medic/SilencePortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -37,9 +37,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Gavial</weapon>
 		<hair>AK_Hair_Gavial</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Gavial</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Medic/GavialStand</stand>
 		<headPortrait>UI/Image/Medic/GavialPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -51,9 +51,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Kaltsit</weapon>
 		<hair>AK_Hair_Kaltsit</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Kaltsit</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Medic/KaltsitStand</stand>
 		<headPortrait>UI/Image/Medic/KaltsitPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -65,10 +65,10 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Nightingale</weapon>
 		<hair>AK_Hair_Nightingale</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Nightingale</li>
 			<li>AK_Hat_Nightingale</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Medic/NightingaleStand</stand>
 		<headPortrait>UI/Image/Medic/NightingalePortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -80,9 +80,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Perfumer</weapon>
 		<hair>AK_Hair_Perfumer</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Perfumer</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Medic/PerfumerStand</stand>
 		<headPortrait>UI/Image/Medic/PerfumerPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -94,9 +94,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Ptilopsis</weapon>
 		<hair>AK_Hair_Ptilopsis</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Ptilopsis</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Medic/PtilopsisStand</stand>
 		<headPortrait>UI/Image/Medic/PtilopsisPortrait</headPortrait>
 	</AK_DLL.OperatorDef>

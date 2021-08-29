@@ -8,9 +8,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Dusk</weapon>
 		<hair>AK_Hair_Dusk</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Dusk</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Caster/DuskStand</stand>
 		<headPortrait>UI/Image/Caster/DuskPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -22,9 +22,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Eyjafjalla</weapon>
 		<hair>AK_Hair_Eyjafjalla</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Eyjafjalla</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Caster/EyjafjallaStand</stand>
 		<headPortrait>UI/Image/Caster/EyjafjallaPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -36,9 +36,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Ifrit</weapon>
 		<hair>AK_Hair_Ifrit</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Ifrit</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Caster/IfritStand</stand>
 		<headPortrait>UI/Image/Caster/IfritPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -50,9 +50,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Mint</weapon>
 		<hair>AK_Hair_Mint</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Mint</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Caster/MintStand</stand>
 		<headPortrait>UI/Image/Caster/MintPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -64,9 +64,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_MostimaTypeB</weapon>
 		<hair>AK_Hair_Mostima</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Mostima</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Caster/MostimaStand</stand>
 		<headPortrait>UI/Image/Caster/MostimaPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -78,9 +78,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Skyfire</weapon>
 		<hair>AK_Hair_Skyfire</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Skyfire</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Caster/SkyfireStand</stand>
 		<headPortrait>UI/Image/Caster/SkyfirePortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -92,9 +92,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Absinthe</weapon>
 		<hair>AK_Hair_Absinthe</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Absinthe</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Caster/AbsintheStand</stand>
 		<headPortrait>UI/Image/Caster/AbsinthePortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -106,9 +106,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_Amiya</weapon>
 		<hair>AK_Hair_Amiya</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Amiya</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Caster/AmiyaStand</stand>
 		<headPortrait>UI/Image/Caster/AmiyaPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -120,9 +120,9 @@
 		<description>FIXME</description>
 		<weapon>AK_Weapon_CeobeTypeB</weapon>
 		<hair>AK_Hair_Ceobe</hair>
-		<apparel>
+		<apparels>
 			<li>AK_Apparel_Ceobe</li>
-		</apparel>
+		</apparels>
 		<stand>UI/Image/Caster/CeobeStand</stand>
 		<headPortrait>UI/Image/Caster/CeobePortrait</headPortrait>
 	</AK_DLL.OperatorDef>
