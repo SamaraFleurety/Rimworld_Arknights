@@ -50,6 +50,39 @@
     <label>矿石病感染(腿部)</label>
   </HediffDef>
   
+  <HediffDef ParentName="DiseaseBase">
+    <defName>AK_Disease_ORG_Artificial</defName>
+    <label>人工矿石病</label>
+	<description>感染了人工矿石病。</description>
+	<defaultLabelColor>(0.9, 1.0, 0.35)</defaultLabelColor>
+	<makesSickThought>true</makesSickThought>
+	<comps>
+      <li Class="AK_LoveCat.HediffCompProperties_SpawnThing">
+        <spawnInterval>200</spawnInterval>
+		<spawnNum>20</spawnNum>
+		<thingDef>AK_ORG_Raw</thingDef>
+      </li>
+    </comps>				
+	<stages>
+      <li>
+        <capMods>
+          <li>
+            <capacity>Consciousness</capacity>
+            <setMax>0.7</setMax>
+          </li>
+          <li>
+            <capacity>Manipulation</capacity>
+            <offset>-0.2</offset>
+          </li>
+          <li>
+            <capacity>Moving</capacity>
+            <offset>-0.2</offset>
+          </li>
+        </capMods>
+      </li>
+    </stages>
+  </HediffDef>
+  
 <!-- 专属 -->
 
 	<HediffDef ParentName="ChronicDiseaseBase">
@@ -121,5 +154,4 @@
 			</li>
 		</stages>
 	</HediffDef>
-	
  </Defs>
