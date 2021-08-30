@@ -25,4 +25,5 @@
 
 <AK_CDIsntZero>无法使用技能，CD:{0}</AK_CDIsntZero>
 <AK_SummonedReachedMax>召唤物已达到上限，召唤物上限:{0}</AK_SummonedReachedMax>
+<AK_CanntReclaim>无法回收</AK_CanntReclaim>
 </LanguageData>
