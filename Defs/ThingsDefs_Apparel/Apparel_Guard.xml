@@ -108,14 +108,11 @@
       <wornGraphicPath>Things/AK_Agents/Guard/Silverash</wornGraphicPath>
     </apparel>
 	<comps>
-	    <li Class="AK_DLL.CompPropertiesAbility">
-			<abilityDef>AK_Test_Hediff</abilityDef>
-			<maxCharges>1</maxCharges>
-			<destroyOnEmpty>false</destroyOnEmpty>
-			<displayGizmoWhileUndrafted>true</displayGizmoWhileUndrafted>
-		</li>
-		<li Class="AK_DLL.CompPropertiesAbility">
-			<abilityDef>AK_Test_Heal</abilityDef>
+	    <li Class="AK_DLL.CompProperties_Ability">
+			<abilityList>
+				<li>AK_Test_Hediff</li>
+				<li>AK_Test_Heal</li>
+			</abilityList>
 			<maxCharges>1</maxCharges>
 			<destroyOnEmpty>false</destroyOnEmpty>
 			<displayGizmoWhileUndrafted>true</displayGizmoWhileUndrafted>
