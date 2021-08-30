@@ -159,4 +159,16 @@
     </apparel>
   </ThingDef>
 
+  <ThingDef ParentName="AK_ArmorBase_Guard">
+    <defName>AK_Apparel_Specter</defName>
+    <label>幽灵鲨服装</label>
+    <graphicData>
+      <texPath>Things/AK_Agents/Guard/Specter</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/AK_Agents/Guard/Specter</wornGraphicPath>
+    </apparel>
+  </ThingDef>
+
 </Defs>
