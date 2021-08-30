@@ -23,7 +23,7 @@
 <AK_CanntUseAbility_PawnIsNull>无法施放技能，原因：目标不存在，或者施法者不存在????</AK_CanntUseAbility_PawnIsNull>  
 <AK_CanntReclaim>无法回收召唤物</AK_CanntReclaim>
 
-<AK_CDIsntZero>无法使用技能，CD:{0}</AK_CDIsntZero>
+<AK_ChargeIsZero>无法使用技能</AK_ChargeIsZero>
 <AK_SummonedReachedMax>召唤物已达到上限，召唤物上限:{0}</AK_SummonedReachedMax>
 <AK_CanntReclaim>无法回收</AK_CanntReclaim>
 </LanguageData>
