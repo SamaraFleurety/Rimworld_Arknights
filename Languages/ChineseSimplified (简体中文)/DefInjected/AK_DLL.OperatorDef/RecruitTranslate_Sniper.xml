@@ -3,40 +3,60 @@
 
 	<AK_Recruit_Schwarz.name>黑</AK_Recruit_Schwarz.name>
 	<AK_Recruit_Schwarz.nickname>黑</AK_Recruit_Schwarz.nickname>
-	<AK_Recruit_Schwarz.description>FIXME</AK_Recruit_Schwarz.description>
+	<AK_Recruit_Schwarz.description>罗德岛干员黑，将在阴影中守护你。
 
-	<AK_Recruit_AgentW.description>FIXME</AK_Recruit_AgentW.description>
+最好别让胆子小的干员和她一起出任务。</AK_Recruit_Schwarz.description>
+
+	<AK_Recruit_AgentW.description>萨卡兹雇佣兵W，战场上最危险的信号。
+
+她笑起来的时候总没好事。她一直在笑。</AK_Recruit_AgentW.description>
 
 	<AK_Recruit_Executor.name>送葬人</AK_Recruit_Executor.name>
 	<AK_Recruit_Executor.nickname>送葬人</AK_Recruit_Executor.nickname>
-	<AK_Recruit_Executor.description>FIXME</AK_Recruit_Executor.description>
+	<AK_Recruit_Executor.description>拉特兰公证所的专业执行者送葬人，将会履行合约上的所有合同。
+
+千万不要下错任务书，他真能完成些既荒谬又基本不可能的任务。</AK_Recruit_Executor.description>
 
 	<AK_Recruit_Exusiai.name>能天使</AK_Recruit_Exusiai.name>
 	<AK_Recruit_Exusiai.nickname>能天使</AK_Recruit_Exusiai.nickname>
-	<AK_Recruit_Exusiai.description>FIXME</AK_Recruit_Exusiai.description>
+	<AK_Recruit_Exusiai.description>企鹅物流职员能天使，将用铳枪为小队扫平前路。
+
+真的可以放心地把货物交给她吗？</AK_Recruit_Exusiai.description>
 
 	<AK_Recruit_Greythroat.name>灰喉</AK_Recruit_Greythroat.name>
 	<AK_Recruit_Greythroat.nickname>灰喉</AK_Recruit_Greythroat.nickname>
-	<AK_Recruit_Greythroat.description>FIXME</AK_Recruit_Greythroat.description>
+	<AK_Recruit_Greythroat.description>罗德岛狙击干员灰喉，每一次扎实的射击都将带来一份永远的宁静。
+
+如果被她冷眼相向，千万不要以为那是针对你的。</AK_Recruit_Greythroat.description>
 
 	<AK_Recruit_Jessica.name>杰西卡</AK_Recruit_Jessica.name>
 	<AK_Recruit_Jessica.nickname>杰西卡</AK_Recruit_Jessica.nickname>
-	<AK_Recruit_Jessica.description>FIXME</AK_Recruit_Jessica.description>
+	<AK_Recruit_Jessica.description>黑钢狙击干员杰西卡，将用其专业技术为团队提供有效的打击力量。
+
+如果她没那么胆小的话会更好。</AK_Recruit_Jessica.description>
 
 	<AK_Recruit_Pinecone.name>松果</AK_Recruit_Pinecone.name>
 	<AK_Recruit_Pinecone.nickname>松果</AK_Recruit_Pinecone.nickname>
-	<AK_Recruit_Pinecone.description>FIXME</AK_Recruit_Pinecone.description>
+	<AK_Recruit_Pinecone.description>建筑工人松果，迷迷糊糊地完成工作。
+
+看起来没睡醒但工作精准得很，怎么做到的？</AK_Recruit_Pinecone.description>
 
 	<AK_Recruit_Provence.name>普罗旺斯</AK_Recruit_Provence.name>
 	<AK_Recruit_Provence.nickname>普罗旺斯</AK_Recruit_Provence.nickname>
-	<AK_Recruit_Provence.description>FIXME</AK_Recruit_Provence.description>
+	<AK_Recruit_Provence.description>罗德岛天灾信使普罗旺斯，时刻注意着天灾与敌人的动向。
+
+也注意着大家的生活质量。</AK_Recruit_Provence.description>
 
 	<AK_Recruit_Rosa.name>早露</AK_Recruit_Rosa.name>
 	<AK_Recruit_Rosa.nickname>早露</AK_Recruit_Rosa.nickname>
-	<AK_Recruit_Rosa.description>FIXME</AK_Recruit_Rosa.description>
+	<AK_Recruit_Rosa.description>乌萨斯学生自治团成员早露，准备迎接新的生活。
+
+给她一点时间。</AK_Recruit_Rosa.description>
 
 	<AK_Recruit_Rosmontis.name>迷迭香</AK_Recruit_Rosmontis.name>
 	<AK_Recruit_Rosmontis.nickname>迷迭香</AK_Recruit_Rosmontis.nickname>
-	<AK_Recruit_Rosmontis.description>FIXME</AK_Recruit_Rosmontis.description>
+	<AK_Recruit_Rosmontis.description>罗德岛精英干员迷迭香，用手推开了你的办公室门。
+
+她没带装备，不用害怕她记得你昨天偷吃了她的点心的事，也许。</AK_Recruit_Rosmontis.description>
 	
 </LanguageData>

@@ -5,7 +5,8 @@
 		<defName>AK_Recruit_Suzuran</defName>
 		<name>Suzuran</name>
 		<nickname>Suzuran</nickname>
-		<description>FIXME</description>
+		<description>The mysticism and artistry of Higashi, the freedom and yearning of Siracusa.
+Suzuran, Rhodes Island Operator, has nine times the strength, and the fluffiness.</description>
 		<weapon>AK_Weapon_Suzuran</weapon>
 		<hair>AK_Hair_Suzuran</hair>
 		<apparels>
@@ -19,7 +20,8 @@
 		<defName>AK_Recruit_Angelina</defName>
 		<name>Angelina</name>
 		<nickname>Angelina</nickname>
-		<description>FIXME</description>
+		<description>Green, but full of potential.
+Angelina, Supporter Operator and Messenger of Rhodes Island, would like to provide help with her amazing Originium Arts.</description>
 		<weapon>AK_Weapon_Angelina</weapon>
 		<hair>AK_Hair_Angelina</hair>
 		<apparels>
@@ -33,7 +35,8 @@
 		<defName>AK_Recruit_Magallan</defName>
 		<name>Magallan</name>
 		<nickname>Magallan</nickname>
-		<description>FIXME</description>
+		<description>Many things can happen when she presses that button, but she swears that explosions aren't one of them.
+Magallan, the Commissioner of Rhine Labs, is glad to welcome new adventures.</description>
 		<weapon>AK_Weapon_Magallan</weapon>
 		<hair>AK_Hair_Magallan</hair>
 		<apparels>

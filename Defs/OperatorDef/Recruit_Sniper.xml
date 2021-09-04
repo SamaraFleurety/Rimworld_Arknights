@@ -5,7 +5,8 @@
 		<defName>AK_Recruit_Schwarz</defName>
 		<name>Schwarz</name>
 		<nickname>Schwarz</nickname>
-		<description>FIXME</description>
+		<description>Keep her away from the faint of heart.
+Schwarz, Operator of Rhodes Island, will protect you from the shadows.</description>
 		<weapon>AK_Weapon_Schwarz</weapon>
 		<hair>AK_Hair_Schwarz</hair>
 		<apparels>
@@ -19,7 +20,8 @@
 		<defName>AK_Recruit_AgentW</defName>
 		<name>W</name>
 		<nickname>W</nickname>
-		<description>FIXME</description>
+		<description>Nothing good ever comes of her laughter. And she's always laughing.
+W, Sarkaz mercenary, is the single most dangerous signal on the battlefield.</description>
 		<weapon>AK_Weapon_AgentW</weapon>
 		<hair>AK_Hair_AgentW</hair>
 		<apparels>
@@ -33,7 +35,8 @@
 		<defName>AK_Recruit_Executor</defName>
 		<name>Executor</name>
 		<nickname>Executor</nickname>
-		<description>FIXME</description>
+		<description>Be careful what you wish for, because he really can accomplish things that border on absurdity or impossibility.
+Executor, a professional undertaker sent from the Laterano Embassy, is glad to fulfill any and all contracts.</description>
 		<weapon>AK_Weapon_Executor</weapon>
 		<hair>AK_Hair_Executor</hair>
 		<apparels>
@@ -47,7 +50,8 @@
 		<defName>AK_Recruit_Exusiai</defName>
 		<name>Exusiai</name>
 		<nickname>Exusiai</nickname>
-		<description>FIXME</description>
+		<description>Is it really fine to trust her with any cargo?
+Exusiai, employee of Penguin Logistics, will clear out everything in the way using her guns.</description>
 		<weapon>AK_Weapon_Exusiai</weapon>
 		<hair>AK_Hair_Exusiai</hair>
 		<apparels>
@@ -61,7 +65,8 @@
 		<defName>AK_Recruit_Greythroat</defName>
 		<name>Greythroat</name>
 		<nickname>Greythroat</nickname>
-		<description>FIXME</description>
+		<description>If you're ever on the receiving end of her evil eye, it's not necessarily meant for you.
+GreyThroat, Sniper Operator of Rhodes Island, brings eternal peace with each of her steady shots.</description>
 		<weapon>AK_Weapon_Greythroat</weapon>
 		<hair>AK_Hair_Greythroat</hair>
 		<apparels>
@@ -75,7 +80,8 @@
 		<defName>AK_Recruit_Jessica</defName>
 		<name>Jessica</name>
 		<nickname>Jessica</nickname>
-		<description>FIXME</description>
+		<description>If only she wasn't such a scaredy-cat…
+Jessica, Sniper Operator of Blacksteel, will provide effective attack power for the squad with her professional skills.</description>
 		<weapon>AK_Weapon_Jessica</weapon>
 		<hair>AK_Hair_Jessica</hair>
 		<apparels>
@@ -89,7 +95,8 @@
 		<defName>AK_Recruit_Pinecone</defName>
 		<name>Pinecone</name>
 		<nickname>Pinecone</nickname>
-		<description>FIXME</description>
+		<description>She looks half-asleep, but her work's laser-accurate. How does she do it?
+Construction worker Pinecone, all spaced out while she gets the job done.</description>
 		<weapon>AK_Weapon_Pinecone</weapon>
 		<hair>AK_Hair_Pinecone</hair>
 		<apparels>
@@ -103,7 +110,8 @@
 		<defName>AK_Recruit_Provence</defName>
 		<name>Provence</name>
 		<nickname>Provence</nickname>
-		<description>FIXME</description>
+		<description>She also keeps an eye on everyone's health.
+Provence, Catastrophe Messenger of Rhodes Island, always keeps an eye on the movements of Catastrophes and the enemy.</description>
 		<weapon>AK_Weapon_Provence</weapon>
 		<hair>AK_Hair_Provence</hair>
 		<apparels>
@@ -117,7 +125,8 @@
 		<defName>AK_Recruit_Rosa</defName>
 		<name>Rosa</name>
 		<nickname>Rosa</nickname>
-		<description>FIXME</description>
+		<description>Give her some time.
+Rosa, a member of the Ursus Student Self-Government Group, is ready to welcome a new life.</description>
 		<weapon>AK_Weapon_Rosa</weapon>
 		<hair>AK_Hair_Rosa</hair>
 		<apparels>
@@ -131,7 +140,8 @@
 		<defName>AK_Recruit_Rosmontis</defName>
 		<name>Rosmontis</name>
 		<nickname>Rosmontis</nickname>
-		<description>FIXME</description>
+		<description>Her equipment's not on her. No need to worry about her remembering you ate her snacks yesterday. Probably.
+Rosmontis, Rhodes Island Elite Operator, pushes open your office door by hand.</description>
 		<weapon>AK_Weapon_RosmontisTypeA</weapon>
 		<hair>AK_Hair_Rosmontis</hair>
 		<apparels>

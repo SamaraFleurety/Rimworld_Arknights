@@ -5,7 +5,8 @@
 		<defName>AK_Recruit_Robin</defName>
 		<name>Robin</name>
 		<nickname>Robin</nickname>
-		<description>FIXME</description>
+		<description>Sometimes she'll mimic moves from the movies.
+Specialist Operator Robin, a city girl.</description>
 		<weapon>AK_Weapon_Robin</weapon>
 		<hair>AK_Hair_Robin</hair>
 		<apparels>
@@ -19,7 +20,8 @@
 		<defName>AK_Recruit_Red</defName>
 		<name>Red</name>
 		<nickname>Red</nickname>
-		<description>FIXME</description>
+		<description>Her blades are her fangs.
+Projekt Red the Wolf Hunter, Specialist Operator of Rhodes Island, will join the hunt.</description>
 		<weapon>AK_Weapon_Red</weapon>
 		<hair>AK_Hair_Red</hair>
 		<apparels>

@@ -3,22 +3,32 @@
 
 	<AK_Recruit_Vanilla.name>香草</AK_Recruit_Vanilla.name>
 	<AK_Recruit_Vanilla.nickname>香草</AK_Recruit_Vanilla.nickname>
-	<AK_Recruit_Vanilla.description>FIXME</AK_Recruit_Vanilla.description>
+	<AK_Recruit_Vanilla.description>黑钢先锋干员香草，将用其专业技术为团队打开战场。
+
+遇见野生生物的时候请不要让她处理。</AK_Recruit_Vanilla.description>
 
 	<AK_Recruit_Bagpipe.name>风笛</AK_Recruit_Bagpipe.name>
 	<AK_Recruit_Bagpipe.nickname>风笛</AK_Recruit_Bagpipe.nickname>
-	<AK_Recruit_Bagpipe.description>FIXME</AK_Recruit_Bagpipe.description>
+	<AK_Recruit_Bagpipe.description>维多利亚前军人风笛，追寻着真相而来。
+
+战斗和农务上一丝不苟，电子和潮流则一窍不通。</AK_Recruit_Bagpipe.description>
 
 	<AK_Recruit_Reed.name>苇草</AK_Recruit_Reed.name>
 	<AK_Recruit_Reed.nickname>苇草</AK_Recruit_Reed.nickname>
-	<AK_Recruit_Reed.description>FIXME</AK_Recruit_Reed.description>
+	<AK_Recruit_Reed.description>罗德岛收容的病人苇草，愿意为信任的人提供私人援助。
+
+但是，对她的运用比对她的保护更危险。</AK_Recruit_Reed.description>
 
 	<AK_Recruit_Saga.name>嵯峨</AK_Recruit_Saga.name>
 	<AK_Recruit_Saga.nickname>嵯峨</AK_Recruit_Saga.nickname>
-	<AK_Recruit_Saga.description>FIXME</AK_Recruit_Saga.description>
+	<AK_Recruit_Saga.description>云游僧嵯峨，到处凑热闹。
+
+心如琉璃，六根清净。</AK_Recruit_Saga.description>
 
 	<AK_Recruit_Texas.name>德克萨斯</AK_Recruit_Texas.name>
 	<AK_Recruit_Texas.nickname>德克萨斯</AK_Recruit_Texas.nickname>
-	<AK_Recruit_Texas.description>FIXME</AK_Recruit_Texas.description>
+	<AK_Recruit_Texas.description>企鹅物流职员德克萨斯，将使用源石剑为小队取得开局的优势。
+
+可以放心地把货物交给她。</AK_Recruit_Texas.description>
 
 </LanguageData>

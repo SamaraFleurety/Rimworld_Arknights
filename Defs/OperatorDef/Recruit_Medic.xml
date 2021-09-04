@@ -5,7 +5,8 @@
 		<defName>AK_Recruit_Shining</defName>
 		<name>Shining</name>
 		<nickname>Shining</nickname>
-		<description>FIXME</description>
+		<description>Simple, yet a mystery you can't seem to solve no matter what.
+Shining, Sarkaz healer, will do everything she can to provide medical care for the squad.</description>
 		<weapon>AK_Weapon_Shining</weapon>
 		<hair>AK_Hair_Shining</hair>
 		<apparels>
@@ -20,7 +21,8 @@
 		<defName>AK_Recruit_Silence</defName>
 		<name>Silence</name>
 		<nickname>Silence</nickname>
-		<description>FIXME</description>
+		<description>There’s no risk in the fruits of research, as they are only byproducts after all. Experimentation, on the other hand…
+Silence, medical specialist of Rhine Lab, will make use of the latest scientific developments on the battlefield.</description>
 		<weapon>AK_Weapon_Silence</weapon>
 		<hair>AK_Hair_Silence</hair>
 		<apparels>
@@ -34,7 +36,8 @@
 		<defName>AK_Recruit_Gavial</defName>
 		<name>Gavial</name>
 		<nickname>Gavial</nickname>
-		<description>FIXME</description>
+		<description>Her patients always have a peaceful look on their faces.
+Gavial, Medic Operator of Rhodes Island, will protect the lives of her squad members using her special techniques.</description>
 		<weapon>AK_Weapon_Gavial</weapon>
 		<hair>AK_Hair_Gavial</hair>
 		<apparels>
@@ -62,7 +65,8 @@
 		<defName>AK_Recruit_Nightingale</defName>
 		<name>Nightingale</name>
 		<nickname>Nightingale</nickname>
-		<description>FIXME</description>
+		<description>As simple as a blank sheet.
+Nightingale, Sarkaz healer, will do everything she can to provide medical care for the squad.</description>
 		<weapon>AK_Weapon_Nightingale</weapon>
 		<hair>AK_Hair_Nightingale</hair>
 		<apparels>
@@ -77,7 +81,8 @@
 		<defName>AK_Recruit_Perfumer</defName>
 		<name>Perfumer</name>
 		<nickname>Perfumer</nickname>
-		<description>FIXME</description>
+		<description>Anyone with a pollen allergy should stay away.
+Perfumer, manager of 'Health Garden,' will use her fragrant aromatherapy to heal the squad.</description>
 		<weapon>AK_Weapon_Perfumer</weapon>
 		<hair>AK_Hair_Perfumer</hair>
 		<apparels>
@@ -91,7 +96,8 @@
 		<defName>AK_Recruit_Ptilopsis</defName>
 		<name>Ptilopsis</name>
 		<nickname>Ptilopsis</nickname>
-		<description>FIXME</description>
+		<description>101010111101000
+Ptilopsis, database maintainer of Rhine Lab, activated. Please enter commands to operate.</description>
 		<weapon>AK_Weapon_Ptilopsis</weapon>
 		<hair>AK_Hair_Ptilopsis</hair>
 		<apparels>

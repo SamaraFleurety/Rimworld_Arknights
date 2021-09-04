@@ -3,30 +3,44 @@
 
 	<AK_Recruit_Cuora.name>蛇屠箱</AK_Recruit_Cuora.name>
 	<AK_Recruit_Cuora.nickname>蛇屠箱</AK_Recruit_Cuora.nickname>
-	<AK_Recruit_Cuora.description>FIXME</AK_Recruit_Cuora.description>
+	<AK_Recruit_Cuora.description>罗德岛重装干员蛇屠箱，将为小队提供坚实可靠的防御。
+
+变得很硬，超级超级硬。</AK_Recruit_Cuora.description>
 
 	<AK_RecruitEunectesname>森蚺</AK_RecruitEunectesname>
 	<AK_RecruitEunectesnickname>森蚺</AK_RecruitEunectesnickname>
-	<AK_RecruitEunectesdescription>FIXME</AK_RecruitEunectesdescription>
+	<AK_RecruitEunectesdescription>嘉维尔的劲敌森蚺，与“暴躁铁皮”一起踏上战场。
+
+比起拳头，她更喜欢用机器解决问题。</AK_RecruitEunectesdescription>
 
 	<AK_Recruit_Hoshiguma.name>星熊</AK_Recruit_Hoshiguma.name>
 	<AK_Recruit_Hoshiguma.nickname>星熊</AK_Recruit_Hoshiguma.nickname>
-	<AK_Recruit_Hoshiguma.description>FIXME</AK_Recruit_Hoshiguma.description>
+	<AK_Recruit_Hoshiguma.description>龙门近卫局特别任务组干员星熊准备完毕，等待你的指示。
+
+害怕的时候可以站在她身边壮胆。</AK_Recruit_Hoshiguma.description>
 
 	<AK_Recruit_Liskarm.name>雷蛇</AK_Recruit_Liskarm.name>
 	<AK_Recruit_Liskarm.nickname>雷蛇</AK_Recruit_Liskarm.nickname>
-	<AK_Recruit_Liskarm.description>FIXME</AK_Recruit_Liskarm.description>
+	<AK_Recruit_Liskarm.description>黑钢防化人员雷蛇，虽是重装干员，却既持有坚强的盾，又握着锐利的矛。
+
+长枪般的雷电将贯穿面前的一切敌人。</AK_Recruit_Liskarm.description>
 
 	<AK_Recruit_Mudrock.name>泥岩</AK_Recruit_Mudrock.name>
 	<AK_Recruit_Mudrock.nickname>泥岩</AK_Recruit_Mudrock.nickname>
-	<AK_Recruit_Mudrock.description>FIXME</AK_Recruit_Mudrock.description>
+	<AK_Recruit_Mudrock.description>萨卡兹雇佣兵泥岩，沃土与岩块的故友。
+
+很多人都对她的真面目感到惊讶，大家都一样的。</AK_Recruit_Mudrock.description>
 
 	<AK_Recruit_Nian.name>年</AK_Recruit_Nian.name>
 	<AK_Recruit_Nian.nickname>年</AK_Recruit_Nian.nickname>
-	<AK_Recruit_Nian.description>FIXME</AK_Recruit_Nian.description>
+	<AK_Recruit_Nian.description>来自遥远炎土的神秘访客，年，愿意为你提供一些微小的援助。
+
+永远处在各种娱乐活动漩涡的中心。</AK_Recruit_Nian.description>
 
 	<AK_Recruit_Saria.name>塞雷亚</AK_Recruit_Saria.name>
 	<AK_Recruit_Saria.nickname>塞雷亚</AK_Recruit_Saria.nickname>
-	<AK_Recruit_Saria.description>FIXME</AK_Recruit_Saria.description>
+	<AK_Recruit_Saria.description>前莱茵生命研究员塞雷娅，将是防御与治疗并重的战场核心。
+
+即使是钻石，都比她要懂得变通啊。</AK_Recruit_Saria.description>
 
 </LanguageData>

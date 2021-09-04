@@ -5,7 +5,8 @@
 		<defName>AK_Recruit_Dusk</defName>
 		<name>Dusk</name>
 		<nickname>Dusk</nickname>
-		<description>FIXME</description>
+		<description>Summon your courage to talk to her before she loses interest!
+Coming on a whim, the great painter, Dusk, puts only the finishing touches on all jobs.</description>
 		<weapon>AK_Weapon_Dusk</weapon>
 		<hair>AK_Hair_Dusk</hair>
 		<apparels>
@@ -19,7 +20,8 @@
 		<defName>AK_Recruit_Eyjafjalla</defName>
 		<name>Eyjafjalla</name>
 		<nickname>Eyjafjalla</nickname>
-		<description>FIXME</description>
+		<description>Hardworking and earnest all the time.
+Eyjafjalla, Caster Operator of Rhodes Island, has wanted to devote herself to doing something for you.</description>
 		<weapon>AK_Weapon_Eyjafjalla</weapon>
 		<hair>AK_Hair_Eyjafjalla</hair>
 		<apparels>
@@ -33,7 +35,8 @@
 		<defName>AK_Recruit_Ifrit</defName>
 		<name>Ifrit</name>
 		<nickname>Ifrit</nickname>
-		<description>FIXME</description>
+		<description>She was born to set things on fire, and it has become a hobby of hers.
+Ifrit, former test subject of Rhine Lab, will incinerate all of Silence's enemies.</description>
 		<weapon>AK_Weapon_Ifrit</weapon>
 		<hair>AK_Hair_Ifrit</hair>
 		<apparels>
@@ -47,7 +50,8 @@
 		<defName>AK_Recruit_Mint</defName>
 		<name>Mint</name>
 		<nickname>Mint</nickname>
-		<description>FIXME</description>
+		<description>Curiosity is her greatest weapon.
+Mint, the Victorian Caster, seeks recognition as a scholar far more than as a Caster.</description>
 		<weapon>AK_Weapon_Mint</weapon>
 		<hair>AK_Hair_Mint</hair>
 		<apparels>
@@ -61,7 +65,8 @@
 		<defName>AK_Recruit_Mostima</defName>
 		<name>Mostima</name>
 		<nickname>Mostima</nickname>
-		<description>FIXME</description>
+		<description>You'll have to find her first.
+Mostima, Senior Messenger, will lay low all obstacles in your path with her Arts.</description>
 		<weapon>AK_Weapon_MostimaTypeB</weapon>
 		<hair>AK_Hair_Mostima</hair>
 		<apparels>
@@ -75,7 +80,8 @@
 		<defName>AK_Recruit_Skyfire</defName>
 		<name>Skyfire</name>
 		<nickname>Skyfire</nickname>
-		<description>FIXME</description>
+		<description>Fine her if she triggers the fire alarm again!
+Skyfire, Operator from King's Wand, is ready to burn anyone foolish enough to stand in her way.</description>
 		<weapon>AK_Weapon_Skyfire</weapon>
 		<hair>AK_Hair_Skyfire</hair>
 		<apparels>
@@ -89,7 +95,8 @@
 		<defName>AK_Recruit_Absinthe</defName>
 		<name>Absinthe</name>
 		<nickname>Absinthe</nickname>
-		<description>FIXME</description>
+		<description>Unlike last time, she perhaps can once again take up the mantle of a protector.
+Absinthe, Caster Operator, is always ready to eliminate any threats.</description>
 		<weapon>AK_Weapon_Absinthe</weapon>
 		<hair>AK_Hair_Absinthe</hair>
 		<apparels>
@@ -103,7 +110,8 @@
 		<defName>AK_Recruit_Amiya</defName>
 		<name>Amiya</name>
 		<nickname>Amiya</nickname>
-		<description>FIXME</description>
+		<description>Keep fighting, Doctor.
+Amiya, leader of Rhodes Island, will fight alongside you.</description>
 		<weapon>AK_Weapon_Amiya</weapon>
 		<hair>AK_Hair_Amiya</hair>
 		<apparels>
@@ -117,7 +125,8 @@
 		<defName>AK_Recruit_Ceobe</defName>
 		<name>Ceobe</name>
 		<nickname>Ceobe</nickname>
-		<description>FIXME</description>
+		<description>Knocks 'em down one after another, fast and accurate.
+Ceobe is always ready to go after the bad guys.</description>
 		<weapon>AK_Weapon_CeobeTypeB</weapon>
 		<hair>AK_Hair_Ceobe</hair>
 		<apparels>

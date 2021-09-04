@@ -5,7 +5,8 @@
 		<defName>AK_Recruit_Vanilla</defName>
 		<name>Vanilla</name>
 		<nickname>Vanilla</nickname>
-		<description>FIXME</description>
+		<description>Don't let her know if you meet any wild animals.
+Vanilla, Vanguard Operator of Blacksteel, will make way for the squad on the battlefield with her professional skills.</description>
 		<weapon>AK_Weapon_Vanilla</weapon>
 		<hair>AK_Hair_Vanilla</hair>
 		<apparels>
@@ -19,7 +20,8 @@
 		<defName>AK_Recruit_Bagpipe</defName>
 		<name>Bagpipe</name>
 		<nickname>Bagpipe</nickname>
-		<description>FIXME</description>
+		<description>Meticulous when it comes to fighting and farming, utterly clueless when it comes to electronics and trends.
+Bagpipe, former Victorian soldier, has come in search of the truth.</description>
 		<weapon>AK_Weapon_Bagpipe</weapon>
 		<hair>AK_Hair_Bagpipe</hair>
 		<apparels>
@@ -33,7 +35,8 @@
 		<defName>AK_Recruit_Reed</defName>
 		<name>Reed</name>
 		<nickname>Reed</nickname>
-		<description>FIXME</description>
+		<description>Using her is more dangerous than protecting her.
+Reed, Rhodes Island inpatient, will provide personal assistance to those who are trustworthy.</description>
 		<weapon>AK_Weapon_Reed</weapon>
 		<hair>AK_Hair_Reed</hair>
 		<apparels>
@@ -47,7 +50,8 @@
 		<defName>AK_Recruit_Saga</defName>
 		<name>Saga</name>
 		<nickname>Saga</nickname>
-		<description>FIXME</description>
+		<description>A heart like lapis. Cleanse the six senses.
+The wandering monk, Saga, joins in on the action wherever she goes.</description>
 		<weapon>AK_Weapon_Saga</weapon>
 		<hair>AK_Hair_Saga</hair>
 		<apparels>
@@ -61,7 +65,8 @@
 		<defName>AK_Recruit_Texas</defName>
 		<name>Texas</name>
 		<nickname>Texas</nickname>
-		<description>FIXME</description>
+		<description>You can trust her with your cargo.
+Texas, employee of Penguin Logistics, will give the squad a tactical advantage with her Originium Arts at the start of every battle.</description>
 		<weapon>AK_Weapon_Texas</weapon>
 		<hair>AK_Hair_Texas</hair>
 		<apparels>

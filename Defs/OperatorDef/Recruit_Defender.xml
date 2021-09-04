@@ -5,7 +5,8 @@
 		<defName>AK_Recruit_Cuora</defName>
 		<name>Cuora</name>
 		<nickname>Cuora</nickname>
-		<description>FIXME</description>
+		<description>Yeah, it's time to get sturdy. Real sturdy.
+Cuora, Defender Operator of Rhodes Island, will provide reliable defense for the squad.</description>
 		<weapon>AK_Weapon_Cuora</weapon>
 		<hair>AK_Hair_Cuora</hair>
 		<apparels>
@@ -19,7 +20,8 @@
 		<defName>AK_Recruit_Eunectes</defName>
 		<name>Eunectes</name>
 		<nickname>Eunectes</nickname>
-		<description>FIXME</description>
+		<description>She prefers to use machines to solve her problems instead of using her fists.
+Eunectes, Gavial's rival, steps onto the battlefield along with 'Irritable Ironhide.'</description>
 		<weapon>AK_Weapon_EunectesTypeA</weapon>
 		<hair>AK_Hair_Eunectes</hair>
 		<apparels>
@@ -33,7 +35,8 @@
 		<defName>AK_Recruit_Hoshiguma</defName>
 		<name>Hoshiguma</name>
 		<nickname>Hoshiguma</nickname>
-		<description>FIXME</description>
+		<description>Stand by her side when you are scared. It really helps.
+Hoshiguma, member of the Special Service of Lungmen Guard Department, is awaiting your orders.</description>
 		<weapon>AK_Weapon_Hoshiguma</weapon>
 		<hair>AK_Hair_Hoshiguma</hair>
 		<apparels>
@@ -47,7 +50,8 @@
 		<defName>AK_Recruit_Liskarm</defName>
 		<name>Liskarm</name>
 		<nickname>Liskarm</nickname>
-		<description>FIXME</description>
+		<description>Her spear-like lightning will pierce all enemies in front of her.
+Liskarm, Defender Operator of B.P.R.S. of Blacksteel, possesses both a solid shield and a sharp spear.</description>
 		<weapon>AK_Weapon_Liskarm</weapon>
 		<hair>AK_Hair_Liskarm</hair>
 		<apparels>
@@ -61,7 +65,8 @@
 		<defName>AK_Recruit_Mudrock</defName>
 		<name>Mudrock</name>
 		<nickname>Mudrock</nickname>
-		<description>FIXME</description>
+		<description>Many people are astonished by her true appearance, and we're all no different.
+Mudrock, Sarkaz mercenary, old friend of the fertile soil and stone.</description>
 		<weapon>AK_Weapon_Mudrock</weapon>
 		<hair>AK_Hair_Mudrock</hair>
 		<apparels>
@@ -75,7 +80,8 @@
 		<defName>AK_Recruit_Nian</defName>
 		<name>Nian</name>
 		<nickname>Nian</nickname>
-		<description>FIXME</description>
+		<description>Always in the middle of where the excitement is.
+Nian, a mysterious visitor from the faraway land of Yen, is willing to provide a little bit of assistance.</description>
 		<weapon>AK_Weapon_NianTypeA</weapon>
 		<hair>AK_Hair_Nian</hair>
 		<apparels>
@@ -89,7 +95,8 @@
 		<defName>AK_Recruit_Saria</defName>
 		<name>Saria</name>
 		<nickname>Saria</nickname>
-		<description>FIXME</description>
+		<description>Diamond is more flexible than she is.
+Saria, former researcher of Rhine Lab, will serve as a core part of the squad's defense and healing unit on the battlefield.</description>
 		<weapon>AK_Weapon_Saria</weapon>
 		<hair>AK_Hair_Saria</hair>
 		<apparels>
