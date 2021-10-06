@@ -9,9 +9,6 @@
 			<li>Cannibal</li>
 			<li>Psychopath</li>
 		</traits>
-		<apparels>
-			<li>Apparel_EltexSkullcap</li>
-		</apparels>
 		<bodyTypeDef>Thin</bodyTypeDef>
 		<skills>
 			<li>
@@ -75,7 +72,7 @@
 				<fireLevel>0</fireLevel>
 			</li>
 		</skills>
-		<skinColor>(1.0,1.0,1.0)</skinColor>
+		<skinColor>(250,230,210)</skinColor>
 		<hairColor>(1.0,1.0,1.0)</hairColor>
 		<childHood></childHood>
 		<adultHood></adultHood>

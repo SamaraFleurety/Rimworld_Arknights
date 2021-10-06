@@ -87,7 +87,7 @@
     <label>慕斯的爪</label>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Guard/MousseW</texPath>
-      <graphicClass>Graphic_Single</graphicClass>
+	  <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
   </ThingDef>
   
@@ -96,7 +96,7 @@
     <label>银灰的手杖</label>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Guard/SilverashW</texPath>
-      <graphicClass>Graphic_Single</graphicClass>
+	  <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
   </ThingDef>
   

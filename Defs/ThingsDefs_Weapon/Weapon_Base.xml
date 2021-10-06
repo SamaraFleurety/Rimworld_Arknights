@@ -47,13 +47,13 @@
 	
 	<ThingDef Name="AK_WeaponBase" Abstract="True">
 		<description>此干员的惯用武器。</description>
-		<thingClass>ThingWithComps</thingClass>
+		<thingClass>AK_DLL.OperatorWeapon</thingClass>
 		<category>Item</category>
 		<drawerType>MapMeshOnly</drawerType>
 		<drawGUIOverlay>true</drawGUIOverlay>
 		<altitudeLayer>Item</altitudeLayer>
 		<alwaysHaulable>true</alwaysHaulable>
-		<tickerType>Never</tickerType>
+		<tickerType>Normal</tickerType>
 		<equipmentType>Primary</equipmentType>
 		<useHitPoints>false</useHitPoints>
 		<pathCost>14</pathCost>
@@ -75,6 +75,8 @@
 		</comps>
 		<graphicData>
 			<onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+			<texPath>Things/AK_Agents/Weapon/Guard/LapplandW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<techLevel>Industrial</techLevel>
 	</ThingDef>
