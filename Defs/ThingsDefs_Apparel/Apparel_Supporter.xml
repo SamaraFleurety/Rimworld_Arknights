@@ -73,4 +73,16 @@
     </apparel>
   </ThingDef>
   
- </Defs>
+ 	<ThingDef ParentName="AK_ArmorBase_Supporter">
+		<defName>AK_Apparel_Deepcolor</defName>
+		<label>深海色服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Supporter/Deepcolor</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Supporter/Deepcolor</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+</Defs>

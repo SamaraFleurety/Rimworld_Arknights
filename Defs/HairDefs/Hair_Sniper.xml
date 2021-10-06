@@ -63,4 +63,22 @@
 		<texPath>Things/Hair/Sniper/Rosa</texPath>
 	</HairDef>
 	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Platinum</defName>
+		<label>白金发型</label>
+		<texPath>Things/Hair/Sniper/Platinum</texPath>
+	</HairDef>
+
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Archetto</defName>
+		<label>空弦发型</label>
+		<texPath>Things/Hair/Sniper/Archetto</texPath>
+	</HairDef>
+
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Meteorite</defName>
+		<label>陨星发型</label>
+		<texPath>Things/Hair/Sniper/Meteorite</texPath>
+	</HairDef>
+
 </Defs>

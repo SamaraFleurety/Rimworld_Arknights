@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  FIXME:连带base一起完全没做  -->
+<Defs>
+
+	<ThingDef ParentName="AK_AccessoryBase" Abstract="True">
+		<defName>AK_Accessory_Weedy</defName>
+		<label>小叶</label>
+	</ThingDef>
+
+</Defs>

@@ -31,4 +31,32 @@ Projekt Red the Wolf Hunter, Specialist Operator of Rhodes Island, will join the
 		<headPortrait>UI/Image/Specialist/RedPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
 
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Specialist">
+		<defName>AK_Recruit_Gladiia</defName>
+		<name>Gladiia</name>
+		<nickname>Gladiia</nickname>
+		<description>FIXME</description>
+		<weapon>AK_Weapon_Gladiia</weapon>
+		<hair>AK_Hair_Gladiia</hair>
+		<apparels>
+			<li>AK_Apparel_Gladiia</li>
+		</apparels>
+		<stand>UI/Image/Specialist/GladiiaStand</stand>
+		<headPortrait>UI/Image/Specialist/GladiiaPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Specialist">
+		<defName>AK_Recruit_Weedy</defName>
+		<name>Weedy</name>
+		<nickname>Weedy</nickname>
+		<description>FIXME</description>
+		<weapon>AK_Weapon_Weedy</weapon>
+		<hair>AK_Hair_Weedy</hair>
+		<apparels>
+			<li>AK_Apparel_Weedy</li>
+		</apparels>
+		<stand>UI/Image/Specialist/WeedyStand</stand>
+		<headPortrait>UI/Image/Specialist/WeedyPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
 </Defs>

@@ -121,4 +121,40 @@
     </apparel>
   </ThingDef>
   
- </Defs>
+ 	<ThingDef ParentName="AK_ArmorBase_Sniper">
+		<defName>AK_Apparel_Platinum</defName>
+		<label>白金服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Sniper/Platinum</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Sniper/Platinum</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_ArmorBase_Sniper">
+		<defName>AK_Apparel_Archetto</defName>
+		<label>空弦服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Sniper/Archetto</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Sniper/Archetto</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_ArmorBase_Sniper">
+		<defName>AK_Apparel_Meteorite</defName>
+		<label>陨星服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Sniper/Meteorite</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Sniper/Meteorite</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+</Defs>

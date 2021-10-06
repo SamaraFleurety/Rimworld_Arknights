@@ -118,4 +118,22 @@
     </graphicData>
   </ThingDef>
   
+	<ThingDef ParentName="AK_WeaponBase_Caster">
+		<defName>AK_Weapon_Carnelian</defName>
+		<label>卡涅利安的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Caster/CarnelianW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_WeaponBase_Caster">
+		<defName>AK_Weapon_Beeswax</defName>
+		<label>蜜蜡的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Caster/BeeswaxW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
 </Defs>

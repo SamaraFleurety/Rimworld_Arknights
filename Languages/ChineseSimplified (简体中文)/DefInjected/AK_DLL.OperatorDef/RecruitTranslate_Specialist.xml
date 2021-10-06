@@ -13,4 +13,12 @@
 
 利刃，就是锐齿。</AK_Recruit_Red.description>
 
+	<AK_Recruit_Gladiia.name>歌蕾蒂娅</AK_Recruit_Gladiia.name>
+	<AK_Recruit_Gladiia.nickname>歌蕾蒂娅</AK_Recruit_Gladiia.nickname>
+	<AK_Recruit_Gladiia.description>FIXME</AK_Recruit_Gladiia.description>
+
+	<AK_Recruit_Weedy.name>温蒂</AK_Recruit_Weedy.name>
+	<AK_Recruit_Weedy.nickname>温蒂</AK_Recruit_Weedy.nickname>
+	<AK_Recruit_Weedy.description>FIXME</AK_Recruit_Weedy.description>
+
 </LanguageData>

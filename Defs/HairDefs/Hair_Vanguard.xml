@@ -33,4 +33,10 @@
 		<texPath>Things/Hair/Vanguard/Vanilla</texPath>
 	</HairDef>
 
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Saileach</defName>
+		<label>琴柳发型</label>
+		<texPath>Things/Hair/Vanguard/Saileach</texPath>
+	</HairDef>
+
 </Defs>

@@ -57,4 +57,16 @@
 		<texPath>Things/Hair/Caster/Mostima</texPath>
 	</HairDef>
 
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Carnelian</defName>
+		<label>卡涅利安发型</label>
+		<texPath>Things/Hair/Caster/Carnelian</texPath>
+	</HairDef>
+
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Beeswax</defName>
+		<label>蜜蜡发型</label>
+		<texPath>Things/Hair/Caster/Beeswax</texPath>
+	</HairDef>
+
 </Defs>

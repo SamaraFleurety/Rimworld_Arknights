@@ -136,4 +136,32 @@ Ceobe is always ready to go after the bad guys.</description>
 		<headPortrait>UI/Image/Caster/CeobePortrait</headPortrait>
 	</AK_DLL.OperatorDef>
 
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Caster">
+		<defName>AK_Recruit_Carnelian</defName>
+		<name>Carnelian</name>
+		<nickname>Carnelian</nickname>
+		<description>FIXME</description>
+		<weapon>AK_Weapon_Carnelian</weapon>
+		<hair>AK_Hair_Carnelian</hair>
+		<apparels>
+			<li>AK_Apparel_Carnelian</li>
+		</apparels>
+		<stand>UI/Image/Caster/CarnelianStand</stand>
+		<headPortrait>UI/Image/Caster/CarnelianPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Caster">
+		<defName>AK_Recruit_Beeswax</defName>
+		<name>Beeswax</name>
+		<nickname>Beeswax</nickname>
+		<description>FIXME</description>
+		<weapon>AK_Weapon_Beeswax</weapon>
+		<hair>AK_Hair_Beeswax</hair>
+		<apparels>
+			<li>AK_Apparel_Beeswax</li>
+		</apparels>
+		<stand>UI/Image/Caster/BeeswaxStand</stand>
+		<headPortrait>UI/Image/Caster/BeeswaxPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
 </Defs>

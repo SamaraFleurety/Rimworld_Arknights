@@ -151,4 +151,46 @@ Rosmontis, Rhodes Island Elite Operator, pushes open your office door by hand.</
 		<headPortrait>UI/Image/Sniper/RosmontisPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
 
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Sniper">
+		<defName>AK_Recruit_Platinum</defName>
+		<name>Platinum</name>
+		<nickname>Platinum</nickname>
+		<description>FIXME</description>
+		<weapon>AK_Weapon_Platinum</weapon>
+		<hair>AK_Hair_Platinum</hair>
+		<apparels>
+			<li>AK_Apparel_Platinum</li>
+		</apparels>
+		<stand>UI/Image/Sniper/PlatinumStand</stand>
+		<headPortrait>UI/Image/Sniper/PlatinumPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Sniper">
+		<defName>AK_Recruit_Archetto</defName>
+		<name>Archetto</name>
+		<nickname>Archetto</nickname>
+		<description>FIXME</description>
+		<weapon>AK_Weapon_Archetto</weapon>
+		<hair>AK_Hair_Archetto</hair>
+		<apparels>
+			<li>AK_Apparel_Archetto</li>
+		</apparels>
+		<stand>UI/Image/Sniper/ArchettoStand</stand>
+		<headPortrait>UI/Image/Sniper/ArchettoPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Sniper">
+		<defName>AK_Recruit_Meteorite</defName>
+		<name>Meteorite</name>
+		<nickname>Meteorite</nickname>
+		<description>FIXME</description>
+		<weapon>AK_Weapon_Meteorite</weapon>
+		<hair>AK_Hair_Meteorite</hair>
+		<apparels>
+			<li>AK_Apparel_Meteorite</li>
+		</apparels>
+		<stand>UI/Image/Sniper/MeteoriteStand</stand>
+		<headPortrait>UI/Image/Sniper/MeteoritePortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
 </Defs>

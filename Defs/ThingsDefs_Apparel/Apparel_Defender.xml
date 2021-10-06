@@ -84,4 +84,16 @@
     </apparel>
   </ThingDef>
    
- </Defs>
+ 	<ThingDef ParentName="AK_ArmorBase_Defender">
+		<defName>AK_Apparel_Blemishine</defName>
+		<label>暇光服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Defender/Blemishine</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Defender/Blemishine</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+</Defs>

@@ -59,4 +59,16 @@
 
 她没带装备，不用害怕她记得你昨天偷吃了她的点心的事，也许。</AK_Recruit_Rosmontis.description>
 	
+	<AK_Recruit_Platinum.name>白金</AK_Recruit_Platinum.name>
+	<AK_Recruit_Platinum.nickname>白金</AK_Recruit_Platinum.nickname>
+	<AK_Recruit_Platinum.description>FIXME</AK_Recruit_Platinum.description>
+
+	<AK_Recruit_Archetto.name>空弦</AK_Recruit_Archetto.name>
+	<AK_Recruit_Archetto.nickname>空弦</AK_Recruit_Archetto.nickname>
+	<AK_Recruit_Archetto.description>FIXME</AK_Recruit_Archetto.description>
+
+	<AK_Recruit_Meteorite.name>陨星</AK_Recruit_Meteorite.name>
+	<AK_Recruit_Meteorite.nickname>陨星</AK_Recruit_Meteorite.nickname>
+	<AK_Recruit_Meteorite.description>FIXME</AK_Recruit_Meteorite.description>
+
 </LanguageData>

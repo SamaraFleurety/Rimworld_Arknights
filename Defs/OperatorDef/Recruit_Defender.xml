@@ -106,4 +106,18 @@ Saria, former researcher of Rhine Lab, will serve as a core part of the squad's 
 		<headPortrait>UI/Image/Defender/SariaPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
 
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Defender">
+		<defName>AK_Recruit_Blemishine</defName>
+		<name>Blemishine</name>
+		<nickname>Blemishine</nickname>
+		<description>FIXME</description>
+		<weapon>AK_Weapon_Blemishine</weapon>
+		<hair>AK_Hair_Blemishine</hair>
+		<apparels>
+			<li>AK_Apparel_Blemishine</li>
+		</apparels>
+		<stand>UI/Image/Defender/BlemishineStand</stand>
+		<headPortrait>UI/Image/Defender/BlemishinePortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
 </Defs>

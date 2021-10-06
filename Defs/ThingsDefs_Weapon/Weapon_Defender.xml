@@ -82,4 +82,13 @@
     </graphicData>
   </ThingDef>
   
+	<ThingDef ParentName="AK_WeaponBase_Defender">
+		<defName>AK_Weapon_Blemishine</defName>
+		<label>暇光的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Defender/BlemishineW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
 </Defs>

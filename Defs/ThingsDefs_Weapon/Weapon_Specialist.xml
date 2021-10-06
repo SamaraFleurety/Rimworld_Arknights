@@ -19,4 +19,22 @@
     </graphicData>
   </ThingDef>
   
+	<ThingDef ParentName="AK_WeaponBase_Specialist">
+		<defName>AK_Weapon_Gladiia</defName>
+		<label>歌蕾蒂娅的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Specialist/GladiiaW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_WeaponBase_Specialist">
+		<defName>AK_Weapon_Weedy</defName>
+		<label>温蒂的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Specialist/WeedyW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
 </Defs>

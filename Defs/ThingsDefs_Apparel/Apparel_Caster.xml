@@ -109,4 +109,28 @@
  	</apparel>
   </ThingDef>
   
- </Defs>
+ 	<ThingDef ParentName="AK_ArmorBase_Caster">
+		<defName>AK_Apparel_Carnelian</defName>
+		<label>卡涅利安服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Caster/Carnelian</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Caster/Carnelian</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_ArmorBase_Caster">
+		<defName>AK_Apparel_Beeswax</defName>
+		<label>蜜蜡服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Caster/Beeswax</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Caster/Beeswax</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+</Defs>

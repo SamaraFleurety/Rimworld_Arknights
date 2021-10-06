@@ -46,4 +46,13 @@
     </graphicData>
   </ThingDef>
   
+	<ThingDef ParentName="AK_WeaponBase_Vanguard">
+		<defName>AK_Weapon_Saileach</defName>
+		<label>琴柳的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Vanguard/SaileachW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
 </Defs>

@@ -15,4 +15,16 @@
 		<texPath>Things/Hair/Specialist/Robin</texPath>
 	</HairDef>
 
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Gladiia</defName>
+		<label>歌蕾蒂娅发型</label>
+		<texPath>Things/Hair/Specialist/Gladiia</texPath>
+	</HairDef>
+
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Weedy</defName>
+		<label>温蒂发型</label>
+		<texPath>Things/Hair/Specialist/Weedy</texPath>
+	</HairDef>
+
 </Defs>

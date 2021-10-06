@@ -55,4 +55,12 @@
 
 能敲一个两个三个，又快又准。</AK_Recruit_Ceobe.description>
 
+	<AK_Recruit_Carnelian.name>卡涅利安</AK_Recruit_Carnelian.name>
+	<AK_Recruit_Carnelian.nickname>卡涅利安</AK_Recruit_Carnelian.nickname>
+	<AK_Recruit_Carnelian.description>FIXME</AK_Recruit_Carnelian.description>
+
+	<AK_Recruit_Beeswax.name>蜜蜡</AK_Recruit_Beeswax.name>
+	<AK_Recruit_Beeswax.nickname>蜜蜡</AK_Recruit_Beeswax.nickname>
+	<AK_Recruit_Beeswax.description>FIXME</AK_Recruit_Beeswax.description>
+
 </LanguageData>

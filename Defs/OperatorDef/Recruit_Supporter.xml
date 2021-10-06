@@ -46,4 +46,18 @@ Magallan, the Commissioner of Rhine Labs, is glad to welcome new adventures.</de
 		<headPortrait>UI/Image/Supporter/MagallanPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
 
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Supporter">
+		<defName>AK_Recruit_Deepcolor</defName>
+		<name>Deepcolor</name>
+		<nickname>Deepcolor</nickname>
+		<description>FIXME</description>
+		<weapon>AK_Weapon_Deepcolor</weapon>
+		<hair>AK_Hair_Deepcolor</hair>
+		<apparels>
+			<li>AK_Apparel_Deepcolor</li>
+		</apparels>
+		<stand>UI/Image/Supporter/DeepcolorStand</stand>
+		<headPortrait>UI/Image/Supporter/DeepcolorPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
 </Defs>

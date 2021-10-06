@@ -99,4 +99,31 @@
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
   </ThingDef>
+	<ThingDef ParentName="AK_WeaponBase_Sniper">
+		<defName>AK_Weapon_Platinum</defName>
+		<label>白金的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Sniper/PlatinumW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_WeaponBase_Sniper">
+		<defName>AK_Weapon_Archetto</defName>
+		<label>空弦的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Sniper/ArchettoW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_WeaponBase_Sniper">
+		<defName>AK_Weapon_Meteorite</defName>
+		<label>陨星的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Sniper/MeteoriteW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
 </Defs>

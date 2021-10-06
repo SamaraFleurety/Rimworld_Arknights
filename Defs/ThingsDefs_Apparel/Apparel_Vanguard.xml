@@ -61,4 +61,16 @@
 	  </apparel>
   </ThingDef>
   
+	<ThingDef ParentName="AK_ArmorBase_Vanguard">
+		<defName>AK_Apparel_Saileach</defName>
+		<label>琴柳服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Vanguard/Saileach</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Vanguard/Saileach</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
 </Defs>

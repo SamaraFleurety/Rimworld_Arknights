@@ -64,6 +64,42 @@
 		</apparel>
 	</ThingDef>
 	
+	<ThingDef ParentName="AK_HatBase">
+		<defName>AK_Hat_Red</defName>
+		<label>红的帽子</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/HatAccessory/RedH</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/HatAccessory/RedH</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+		
+	<ThingDef ParentName="AK_HatBase">
+		<defName>AK_Hat_Gladiia</defName>
+		<label>歌蕾蒂娅的帽子</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/HatAccessory/GladiiaH</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/HatAccessory/GladiiaH</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+		
+	<ThingDef ParentName="AK_HatBase">
+		<defName>AK_Hat_Weedy</defName>
+		<label>温蒂帽子</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/HatAccessory/WeedyH</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/HatAccessory/WeedyH</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+	
 <!-- 整合 -->
 
 	<ThingDef ParentName="AK_HatBase_Reunion">

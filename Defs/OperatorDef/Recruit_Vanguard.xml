@@ -76,4 +76,18 @@ Texas, employee of Penguin Logistics, will give the squad a tactical advantage w
 		<headPortrait>UI/Image/Vanguard/TexasPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
 
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Vanguard">
+		<defName>AK_Recruit_Saileach</defName>
+		<name>Saileach</name>
+		<nickname>Saileach</nickname>
+		<description>FIXME</description>
+		<weapon>AK_Weapon_Saileach</weapon>
+		<hair>AK_Hair_Saileach</hair>
+		<apparels>
+			<li>AK_Apparel_Saileach</li>
+		</apparels>
+		<stand>UI/Image/Vanguard/SaileachStand</stand>
+		<headPortrait>UI/Image/Vanguard/SaileachPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
 </Defs>

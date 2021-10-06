@@ -45,4 +45,10 @@
 		<texPath>Things/Hair/Defender/Saria</texPath>
 	</HairDef>
 
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Blemishine</defName>
+		<label>暇光发型</label>
+		<texPath>Things/Hair/Defender/Blemishine</texPath>
+	</HairDef>
+
 </Defs>

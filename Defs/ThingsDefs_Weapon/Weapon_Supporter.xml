@@ -28,4 +28,13 @@
     </graphicData>
   </ThingDef>
   
+	<ThingDef ParentName="AK_WeaponBase_Supporter">
+		<defName>AK_Weapon_Deepcolor</defName>
+		<label>深海色的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Supporter/DeepcolorW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
 </Defs>
