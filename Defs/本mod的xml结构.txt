@@ -1,4 +1,4 @@
-<根 Defs> 
+<根> 
 	<类别 CategoryDefs> </类别>
 	<发型 HairDefs> 
 		基底
@@ -16,8 +16,8 @@
 					士兵:AK_Apparel_Soilder_<英文名>
 			<帽子和饰品>
 				命名标准:
-					AK_Apparel_<英文名>+H(苏版遗毒)
-					AK_Apparel_Soilder_<英文名>+H
+					AK_Apparel_<英文名>
+					AK_Apparel_Soilder_<英文名>
 		</衣着>
 		<武器 ThingsDefs_Weapon>
 			定义，贴图路径均同衣着
