@@ -43,6 +43,7 @@ Projekt Red the Wolf Hunter, Specialist Operator of Rhodes Island, will join the
 		</apparels>
 		<stand>UI/Image/Specialist/GladiiaStand</stand>
 		<headPortrait>UI/Image/Specialist/GladiiaPortrait</headPortrait>
+		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Specialist">

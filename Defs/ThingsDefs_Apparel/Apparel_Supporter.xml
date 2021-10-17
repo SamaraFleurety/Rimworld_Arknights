@@ -61,18 +61,6 @@
     </apparel>
   </ThingDef>
   
-  <ThingDef ParentName="AK_ArmorBase_Supporter">
-    <defName>AK_Apparel_Pramanix</defName>
-    <label>初雪的服装</label>
-    <graphicData>
-      <texPath>Things/AK_Agents/Supporter/Pramanix</texPath>
-      <graphicClass>Graphic_Single</graphicClass>
-    </graphicData>
-    <apparel>
-      <wornGraphicPath>Things/AK_Agents/Supporter/Pramanix</wornGraphicPath>
-    </apparel>
-  </ThingDef>
-  
  	<ThingDef ParentName="AK_ArmorBase_Supporter">
 		<defName>AK_Apparel_Deepcolor</defName>
 		<label>深海色服装</label>
@@ -82,6 +70,18 @@
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>Things/AK_Agents/Supporter/Deepcolor</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_ArmorBase_Supporter">
+		<defName>AK_Apparel_Pramanix</defName>
+		<label>初雪服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Supporter/Pramanix</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Supporter/Pramanix</wornGraphicPath>
 		</apparel>
 	</ThingDef>
 

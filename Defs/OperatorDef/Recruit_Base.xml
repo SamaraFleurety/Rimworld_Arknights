@@ -78,6 +78,10 @@
 		<adultHood></adultHood>
 		<age>18</age>
 		<isMale>false</isMale>
+<!-- FIXME:删掉-->
+		<abilities>
+			<li>AK_Test_Hediff</li>
+	    </abilities>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase" Name="AK_RecruitBase_Guard" Abstract="True">

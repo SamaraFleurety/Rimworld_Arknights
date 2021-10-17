@@ -14,6 +14,7 @@ Schwarz, Operator of Rhodes Island, will protect you from the shadows.</descript
 		</apparels>
 		<stand>UI/Image/Sniper/SchwarzStand</stand>
 		<headPortrait>UI/Image/Sniper/SchwarzPortrait</headPortrait>
+		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Sniper">
@@ -27,8 +28,9 @@ W, Sarkaz mercenary, is the single most dangerous signal on the battlefield.</de
 		<apparels>
 			<li>AK_Apparel_AgentW</li>
 		</apparels>
-		<stand>UI/Image/Sniper/AgentWStand</stand>
-		<headPortrait>UI/Image/Sniper/AgentWPortrait</headPortrait>
+		<stand>UI/Image/Sniper/WStand</stand>
+		<headPortrait>UI/Image/Sniper/WPortrait</headPortrait>
+		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Sniper">
@@ -44,6 +46,7 @@ Executor, a professional undertaker sent from the Laterano Embassy, is glad to f
 		</apparels>
 		<stand>UI/Image/Sniper/ExecutorStand</stand>
 		<headPortrait>UI/Image/Sniper/ExecutorPortrait</headPortrait>
+		<bodyTypeDef>Male</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Sniper">
@@ -74,6 +77,7 @@ GreyThroat, Sniper Operator of Rhodes Island, brings eternal peace with each of 
 		</apparels>
 		<stand>UI/Image/Sniper/GreythroatStand</stand>
 		<headPortrait>UI/Image/Sniper/GreythroatPortrait</headPortrait>
+		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Sniper">
@@ -119,6 +123,7 @@ Provence, Catastrophe Messenger of Rhodes Island, always keeps an eye on the mov
 		</apparels>
 		<stand>UI/Image/Sniper/ProvenceStand</stand>
 		<headPortrait>UI/Image/Sniper/ProvencePortrait</headPortrait>
+		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Sniper">
@@ -134,6 +139,7 @@ Rosa, a member of the Ursus Student Self-Government Group, is ready to welcome a
 		</apparels>
 		<stand>UI/Image/Sniper/RosaStand</stand>
 		<headPortrait>UI/Image/Sniper/RosaPortrait</headPortrait>
+		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Sniper">
@@ -177,6 +183,7 @@ Rosmontis, Rhodes Island Elite Operator, pushes open your office door by hand.</
 		</apparels>
 		<stand>UI/Image/Sniper/ArchettoStand</stand>
 		<headPortrait>UI/Image/Sniper/ArchettoPortrait</headPortrait>
+		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Sniper">
@@ -191,6 +198,7 @@ Rosmontis, Rhodes Island Elite Operator, pushes open your office door by hand.</
 		</apparels>
 		<stand>UI/Image/Sniper/MeteoriteStand</stand>
 		<headPortrait>UI/Image/Sniper/MeteoritePortrait</headPortrait>
+		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
 </Defs>

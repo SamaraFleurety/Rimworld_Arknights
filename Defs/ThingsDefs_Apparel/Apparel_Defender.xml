@@ -95,5 +95,17 @@
 			<wornGraphicPath>Things/AK_Agents/Defender/Blemishine</wornGraphicPath>
 		</apparel>
 	</ThingDef>
+    
+  <ThingDef ParentName="AK_ArmorBase_Defender">
+    <defName>AK_Apparel_Cuora</defName>
+    <label>蛇屠箱服装</label>
+    <graphicData>
+      <texPath>Things/AK_Agents/Defender/Cuora</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/AK_Agents/Defender/Cuora</wornGraphicPath>
+    </apparel>
+  </ThingDef>  
 
 </Defs>

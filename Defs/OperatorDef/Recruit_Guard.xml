@@ -14,9 +14,9 @@ SilverAsh, President of Karlan Trade CO., LTD, has signed the contract with Rhod
 		</apparels>
 		<stand>UI/Image/Guard/SilverashStand</stand>
 		<headPortrait>UI/Image/Guard/SilverashPortrait</headPortrait>
-		<abilities>
+	<!--	<abilities>
 			<li>AK_Test_Hediff</li>
-	    </abilities>
+	    </abilities> -->
 		<bodyTypeDef>Male</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
@@ -34,6 +34,7 @@ Skadi, bounty hunter, has come with the tide to drown your enemies.</description
 		</apparels>
 		<stand>UI/Image/Guard/SkadiStand</stand>
 		<headPortrait>UI/Image/Guard/SkadiPortrait</headPortrait>
+		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Guard">
@@ -64,6 +65,7 @@ Thorns, Guard Operator of Rhodes Island, wastes not an ounce of energy, calculat
 		</apparels>
 		<stand>UI/Image/Guard/ThornsStand</stand>
 		<headPortrait>UI/Image/Guard/ThornsPortrait</headPortrait>
+		<bodyTypeDef>Male</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Guard">
@@ -79,6 +81,7 @@ Rhodes Island Guard Operator Surtr, a person difficult to approach.</description
 		</apparels>
 		<stand>UI/Image/Guard/SurtrStand</stand>
 		<headPortrait>UI/Image/Guard/SurtrPortrait</headPortrait>
+		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Guard">
@@ -94,6 +97,7 @@ Blaze, Rhodes Island's most fired-up Operator, will spread her enthusiasm like a
 		</apparels>
 		<stand>UI/Image/Guard/BlazeStand</stand>
 		<headPortrait>UI/Image/Guard/BlazePortrait</headPortrait>
+		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Guard">
@@ -109,6 +113,7 @@ Ch'en, Special Inspection Unit Chief, L.G.D., is cooperating with Rhodes Island 
 		</apparels>
 		<stand>UI/Image/Guard/ChenStand</stand>
 		<headPortrait>UI/Image/Guard/ChenPortrait</headPortrait>
+		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Guard">
@@ -139,6 +144,7 @@ Franka, Guard Operator of B.P.R.S. of Blacksteel, is waiting for your orders.</d
 		</apparels>
 		<stand>UI/Image/Guard/FrankaStand</stand>
 		<headPortrait>UI/Image/Guard/FrankaPortrait</headPortrait>
+		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Guard">
@@ -170,6 +176,7 @@ Operator Lappland can't wait to slash apart the enemies in front of her.</descri
 		</apparels>
 		<stand>UI/Image/Guard/LapplandStand</stand>
 		<headPortrait>UI/Image/Guard/LapplandPortrait</headPortrait>
+		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Guard">

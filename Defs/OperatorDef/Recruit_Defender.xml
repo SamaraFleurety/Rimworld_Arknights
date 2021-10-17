@@ -29,6 +29,7 @@ Eunectes, Gavial's rival, steps onto the battlefield along with 'Irritable Ironh
 		</apparels>
 		<stand>UI/Image/Defender/EunectesStand</stand>
 		<headPortrait>UI/Image/Defender/EunectesPortrait</headPortrait>
+		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Defender">
@@ -44,6 +45,7 @@ Hoshiguma, member of the Special Service of Lungmen Guard Department, is awaitin
 		</apparels>
 		<stand>UI/Image/Defender/HoshigumaStand</stand>
 		<headPortrait>UI/Image/Defender/HoshigumaPortrait</headPortrait>
+		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Defender">
@@ -59,6 +61,7 @@ Liskarm, Defender Operator of B.P.R.S. of Blacksteel, possesses both a solid shi
 		</apparels>
 		<stand>UI/Image/Defender/LiskarmStand</stand>
 		<headPortrait>UI/Image/Defender/LiskarmPortrait</headPortrait>
+		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Defender">
@@ -74,6 +77,7 @@ Mudrock, Sarkaz mercenary, old friend of the fertile soil and stone.</descriptio
 		</apparels>
 		<stand>UI/Image/Defender/MudrockStand</stand>
 		<headPortrait>UI/Image/Defender/MudrockPortrait</headPortrait>
+		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Defender">
@@ -89,6 +93,7 @@ Nian, a mysterious visitor from the faraway land of Yen, is willing to provide a
 		</apparels>
 		<stand>UI/Image/Defender/NianStand</stand>
 		<headPortrait>UI/Image/Defender/NianPortrait</headPortrait>
+		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Defender">
@@ -104,6 +109,7 @@ Saria, former researcher of Rhine Lab, will serve as a core part of the squad's 
 		</apparels>
 		<stand>UI/Image/Defender/SariaStand</stand>
 		<headPortrait>UI/Image/Defender/SariaPortrait</headPortrait>
+		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Defender">
@@ -118,6 +124,7 @@ Saria, former researcher of Rhine Lab, will serve as a core part of the squad's 
 		</apparels>
 		<stand>UI/Image/Defender/BlemishineStand</stand>
 		<headPortrait>UI/Image/Defender/BlemishinePortrait</headPortrait>
+		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
 </Defs>

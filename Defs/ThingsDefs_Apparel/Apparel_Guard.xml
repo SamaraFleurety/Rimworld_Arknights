@@ -131,18 +131,6 @@
       <wornGraphicPath>Things/AK_Agents/Guard/Skadi</wornGraphicPath>
     </apparel>
   </ThingDef>
-    
-  <ThingDef ParentName="AK_ArmorBase_Guard">
-    <defName>AK_Apparel_Cuora</defName>
-    <label>蛇屠箱服装</label>
-    <graphicData>
-      <texPath>Things/AK_Agents/Guard/Cuora</texPath>
-      <graphicClass>Graphic_Single</graphicClass>
-    </graphicData>
-    <apparel>
-      <wornGraphicPath>Things/AK_Agents/Guard/Cuora</wornGraphicPath>
-    </apparel>
-  </ThingDef>  
   
   <ThingDef ParentName="AK_ArmorBase_Guard">
     <defName>AK_Apparel_Thorns</defName>
