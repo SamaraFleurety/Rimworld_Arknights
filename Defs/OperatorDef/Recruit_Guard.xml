@@ -66,6 +66,7 @@ Thorns, Guard Operator of Rhodes Island, wastes not an ounce of energy, calculat
 		<stand>UI/Image/Guard/ThornsStand</stand>
 		<headPortrait>UI/Image/Guard/ThornsPortrait</headPortrait>
 		<bodyTypeDef>Male</bodyTypeDef>
+		<skinColor>(210,180,170)</skinColor>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Guard">

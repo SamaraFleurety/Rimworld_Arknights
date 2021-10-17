@@ -154,6 +154,7 @@ Ceobe is always ready to go after the bad guys.</description>
 		<stand>UI/Image/Caster/CarnelianStand</stand>
 		<headPortrait>UI/Image/Caster/CarnelianPortrait</headPortrait>
 		<bodyTypeDef>Female</bodyTypeDef>
+		<skinColor>(210,180,170)</skinColor>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Caster">
@@ -168,6 +169,7 @@ Ceobe is always ready to go after the bad guys.</description>
 		</apparels>
 		<stand>UI/Image/Caster/BeeswaxStand</stand>
 		<headPortrait>UI/Image/Caster/BeeswaxPortrait</headPortrait>
+		<skinColor>(210,180,170)</skinColor>
 	</AK_DLL.OperatorDef>
 
 </Defs>
