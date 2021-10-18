@@ -157,4 +157,16 @@
 		</apparel>
 	</ThingDef>
 
+	<ThingDef ParentName="AK_ArmorBase_Sniper">
+		<defName>AK_Apparel_Bluepoison</defName>
+		<label>蓝毒服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Sniper/Bluepoison</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Sniper/Bluepoison</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
 </Defs>

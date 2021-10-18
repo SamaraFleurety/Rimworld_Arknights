@@ -15,10 +15,14 @@
 
 	<AK_Recruit_Gladiia.name>歌蕾蒂娅</AK_Recruit_Gladiia.name>
 	<AK_Recruit_Gladiia.nickname>歌蕾蒂娅</AK_Recruit_Gladiia.nickname>
-	<AK_Recruit_Gladiia.description>FIXME</AK_Recruit_Gladiia.description>
+	<AK_Recruit_Gladiia.description>罗德岛阿戈尔事务负责人歌蕾蒂娅，现在会向你透露一些信息。
+
+言语包含的礼节习惯和性格的恶劣程度没有什么关联。</AK_Recruit_Gladiia.description>
 
 	<AK_Recruit_Weedy.name>温蒂</AK_Recruit_Weedy.name>
 	<AK_Recruit_Weedy.nickname>温蒂</AK_Recruit_Weedy.nickname>
-	<AK_Recruit_Weedy.description>FIXME</AK_Recruit_Weedy.description>
+	<AK_Recruit_Weedy.description>罗德岛生物工程研究员温蒂，研究之余踏上战场。
+
+在她面前要注意仪表仪态！</AK_Recruit_Weedy.description>
 
 </LanguageData>

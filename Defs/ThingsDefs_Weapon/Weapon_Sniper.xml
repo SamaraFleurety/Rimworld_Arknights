@@ -126,4 +126,13 @@
 		</graphicData>
 	</ThingDef>
 
+	<ThingDef ParentName="AK_WeaponBase_Sniper">
+		<defName>AK_Weapon_Bluepoison</defName>
+		<label>蓝毒的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Sniper/BluepoisonW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
 </Defs>

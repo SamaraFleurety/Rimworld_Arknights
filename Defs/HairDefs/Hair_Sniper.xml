@@ -81,4 +81,10 @@
 		<texPath>Things/Hair/Sniper/Meteorite</texPath>
 	</HairDef>
 
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Bluepoison</defName>
+		<label>蓝毒发型</label>
+		<texPath>Things/Hair/Sniper/Bluepoison</texPath>
+	</HairDef>
+
 </Defs>

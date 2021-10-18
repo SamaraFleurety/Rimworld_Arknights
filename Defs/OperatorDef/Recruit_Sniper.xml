@@ -201,4 +201,18 @@ Rosmontis, Rhodes Island Elite Operator, pushes open your office door by hand.</
 		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Sniper">
+		<defName>AK_Recruit_Bluepoison</defName>
+		<name>Bluepoison</name>
+		<nickname>Bluepoison</nickname>
+		<description>FIXME</description>
+		<weapon>AK_Weapon_Bluepoison</weapon>
+		<hair>AK_Hair_Bluepoison</hair>
+		<apparels>
+			<li>AK_Apparel_Bluepoison</li>
+		</apparels>
+		<stand>UI/Image/Sniper/BluepoisonStand</stand>
+		<headPortrait>UI/Image/Sniper/BluepoisonPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
 </Defs>

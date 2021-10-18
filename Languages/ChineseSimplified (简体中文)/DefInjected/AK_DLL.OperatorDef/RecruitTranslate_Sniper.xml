@@ -61,14 +61,26 @@
 	
 	<AK_Recruit_Platinum.name>白金</AK_Recruit_Platinum.name>
 	<AK_Recruit_Platinum.nickname>白金</AK_Recruit_Platinum.nickname>
-	<AK_Recruit_Platinum.description>FIXME</AK_Recruit_Platinum.description>
+	<AK_Recruit_Platinum.description>卡西米尔无胄盟成员白金，将为战场提供全面的火力支援。
+
+悠然自得的骑士噩梦。</AK_Recruit_Platinum.description>
 
 	<AK_Recruit_Archetto.name>空弦</AK_Recruit_Archetto.name>
 	<AK_Recruit_Archetto.nickname>空弦</AK_Recruit_Archetto.nickname>
-	<AK_Recruit_Archetto.description>FIXME</AK_Recruit_Archetto.description>
+	<AK_Recruit_Archetto.description>兰登修道院修士空弦，重建信仰的力量强过信仰本身。
+
+如果她拉着你为修道院“添砖加瓦”，请量力而行。</AK_Recruit_Archetto.description>
 
 	<AK_Recruit_Meteorite.name>陨星</AK_Recruit_Meteorite.name>
 	<AK_Recruit_Meteorite.nickname>陨星</AK_Recruit_Meteorite.nickname>
-	<AK_Recruit_Meteorite.description>FIXME</AK_Recruit_Meteorite.description>
+	<AK_Recruit_Meteorite.description>罗德岛狙击干员陨星，随时准备以炮火覆盖敌人。
+
+只要武器在手，职责就不能落下。</AK_Recruit_Meteorite.description>
+
+	<AK_Recruit_Bluepoison.name>蓝毒</AK_Recruit_Bluepoison.name>
+	<AK_Recruit_Bluepoison.nickname>蓝毒</AK_Recruit_Bluepoison.nickname>
+	<AK_Recruit_Bluepoison.description>罗德岛狙击干员蓝毒，将运用自己的毒素对敌人进行攻击。
+
+触碰她吧，给予她信心。</AK_Recruit_Bluepoison.description>
 
 </LanguageData>

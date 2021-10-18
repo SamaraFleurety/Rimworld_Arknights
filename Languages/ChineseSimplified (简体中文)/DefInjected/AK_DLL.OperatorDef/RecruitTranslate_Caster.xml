@@ -57,10 +57,14 @@
 
 	<AK_Recruit_Carnelian.name>卡涅利安</AK_Recruit_Carnelian.name>
 	<AK_Recruit_Carnelian.nickname>卡涅利安</AK_Recruit_Carnelian.nickname>
-	<AK_Recruit_Carnelian.description>FIXME</AK_Recruit_Carnelian.description>
+	<AK_Recruit_Carnelian.description>术师干员卡涅利安，成熟冷静但偶尔也会想要大闹。
+
+如果她盯着敌人笑，很可能只是在考虑怎么撕碎对方。</AK_Recruit_Carnelian.description>
 
 	<AK_Recruit_Beeswax.name>蜜蜡</AK_Recruit_Beeswax.name>
 	<AK_Recruit_Beeswax.nickname>蜜蜡</AK_Recruit_Beeswax.nickname>
-	<AK_Recruit_Beeswax.description>FIXME</AK_Recruit_Beeswax.description>
+	<AK_Recruit_Beeswax.description>萨尔贡沙漠上的部族司祭蜜蜡，金色沙原中寄寓她的祝福。
+
+允许触碰犄角，代表双方之间的亲昵、信赖，与尊重。</AK_Recruit_Beeswax.description>
 
 </LanguageData>
