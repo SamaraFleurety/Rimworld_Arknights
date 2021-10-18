@@ -10,14 +10,40 @@
     </graphicData>
   </ThingDef>
   
-  <ThingDef ParentName="AK_WeaponBase_Sniper">
+  <ThingDef ParentName="AK_WeaponBase_Sniper_Rifle">
     <defName>AK_Weapon_Exusiai</defName>
     <label>能天使的Kriss Vector</label>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Sniper/ExusiaiW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Bullet_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_Exusiai</soundCast>
+			<soundCastTail>GunTail_Medium</soundCastTail>
+			<muzzleFlashScale>9</muzzleFlashScale>
+		</li>
+	</verbs>
   </ThingDef>
+  		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_Exusiai</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Sniper/Exusiai/p_atk_smg_n</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
   
   <ThingDef ParentName="AK_WeaponBase_Sniper">
     <defName>AK_Weapon_Greythroat</defName>
@@ -99,6 +125,7 @@
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
   </ThingDef>
+  
 	<ThingDef ParentName="AK_WeaponBase_Sniper">
 		<defName>AK_Weapon_Platinum</defName>
 		<label>白金的武器</label>

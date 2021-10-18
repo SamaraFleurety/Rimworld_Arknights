@@ -3,6 +3,7 @@
   
   <ThingDef Name="AK_ArmorBase" ParentName="ApparelBase" Abstract="True">  
     <defName>AK_ArmorBase</defName>
+	<label>AK_ArmorBase</label>
 	<description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</description>
 	<useHitPoints>false</useHitPoints>
     <techLevel>Industrial</techLevel>
@@ -43,7 +44,7 @@
         </li>
       </options>
     </colorGenerator>
-    <burnableByRecipe>true</burnableByRecipe>
+    <burnableByRecipe>false</burnableByRecipe>
 	<relicChance>0</relicChance>
 	<tradeability>None</tradeability>
 	<tickerType>Normal</tickerType>
