@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
+  	<SoundDef ParentName="AK_SoundBase">
+		<defName>AK_Sound_Weapon_GeneralPistol</defName>
+		<subSounds Inherit="False">
+			<li>
+				<grains>
+					<li Class="AudioGrain_Folder">
+						<clipFolderPath>Operator/GeneralSFX/p_atk_pistol_n</clipFolderPath>
+					</li>
+				</grains>
+			</li>
+		</subSounds>
+	</SoundDef>
+	
+	<SoundDef ParentName="AK_SoundBase">
+		<defName>AK_Sound_Weapon_GeneralArrow</defName>
+		<subSounds Inherit="False">
+			<li>
+				<grains>
+					<li Class="AudioGrain_Folder">
+						<clipFolderPath>Operator/GeneralSFX/p_atk_arrow_n</clipFolderPath>
+					</li>
+				</grains>
+			</li>
+		</subSounds>
+	</SoundDef>
+
   <ThingDef ParentName="AK_WeaponBase_Sniper">
     <defName>AK_Weapon_Executor</defName>
     <label>送葬人的霰弹枪</label>
@@ -8,7 +34,33 @@
       <texPath>Things/AK_Agents/Weapon/Sniper/ExecutorW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Bullet_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_Executor</soundCast>
+			<soundCastTail>GunTail_Medium</soundCastTail>
+			<muzzleFlashScale>9</muzzleFlashScale>
+		</li>
+	</verbs>
   </ThingDef>
+  		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_Executor</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Sniper/Executor/p_atk_shotgun_n</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
   
   <ThingDef ParentName="AK_WeaponBase_Sniper_Rifle">
     <defName>AK_Weapon_Exusiai</defName>
@@ -45,14 +97,38 @@
 			</subSounds>
 		</SoundDef>
   
-  <ThingDef ParentName="AK_WeaponBase_Sniper">
+  <ThingDef ParentName="AK_WeaponBase_Sniper_Bow">
     <defName>AK_Weapon_Greythroat</defName>
     <label>灰喉的弩</label>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Sniper/GreythroatW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_Greythroat</soundCast>
+		</li>
+	</verbs>
   </ThingDef>
+		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_Greythroat</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Sniper/Greythroat/p_atk_revxbow_n</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
   
   <ThingDef ParentName="AK_WeaponBase_Sniper">
     <defName>AK_Weapon_Jessica</defName>
@@ -61,6 +137,20 @@
       <texPath>Things/AK_Agents/Weapon/Sniper/JessicaW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Bullet_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_GeneralPistol</soundCast>
+			<soundCastTail>GunTail_Medium</soundCastTail>
+			<muzzleFlashScale>9</muzzleFlashScale>
+		</li>
+	</verbs>
   </ThingDef>
   
   <ThingDef ParentName="AK_WeaponBase_Sniper">
@@ -70,7 +160,33 @@
       <texPath>Things/AK_Agents/Weapon/Sniper/PineconeW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Bullet_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_Pinecone</soundCast>
+			<soundCastTail>GunTail_Medium</soundCastTail>
+			<muzzleFlashScale>9</muzzleFlashScale>
+		</li>
+	</verbs>
   </ThingDef>
+  		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_Pinecone</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Sniper/Pinecone/p_atk_staplegun_n</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
   
   <ThingDef ParentName="AK_WeaponBase_Sniper">
     <defName>AK_Weapon_Provence</defName>
@@ -79,7 +195,31 @@
       <texPath>Things/AK_Agents/Weapon/Sniper/ProvenceW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_Provence</soundCast>
+		</li>
+	</verbs>
   </ThingDef>
+		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_Provence</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Sniper/Provence/p_atk_crossbow_n</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
   
   <ThingDef ParentName="AK_WeaponBase_Sniper">
     <defName>AK_Weapon_RosmontisTypeA</defName>
@@ -106,7 +246,31 @@
       <texPath>Things/AK_Agents/Weapon/Sniper/SchwarzW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_Schwarz</soundCast>
+		</li>
+	</verbs>
   </ThingDef>
+		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_Schwarz</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Sniper/Schwarz/p_atk_militarybow_n</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
   
   <ThingDef ParentName="AK_WeaponBase_Sniper">
     <defName>AK_Weapon_AgentW</defName>
@@ -115,7 +279,33 @@
       <texPath>Things/AK_Agents/Weapon/Sniper/WW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Bullet_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_AgentW</soundCast>
+			<soundCastTail>GunTail_Medium</soundCastTail>
+			<muzzleFlashScale>9</muzzleFlashScale>
+		</li>
+	</verbs>
   </ThingDef>
+  		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_AgentW</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Sniper/W/p_atk_grenade3_n</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
     
   <ThingDef ParentName="AK_WeaponBase_Sniper">
     <defName>AK_Weapon_Rosa</defName>
@@ -124,7 +314,31 @@
       <texPath>Things/AK_Agents/Weapon/Sniper/RosaW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_Rosa</soundCast>
+		</li>
+	</verbs>
   </ThingDef>
+		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_Rosa</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Sniper/Rosa/p_atk_bound_n</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
   
 	<ThingDef ParentName="AK_WeaponBase_Sniper">
 		<defName>AK_Weapon_Platinum</defName>
@@ -133,6 +347,18 @@
 			<texPath>Things/AK_Agents/Weapon/Sniper/PlatinumW</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
+		<verbs Inherit="False">
+			<li>
+				<verbClass>Verb_Shoot</verbClass>
+				<hasStandardCommand>true</hasStandardCommand>
+				<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+				<warmupTime>1.0</warmupTime>
+				<range>30</range>
+				<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+				<burstShotCount>3</burstShotCount>
+				<soundCast>AK_Sound_Weapon_GeneralArrow</soundCast>
+			</li>
+		</verbs>
 	</ThingDef>
 
 	<ThingDef ParentName="AK_WeaponBase_Sniper">
@@ -142,7 +368,31 @@
 			<texPath>Things/AK_Agents/Weapon/Sniper/ArchettoW</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
+		<verbs Inherit="False">
+			<li>
+				<verbClass>Verb_Shoot</verbClass>
+				<hasStandardCommand>true</hasStandardCommand>
+				<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+				<warmupTime>1.0</warmupTime>
+				<range>30</range>
+				<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+				<burstShotCount>3</burstShotCount>
+				<soundCast>AK_Sound_Weapon_Archetto</soundCast>
+			</li>
+		</verbs>
 	</ThingDef>
+		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_Archetto</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Sniper/Archetto/p_atk_archet_n</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
 
 	<ThingDef ParentName="AK_WeaponBase_Sniper">
 		<defName>AK_Weapon_Meteorite</defName>
@@ -151,7 +401,31 @@
 			<texPath>Things/AK_Agents/Weapon/Sniper/MeteoriteW</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
+		<verbs Inherit="False">
+			<li>
+				<verbClass>Verb_Shoot</verbClass>
+				<hasStandardCommand>true</hasStandardCommand>
+				<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+				<warmupTime>1.0</warmupTime>
+				<range>30</range>
+				<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+				<burstShotCount>3</burstShotCount>
+				<soundCast>AK_Sound_Weapon_Meteorite</soundCast>
+			</li>
+		</verbs>
 	</ThingDef>
+		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_Meteorite</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Sniper/Meteorite/p_atk_grenade_n</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
 
 	<ThingDef ParentName="AK_WeaponBase_Sniper">
 		<defName>AK_Weapon_Bluepoison</defName>
@@ -160,6 +434,18 @@
 			<texPath>Things/AK_Agents/Weapon/Sniper/BluepoisonW</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
+		<verbs Inherit="False">
+			<li>
+				<verbClass>Verb_Shoot</verbClass>
+				<hasStandardCommand>true</hasStandardCommand>
+				<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+				<warmupTime>1.0</warmupTime>
+				<range>30</range>
+				<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+				<burstShotCount>3</burstShotCount>
+				<soundCast>AK_Sound_Weapon_Provence</soundCast>
+			</li>
+		</verbs>
 	</ThingDef>
 
 </Defs>

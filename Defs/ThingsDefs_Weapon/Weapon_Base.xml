@@ -199,7 +199,6 @@
 					<cooldownTime>2</cooldownTime>
 				</li>
 			</tools>
-		
 		</ThingDef>
 			<ThingDef ParentName="BaseBullet">
 				<defName>AK_Bullet_Base</defName>
@@ -251,15 +250,6 @@
 					<cooldownTime>2</cooldownTime>
 				</li>
 			</tools>
-			<recipeMaker>
-				<recipeUsers>
-					<li>CraftingSpot</li>
-				</recipeUsers>
-				<researchPrerequisite>Greatbow</researchPrerequisite>
-				<skillRequirements>
-					<Crafting>6</Crafting>
-				</skillRequirements>
-			</recipeMaker>
 		</ThingDef>
 			<ThingDef Name="AK_BulletBase_Bow" Abstract="True">
 				<category>Projectile</category>
@@ -288,8 +278,9 @@
 						<speed>70</speed>
 					</projectile>
 				</ThingDef>
-		
-			<ThingDef Name="AK_WeaponBase_Magic" ParentName="AK_WeaponBase_Ranged" Abstract="True">
+
+<!-- 魔法 没做   -->
+		<ThingDef Name="AK_WeaponBase_Magic" ParentName="AK_WeaponBase_Ranged" Abstract="True">
 			<soundInteract>Interact_ChargeRifle</soundInteract>
 			<statBases>
 				<Mass>4.6</Mass>
