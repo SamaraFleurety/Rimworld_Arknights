@@ -8,7 +8,31 @@
       <texPath>Things/AK_Agents/Weapon/Caster/AbsintheW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_Absinthe</soundCast>
+		</li>
+	</verbs>
   </ThingDef>
+		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_Absinthe</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Caster/Absinthe/p_atk_handgun_n</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
   
   <ThingDef ParentName="AK_WeaponBase_Caster">
     <defName>AK_Weapon_Ifrit</defName>
@@ -17,7 +41,31 @@
       <texPath>Things/AK_Agents/Weapon/Caster/IfritW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_Ifrit</soundCast>
+		</li>
+	</verbs>
   </ThingDef>
+		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_Ifrit</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Caster/Ifrit/p_atk_flamethrower_n</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
 
   <ThingDef ParentName="AK_WeaponBase_Caster">
     <defName>AK_Weapon_Amiya</defName>
@@ -26,7 +74,31 @@
       <texPath>Things/AK_Agents/Weapon/Caster/AmiyaW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_Amiya</soundCast>
+		</li>
+	</verbs>
   </ThingDef>
+		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_Amiya</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Caster/Amiya/p_atk_amiyamag_n</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
   
   <ThingDef ParentName="AK_WeaponBase_Caster">
     <defName>AK_Weapon_CeobeTypeA</defName>
@@ -35,7 +107,31 @@
       <texPath>Things/AK_Agents/Weapon/Caster/CeobeW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_Ceobe</soundCast>
+		</li>
+	</verbs>
   </ThingDef>
+		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_Ceobe</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Caster/Ceobe/p_atk_phydark_n</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
     
   <ThingDef ParentName="AK_WeaponBase_Caster">
     <defName>AK_Weapon_CeobeTypeB</defName>
@@ -44,7 +140,31 @@
       <texPath>Things/AK_Agents/Weapon/Caster/CeobeW2</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_Ceobe</soundCast>
+		</li>
+	</verbs>
   </ThingDef>
+		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_Ceobe</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Caster/Ceobe/p_atk_javelinthrow_s</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
     
   <ThingDef ParentName="AK_WeaponBase_Caster">
     <defName>AK_Weapon_CeobeTypeC</defName>
@@ -53,7 +173,31 @@
       <texPath>Things/AK_Agents/Weapon/Caster/CeobeW3</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_Ceobe</soundCast>
+		</li>
+	</verbs>
   </ThingDef>
+		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_Ceobe</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Caster/Ceobe/p_atk_firedagger_s</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
   
   <ThingDef ParentName="AK_WeaponBase_Caster">
     <defName>AK_Weapon_Dusk</defName>
@@ -62,7 +206,31 @@
       <texPath>Things/AK_Agents/Weapon/Caster/DuskW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_Dusk</soundCast>
+		</li>
+	</verbs>
   </ThingDef>
+		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_Dusk</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Caster/Dusk/p_atk_ancientsword_n</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
   
   <ThingDef ParentName="AK_WeaponBase_Caster">
     <defName>AK_Weapon_Mint</defName>
@@ -71,7 +239,31 @@
       <texPath>Things/AK_Agents/Weapon/Caster/MintW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_Mint</soundCast>
+		</li>
+	</verbs>
   </ThingDef>
+		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_Mint</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Caster/Mint/p_imp_smallmaghit_n</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
   
   <ThingDef ParentName="AK_WeaponBase_Caster">
     <defName>AK_Weapon_MostimaTypeA</defName>
@@ -107,16 +299,65 @@
       <texPath>Things/AK_Agents/Weapon/Caster/SkyfireW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_Skyfire</soundCast>
+		</li>
+	</verbs>
   </ThingDef>
+		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_Skyfire</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Caster/Skyfire/p_aoe_firemag_n</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
   
   <ThingDef ParentName="AK_WeaponBase_Caster">
     <defName>AK_Weapon_Eyjafjalla</defName>
-    <label>天火的法杖</label>
+    <label>艾雅法拉的法杖</label>
     <graphicData>
       <texPath>Things/AK_Agents/Weapon/Caster/EyjafjallaW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
   </ThingDef>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_Eyjafjalla</soundCast>
+		</li>
+	</verbs>
+  </ThingDef>
+		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_Eyjafjalla</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Caster/Eyjafjalla/p_atk_firemag_n</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
   
 	<ThingDef ParentName="AK_WeaponBase_Caster">
 		<defName>AK_Weapon_Carnelian</defName>
