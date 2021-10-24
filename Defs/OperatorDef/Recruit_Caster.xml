@@ -172,4 +172,18 @@ Ceobe is always ready to go after the bad guys.</description>
 		<skinColor>(210,180,170)</skinColor>
 	</AK_DLL.OperatorDef>
 
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Caster">
+		<defName>AK_Recruit_Indigo</defName>
+		<name>Indigo</name>
+		<nickname>Indigo</nickname>
+		<description>FIXME</description>
+		<weapon>AK_Weapon_Indigo</weapon>
+		<hair>AK_Hair_Indigo</hair>
+		<apparels>
+			<li>AK_Apparel_Indigo</li>
+		</apparels>
+		<stand>UI/Image/Caster/IndigoStand</stand>
+		<headPortrait>UI/Image/Caster/IndigoPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
 </Defs>

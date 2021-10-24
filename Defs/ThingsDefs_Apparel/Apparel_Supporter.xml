@@ -85,4 +85,16 @@
 		</apparel>
 	</ThingDef>
 
+	<ThingDef ParentName="AK_ArmorBase_Supporter">
+		<defName>AK_Apparel_Glaucus</defName>
+		<label>格劳克斯服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Supporter/Glaucus</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Supporter/Glaucus</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
 </Defs>

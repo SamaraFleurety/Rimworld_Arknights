@@ -26,6 +26,7 @@ Projekt Red the Wolf Hunter, Specialist Operator of Rhodes Island, will join the
 		<hair>AK_Hair_Red</hair>
 		<apparels>
 			<li>AK_Apparel_Red</li>
+			<li>AK_Hat_Red</li>
 		</apparels>
 		<stand>UI/Image/Specialist/RedStand</stand>
 		<headPortrait>UI/Image/Specialist/RedPortrait</headPortrait>
@@ -40,6 +41,7 @@ Projekt Red the Wolf Hunter, Specialist Operator of Rhodes Island, will join the
 		<hair>AK_Hair_Gladiia</hair>
 		<apparels>
 			<li>AK_Apparel_Gladiia</li>
+			<li>AK_Hat_Gladiia</li>
 		</apparels>
 		<stand>UI/Image/Specialist/GladiiaStand</stand>
 		<headPortrait>UI/Image/Specialist/GladiiaPortrait</headPortrait>
@@ -55,9 +57,25 @@ Projekt Red the Wolf Hunter, Specialist Operator of Rhodes Island, will join the
 		<hair>AK_Hair_Weedy</hair>
 		<apparels>
 			<li>AK_Apparel_Weedy</li>
+			<li>AK_Hat_Weedy</li>
 		</apparels>
 		<stand>UI/Image/Specialist/WeedyStand</stand>
 		<headPortrait>UI/Image/Specialist/WeedyPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Specialist">
+		<defName>AK_Recruit_Mizuki</defName>
+		<name>Mizuki</name>
+		<nickname>Mizuki</nickname>
+		<description>FIXME</description>
+		<weapon>AK_Weapon_Mizuki</weapon>
+		<hair>AK_Hair_Mizuki</hair>
+		<apparels>
+			<li>AK_Apparel_Mizuki</li>
+			<li>AK_Hat_Mizuki</li>
+		</apparels>
+		<stand>UI/Image/Specialist/MizukiStand</stand>
+		<headPortrait>UI/Image/Specialist/MizukiPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
 
 </Defs>

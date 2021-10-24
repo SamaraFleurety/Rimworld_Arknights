@@ -27,4 +27,10 @@
 		<texPath>Things/Hair/Specialist/Weedy</texPath>
 	</HairDef>
 
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Mizuki</defName>
+		<label>水月发型</label>
+		<texPath>Things/Hair/Specialist/Mizuki</texPath>
+	</HairDef>
+
 </Defs>

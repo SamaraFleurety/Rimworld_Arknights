@@ -37,4 +37,13 @@
 		</graphicData>
 	</ThingDef>
 
+	<ThingDef ParentName="AK_WeaponBase_Specialist">
+		<defName>AK_Weapon_Mizuki</defName>
+		<label>水月的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Specialist/MizukiW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
 </Defs>

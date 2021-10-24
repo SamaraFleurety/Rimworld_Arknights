@@ -39,4 +39,10 @@
 		<texPath>Things/Hair/Supporter/Deepcolor</texPath>
 	</HairDef>
 	
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Glaucus</defName>
+		<label>格劳克斯发型</label>
+		<texPath>Things/Hair/Supporter/Glaucus</texPath>
+	</HairDef>
+
 </Defs>

@@ -76,4 +76,18 @@ Magallan, the Commissioner of Rhine Labs, is glad to welcome new adventures.</de
 		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Supporter">
+		<defName>AK_Recruit_Glaucus</defName>
+		<name>Glaucus</name>
+		<nickname>Glaucus</nickname>
+		<description>FIXME</description>
+		<weapon>AK_Weapon_Glaucus</weapon>
+		<hair>AK_Hair_Glaucus</hair>
+		<apparels>
+			<li>AK_Apparel_Glaucus</li>
+		</apparels>
+		<stand>UI/Image/Supporter/GlaucusStand</stand>
+		<headPortrait>UI/Image/Supporter/GlaucusPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
 </Defs>

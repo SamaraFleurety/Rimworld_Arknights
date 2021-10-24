@@ -69,4 +69,10 @@
 		<texPath>Things/Hair/Caster/Beeswax</texPath>
 	</HairDef>
 
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Indigo</defName>
+		<label>深靛发型</label>
+		<texPath>Things/Hair/Caster/Indigo</texPath>
+	</HairDef>
+
 </Defs>

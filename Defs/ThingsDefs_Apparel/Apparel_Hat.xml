@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
 <!-- 虽然感觉帽子和配饰数量很少没有分类必要，但还是分了 -->
-<!-- 前缀之外加了脑溢血H后缀是苏版的贴图后缀，积重难返 -->
 <!-- 干员 -->
 
 	<ThingDef ParentName="AK_HatBase">
@@ -97,6 +96,18 @@
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>Things/AK_Agents/HatAccessory/WeedyH</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+		
+	<ThingDef ParentName="AK_HatBase">
+		<defName>AK_Hat_Mizuki</defName>
+		<label>水月帽子</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/HatAccessory/MizukiH</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/HatAccessory/MizukiH</wornGraphicPath>
 		</apparel>
 	</ThingDef>
 	

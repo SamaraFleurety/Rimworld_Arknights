@@ -136,4 +136,13 @@
 		</graphicData>
 	</ThingDef>
 
+	<ThingDef ParentName="AK_WeaponBase_Caster">
+		<defName>AK_Weapon_Indigo</defName>
+		<label>深靛的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Caster/IndigoW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
 </Defs>
