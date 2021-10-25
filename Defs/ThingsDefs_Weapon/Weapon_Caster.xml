@@ -116,12 +116,12 @@
 			<range>30</range>
 			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
 			<burstShotCount>3</burstShotCount>
-			<soundCast>AK_Sound_Weapon_Ceobe</soundCast>
+			<soundCast>AK_Sound_Weapon_CeobeA</soundCast>
 		</li>
 	</verbs>
   </ThingDef>
 		<SoundDef ParentName="AK_SoundBase">
-			<defName>AK_Sound_Weapon_Ceobe</defName>
+			<defName>AK_Sound_Weapon_CeobeA</defName>
 			<subSounds Inherit="False">
 			  <li>
 				<grains>
@@ -149,12 +149,12 @@
 			<range>30</range>
 			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
 			<burstShotCount>3</burstShotCount>
-			<soundCast>AK_Sound_Weapon_Ceobe</soundCast>
+			<soundCast>AK_Sound_Weapon_CeobeB</soundCast>
 		</li>
 	</verbs>
   </ThingDef>
 		<SoundDef ParentName="AK_SoundBase">
-			<defName>AK_Sound_Weapon_Ceobe</defName>
+			<defName>AK_Sound_Weapon_CeobeB</defName>
 			<subSounds Inherit="False">
 			  <li>
 				<grains>
@@ -182,12 +182,12 @@
 			<range>30</range>
 			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
 			<burstShotCount>3</burstShotCount>
-			<soundCast>AK_Sound_Weapon_Ceobe</soundCast>
+			<soundCast>AK_Sound_Weapon_CeobeC</soundCast>
 		</li>
 	</verbs>
   </ThingDef>
 		<SoundDef ParentName="AK_SoundBase">
-			<defName>AK_Sound_Weapon_Ceobe</defName>
+			<defName>AK_Sound_Weapon_CeobeC</defName>
 			<subSounds Inherit="False">
 			  <li>
 				<grains>
@@ -332,7 +332,6 @@
       <texPath>Things/AK_Agents/Weapon/Caster/EyjafjallaW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-  </ThingDef>
 	<verbs Inherit="False">
 		<li>
 			<verbClass>Verb_Shoot</verbClass>

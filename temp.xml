@@ -1,6 +1,26 @@
 
-	<IdeoIconDef>
-		<defName>AK_Siracusa</defName>
-		<iconPath>Things/Ideology/Siracusa</iconPath>
-	</IdeoIconDef>
-  
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_Eyjafjalla</soundCast>
+		</li>
+	</verbs>
+  </ThingDef>
+		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_Eyjafjalla</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Caster/Eyjafjalla/p_atk_militarybow_n</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
