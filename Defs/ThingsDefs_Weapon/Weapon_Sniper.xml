@@ -443,7 +443,7 @@
 				<range>30</range>
 				<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
 				<burstShotCount>3</burstShotCount>
-				<soundCast>AK_Sound_Weapon_Provence</soundCast>
+				<soundCast>AK_Sound_Weapon_Provence</soundCast> <!-- 故意的，不是错误 -->
 			</li>
 		</verbs>
 	</ThingDef>

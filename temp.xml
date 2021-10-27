@@ -8,19 +8,20 @@
 			<range>30</range>
 			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
 			<burstShotCount>3</burstShotCount>
-			<soundCast>AK_Sound_Weapon_Eyjafjalla</soundCast>
+			<soundCast>AK_Sound_Weapon_Glaucus</soundCast>
 		</li>
 	</verbs>
   </ThingDef>
 		<SoundDef ParentName="AK_SoundBase">
-			<defName>AK_Sound_Weapon_Eyjafjalla</defName>
+			<defName>AK_Sound_Weapon_Glaucus</defName>
 			<subSounds Inherit="False">
 			  <li>
 				<grains>
 				  <li Class="AudioGrain_Folder">
-					<clipFolderPath>Operator/Caster/Eyjafjalla/p_atk_militarybow_n</clipFolderPath>
+					<clipFolderPath>Operator/Supporter/Glaucus/p_atk_handgun_n</clipFolderPath>
 				  </li>
 				</grains>
 			  </li>
 			</subSounds>
 		</SoundDef>
+		

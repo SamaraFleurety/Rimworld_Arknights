@@ -8,7 +8,32 @@
       <texPath>Things/AK_Agents/Weapon/Supporter/AngelinaW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_Angelina</soundCast>
+		</li>
+	</verbs>
   </ThingDef>
+		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_Angelina</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Supporter/Angelina/p_atk_aglinamag_n</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
+		
   
   <ThingDef ParentName="AK_WeaponBase_Supporter">
     <defName>AK_Weapon_Magallan</defName>
@@ -17,7 +42,32 @@
       <texPath>Things/AK_Agents/Weapon/Supporter/MagallanW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_Magallan</soundCast>
+		</li>
+	</verbs>
   </ThingDef>
+		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_Magallan</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Supporter/Magallan/p_atk_icecamera_n</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
+		
   
   <ThingDef ParentName="AK_WeaponBase_Supporter">
     <defName>AK_Weapon_Suzuran</defName>
@@ -26,33 +76,133 @@
       <texPath>Things/AK_Agents/Weapon/Supporter/SuzuranW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_Suzuran</soundCast>
+		</li>
+	</verbs>
   </ThingDef>
+		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_Suzuran</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Supporter/Suzuran/p_atk_magspell_n</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
+		
   
 	<ThingDef ParentName="AK_WeaponBase_Supporter">
 		<defName>AK_Weapon_Deepcolor</defName>
-		<label>深海色的武器</label>
+		<label>深海色的画笔</label>
 		<graphicData>
 			<texPath>Things/AK_Agents/Weapon/Supporter/DeepcolorW</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
-	</ThingDef>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_Deepcolor</soundCast>
+		</li>
+	</verbs>
+  </ThingDef>
+		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_Deepcolor</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Supporter/Deepcolor/p_imp_charm_n</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
+		
 
 	<ThingDef ParentName="AK_WeaponBase_Supporter">
 		<defName>AK_Weapon_Pramanix</defName>
-		<label>初雪的武器</label>
+		<label>初雪的铃铛</label>
 		<graphicData>
 			<texPath>Things/AK_Agents/Weapon/Supporter/PramanixW</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
-	</ThingDef>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_Pramanix</soundCast>
+		</li>
+	</verbs>
+  </ThingDef>
+		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_Pramanix</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Supporter/Pramanix/p_atk_shakebell_n</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
+		
 
 	<ThingDef ParentName="AK_WeaponBase_Supporter">
 		<defName>AK_Weapon_Glaucus</defName>
-		<label>格劳克斯的武器</label>
+		<label>格劳克斯的电磁枪</label>
 		<graphicData>
 			<texPath>Things/AK_Agents/Weapon/Supporter/GlaucusW</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
-	</ThingDef>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_Glaucus</soundCast>
+		</li>
+	</verbs>
+  </ThingDef>
+		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_Glaucus</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Supporter/Glaucus/p_atk_lasergun_n</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
+		
 
 </Defs>

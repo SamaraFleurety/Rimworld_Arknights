@@ -272,7 +272,31 @@
       <texPath>Things/AK_Agents/Weapon/Caster/MostimaW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_MostimaC</soundCast>
+		</li>
+	</verbs>
   </ThingDef>
+		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_MostimaC</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Caster/Mostima/p_skill_blacktimewand_shot</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
   
   <ThingDef ParentName="AK_WeaponBase_Caster">
     <defName>AK_Weapon_MostimaTypeB</defName>
@@ -281,7 +305,31 @@
       <texPath>Things/AK_Agents/Weapon/Caster/MostimaW2</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_MostimaB</soundCast>
+		</li>
+	</verbs>
   </ThingDef>
+		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_MostimaB</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Caster/Mostima/p_skill_whitetimewand</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
   
   <ThingDef ParentName="AK_WeaponBase_Caster">
     <defName>AK_Weapon_MostimaTypeC</defName>
@@ -290,7 +338,31 @@
       <texPath>Things/AK_Agents/Weapon/Caster/MostimaW3</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_MostimaA</soundCast>
+		</li>
+	</verbs>
   </ThingDef>
+		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_MostimaA</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Caster/Mostima/p_atk_timewand_n</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
   
   <ThingDef ParentName="AK_WeaponBase_Caster">
     <defName>AK_Weapon_Skyfire</defName>
@@ -383,6 +455,30 @@
 			<texPath>Things/AK_Agents/Weapon/Caster/IndigoW</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
-	</ThingDef>
+	<verbs Inherit="False">
+		<li>
+			<verbClass>Verb_Shoot</verbClass>
+			<hasStandardCommand>true</hasStandardCommand>
+			<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+			<warmupTime>1.0</warmupTime>
+			<range>30</range>
+			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+			<burstShotCount>3</burstShotCount>
+			<soundCast>AK_Sound_Weapon_Indigo</soundCast>
+		</li>
+	</verbs>
+  </ThingDef>
+		<SoundDef ParentName="AK_SoundBase">
+			<defName>AK_Sound_Weapon_Indigo</defName>
+			<subSounds Inherit="False">
+			  <li>
+				<grains>
+				  <li Class="AudioGrain_Folder">
+					<clipFolderPath>Operator/Caster/Indigo/p_atk_purplemag_n</clipFolderPath>
+				  </li>
+				</grains>
+			  </li>
+			</subSounds>
+		</SoundDef>
 
 </Defs>
