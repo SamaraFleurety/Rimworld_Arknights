@@ -178,19 +178,19 @@
 			<texPath>Things/AK_Agents/Weapon/Supporter/GlaucusW</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
-	<verbs Inherit="False">
-		<li>
-			<verbClass>Verb_Shoot</verbClass>
-			<hasStandardCommand>true</hasStandardCommand>
-			<defaultProjectile>AK_Arrow_Base</defaultProjectile>
-			<warmupTime>1.0</warmupTime>
-			<range>30</range>
-			<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
-			<burstShotCount>3</burstShotCount>
-			<soundCast>AK_Sound_Weapon_Glaucus</soundCast>
-		</li>
-	</verbs>
-  </ThingDef>
+		<verbs Inherit="False">
+			<li>
+				<verbClass>Verb_Shoot</verbClass>
+				<hasStandardCommand>true</hasStandardCommand>
+				<defaultProjectile>AK_Arrow_Base</defaultProjectile>
+				<warmupTime>1.0</warmupTime>
+				<range>30</range>
+				<ticksBetweenBurstShots>12</ticksBetweenBurstShots>
+				<burstShotCount>3</burstShotCount>
+				<soundCast>AK_Sound_Weapon_Glaucus</soundCast>
+			</li>
+		</verbs>
+	</ThingDef>
 		<SoundDef ParentName="AK_SoundBase">
 			<defName>AK_Sound_Weapon_Glaucus</defName>
 			<subSounds Inherit="False">

@@ -111,4 +111,18 @@ Ptilopsis, database maintainer of Rhine Lab, activated. Please enter commands to
 		<headPortrait>UI/Image/Medic/PtilopsisPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
 
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Medic">
+		<defName>AK_Recruit_Purestream</defName>
+		<name>Purestream</name>
+		<nickname>Purestream</nickname>
+		<description>FIXME</description>
+		<weapon>AK_Weapon_Purestream</weapon>
+		<hair>AK_Hair_Purestream</hair>
+		<apparels>
+			<li>AK_Apparel_Purestream</li>
+		</apparels>
+		<stand>UI/Image/Medic/PurestreamStand</stand>
+		<headPortrait>UI/Image/Medic/PurestreamPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
 </Defs>

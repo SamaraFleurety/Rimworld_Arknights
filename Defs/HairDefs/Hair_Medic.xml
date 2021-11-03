@@ -51,4 +51,10 @@
 		<texPath>Things/Hair/Medic/Ptilopsis</texPath>
 	</HairDef>
 
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Purestream</defName>
+		<label>清流发型</label>
+		<texPath>Things/Hair/Medic/Purestream</texPath>
+	</HairDef>
+
 </Defs>

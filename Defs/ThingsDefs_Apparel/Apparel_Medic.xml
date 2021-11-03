@@ -98,4 +98,16 @@
   </ThingDef>
   
   
- </Defs>
+ 	<ThingDef ParentName="AK_ArmorBase_Medic">
+		<defName>AK_Apparel_Purestream</defName>
+		<label>清流服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Medic/Purestream</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Medic/Purestream</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+</Defs>

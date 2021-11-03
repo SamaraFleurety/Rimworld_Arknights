@@ -64,4 +64,13 @@
     </graphicData>
   </ThingDef>
   
+	<ThingDef ParentName="AK_WeaponBase_Medic">
+		<defName>AK_Weapon_Purestream</defName>
+		<label>清流的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Medic/PurestreamW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
 </Defs>
