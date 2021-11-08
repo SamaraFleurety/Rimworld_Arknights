@@ -55,4 +55,13 @@
 		</graphicData>
 	</ThingDef>
 
+	<ThingDef ParentName="AK_WeaponBase_Vanguard">
+		<defName>AK_Weapon_Flametail</defName>
+		<label>焰尾的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Vanguard/FlametailW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
 </Defs>

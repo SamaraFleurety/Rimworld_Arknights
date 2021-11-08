@@ -73,4 +73,16 @@
 		</apparel>
 	</ThingDef>
 
+	<ThingDef ParentName="AK_ArmorBase_Vanguard">
+		<defName>AK_Apparel_Flametail</defName>
+		<label>焰尾服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Vanguard/Flametail</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Vanguard/Flametail</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
 </Defs>

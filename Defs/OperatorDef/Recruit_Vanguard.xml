@@ -94,4 +94,19 @@ Texas, employee of Penguin Logistics, will give the squad a tactical advantage w
 		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Vanguard">
+		<defName>AK_Recruit_Flametail</defName>
+		<name>Flametail</name>
+		<nickname>Flametail</nickname>
+		<description>FIXME</description>
+		<weapon>AK_Weapon_Flametail</weapon>
+		<hair>AK_Hair_Flametail</hair>
+		<apparels>
+			<li>AK_Apparel_Flametail</li>
+			<li>AK_Hat_Flametail</li>
+		</apparels>
+		<stand>UI/Image/Vanguard/FlametailStand</stand>
+		<headPortrait>UI/Image/Vanguard/FlametailPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
 </Defs>
