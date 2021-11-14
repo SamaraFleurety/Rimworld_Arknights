@@ -196,4 +196,20 @@ Mousse, Guard Operator of Rhodes Island, thinks of her enemies as oversized scra
 		<headPortrait>UI/Image/Guard/MoussePortrait</headPortrait>
 	</AK_DLL.OperatorDef>
 
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Guard">
+		<defName>AK_Recruit_Whislash</defName>
+		<name>Whislash</name>
+		<nickname>Whislash</nickname>
+		<description>FIXME</description>
+		<weapon>AK_Weapon_Whislash</weapon>
+		<hair>AK_Hair_Whislash</hair>
+		<apparels>
+			<li>AK_Apparel_Whislash</li>
+			<li>AK_Hat_Whislash</li>
+		</apparels>
+		<stand>UI/Image/Guard/WhislashStand</stand>
+		<headPortrait>UI/Image/Guard/WhislashPortrait</headPortrait>
+		<bodyTypeDef>Female</bodyTypeDef>
+	</AK_DLL.OperatorDef>
+
 </Defs>

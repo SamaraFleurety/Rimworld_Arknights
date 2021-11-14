@@ -156,4 +156,16 @@
     </apparel>
   </ThingDef>
 
+	<ThingDef ParentName="AK_ArmorBase_Guard">
+		<defName>AK_Apparel_Whislash</defName>
+		<label>鞭刃服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Guard/Whislash</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Guard/Whislash</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
 </Defs>

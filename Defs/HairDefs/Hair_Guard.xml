@@ -75,4 +75,10 @@
 		<texPath>Things/Hair/Guard/Specter</texPath>
 	</HairDef>
 
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Whislash</defName>
+		<label>鞭刃发型</label>
+		<texPath>Things/Hair/Guard/Whislash</texPath>
+	</HairDef>
+
 </Defs>

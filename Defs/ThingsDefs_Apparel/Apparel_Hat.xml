@@ -251,13 +251,25 @@
 	
 	<ThingDef ParentName="AK_HatBase">
 		<defName>AK_Hat_Flametail</defName>
-		<label>焰尾tput\Textures\Thingsvanguard</label>
+		<label>焰尾帽子</label>
 		<graphicData>
 			<texPath>Things/AK_Agents/HatAccessory/FlametailH</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>Things/AK_Agents/HatAccessory/FlametailH</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_HatBase">
+		<defName>AK_Hat_Whislash</defName>
+		<label>鞭刃帽子</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/HatAccessory/WhislashH</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/HatAccessory/WhislashH</wornGraphicPath>
 		</apparel>
 	</ThingDef>
 

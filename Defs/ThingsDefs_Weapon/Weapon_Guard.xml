@@ -127,4 +127,13 @@
     </graphicData>
   </ThingDef>
 
+	<ThingDef ParentName="AK_WeaponBase_Guard">
+		<defName>AK_Weapon_Whislash</defName>
+		<label>鞭刃的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Guard/WhislashW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
 </Defs>
