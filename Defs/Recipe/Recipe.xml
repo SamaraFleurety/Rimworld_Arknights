@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-
+<!--FIXME:DELETE
   <RecipeDef>
     <defName>AK_Recipe_ORGRefine</defName>
     <label>源石精炼</label>
@@ -34,5 +34,5 @@
     </skillRequirements>
     <workSkill>Crafting</workSkill>
   </RecipeDef>
-  
-</Defs>
+-->
+</Defs> 

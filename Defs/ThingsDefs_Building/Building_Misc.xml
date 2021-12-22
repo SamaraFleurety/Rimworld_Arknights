@@ -73,7 +73,7 @@
     <constructionSkillPrerequisite>5</constructionSkillPrerequisite>
   </ThingDef>
 
-  <ThingDef ParentName="BenchBase">
+<!--FIXME:DELETE  <ThingDef ParentName="BenchBase">
     <defName>AK_Building_ORGProcessCenter</defName>
     <label>源石综合处理设施</label>
     <description>源石综合处理设施.</description>
@@ -148,5 +148,5 @@
       <li>Electricity</li>
     </researchPrerequisites>
   </ThingDef> 
-
+-->
 </Defs>
