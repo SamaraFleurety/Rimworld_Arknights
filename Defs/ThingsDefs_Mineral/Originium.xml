@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 
 <Defs>
-<!--FIXME:DELETE
   <ThingDef Name="AK_ResourceBase" ParentName="ResourceBase" Abstract="True">
   </ThingDef>
 
@@ -30,9 +29,10 @@
     <burnableByRecipe>false</burnableByRecipe>
     <smeltable>false</smeltable>
     <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
-	
   </ThingDef>
-    <ThingDef ParentName="RockBase">
+  
+<!--FIXME:DELETE
+  <ThingDef ParentName="RockBase">
     <defName>AK_ORG_Mineable</defName>
     <label>源石矿脉</label>
     <description>源石矿脉</description>
