@@ -91,4 +91,22 @@
 		</graphicData>
 	</ThingDef>
 
+	<ThingDef ParentName="AK_WeaponBase_Defender">
+		<defName>AK_Weapon_Croissant</defName>
+		<label>可颂的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Defender/CroissantW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_WeaponBase_Defender">
+		<defName>AK_Weapon_Aurora</defName>
+		<label>极光的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Defender/AuroraW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
 </Defs>

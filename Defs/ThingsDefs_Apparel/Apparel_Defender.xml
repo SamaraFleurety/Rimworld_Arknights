@@ -108,4 +108,28 @@
     </apparel>
   </ThingDef>  
 
+	<ThingDef ParentName="AK_ArmorBase_Defender">
+		<defName>AK_Apparel_Croissant</defName>
+		<label>可颂服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Defender/Croissant</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Defender/Croissant</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_ArmorBase_Defender">
+		<defName>AK_Apparel_Aurora</defName>
+		<label>极光服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Defender/Aurora</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Defender/Aurora</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
 </Defs>

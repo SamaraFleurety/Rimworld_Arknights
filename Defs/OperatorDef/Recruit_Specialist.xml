@@ -79,4 +79,18 @@ Projekt Red the Wolf Hunter, Specialist Operator of Rhodes Island, will join the
 		<bodyTypeDef>Male</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Specialist">
+		<defName>AK_Recruit_Gravel</defName>
+		<name>Gravel</name>
+		<nickname>Gravel</nickname>
+		<description>FIXME</description>
+		<weapon>AK_Weapon_Gravel</weapon>
+		<hair>AK_Hair_Gravel</hair>
+		<apparels>
+			<li>AK_Apparel_Gravel</li>
+		</apparels>
+		<stand>UI/Image/Specialist/GravelStand</stand>
+		<headPortrait>UI/Image/Specialist/GravelPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
 </Defs>

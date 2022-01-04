@@ -127,4 +127,33 @@ Saria, former researcher of Rhine Lab, will serve as a core part of the squad's 
 		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Defender">
+		<defName>AK_Recruit_Croissant</defName>
+		<name>Croissant</name>
+		<nickname>Croissant</nickname>
+		<description>FIXME</description>
+		<weapon>AK_Weapon_Croissant</weapon>
+		<hair>AK_Hair_Croissant</hair>
+		<apparels>
+			<li>AK_Apparel_Croissant</li>
+		</apparels>
+		<stand>UI/Image/Defender/CroissantStand</stand>
+		<headPortrait>UI/Image/Defender/CroissantPortrait</headPortrait>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Defender">
+		<defName>AK_Recruit_Aurora</defName>
+		<name>Aurora</name>
+		<nickname>Aurora</nickname>
+		<description>FIXME</description>
+		<weapon>AK_Weapon_Aurora</weapon>
+		<hair>AK_Hair_Aurora</hair>
+		<apparels>
+			<li>AK_Apparel_Aurora</li>
+		</apparels>
+		<stand>UI/Image/Defender/AuroraStand</stand>
+		<headPortrait>UI/Image/Defender/AuroraPortrait</headPortrait>
+		<bodyTypeDef>Female</bodyTypeDef>
+	</AK_DLL.OperatorDef>
+
 </Defs>

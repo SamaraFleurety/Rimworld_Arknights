@@ -46,4 +46,13 @@
 		</graphicData>
 	</ThingDef>
 
+	<ThingDef ParentName="AK_WeaponBase_Specialist">
+		<defName>AK_Weapon_Gravel</defName>
+		<label>砾的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Specialist/GravelW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
 </Defs>

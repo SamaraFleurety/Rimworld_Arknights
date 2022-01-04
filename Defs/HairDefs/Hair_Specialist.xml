@@ -33,4 +33,10 @@
 		<texPath>Things/Hair/Specialist/Mizuki</texPath>
 	</HairDef>
 
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Gravel</defName>
+		<label>砾发型</label>
+		<texPath>Things/Hair/Specialist/Gravel</texPath>
+	</HairDef>
+
 </Defs>

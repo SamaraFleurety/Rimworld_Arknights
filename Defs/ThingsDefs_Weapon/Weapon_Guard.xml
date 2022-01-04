@@ -136,4 +136,13 @@
 		</graphicData>
 	</ThingDef>
 
+	<ThingDef ParentName="AK_WeaponBase_Guard">
+		<defName>AK_Weapon_Swire</defName>
+		<label>诗怀雅的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Guard/SwireW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
 </Defs>

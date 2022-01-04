@@ -212,4 +212,19 @@ Mousse, Guard Operator of Rhodes Island, thinks of her enemies as oversized scra
 		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Guard">
+		<defName>AK_Recruit_Swire</defName>
+		<name>Swire</name>
+		<nickname>Swire</nickname>
+		<description>FIXME</description>
+		<weapon>AK_Weapon_Swire</weapon>
+		<hair>AK_Hair_Swire</hair>
+		<apparels>
+			<li>AK_Apparel_Swire</li>
+		</apparels>
+		<stand>UI/Image/Guard/SwireStand</stand>
+		<headPortrait>UI/Image/Guard/SwirePortrait</headPortrait>
+		<bodyTypeDef>Female</bodyTypeDef>
+	</AK_DLL.OperatorDef>
+
 </Defs>

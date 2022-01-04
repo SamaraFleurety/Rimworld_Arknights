@@ -81,4 +81,10 @@
 		<texPath>Things/Hair/Guard/Whislash</texPath>
 	</HairDef>
 
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Swire</defName>
+		<label>诗怀雅发型</label>
+		<texPath>Things/Hair/Guard/Swire</texPath>
+	</HairDef>
+
 </Defs>

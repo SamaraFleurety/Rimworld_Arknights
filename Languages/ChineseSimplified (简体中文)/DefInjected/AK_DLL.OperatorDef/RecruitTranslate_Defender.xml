@@ -49,4 +49,12 @@
 
 如果找不到她，请去询问工程部干员。</AK_Recruit_Blemishine.description>
 
+	<AK_Recruit_Croissant.name>可颂</AK_Recruit_Croissant.name>
+	<AK_Recruit_Croissant.nickname>可颂</AK_Recruit_Croissant.nickname>
+	<AK_Recruit_Croissant.description>FIXME</AK_Recruit_Croissant.description>
+
+	<AK_Recruit_Aurora.name>极光</AK_Recruit_Aurora.name>
+	<AK_Recruit_Aurora.nickname>极光</AK_Recruit_Aurora.nickname>
+	<AK_Recruit_Aurora.description>FIXME</AK_Recruit_Aurora.description>
+
 </LanguageData>

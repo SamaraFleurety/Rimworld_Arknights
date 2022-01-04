@@ -73,4 +73,16 @@
 		</apparel>
 	</ThingDef>
 
+	<ThingDef ParentName="AK_ArmorBase_Specialist">
+		<defName>AK_Apparel_Gravel</defName>
+		<label>砾服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Specialist/Gravel</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Specialist/Gravel</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
 </Defs>
