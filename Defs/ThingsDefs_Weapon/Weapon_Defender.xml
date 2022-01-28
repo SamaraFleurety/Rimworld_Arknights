@@ -14,7 +14,7 @@
     <defName>AK_Weapon_EunectesTypeA</defName>
     <label>森蚺的挂斧</label>
     <graphicData>
-      <texPath>Things/AK_Agents/Weapon/Defender/EuneW</texPath>
+      <texPath>Things/AK_Agents/Weapon/Defender/EunectesW</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
   </ThingDef>
@@ -23,7 +23,7 @@
     <defName>AK_Weapon_EunectesTypeB</defName>
     <label>森蚺的盾</label>
     <graphicData>
-      <texPath>Things/AK_Agents/Weapon/Defender/EuneW2</texPath>
+      <texPath>Things/AK_Agents/Weapon/Defender/EunectesW2</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
   </ThingDef>

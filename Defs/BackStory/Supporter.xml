@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Angelina_Child</defName>
+		<slot>Childhood</slot>
+		<title>信使</title>
+		<titleShort>信使</titleShort>
+		<baseDesc>安洁莉娜的人生本应像其他的同龄人一样平常而快乐，然而当她意外成为感染者之后，她选择了悄无声息的从自己的生活中消失。
+当罗德岛寻访她时，安洁莉娜却正穿梭在城市的黑夜中，于大楼间轻巧地滑翔而过。</baseDesc>
+	</StoriesRetold.SRBackstoryDef>
+</Defs>
