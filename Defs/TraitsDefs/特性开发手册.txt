@@ -64,7 +64,6 @@
 	SmoothingSpeed
 	MiningYield 采矿产出
 	DrugSynthesisSpeed
-	ResearchSpeed
 	CookSpeed
 
 skillGains

@@ -5,10 +5,6 @@
 		<surname>罗德岛</surname>
 		<nickname>虚无弄臣</nickname>
 		<description>在路的尽头，他看到她们成了他</description>
-		<traits>
-			<li>Cannibal</li>
-			<li>Psychopath</li>
-		</traits>
 		<bodyTypeDef>Thin</bodyTypeDef>
 		<skills>
 			<li>
@@ -74,9 +70,8 @@
 		</skills>
 		<skinColor>(250,230,210)</skinColor>
 		<hairColor>(1.0,1.0,1.0)</hairColor>
-		<childHood></childHood>
-		<adultHood></adultHood>
-		<age>18</age>
+		<childHood>AK_BackStory_Unknown_Child</childHood>
+		<age>16</age>
 		<isMale>false</isMale>
 <!-- FIXME:删掉-->
 		<abilities>

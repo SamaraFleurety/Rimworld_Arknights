@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<TraitDef>
+		<defName>AK_Trait_Flametail</defName>
+		<ignoreConfigErrors>true</ignoreConfigErrors>
+		<commonality>0.0</commonality>
+		<degreeDatas>
+			<li>
+				<label>小小的领袖</label>
+				<description>她有两点领袖的魅力，思想与笑容。</description>
+				<statOffsets>
+					<MentalBreakThreshold>0.35</MentalBreakThreshold>
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+
+	<TraitDef>
+		<defName>AK_Trait_Saga</defName>
+		<ignoreConfigErrors>true</ignoreConfigErrors>
+		<commonality>0.0</commonality>
+		<degreeDatas>
+			<li>
+				<label>大智若愚</label>
+				<description>
+					其实放眼全罗德岛，也没有几个人能比嵯峨更加想得通，看得开。她的人生智慧是大多数人都没有的。
+					只是她有时候看上去脑子确实不是很好使。
+				</description>
+				<statOffsets>
+					<MentalBreakThreshold>0.45</MentalBreakThreshold>
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+
+	<TraitDef>
+		<defName>AK_Trait_SagaSecond</defName>
+		<ignoreConfigErrors>true</ignoreConfigErrors>
+		<commonality>0.0</commonality>
+		<degreeDatas>
+			<li>
+				<label>入世</label>
+				<description>嵯峨在画卷中看到的人和事太多太多了，多到不像她这个年纪该有的阅历。
+即使是这样，嵯峨也有她的迷茫，她的迷茫非常质朴，但是唯有她自己能给出答案</description>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+
+	<TraitDef>
+		<defName>AK_Trait_Siege</defName>
+		<ignoreConfigErrors>true</ignoreConfigErrors>
+		<commonality>0.0</commonality>
+		<degreeDatas>
+			<li>
+				<label>狮心王</label>
+				<description>齿轮开始旋转。腐朽的大钟终会敲响。</description>
+				<statOffsets>
+					<MentalBreakThreshold>0.35</MentalBreakThreshold>
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+
+	<TraitDef>
+		<defName>AK_Trait_Texas</defName>
+		<ignoreConfigErrors>true</ignoreConfigErrors>
+		<commonality>0.0</commonality>
+		<degreeDatas>
+			<li>
+				<label>过去的影子</label>
+				<description>即使过去找上门来，现在的德克萨斯小姐依然会从容以对，
+但若是她的过去扰乱了她的现在，那，或许我们能够见到，她真正愤怒的样子。</description>
+				<statOffsets>
+					<MentalBreakThreshold>-0.05</MentalBreakThreshold>
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+
+	<TraitDef>
+		<defName>AK_Trait_TexasSecond</defName>
+		<ignoreConfigErrors>true</ignoreConfigErrors>
+		<commonality>0.0</commonality>
+		<degreeDatas>
+			<li>
+				<label>杀人术</label>
+				<description>虽然她现在已经相当收敛，但从一些她自己都未必注意到的习惯中仍然可以发现
+她所掌握的战斗方式是非常直白的，与任何武器无关的，一切只为消灭对方这个目的服务的，杀人术。</description>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+
+	<TraitDef>
+		<defName>AK_Trait_Saileach</defName>
+		<ignoreConfigErrors>true</ignoreConfigErrors>
+		<commonality>0.0</commonality>
+		<degreeDatas>
+			<li>
+				<label>执旗手</label>
+				<description>信仰不灭，旗帜永在。</description>
+				<statOffsets>
+					<MentalBreakThreshold>0.3</MentalBreakThreshold>
+					<PsychicSensitivity>-0.2</PsychicSensitivity>
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+
+	<TraitDef>
+		<defName>AK_Trait_SaileachSecond</defName>
+		<ignoreConfigErrors>true</ignoreConfigErrors>
+		<commonality>0.0</commonality>
+		<degreeDatas>
+			<li>
+				<label>感染力</label>
+				<description>信仰藏匿于晨光，静候雾的弥散。
+白帆告别流浪，驶向名为守望的港湾。
+温柔的指引，坚定的方向。此刻于此，前进歌唱。</description>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+
+	<TraitDef>
+		<defName>AK_Trait_Bagpipe</defName>
+		<ignoreConfigErrors>true</ignoreConfigErrors>
+		<commonality>0.0</commonality>
+		<degreeDatas>
+			<li>
+				<label>阳光女孩</label>
+				<description>要评一个“罗德岛上朋友最多排行榜”的话，风笛小姐和格拉尼小姐一定榜上有名，风笛背着格拉尼从走廊里匆匆跑过，两个人一起去“骚扰”某些干员的样子，很是令人开怀。</description>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+
+	<TraitDef>
+		<defName>AK_Trait_BagpipeSecond</defName>
+		<ignoreConfigErrors>true</ignoreConfigErrors>
+		<commonality>0.0</commonality>
+		<degreeDatas>
+			<li>
+				<label>真正的士兵</label>
+				<description>“维多利亚远胜于其他国家的，就在于他们士兵的职业素质。”</description>
+				<statOffsets>
+					<MentalBreakThreshold>0.55</MentalBreakThreshold>
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+
+	<TraitDef>
+		<defName>AK_Trait_Reed</defName>
+		<ignoreConfigErrors>true</ignoreConfigErrors>
+		<commonality>0.0</commonality>
+		<degreeDatas>
+			<li>
+				<label>生命之火</label>
+				<description>“活着的火焰会净化你们污浊的内在。”</description>
+				<statOffsets>
+					<MentalBreakThreshold>0.2</MentalBreakThreshold>
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+
+</Defs>

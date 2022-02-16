@@ -7,7 +7,7 @@
     <commonality>0.0</commonality>
     <degreeDatas>
       <li>
-        <label></label>
+        <label>alina</label>
         <description>“怀揣希望是一件残酷的事，但{PAWN_pronoun}依旧义无反顾。”</description>
 		<statOffsets>
 		  <PainShockThreshold>-0.25</PainShockThreshold>

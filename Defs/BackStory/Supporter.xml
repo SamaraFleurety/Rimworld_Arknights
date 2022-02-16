@@ -5,8 +5,132 @@
 		<defName>AK_BackStory_Angelina_Child</defName>
 		<slot>Childhood</slot>
 		<title>信使</title>
-		<titleShort>信使</titleShort>
-		<baseDesc>安洁莉娜的人生本应像其他的同龄人一样平常而快乐，然而当她意外成为感染者之后，她选择了悄无声息的从自己的生活中消失。
-当罗德岛寻访她时，安洁莉娜却正穿梭在城市的黑夜中，于大楼间轻巧地滑翔而过。</baseDesc>
+		<baseDesc>[PAWN_nameDef]的人生本应像[PAWN_possessive]同龄人一样平常而快乐，然而当[PAWN_pronoun]意外成为感染者之后，[PAWN_pronoun]选择了悄无声息的从自己的生活中消失。
+当罗德岛寻访[PAWN_objective]时，[PAWN_nameDef]却正穿梭在城市的黑夜中，于大楼间轻巧地滑翔而过。</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Pramanix_Child</defName>
+		<slot>Childhood</slot>
+		<title>希瓦艾什家族的长女</title>
+		<titleShort>长女</titleShort>
+		<baseDesc>
+初雪本来是谢拉格贵族——希瓦艾什家族的成员，但是她的父母遇害之后，她的哥哥又做出了那样的选择。
+这造成了初雪与她哥哥的感情产生了难以愈合的伤痕。即使是血亲，也无法弥补她对银灰的失望。
+		</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+	</StoriesRetold.SRBackstoryDef>
+	
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Pramanix_Adult</defName>
+		<slot>Adulthood</slot>
+		<title>谢拉格圣女</title>
+		<titleShort>圣女</titleShort>
+		<baseDesc>也许是另一场政治阴谋，初雪再经历了极度严苛的选拔仪式后，成为了谢拉格的圣女。
+作为整个谢拉格地方宗教至高无上的权首，她拥有着一系列特权，即使是她的哥哥，谢拉格名义上的最高长官银灰，在公开场合见到她时也必须合掌行礼。
+但是她似乎不是很想承担圣女繁杂的工作？</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+	</StoriesRetold.SRBackstoryDef>
+	
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Suzuran_Child</defName>
+		<slot>Childhood</slot>
+		<title>坚强的好孩子</title>
+		<titleShort>好孩子</titleShort>
+		<baseDesc>丽萨从小到大都被父母保护的很好，但是她很懂事，也很听话。然而好景不长，其母所在的家族被卷入了一场针对■■■■家族的而掀起的城邦内乱，亦是在这场叛乱中，身为其母软肋所在的铃兰也被阴谋伤害，藏在玩偶中的源石结晶准确地刺入了她的左臂。可以想象铃兰的母亲有多么懊悔，在将铃兰托付给罗德岛后，她主导了一场针对行凶家族的刺杀，从此销声匿迹。</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+	</StoriesRetold.SRBackstoryDef>
+	
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Deepcolor_Child</defName>
+		<slot>Childhood</slot>
+		<title>画家？</title>
+		<baseDesc>据深海色本人所述，她收到父亲的影响，对绘画产生了浓厚的兴趣，并且在蒂森美术大学接受深造期间，赢得了维多利亚某高等源石技艺学府的青睐，主修三门控制类源石技艺课程。毕业后应邀前往哈尔曼松美术设计工作室，并在此工作了近三年时间。
+然而根据信人和信使所提供的情报，她的履历有多处不符。</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+	</StoriesRetold.SRBackstoryDef>
+	
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Deepcolor_Adult</defName>
+		<slot>Adulthood</slot>
+		<title>画家</title>
+		<baseDesc>尽管履历有造假之嫌，但是深海色的绘画水平并非常人所及，而且她的画作有种异样不安与强烈的吸引力。
+再加上她役使的触手，听上去很可怕不是吗？</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Magallan_Child</defName>
+		<slot>Childhood</slot>
+		<title>渴望冒险的孩子</title>
+		<titleShort>冒险家</titleShort>
+		<baseDesc>麦哲伦从小就受到极北之地传说的熏陶，梦幻般的歌谣成了小麦哲伦的梦想。小时候，那些人赞许她；少年时，那些人怀疑她；成年后，那些人批评她。她的选择没人能理解，但麦哲伦不断探险的动力，既来自她对一切知识的热爱，也来自于她对梦想的坚持。</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Magallan_Adult</defName>
+		<slot>Adulthood</slot>
+		<title>莱茵生命外勤干员</title>
+		<titleShort>莱茵外勤</titleShort>
+		<baseDesc>麦哲伦独自一人驻足于荒凉的冰漠。在那里，她远离亲友，身处恶劣的环境之中，似乎除了手握的冰雪之外一无所有。即使她频频带回极具研究价值的考察成果，却依旧有许多人无法理解她的选择。只是，在麦哲伦心中，她所追求的目标总是清晰而明朗，从来没有半分改变。</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Glaucus_Child</defName>
+		<slot>Childhood</slot>
+		<title>阿戈尔流浪者</title>
+		<titleShort>流浪者</titleShort>
+		<baseDesc>格劳克斯出生于阿戈尔地区，却早早离开家园四处流浪，机缘巧合下加入了罗德岛，仅此而已。</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Glaucus_Adult</defName>
+		<slot>Adulthood</slot>
+		<title>雷神工业先端武器测评师</title>
+		<titleShort>测评师</titleShort>
+		<baseDesc>在加入罗德岛后，在电力应用及电磁学方面展现出了惊人的天赋。在经过可露希尔引荐后，干员格劳克斯成为了雷神工业武器测评师的一员，除了对尖端武器进行研究调整之外，格劳克斯也会在需求对空特化的任务中亲自出击。</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Mayer_Child</defName>
+		<slot>Childhood</slot>
+		<title>工程学发烧友</title>
+		<titleShort>发烧友</titleShort>
+		<baseDesc>出生于哥伦比亚的梅尔，小时候就对工程学展现出了极大的兴趣，并且在大学深造后，受到了莱茵生命的邀请函。</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Mayer_Adult</defName>
+		<slot>Adulthood</slot>
+		<title>鲁特拉工作室工程师</title>
+		<titleShort>工程师</titleShort>
+		<baseDesc>在加入莱茵生命后，梅尔对于工程学的天赋和能力发挥到了极限，在她身上，科学家的缜密思维和工程师的动手能力融合地恰到好处。如果说产生了什么副作用，那一定是她的时间实在是不够用。她的脑袋中总是有各种点子在碰撞、收缩、爆炸，因此在她手中，创造出什么东西都不奇怪。
+在莱茵生命总部工作的时候，梅尔时常能够见到赫默。在那个涉及多部门的大项目里，她负责为赫默筹备、安装、调试实验装置。
+但最终，赫默消失，整个计划戛然而止。</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Ling_Child</defName>
+		<slot>Childhood</slot>
+		<title>神灵碎片（其三）</title>
+		<titleShort>碎片</titleShort>
+		<baseDesc>人重于器 兽悯于情
+长河远上 埋骸其下 吾自逍遥</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Ling_Adult</defName>
+		<slot>Adulthood</slot>
+		<title>诗人</title>
+		<baseDesc>令，寓居尚蜀的诗人，与炎国司岁台等政府部门均有联系，在尚蜀事件中接触罗德岛，现通过审核，以访客身份驻留本舰。</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
 	</StoriesRetold.SRBackstoryDef>
 </Defs>
