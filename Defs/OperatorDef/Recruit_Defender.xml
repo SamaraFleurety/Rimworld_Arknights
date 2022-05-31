@@ -77,7 +77,7 @@ Cuora, Defender Operator of Rhodes Island, will provide reliable defense for the
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Cuora</li>
+			<li><def>AK_Trait_Cuora</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Cuora_Child</childHood>
@@ -160,7 +160,7 @@ Eunectes, Gavial's rival, steps onto the battlefield along with 'Irritable Ironh
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Eunectes</li>
+			<li><def>AK_Trait_Eunectes</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Eunectes_Child</childHood>
@@ -244,7 +244,7 @@ Hoshiguma, member of the Special Service of Lungmen Guard Department, is awaitin
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Hoshiguma</li>
+			<li><def>AK_Trait_Hoshiguma</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Hoshiguma_Child</childHood>
@@ -411,7 +411,7 @@ Mudrock, Sarkaz mercenary, old friend of the fertile soil and stone.</descriptio
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Mudrock</li>
+			<li><def>AK_Trait_Mudrock</def></li>
 		</traits>
 		<age>20</age>
 		<adultHood>AK_BackStory_Mudrock_Adult</adultHood>
@@ -494,8 +494,8 @@ Nian, a mysterious visitor from the faraway land of Yen, is willing to provide a
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Nian</li>
-			<li>AK_Trait_NianSecond</li>
+			<li><def>AK_Trait_Nian</def></li>
+			<li><def>AK_Trait_NianSecond</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Nian_Child</childHood>
@@ -579,7 +579,7 @@ Saria, former researcher of Rhine Lab, will serve as a core part of the squad's 
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Saria</li>
+			<li><def>AK_Trait_Saria</def></li>
 		</traits>
 		<age>20</age>
 		<adultHood>AK_BackStory_Saria_Adult</adultHood>
@@ -661,7 +661,7 @@ Saria, former researcher of Rhine Lab, will serve as a core part of the squad's 
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Blemishine</li>
+			<li><def>AK_Trait_Blemishine</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Blemishine_Child</childHood>
@@ -743,7 +743,7 @@ Saria, former researcher of Rhine Lab, will serve as a core part of the squad's 
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Croissant</li>
+			<li><def>AK_Trait_Croissant</def></li>
 		</traits>
 		<age>20</age>
 		<adultHood>AK_BackStory_Croissant_Adult</adultHood>
@@ -825,7 +825,7 @@ Saria, former researcher of Rhine Lab, will serve as a core part of the squad's 
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Aurora</li>
+			<li><def>AK_Trait_Aurora</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Aurora_Child</childHood>

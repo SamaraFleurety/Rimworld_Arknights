@@ -78,7 +78,7 @@ Schwarz, Operator of Rhodes Island, will protect you from the shadows.</descript
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Schwarz</li>
+			<li><def>AK_Trait_Schwarz</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Schwarz_Child</childHood>
@@ -162,7 +162,7 @@ W, Sarkaz mercenary, is the single most dangerous signal on the battlefield.</de
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_W</li>
+			<li><def>AK_Trait_W</def></li>
 		</traits>
 		<age>20</age>
 		<adultHood>AK_BackStory_W_Adult</adultHood>
@@ -245,7 +245,7 @@ Executor, a professional undertaker sent from the Laterano Embassy, is glad to f
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Executor</li>
+			<li><def>AK_Trait_Executor</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Executor_Child</childHood>
@@ -328,7 +328,7 @@ Exusiai, employee of Penguin Logistics, will clear out everything in the way usi
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Exusiai</li>
+			<li><def>AK_Trait_Exusiai</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Exusiai_Child</childHood>
@@ -412,7 +412,7 @@ GreyThroat, Sniper Operator of Rhodes Island, brings eternal peace with each of 
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Greythroat</li>
+			<li><def>AK_Trait_Greythroat</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Greythroat_Child</childHood>
@@ -495,7 +495,7 @@ Jessica, Sniper Operator of Blacksteel, will provide effective attack power for 
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Jessica</li>
+			<li><def>AK_Trait_Jessica</def></li>
 		</traits>
 		<age>20</age>
 		<adultHood>AK_BackStory_Jessica_Adult</adultHood>
@@ -577,7 +577,7 @@ Construction worker Pinecone, all spaced out while she gets the job done.</descr
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Pinecone</li>
+			<li><def>AK_Trait_Pinecone</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Pinecone_Child</childHood>
@@ -661,7 +661,7 @@ Provence, Catastrophe Messenger of Rhodes Island, always keeps an eye on the mov
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Provence</li>
+			<li><def>AK_Trait_Provence</def></li>
 		</traits>
 		<age>20</age>
 		<adultHood>AK_BackStory_Provence_Adult</adultHood>
@@ -744,7 +744,7 @@ Rosa, a member of the Ursus Student Self-Government Group, is ready to welcome a
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Rosa</li>
+			<li><def>AK_Trait_Rosa</def></li>
 		</traits>
 		<childHood>AK_BackStory_Rosa_Child</childHood>
 	</AK_DLL.OperatorDef>
@@ -825,8 +825,8 @@ Rosmontis, Rhodes Island Elite Operator, pushes open your office door by hand.</
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Rosmontis</li>
-			<li>AK_Trait_RosmontisSecond</li>
+			<li><def>AK_Trait_Rosmontis</def></li>
+			<li><def>AK_Trait_RosmontisSecond</def></li>
 		</traits>
 		<childHood>AK_BackStory_Rosmontis_Child</childHood>
 	</AK_DLL.OperatorDef>
@@ -906,7 +906,7 @@ Rosmontis, Rhodes Island Elite Operator, pushes open your office door by hand.</
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Platinum</li>
+			<li><def>AK_Trait_Platinum</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Platinum_Child</childHood>
@@ -989,7 +989,7 @@ Rosmontis, Rhodes Island Elite Operator, pushes open your office door by hand.</
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Archetto</li>
+			<li><def>AK_Trait_Archetto</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Archetto_Child</childHood>
@@ -1072,7 +1072,7 @@ Rosmontis, Rhodes Island Elite Operator, pushes open your office door by hand.</
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Meteorite</li>
+			<li><def>AK_Trait_Meteorite</def></li>
 		</traits>
 		<age>20</age>
 		<adultHood>AK_BackStory_Meteorite_Adult</adultHood>
@@ -1153,7 +1153,7 @@ Rosmontis, Rhodes Island Elite Operator, pushes open your office door by hand.</
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Bluepoison</li>
+			<li><def>AK_Trait_Bluepoison</def></li>
 		</traits>
 		<age>20</age>
 		<adultHood>AK_BackStory_Bluepoison_Adult</adultHood>

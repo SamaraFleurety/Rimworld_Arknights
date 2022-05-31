@@ -77,7 +77,7 @@ Specialist Operator Robin, a city girl.</description>
 			</li>
 		</skills>
 		<traits>
-			<li>Kind</li>
+			<li><def>Kind</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Robin_Child</childHood>
@@ -161,7 +161,7 @@ Projekt Red the Wolf Hunter, Specialist Operator of Rhodes Island, will join the
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Red</li>
+			<li><def>AK_Trait_Red</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Red_Child</childHood>
@@ -245,7 +245,7 @@ Projekt Red the Wolf Hunter, Specialist Operator of Rhodes Island, will join the
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_DeepHunter</li>
+			<li><def>AK_Trait_DeepHunter</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Gladiia_Child</childHood>
@@ -328,7 +328,7 @@ Projekt Red the Wolf Hunter, Specialist Operator of Rhodes Island, will join the
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Weedy</li>
+			<li><def>AK_Trait_Weedy</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Weedy_Child</childHood>
@@ -412,7 +412,7 @@ Projekt Red the Wolf Hunter, Specialist Operator of Rhodes Island, will join the
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Mizuki</li>
+			<li><def>AK_Trait_Mizuki</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Mizuki_Child</childHood>
@@ -494,7 +494,7 @@ Projekt Red the Wolf Hunter, Specialist Operator of Rhodes Island, will join the
 			</li>
 		</skills>
 		<traits>
-			<li>Kind</li>
+			<li><def>Kind</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Gravel_Child</childHood>

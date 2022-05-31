@@ -81,7 +81,7 @@ SilverAsh, President of Karlan Trade CO., LTD, has signed the contract with Rhod
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Silverash</li>
+			<li><def>AK_Trait_Silverash</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Silverash_Child</childHood>
@@ -166,8 +166,8 @@ Skadi, bounty hunter, has come with the tide to drown your enemies.</description
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Skadi</li>
-			<li>AK_Trait_DeepHunter</li>
+			<li><def>AK_Trait_Skadi</def></li>
+			<li><def>AK_Trait_DeepHunter</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Skadi_Child</childHood>
@@ -250,8 +250,8 @@ Specter from the Abyssal Hunters is already done with her prayer and is now prow
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Specter</li>
-			<li>AK_Trait_DeepHunter</li>
+			<li><def>AK_Trait_Specter</def></li>
+			<li><def>AK_Trait_DeepHunter</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Skadi_Child</childHood>
@@ -336,7 +336,7 @@ Thorns, Guard Operator of Rhodes Island, wastes not an ounce of energy, calculat
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Thorns</li>
+			<li><def>AK_Trait_Thorns</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Thorns_Child</childHood>
@@ -420,7 +420,7 @@ Rhodes Island Guard Operator Surtr, a person difficult to approach.</description
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Surtr</li>
+			<li><def>AK_Trait_Surtr</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Surtr_Child</childHood>
@@ -504,7 +504,7 @@ Blaze, Rhodes Island's most fired-up Operator, will spread her enthusiasm like a
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Blaze</li>
+			<li><def>AK_Trait_Blaze</def></li>
 		</traits>
 		<age>20</age>
 		<adultHood>AK_BackStory_Blaze_Adult</adultHood>
@@ -587,8 +587,8 @@ Ch'en, Special Inspection Unit Chief, L.G.D., is cooperating with Rhodes Island 
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Chen</li>
-			<li>AK_Trait_ChenSecond</li>
+			<li><def>AK_Trait_Chen</def></li>
+			<li><def>AK_Trait_ChenSecond</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Chen_Child</childHood>
@@ -671,7 +671,7 @@ Cutter, mercenary, will complete all tasks on the battlefield in a calm and disc
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Cutter</li>
+			<li><def>AK_Trait_Cutter</def></li>
 		</traits>
 		<childHood>AK_BackStory_Cutter_Child</childHood>
 	</AK_DLL.OperatorDef>
@@ -752,7 +752,7 @@ Franka, Guard Operator of B.P.R.S. of Blacksteel, is waiting for your orders.</d
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Franka</li>
+			<li><def>AK_Trait_Franka</def></li>
 		</traits>
 		<age>20</age>
 		<adultHood>AK_BackStory_Franka_Adult</adultHood>
@@ -836,7 +836,7 @@ Frostleaf, Guard Operator of Rhodes Island, will obey all your orders.</descript
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Frostleaf</li>
+			<li><def>AK_Trait_Frostleaf</def></li>
 		</traits>
 		<childHood>AK_BackStory_Frostleaf_Child</childHood>
 	</AK_DLL.OperatorDef>
@@ -919,7 +919,7 @@ Operator Lappland can't wait to slash apart the enemies in front of her.</descri
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Lappland</li>
+			<li><def>AK_Trait_Lappland</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Lappland_Child</childHood>
@@ -1003,7 +1003,7 @@ Mousse, Guard Operator of Rhodes Island, thinks of her enemies as oversized scra
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Mousse</li>
+			<li><def>AK_Trait_Mousse</def></li>
 		</traits>
 		<childHood>AK_BackStory_Mousse_Child</childHood>
 	</AK_DLL.OperatorDef>
@@ -1085,7 +1085,7 @@ Mousse, Guard Operator of Rhodes Island, thinks of her enemies as oversized scra
 			</li>
 		</skills>
 		<traits>
-			<li>Kind</li>
+			<li><def>Kind</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Whislash_Child</childHood>
@@ -1169,7 +1169,7 @@ Mousse, Guard Operator of Rhodes Island, thinks of her enemies as oversized scra
 		</li>
 	</skills>
 	<traits>
-		<li>AK_Trait_Swire</li>
+		<li><def>AK_Trait_Swire</def></li>
 	</traits>
 	<age>20</age>
 	<childHood>AK_BackStory_Swire_Child</childHood>

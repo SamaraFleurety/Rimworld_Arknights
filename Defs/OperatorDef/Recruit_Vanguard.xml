@@ -77,7 +77,7 @@ Vanilla, Vanguard Operator of Blacksteel, will make way for the squad on the bat
 			</li>
 		</skills>
 		<traits>
-			<li>Kind</li>
+			<li><def>Kind</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Vanilla_Child</childHood>
@@ -161,8 +161,8 @@ Bagpipe, former Victorian soldier, has come in search of the truth.</description
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Bagpipe</li>
-			<li>AK_Trait_BagpipeSecond</li>
+			<li><def>AK_Trait_Bagpipe</def></li>
+			<li><def>AK_Trait_BagpipeSecond</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Bagpipe_Child</childHood>
@@ -246,7 +246,7 @@ Reed, Rhodes Island inpatient, will provide personal assistance to those who are
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Reed</li>
+			<li><def>AK_Trait_Reed</def></li>
 		</traits>
 		<age>20</age>
 		<adultHood>AK_BackStory_Reed_Adult</adultHood>
@@ -329,8 +329,8 @@ The wandering monk, Saga, joins in on the action wherever she goes.</description
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Saga</li>
-			<li>AK_Trait_SagaSecond</li>
+			<li><def>AK_Trait_Saga</def></li>
+			<li><def>AK_Trait_SagaSecond</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Saga_Child</childHood>
@@ -413,8 +413,8 @@ Texas, employee of Penguin Logistics, will give the squad a tactical advantage w
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Texas</li>
-			<li>AK_Trait_TexasSecond</li>
+			<li><def>AK_Trait_Texas</def></li>
+			<li><def>AK_Trait_TexasSecond</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Texas_Child</childHood>
@@ -497,8 +497,8 @@ Texas, employee of Penguin Logistics, will give the squad a tactical advantage w
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Saileach</li>
-			<li>AK_Trait_SaileachSecond</li>
+			<li><def>AK_Trait_Saileach</def></li>
+			<li><def>AK_Trait_SaileachSecond</def></li>
 		</traits>
 		<age>20</age>
 		<adultHood>AK_BackStory_Saileach_Adult</adultHood>
@@ -580,7 +580,7 @@ Texas, employee of Penguin Logistics, will give the squad a tactical advantage w
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Flametail</li>
+			<li><def>AK_Trait_Flametail</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Flametail_Child</childHood>

@@ -79,8 +79,8 @@ Shining, Sarkaz healer, will do everything she can to provide medical care for t
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Shining</li>
-			<li>AK_Trait_Follower</li>
+			<li><def>AK_Trait_Shining</def></li>
+			<li><def>AK_Trait_Follower</def></li>
 		</traits>
 		<age>20</age>
 		<adultHood>AK_BackStory_Shining_Adult</adultHood>
@@ -162,7 +162,7 @@ Silence, medical specialist of Rhine Lab, will make use of the latest scientific
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Silence</li>
+			<li><def>AK_Trait_Silence</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Silence_Child</childHood>
@@ -246,7 +246,7 @@ Gavial, Medic Operator of Rhodes Island, will protect the lives of her squad mem
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Gavial</li>
+			<li><def>AK_Trait_Gavial</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Gavial_Child</childHood>
@@ -329,8 +329,8 @@ Gavial, Medic Operator of Rhodes Island, will protect the lives of her squad mem
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Kaltsit</li>
-			<li>AK_Trait_KaltsitSecond</li>
+			<li><def>AK_Trait_Kaltsit</def></li>
+			<li><def>AK_Trait_KaltsitSecond</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Kaltsit_Child</childHood>
@@ -414,9 +414,9 @@ Nightingale, Sarkaz healer, will do everything she can to provide medical care f
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Nightingale</li>
-			<li>AK_Trait_NightingaleSecond</li>
-			<li>AK_Trait_Follower</li>
+			<li><def>AK_Trait_Nightingale</def></li>
+			<li><def>AK_Trait_NightingaleSecond</def></li>
+			<li><def>AK_Trait_Follower</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Nightingale_Child</childHood>
@@ -500,7 +500,7 @@ Perfumer, manager of 'Health Garden,' will use her fragrant aromatherapy to heal
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Perfumer</li>
+			<li><def>AK_Trait_Perfumer</def></li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Perfumer_Child</childHood>
@@ -583,8 +583,8 @@ Ptilopsis, database maintainer of Rhine Lab, activated. Please enter commands to
 			</li>
 		</skills>
 		<traits>
-			<li>AK_Trait_Ptilopsis</li>
-			<li>AK_Trait_PtilopsisSecond</li>
+			<li><def>AK_Trait_Ptilopsis</def></li>
+			<li><def>AK_Trait_PtilopsisSecond</def></li>
 		</traits>
 		<age>20</age>
 		<adultHood>AK_BackStory_Ptilopsis_Adult</adultHood>
@@ -665,7 +665,7 @@ Ptilopsis, database maintainer of Rhine Lab, activated. Please enter commands to
 			</li>
 		</skills>
 		<traits>
-			<li>Kind</li>
+			<li><def>Kind</def></li>
 		</traits>
 		<childHood>AK_BackStory_Purestream_Child</childHood>
 	</AK_DLL.OperatorDef>
