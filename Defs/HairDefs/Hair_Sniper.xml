@@ -87,4 +87,10 @@
 		<texPath>Things/Hair/Sniper/Bluepoison</texPath>
 	</HairDef>
 
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Fiammetta</defName>
+		<label>菲亚梅塔发型</label>
+		<texPath>Things/Hair/Sniper/Fiammetta</texPath>
+	</HairDef>
+
 </Defs>

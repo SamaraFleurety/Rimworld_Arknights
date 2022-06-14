@@ -220,4 +220,23 @@
 现于罗德岛狙击小组任职，提供射击援护方面的保障服务。</baseDesc>
 		<bodyTypeGlobal>Thin</bodyTypeGlobal>
 	</StoriesRetold.SRBackstoryDef>
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Fiammetta_Child</defName>
+		<slot>Childhood</slot>
+		<title>拉特兰的黎博利</title>
+		<baseDesc>
+菲亚梅塔出生于拉特兰，在家乡的学校毕业后成为了公证所的一员。
+据说菲亚梅塔在她当时的班级里成绩是最好的。
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Fiammetta_Adult</defName>
+		<slot>Adulthood</slot>
+		<title>拉特兰公证所高级特派员</title>
+		<baseDesc>
+菲亚梅塔在加入公证所之后原本同安多恩和他手下的小队一起行动，但是在某些变故后她现在的任务变成了监视莫斯提马。
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
+
 </Defs>

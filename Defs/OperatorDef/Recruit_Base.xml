@@ -6,68 +6,6 @@
 		<nickname>虚无弄臣</nickname>
 		<description>在路的尽头，他看到她们成了他</description>
 		<bodyTypeDef>Thin</bodyTypeDef>
-		<skills>
-			<li>
-				<skill>Animals</skill>
-				<level>5</level>
-				<fireLevel>0</fireLevel>
-			</li>
-			<li>
-				<skill>Artistic</skill>
-				<level>5</level>
-				<fireLevel>0</fireLevel>
-			</li>
-			<li>
-				<skill>Construction</skill>
-				<level>5</level>
-				<fireLevel>0</fireLevel>
-			</li>
-			<li>
-				<skill>Cooking</skill>
-				<level>5</level>
-				<fireLevel>0</fireLevel>
-			</li>
-			<li>
-				<skill>Crafting</skill>
-				<level>5</level>
-				<fireLevel>0</fireLevel>
-			</li>
-			<li>
-				<skill>Intellectual</skill>
-				<level>5</level>
-				<fireLevel>0</fireLevel>
-			</li>
-			<li>
-				<skill>Medicine</skill>
-				<level>5</level>
-				<fireLevel>0</fireLevel>
-			</li>
-			<li>
-				<skill>Melee</skill>
-				<level>10</level>
-				<fireLevel>1</fireLevel>
-			</li>
-			<li>
-				<skill>Mining</skill>
-				<level>5</level>
-				<fireLevel>0</fireLevel>
-			</li>
-			<li>
-				<skill>Plants</skill>
-				<level>5</level>
-				<fireLevel>0</fireLevel>
-			</li>
-			<li>
-				<skill>Shooting</skill>
-				<level>10</level>
-				<fireLevel>2</fireLevel>
-			</li>
-			<li>
-				<skill>Social</skill>
-				<level>5</level>
-				<fireLevel>0</fireLevel>
-			</li>
-		</skills>
 		<skinColor>(250,230,210)</skinColor>
 		<hairColor>(1.0,1.0,1.0)</hairColor>
 		<childHood>AK_BackStory_Unknown_Child</childHood>

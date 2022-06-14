@@ -267,4 +267,36 @@
 		</degreeDatas>
 	</TraitDef>
 
+	<TraitDef>
+		<ignoreConfigErrors>true</ignoreConfigErrors>
+		<commonality>0.0</commonality>
+		<defName>AK_Trait_FiammettaSecond</defName>
+		<degreeDatas>
+			<li>
+				<label>陈述苦难</label>
+				<description>
+				菲亚梅塔作为拉特兰公证所外派干员经历了许多，现在她对于守护拉特兰的执念已经十分坚定。
+				</description>
+				<statOffsets>
+					<MentalBreakThreshold>0.25</MentalBreakThreshold>
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+	<TraitDef>
+		<ignoreConfigErrors>true</ignoreConfigErrors>
+		<commonality>0.0</commonality>
+		<defName>AK_Trait_Fiammetta</defName>
+		<degreeDatas>
+			<li>
+				<label>精通艺术</label>
+				<description>
+				虽然菲亚梅塔常年工作，但是根据她对铳械和电影的了解，显然她也精通娱乐。
+				</description>
+				<statOffsets>
+					<GlobalLearningFactor>0.45</GlobalLearningFactor>
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>
 </Defs>

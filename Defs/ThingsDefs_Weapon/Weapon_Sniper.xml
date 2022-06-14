@@ -448,4 +448,13 @@
 		</verbs>
 	</ThingDef>
 
+	<ThingDef ParentName="AK_WeaponBase_Sniper">
+		<defName>AK_Weapon_Fiammetta</defName>
+		<label>菲亚梅塔的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Sniper/FiammettaW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
 </Defs>
