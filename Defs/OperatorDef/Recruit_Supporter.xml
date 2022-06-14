@@ -79,6 +79,21 @@ Suzuran, Rhodes Island Operator, has nine times the strength, and the fluffiness
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Suzuran</def></li>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Nerves</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>NaturalMood</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<childHood>AK_BackStory_Suzuran_Child</childHood>
 	</AK_DLL.OperatorDef>
@@ -161,6 +176,19 @@ Angelina, Supporter Operator and Messenger of Rhodes Island, would like to provi
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Angelina</def></li>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Nimble</def>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
 		</traits>
 		<childHood>AK_BackStory_Angelina_Child</childHood>
 	</AK_DLL.OperatorDef>
@@ -242,6 +270,21 @@ Magallan, the Commissioner of Rhine Labs, is glad to welcome new adventures.</de
 		</skills>
 		<traits>
 			<li><def>Kind</def></li>
+			<li>
+				<def>TooSmart</def>
+			</li>
+			<li>
+				<def>NaturalMood</def>
+				<degree>2</degree>
+			</li>
+			<li>
+				<def>Nerves</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Industriousness</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Magallan_Child</childHood>
@@ -324,6 +367,20 @@ Magallan, the Commissioner of Rhine Labs, is glad to welcome new adventures.</de
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Deepcolor</def></li>
+			<li>
+				<def>Asexual</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>TooSmart</def>
+			</li>
+			<li>
+				<def>PsychicSensitivity</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Deepcolor_Child</childHood>
@@ -407,6 +464,17 @@ Magallan, the Commissioner of Rhine Labs, is glad to welcome new adventures.</de
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Pramanix</def></li>
+			<li>
+				<def>Nimble</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>2</degree>
+			</li>
+			<li>
+				<def>Industriousness</def>
+				<degree>-1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Pramanix_Child</childHood>
@@ -488,6 +556,21 @@ Magallan, the Commissioner of Rhine Labs, is glad to welcome new adventures.</de
 			</li>
 		</skills>
 		<traits>
+			<li>
+				<def>FastLearner</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>PsychicSensitivity</def>
+				<degree>-2</degree>
+			</li>
+			<li>
+				<def>SpeedOffset</def>
+				<degree>-1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Glaucus_Child</childHood>

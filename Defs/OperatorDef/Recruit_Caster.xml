@@ -82,7 +82,14 @@ Coming on a whim, the great painter, Dusk, puts only the finishing touches on al
 			<li><def>AK_Trait_DuskSecond</def></li>
 			<li>
 				<def>Beauty</def>
-				<degree>1</degree>
+				<degree>2</degree>
+			</li>
+			<li>
+				<def>Undergrounder</def>
+			</li>
+			<li>
+				<def>Industriousness</def>
+				<degree>-2</degree>
 			</li>
 		</traits>
 		<age>20</age>
@@ -168,6 +175,21 @@ Eyjafjalla, Caster Operator of Rhodes Island, has wanted to devote herself to do
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Eyjafjalla</def></li>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Industriousness</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Immunity</def>
+				<degree>-1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Eyjafjalla_Child</childHood>
@@ -251,6 +273,19 @@ Ifrit, former test subject of Rhine Lab, will incinerate all of Silence's enemie
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Ifrit</def></li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Pyromaniac</def>
+			</li>
+			<li>
+				<def>Abrasive</def>
+			</li>
+			<li>
+				<def>SlowLearner</def>
+			</li>
 		</traits>
 		<childHood>AK_BackStory_Ifrit_Child</childHood>
 	</AK_DLL.OperatorDef>
@@ -266,6 +301,86 @@ Mint, the Victorian Caster, seeks recognition as a scholar far more than as a Ca
 		<apparels>
 			<li>AK_Apparel_Mint</li>
 		</apparels>
+		<skills>
+			<li>
+				<skill>Animals</skill>
+				<level>0</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Artistic</skill>
+				<level>3</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Construction</skill>
+				<level>5</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Cooking</skill>
+				<level>2</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Crafting</skill>
+				<level>7</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Intellectual</skill>
+				<level>10</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Medicine</skill>
+				<level>3</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Melee</skill>
+				<level>2</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Mining</skill>
+				<level>14</level>
+				<fireLevel>2</fireLevel>
+			</li>
+			<li>
+				<skill>Plants</skill>
+				<level>2</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Shooting</skill>
+				<level>4</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Social</skill>
+				<level>8</level>
+				<fireLevel>0</fireLevel>
+			</li>
+		</skills>
+		<traits>
+			<li><def>AK_Trait_Mint</def></li>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>NaturalMood</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Nerves</def>
+				<degree>1</degree>
+			</li>
+		</traits>
 		<stand>UI/Image/Caster/MintStand</stand>
 		<headPortrait>UI/Image/Caster/MintPortrait</headPortrait>
 	</AK_DLL.OperatorDef>
@@ -286,8 +401,8 @@ Mostima, Senior Messenger, will lay low all obstacles in your path with her Arts
 		<skills>
 			<li>
 				<skill>Animals</skill>
-				<level></level>
-				<fireLevel>2</fireLevel>
+				<level>2</level>
+				<fireLevel>0</fireLevel>
 			</li>
 			<li>
 				<skill>Artistic</skill>
@@ -347,6 +462,20 @@ Mostima, Senior Messenger, will lay low all obstacles in your path with her Arts
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Mostima</def></li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>SpeedOffset</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>TooSmart</def>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Mostima_Child</childHood>
@@ -431,6 +560,13 @@ Skyfire, Operator from King's Wand, is ready to burn anyone foolish enough to st
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Skyfire</def></li>
+			<li>
+				<def>Beauty</def>
+				<degree>2</degree>
+			</li>
+			<li>
+				<def>Nimble</def>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Skyfire_Child</childHood>
@@ -442,7 +578,8 @@ Skyfire, Operator from King's Wand, is ready to burn anyone foolish enough to st
 		<name>Absinthe</name>
 		<nickname>Absinthe</nickname>
 		<description>Unlike last time, she perhaps can once again take up the mantle of a protector.
-Absinthe, Caster Operator, is always ready to eliminate any threats.</description>
+Absinthe, Caster Operator, is always ready to eliminate any threats.		
+		</description>
 		<weapon>AK_Weapon_Absinthe</weapon>
 		<hair>AK_Hair_Absinthe</hair>
 		<apparels>
@@ -515,6 +652,21 @@ Absinthe, Caster Operator, is always ready to eliminate any threats.</descriptio
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Absinthe</def></li>
+			<li>
+				<def>Industriousness</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>DrugDesire</def>
+				<degree>-1</degree>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>-1</degree>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
 		</traits>
 		<childHood>AK_BackStory_Absinthe_Child</childHood>
 	</AK_DLL.OperatorDef>
@@ -596,6 +748,17 @@ Amiya, leader of Rhodes Island, will fight alongside you.</description>
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Amiya</def></li>
+			<li><def>AK_Trait_AmiyaSecond</def></li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
 		</traits>
 		<childHood>AK_BackStory_Amiya_Child</childHood>
 	</AK_DLL.OperatorDef>
@@ -678,6 +841,19 @@ Ceobe is always ready to go after the bad guys.</description>
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Ceobe</def></li>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Nimble</def>
+			</li>
+			<li>
+				<def>Gourmand</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Ceobe_Child</childHood>
@@ -762,6 +938,19 @@ Ceobe is always ready to go after the bad guys.</description>
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Carnelian</def></li>
+			<li>
+				<def>Bloodlust</def>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>GreatMemory</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Carnelian_Child</childHood>
@@ -844,6 +1033,12 @@ Ceobe is always ready to go after the bad guys.</description>
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Beeswax</def></li>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
 		</traits>
 		<childHood>AK_BackStory_Beeswax_Child</childHood>
 		<skinColor>(210,180,170)</skinColor>
@@ -925,7 +1120,24 @@ Ceobe is always ready to go after the bad guys.</description>
 		</li>
 	</skills>
 	<traits>
-		<li><def>AK_Trait_Indigo</def></li>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Immunity</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Nerves</def>
+				<degree>1</degree>
+			</li>
 	</traits>
 	<age>20</age>
 	<childHood>AK_BackStory_Indigo_Child</childHood>

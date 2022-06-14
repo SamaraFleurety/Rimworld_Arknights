@@ -195,5 +195,22 @@
 			</li>
 		</degreeDatas>
 	</TraitDef>
+	
+	<TraitDef>
+		<defName>AK_Trait_Mint</defName>
+		<ignoreConfigErrors>true</ignoreConfigErrors>
+		<commonality>0.0</commonality>
+		<degreeDatas>
+			<li>
+				<label>旺盛的好奇心</label>
+				<description>薄绿展现出了一种极度旺盛的好奇心，这对她的学习有帮助，然而却容易在工作的时候突然勾走她的注意力。
+				</description>
+				<statOffsets>
+					<GlobalLearningFactor>0.2</GlobalLearningFactor>
+					<WorkSpeedGlobal>-0.2</WorkSpeedGlobal>
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>
 
 </Defs>

@@ -78,6 +78,20 @@ Specialist Operator Robin, a city girl.</description>
 		</skills>
 		<traits>
 			<li><def>Kind</def></li>
+			<li>
+				<def>Nimble</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>Nerves</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Robin_Child</childHood>
@@ -162,6 +176,20 @@ Projekt Red the Wolf Hunter, Specialist Operator of Rhodes Island, will join the
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Red</def></li>
+			<li>
+				<def>Bloodlust</def>
+			</li>
+			<li>
+				<def>PsychicSensitivity</def>
+				<degree>-2</degree>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Red_Child</childHood>
@@ -246,6 +274,20 @@ Projekt Red the Wolf Hunter, Specialist Operator of Rhodes Island, will join the
 		</skills>
 		<traits>
 			<li><def>AK_Trait_DeepHunter</def></li>
+			<li>
+				<def>Abrasive</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>GreatMemory</def>
+			</li>
+			<li>
+				<def>SpeedOffset</def>
+				<degree>2</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Gladiia_Child</childHood>
@@ -329,6 +371,21 @@ Projekt Red the Wolf Hunter, Specialist Operator of Rhodes Island, will join the
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Weedy</def></li>
+			<li>
+				<def>Wimp</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Immunity</def>
+				<degree>-1</degree>
+			</li>
+			<li>
+				<def>DrugDesire</def>
+				<degree>-1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Weedy_Child</childHood>
@@ -413,6 +470,16 @@ Projekt Red the Wolf Hunter, Specialist Operator of Rhodes Island, will join the
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Mizuki</def></li>
+			<li>
+				<def>Cannibal</def>
+			</li>
+			<li>
+				<def>Nimble</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Mizuki_Child</childHood>
@@ -495,6 +562,20 @@ Projekt Red the Wolf Hunter, Specialist Operator of Rhodes Island, will join the
 		</skills>
 		<traits>
 			<li><def>Kind</def></li>
+			<li>
+				<def>Nimble</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>SpeedOffset</def>
+				<degree>2</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Gravel_Child</childHood>

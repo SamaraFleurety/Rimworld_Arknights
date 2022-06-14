@@ -81,6 +81,16 @@ Shining, Sarkaz healer, will do everything she can to provide medical care for t
 		<traits>
 			<li><def>AK_Trait_Shining</def></li>
 			<li><def>AK_Trait_Follower</def></li>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>2</degree>
+			</li>
+			<li>
+				<def>Ascetic</def>
+			</li>
 		</traits>
 		<age>20</age>
 		<adultHood>AK_BackStory_Shining_Adult</adultHood>
@@ -163,6 +173,23 @@ Silence, medical specialist of Rhine Lab, will make use of the latest scientific
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Silence</def></li>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>FastLearner</def>
+			</li>
+			<li>
+				<def>NightOwl</def>
+			</li>
+			<li>
+				<def>Nerves</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Silence_Child</childHood>
@@ -247,6 +274,19 @@ Gavial, Medic Operator of Rhodes Island, will protect the lives of her squad mem
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Gavial</def></li>
+			<li>
+				<def>Abrasive</def>
+			</li>
+			<li>
+				<def>Nimble</def>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Gavial_Child</childHood>
@@ -331,6 +371,16 @@ Gavial, Medic Operator of Rhodes Island, will protect the lives of her squad mem
 		<traits>
 			<li><def>AK_Trait_Kaltsit</def></li>
 			<li><def>AK_Trait_KaltsitSecond</def></li>
+			<li>
+				<def>Nimble</def>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Kaltsit_Child</childHood>
@@ -417,6 +467,13 @@ Nightingale, Sarkaz healer, will do everything she can to provide medical care f
 			<li><def>AK_Trait_Nightingale</def></li>
 			<li><def>AK_Trait_NightingaleSecond</def></li>
 			<li><def>AK_Trait_Follower</def></li>
+			<li>
+				<def>Wimp</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>2</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Nightingale_Child</childHood>
@@ -501,6 +558,17 @@ Perfumer, manager of 'Health Garden,' will use her fragrant aromatherapy to heal
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Perfumer</def></li>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Industriousness</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Perfumer_Child</childHood>
@@ -585,6 +653,13 @@ Ptilopsis, database maintainer of Rhine Lab, activated. Please enter commands to
 		<traits>
 			<li><def>AK_Trait_Ptilopsis</def></li>
 			<li><def>AK_Trait_PtilopsisSecond</def></li>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<adultHood>AK_BackStory_Ptilopsis_Adult</adultHood>
@@ -666,6 +741,21 @@ Ptilopsis, database maintainer of Rhine Lab, activated. Please enter commands to
 		</skills>
 		<traits>
 			<li><def>Kind</def></li>
+			<li>
+				<def>Nimble</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Industriousness</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>NaturalMood</def>
+				<degree>2</degree>
+			</li>
 		</traits>
 		<childHood>AK_BackStory_Purestream_Child</childHood>
 	</AK_DLL.OperatorDef>

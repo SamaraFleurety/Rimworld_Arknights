@@ -78,6 +78,19 @@ Cuora, Defender Operator of Rhodes Island, will provide reliable defense for the
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Cuora</def></li>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>Brawler</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Cuora_Child</childHood>
@@ -161,6 +174,19 @@ Eunectes, Gavial's rival, steps onto the battlefield along with 'Irritable Ironh
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Eunectes</def></li>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>Nimble</def>
+			</li>
+			<li>
+				<def>TooSmart</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Eunectes_Child</childHood>
@@ -245,6 +271,19 @@ Hoshiguma, member of the Special Service of Lungmen Guard Department, is awaitin
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Hoshiguma</def></li>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>TooSmart</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Hoshiguma_Child</childHood>
@@ -328,6 +367,24 @@ Liskarm, Defender Operator of B.P.R.S. of Blacksteel, possesses both a solid shi
 			</li>
 		</skills>
 		<traits>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>Industriousness</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>FastLearner</def>
+			</li>
+			<li>
+				<def>Nerves</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Liskarm_Child</childHood>
@@ -412,6 +469,16 @@ Mudrock, Sarkaz mercenary, old friend of the fertile soil and stone.</descriptio
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Mudrock</def></li>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>2</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<adultHood>AK_BackStory_Mudrock_Adult</adultHood>
@@ -496,6 +563,16 @@ Nian, a mysterious visitor from the faraway land of Yen, is willing to provide a
 		<traits>
 			<li><def>AK_Trait_Nian</def></li>
 			<li><def>AK_Trait_NianSecond</def></li>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>2</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Nian_Child</childHood>
@@ -580,6 +657,20 @@ Saria, former researcher of Rhine Lab, will serve as a core part of the squad's 
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Saria</def></li>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>Brawler</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Industriousness</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<adultHood>AK_BackStory_Saria_Adult</adultHood>
@@ -662,6 +753,20 @@ Saria, former researcher of Rhine Lab, will serve as a core part of the squad's 
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Blemishine</def></li>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>NaturalMood</def>
+				<degree>2</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Blemishine_Child</childHood>
@@ -744,6 +849,19 @@ Saria, former researcher of Rhine Lab, will serve as a core part of the squad's 
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Croissant</def></li>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>TooSmart</def>
+			</li>
 		</traits>
 		<age>20</age>
 		<adultHood>AK_BackStory_Croissant_Adult</adultHood>
@@ -826,6 +944,20 @@ Saria, former researcher of Rhine Lab, will serve as a core part of the squad's 
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Aurora</def></li>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>NaturalMood</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Aurora_Child</childHood>

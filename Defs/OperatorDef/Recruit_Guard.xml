@@ -82,6 +82,20 @@ SilverAsh, President of Karlan Trade CO., LTD, has signed the contract with Rhod
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Silverash</def></li>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>TooSmart</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>2</degree>
+			</li>
+			<li>
+				<def>Industriousness</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Silverash_Child</childHood>
@@ -168,6 +182,16 @@ Skadi, bounty hunter, has come with the tide to drown your enemies.</description
 		<traits>
 			<li><def>AK_Trait_Skadi</def></li>
 			<li><def>AK_Trait_DeepHunter</def></li>
+			<li>
+				<def>Beauty</def>
+				<degree>2</degree>
+			</li>
+			<li>
+				<def>Nimble</def>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Skadi_Child</childHood>
@@ -252,6 +276,19 @@ Specter from the Abyssal Hunters is already done with her prayer and is now prow
 		<traits>
 			<li><def>AK_Trait_Specter</def></li>
 			<li><def>AK_Trait_DeepHunter</def></li>
+			<li>
+				<def>Beauty</def>
+				<degree>2</degree>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>Bloodlust</def>
+			</li>
+			<li>
+				<def>Psychopath</def>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Skadi_Child</childHood>
@@ -337,6 +374,19 @@ Thorns, Guard Operator of Rhodes Island, wastes not an ounce of energy, calculat
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Thorns</def></li>
+			<li>
+				<def>Nimble</def>
+			</li>
+			<li>
+				<def>TooSmart</def>
+			</li>
+			<li>
+				<def>Abrasive</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Thorns_Child</childHood>
@@ -421,6 +471,20 @@ Rhodes Island Guard Operator Surtr, a person difficult to approach.</description
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Surtr</def></li>
+			<li>
+				<def>Immunity</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>2</degree>
+			</li>
+			<li>
+				<def>Abrasive</def>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Surtr_Child</childHood>
@@ -505,6 +569,20 @@ Blaze, Rhodes Island's most fired-up Operator, will spread her enthusiasm like a
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Blaze</def></li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Nerves</def>
+				<degree>2</degree>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>Nimble</def>
+			</li>
 		</traits>
 		<age>20</age>
 		<adultHood>AK_BackStory_Blaze_Adult</adultHood>
@@ -589,6 +667,17 @@ Ch'en, Special Inspection Unit Chief, L.G.D., is cooperating with Rhodes Island 
 		<traits>
 			<li><def>AK_Trait_Chen</def></li>
 			<li><def>AK_Trait_ChenSecond</def></li>
+			<li>
+				<def>Beauty</def>
+				<degree>2</degree>
+			</li>
+			<li>
+				<def>Industriousness</def>
+				<degree>2</degree>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Chen_Child</childHood>
@@ -672,6 +761,19 @@ Cutter, mercenary, will complete all tasks on the battlefield in a calm and disc
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Cutter</def></li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Nimble</def>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
 		</traits>
 		<childHood>AK_BackStory_Cutter_Child</childHood>
 	</AK_DLL.OperatorDef>
@@ -753,6 +855,20 @@ Franka, Guard Operator of B.P.R.S. of Blacksteel, is waiting for your orders.</d
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Franka</def></li>
+			<li>
+				<def>Nimble</def>
+			</li>
+			<li>
+				<def>Brawler</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Nerves</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<adultHood>AK_BackStory_Franka_Adult</adultHood>
@@ -837,6 +953,16 @@ Frostleaf, Guard Operator of Rhodes Island, will obey all your orders.</descript
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Frostleaf</def></li>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>Nimble</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<childHood>AK_BackStory_Frostleaf_Child</childHood>
 	</AK_DLL.OperatorDef>
@@ -920,6 +1046,20 @@ Operator Lappland can't wait to slash apart the enemies in front of her.</descri
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Lappland</def></li>
+			<li>
+				<def>Nimble</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>SpeedOffset</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Lappland_Child</childHood>
@@ -1004,6 +1144,18 @@ Mousse, Guard Operator of Rhodes Island, thinks of her enemies as oversized scra
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Mousse</def></li>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Wimp</def>	
+			</li>
+			<li>
+				<def>Nimble</def>
+			</li>
+			<li>
+				<def>FastLearner</def>
+			</li>
 		</traits>
 		<childHood>AK_BackStory_Mousse_Child</childHood>
 	</AK_DLL.OperatorDef>
@@ -1086,6 +1238,19 @@ Mousse, Guard Operator of Rhodes Island, thinks of her enemies as oversized scra
 		</skills>
 		<traits>
 			<li><def>Kind</def></li>
+			<li><def>Tough</def></li>
+			<li>
+				<def>Industriousness</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Nerves</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Whislash_Child</childHood>
@@ -1170,6 +1335,20 @@ Mousse, Guard Operator of Rhodes Island, thinks of her enemies as oversized scra
 	</skills>
 	<traits>
 		<li><def>AK_Trait_Swire</def></li>
+			<li>
+				<def>TooSmart</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Industriousness</def>
+				<degree>1</degree>
+			</li>
 	</traits>
 	<age>20</age>
 	<childHood>AK_BackStory_Swire_Child</childHood>

@@ -79,6 +79,19 @@ Schwarz, Operator of Rhodes Island, will protect you from the shadows.</descript
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Schwarz</def></li>
+			<li>
+				<def>Nimble</def>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>Bloodlust</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Schwarz_Child</childHood>
@@ -163,6 +176,19 @@ W, Sarkaz mercenary, is the single most dangerous signal on the battlefield.</de
 		</skills>
 		<traits>
 			<li><def>AK_Trait_W</def></li>
+			<li>
+				<def>Nimble</def>
+			</li>
+			<li>
+				<def>Bloodlust</def>
+			</li>
+			<li>
+				<def>TooSmart</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<adultHood>AK_BackStory_W_Adult</adultHood>
@@ -246,6 +272,13 @@ Executor, a professional undertaker sent from the Laterano Embassy, is glad to f
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Executor</def></li>
+			<li>
+				<def>Nimble</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>2</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Executor_Child</childHood>
@@ -329,6 +362,20 @@ Exusiai, employee of Penguin Logistics, will clear out everything in the way usi
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Exusiai</def></li>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>SpeedOffset</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Exusiai_Child</childHood>
@@ -413,6 +460,20 @@ GreyThroat, Sniper Operator of Rhodes Island, brings eternal peace with each of 
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Greythroat</def></li>
+			<li>
+				<def>Nimble</def>
+			</li>
+			<li>
+				<def>ShootingAccuracy</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Greythroat_Child</childHood>
@@ -496,6 +557,17 @@ Jessica, Sniper Operator of Blacksteel, will provide effective attack power for 
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Jessica</def></li>
+			<li>
+				<def>Nimble</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Industriousness</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<adultHood>AK_BackStory_Jessica_Adult</adultHood>
@@ -662,6 +734,20 @@ Provence, Catastrophe Messenger of Rhodes Island, always keeps an eye on the mov
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Provence</def></li>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>Industriousness</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<adultHood>AK_BackStory_Provence_Adult</adultHood>
@@ -745,6 +831,13 @@ Rosa, a member of the Ursus Student Self-Government Group, is ready to welcome a
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Rosa</def></li>
+			<li>
+				<def>TooSmart</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>2</degree>
+			</li>
 		</traits>
 		<childHood>AK_BackStory_Rosa_Child</childHood>
 	</AK_DLL.OperatorDef>
@@ -827,6 +920,16 @@ Rosmontis, Rhodes Island Elite Operator, pushes open your office door by hand.</
 		<traits>
 			<li><def>AK_Trait_Rosmontis</def></li>
 			<li><def>AK_Trait_RosmontisSecond</def></li>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Nimble</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<childHood>AK_BackStory_Rosmontis_Child</childHood>
 	</AK_DLL.OperatorDef>
@@ -907,6 +1010,20 @@ Rosmontis, Rhodes Island Elite Operator, pushes open your office door by hand.</
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Platinum</def></li>
+			<li>
+				<def>Nimble</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>TooSmart</def>
+			</li>
+			<li>
+				<def>SpeedOffset</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Platinum_Child</childHood>
@@ -990,6 +1107,21 @@ Rosmontis, Rhodes Island Elite Operator, pushes open your office door by hand.</
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Archetto</def></li>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>SpeedOffset</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Industriousness</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Archetto_Child</childHood>
@@ -1073,6 +1205,16 @@ Rosmontis, Rhodes Island Elite Operator, pushes open your office door by hand.</
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Meteorite</def></li>
+			<li>
+				<def>Tough</def>
+			</li>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<adultHood>AK_BackStory_Meteorite_Adult</adultHood>
@@ -1154,6 +1296,19 @@ Rosmontis, Rhodes Island Elite Operator, pushes open your office door by hand.</
 		</skills>
 		<traits>
 			<li><def>AK_Trait_Bluepoison</def></li>
+			<li>
+				<def>FastLearner</def>
+			</li>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Nimble</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
 		</traits>
 		<age>20</age>
 		<adultHood>AK_BackStory_Bluepoison_Adult</adultHood>
