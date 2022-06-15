@@ -481,4 +481,13 @@
 			</subSounds>
 		</SoundDef>
 
+	<ThingDef ParentName="AK_WeaponBase_Caster">
+		<defName>AK_Weapon_Goldenglow</defName>
+		<label>澄闪的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Caster/GoldenglowW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
 </Defs>

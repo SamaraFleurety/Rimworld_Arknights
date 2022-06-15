@@ -187,4 +187,25 @@
 		<baseDesc>罗德岛的公开领袖，在内部拥有最高执行权。</baseDesc>
 		<bodyTypeGlobal>Thin</bodyTypeGlobal>
 	</StoriesRetold.SRBackstoryDef>
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Goldenglow_Child</defName>
+		<slot>Childhood</slot>
+		<title>拮据的感染者</title>
+		<baseDesc>
+澄闪出生在一个贫穷且多子的家庭，虽然在源石技艺方面天赋异禀，但为了填补家庭经济了漏洞，澄闪不得不放弃学习源石技艺，早早外出谋生。
+在她父亲死后，她接下了一份信使的工作并且在工作中不幸染上矿石病，随后前往卡拉顿工作并定居。
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Goldenglow_Adult</defName>
+		<slot>Adulthood</slot>
+		<title>感染者工人</title>
+		<baseDesc>
+澄闪在卡拉顿工作数年之后，用自己的积蓄购置了一家名为“绿意火花”的酒吧。
+不幸的是，酒吧在卡拉顿城的动荡中被烧毁，收到强烈刺激的澄闪几度尝试自杀，但是被劝下。
+最后她在整合运动与罗德岛部分干员的努力下选择加入罗德岛。
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
+
 </Defs>
