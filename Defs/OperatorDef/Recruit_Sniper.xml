@@ -1343,7 +1343,8 @@ Rosmontis, Rhodes Island Elite Operator, pushes open your office door by hand.</
 		</traits>
 		<age>20</age>
 		<childHood>AK_BackStory_Fiammetta_Child</childHood>
-		<adultHood>AK_BackStory_Fiammetta_Adult</adultHood>		<skills>
+		<adultHood>AK_BackStory_Fiammetta_Adult</adultHood>		
+		<skills>
 			<li>
 				<skill>Animals</skill>
 				<level>1</level>
@@ -1404,6 +1405,7 @@ Rosmontis, Rhodes Island Elite Operator, pushes open your office door by hand.</
 				<level>8</level>
 				<fireLevel>0</fireLevel>
 			</li>
+		</skills>
 	</AK_DLL.OperatorDef>
 
 </Defs>
