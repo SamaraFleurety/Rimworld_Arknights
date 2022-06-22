@@ -766,7 +766,6 @@ Rosa, a member of the Ursus Student Self-Government Group, is ready to welcome a
 		</apparels>
 		<stand>UI/Image/Sniper/RosaStand</stand>
 		<headPortrait>UI/Image/Sniper/RosaPortrait</headPortrait>
-		<bodyTypeDef>Female</bodyTypeDef>
 		<skills>
 			<li>
 				<skill>Animals</skill>

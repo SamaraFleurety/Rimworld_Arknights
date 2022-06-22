@@ -587,7 +587,6 @@ Absinthe, Caster Operator, is always ready to eliminate any threats.
 		</apparels>
 		<stand>UI/Image/Caster/AbsintheStand</stand>
 		<headPortrait>UI/Image/Caster/AbsinthePortrait</headPortrait>
-		<bodyTypeDef>Female</bodyTypeDef>
 		<skills>
 			<li>
 				<skill>Animals</skill>
@@ -662,7 +661,7 @@ Absinthe, Caster Operator, is always ready to eliminate any threats.
 			</li>
 			<li>
 				<def>Beauty</def>
-				<degree>-1</degree>
+				<degree>1</degree>
 			</li>
 			<li>
 				<def>Tough</def>

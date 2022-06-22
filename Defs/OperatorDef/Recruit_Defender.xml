@@ -592,7 +592,6 @@ Saria, former researcher of Rhine Lab, will serve as a core part of the squad's 
 		</apparels>
 		<stand>UI/Image/Defender/SariaStand</stand>
 		<headPortrait>UI/Image/Defender/SariaPortrait</headPortrait>
-		<bodyTypeDef>Female</bodyTypeDef>
 		<skills>
 			<li>
 				<skill>Animals</skill>
