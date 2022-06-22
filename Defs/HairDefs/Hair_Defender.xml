@@ -63,4 +63,22 @@
 		<texPath>Things/Hair/Defender/Aurora</texPath>
 	</HairDef>
 
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Ashlock</defName>
+		<label>灰毫发型</label>
+		<texPath>Things/Hair/Defender/Ashlock</texPath>
+	</HairDef>
+
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Horn</defName>
+		<label>号角发型</label>
+		<texPath>Things/Hair/Defender/Horn</texPath>
+	</HairDef>
+
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Gummy</defName>
+		<label>古米发型</label>
+		<texPath>Things/Hair/Defender/Gummy</texPath>
+	</HairDef>
+
 </Defs>

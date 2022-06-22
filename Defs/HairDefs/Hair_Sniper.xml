@@ -93,4 +93,16 @@
 		<texPath>Things/Hair/Sniper/Fiammetta</texPath>
 	</HairDef>
 
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_April</defName>
+		<label>四月发型</label>
+		<texPath>Things/Hair/Sniper/April</texPath>
+	</HairDef>
+
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Fartooth</defName>
+		<label>远牙发型</label>
+		<texPath>Things/Hair/Sniper/Fartooth</texPath>
+	</HairDef>
+
 </Defs>

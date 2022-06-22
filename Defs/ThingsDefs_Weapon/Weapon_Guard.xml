@@ -145,4 +145,40 @@
 		</graphicData>
 	</ThingDef>
 
+	<ThingDef ParentName="AK_WeaponBase_Guard">
+		<defName>AK_Weapon_Pallas</defName>
+		<label>显赫的米诺斯�guard的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Guard/PallasW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_WeaponBase_Guard">
+		<defName>AK_Weapon_Irene</defName>
+		<label>艾丽妮的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Guard/IreneW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_WeaponBase_Guard">
+		<defName>AK_Weapon_Tequila</defName>
+		<label>龙舌兰的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Guard/TequilaW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_WeaponBase_Guard">
+		<defName>AK_Weapon_LaPluma</defName>
+		<label>羽毛笔的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Guard/LaPlumaW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
 </Defs>

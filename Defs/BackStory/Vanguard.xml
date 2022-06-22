@@ -132,4 +132,23 @@
 利用种族带来的抗打击能力，出色地履行着先锋干员的职责。</baseDesc>
 		<bodyTypeGlobal>Thin</bodyTypeGlobal>
 	</StoriesRetold.SRBackstoryDef>
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Wild_Child</defName>
+		<slot>Childhood</slot>
+		<title>被遗弃的贵族</title>
+		<baseDesc>
+野鬃曾经是一个骑士家族的一员，但是在一次外出训练后意外感染矿石病，随后被家族所抛弃。
+在那之后，野鬃便成为了一名感染者骑士,想要靠胜利证明自己。
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Wild_Adult</defName>
+		<slot>Adulthood</slot>
+		<title>野鬃骑士</title>
+		<baseDesc>
+野鬃后来加入了红松骑士团，并很快伴随着红松骑士团的其他人一起加入了罗德岛。
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
+
 </Defs>

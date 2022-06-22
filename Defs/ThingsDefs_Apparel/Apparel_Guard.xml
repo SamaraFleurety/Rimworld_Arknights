@@ -180,4 +180,52 @@
 		</apparel>
 	</ThingDef>
 
+	<ThingDef ParentName="AK_ArmorBase_Guard">
+		<defName>AK_Apparel_Pallas</defName>
+		<label>显赫的米诺斯�guard服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Guard/Pallas</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Guard/Pallas</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_ArmorBase_Guard">
+		<defName>AK_Apparel_Irene</defName>
+		<label>艾丽妮服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Guard/Irene</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Guard/Irene</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_ArmorBase_Guard">
+		<defName>AK_Apparel_Tequila</defName>
+		<label>龙舌兰服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Guard/Tequila</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Guard/Tequila</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_ArmorBase_Guard">
+		<defName>AK_Apparel_LaPluma</defName>
+		<label>羽毛笔服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Guard/LaPluma</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Guard/LaPluma</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
 </Defs>

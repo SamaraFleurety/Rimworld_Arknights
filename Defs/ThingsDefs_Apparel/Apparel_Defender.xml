@@ -132,4 +132,40 @@
 		</apparel>
 	</ThingDef>
 
+	<ThingDef ParentName="AK_ArmorBase_Defender">
+		<defName>AK_Apparel_Ashlock</defName>
+		<label>灰毫服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Defender/Ashlock</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Defender/Ashlock</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_ArmorBase_Defender">
+		<defName>AK_Apparel_Horn</defName>
+		<label>号角服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Defender/Horn</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Defender/Horn</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_ArmorBase_Defender">
+		<defName>AK_Apparel_Gummy</defName>
+		<label>古米服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Defender/Gummy</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Defender/Gummy</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
 </Defs>

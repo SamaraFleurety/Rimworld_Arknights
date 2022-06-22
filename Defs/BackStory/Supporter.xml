@@ -133,4 +133,63 @@
 		<baseDesc>令，寓居尚蜀的诗人，与炎国司岁台等政府部门均有联系，在尚蜀事件中接触罗德岛，现通过审核，以访客身份驻留本舰。</baseDesc>
 		<bodyTypeGlobal>Thin</bodyTypeGlobal>
 	</StoriesRetold.SRBackstoryDef>
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Scene_Child</defName>
+		<slot>Childhood</slot>
+		<title>不受欢迎的显贵子弟</title>
+		<baseDesc>
+稀音的特性在童年就体现了出来，她说一句话往往都需要老半天。
+这造成在孩提时代，稀音经常被别人捉弄，学校的教师们也基本对她采取忽视策略。
+这导致她很快就离开了学校，在这之后都只接受私人教育。
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Scene_Adult</defName>
+		<slot>Adulthood</slot>
+		<title>摄影师</title>
+		<baseDesc>
+当然，也许是天生的不敏感——又或许有其他原因——稀音没有被他人的言语所击败，更加幸运的是，她找到了自己真正喜爱的事业。摄影。
+很快的，稀音拥有了自己的名声、财富，还有各种各样随之而来的东西。
+但她沉默以对，除了偶尔为达官贵人拍照以外，她喜欢的依旧是在远离人群的地方拍摄自己执着的事物。
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Sora_Child</defName>
+		<slot>Childhood</slot>
+		<title>商业机密</title>
+		<baseDesc>
+应经纪公司要求不公开。
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Sora_Adult</defName>
+		<slot>Adulthood</slot>
+		<title>偶像少女</title>
+		<baseDesc>
+空在成年后成为了企鹅物流一名小有名气的偶像少女，以其活泼可爱，充满朝气的性格赢得了许多人的欢心。
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Ling_Child</defName>
+		<slot>Childhood</slot>
+		<title>神灵碎片（其三）</title>
+		<baseDesc>
+人重于器 兽悯于情
+长河远上 埋骸其下 吾自逍遥
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Ling_Adult</defName>
+		<slot>Adulthood</slot>
+		<title>诗人</title>
+		<baseDesc>
+令，寓居尚蜀的诗人，与炎国司岁台等政府部门均有联系，在尚蜀事件中接触罗德岛，现通过审核，以访客身份驻留本舰。
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
+
 </Defs>

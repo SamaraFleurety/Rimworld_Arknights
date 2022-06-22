@@ -457,4 +457,22 @@
 		</graphicData>
 	</ThingDef>
 
+	<ThingDef ParentName="AK_WeaponBase_Sniper">
+		<defName>AK_Weapon_April</defName>
+		<label>四月的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Sniper/AprilW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_WeaponBase_Sniper">
+		<defName>AK_Weapon_Fartooth</defName>
+		<label>远牙的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Sniper/FartoothW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
 </Defs>

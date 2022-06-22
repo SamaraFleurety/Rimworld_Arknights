@@ -239,4 +239,40 @@
 </baseDesc>
 		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
 
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_April_Child</defName>
+		<slot>Childhood</slot>
+		<title>被公司养大的孤儿</title>
+		<baseDesc>
+四月的父母在她很小的时候就因为矿难去世了，而四月靠着公司的补助勉强长大了。
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_April_Adult</defName>
+		<slot>Adulthood</slot>
+		<title>感染者猎手</title>
+		<baseDesc>
+四月在长大后，她为了谋生也为了报答公司的救助，成为了一名在荒野中驱赶城市周围野兽或者护卫公司队伍的猎人，但因为感染矿石病失业并随后辗转加入罗德岛。
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Fartooth_Child</defName>
+		<slot>Childhood</slot>
+		<title>卡西米尔青年</title>
+		<baseDesc>
+远牙的童年和其他同龄人一样是在对骑士憧憬中度过的，成年后因为渴望成为骑士，远牙只身前往大骑士岭，却在中途因为意外感染矿石病。
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Fartooth_Adult</defName>
+		<slot>Adulthood</slot>
+		<title>远牙骑士</title>
+		<baseDesc>
+在血骑士的大力推行下感染者骑士法案得以施行，远牙得以成为一名感染者骑士并参与比赛，并在后来加入红松骑士团。
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
+
 </Defs>

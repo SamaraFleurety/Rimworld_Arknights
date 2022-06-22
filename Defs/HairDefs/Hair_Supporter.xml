@@ -45,4 +45,28 @@
 		<texPath>Things/Hair/Supporter/Glaucus</texPath>
 	</HairDef>
 
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Scene</defName>
+		<label>稀音发型</label>
+		<texPath>Things/Hair/Supporter/Scene</texPath>
+	</HairDef>
+
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Sora</defName>
+		<label>空发型</label>
+		<texPath>Things/Hair/Supporter/Sora</texPath>
+	</HairDef>
+
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Ling</defName>
+		<label>令发型</label>
+		<texPath>Things/Hair/Supporter/Ling</texPath>
+	</HairDef>
+
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Istina</defName>
+		<label>真理发型</label>
+		<texPath>Things/Hair/Supporter/Istina</texPath>
+	</HairDef>
+
 </Defs>

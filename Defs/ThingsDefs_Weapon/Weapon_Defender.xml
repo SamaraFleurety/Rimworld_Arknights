@@ -109,4 +109,31 @@
 		</graphicData>
 	</ThingDef>
 
+	<ThingDef ParentName="AK_WeaponBase_Defender">
+		<defName>AK_Weapon_Ashlock</defName>
+		<label>灰毫的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Defender/AshlockW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_WeaponBase_Defender">
+		<defName>AK_Weapon_Horn</defName>
+		<label>号角的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Defender/HornW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_WeaponBase_Defender">
+		<defName>AK_Weapon_Gummy</defName>
+		<label>古米的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Defender/GummyW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
 </Defs>

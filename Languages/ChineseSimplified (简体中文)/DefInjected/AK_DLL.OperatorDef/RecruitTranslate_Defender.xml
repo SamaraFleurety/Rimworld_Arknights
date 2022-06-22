@@ -57,4 +57,16 @@
 	<AK_Recruit_Aurora.nickname>极光</AK_Recruit_Aurora.nickname>
 	<AK_Recruit_Aurora.description>FIXME</AK_Recruit_Aurora.description>
 
+	<AK_Recruit_Ashlock.name>灰毫</AK_Recruit_Ashlock.name>
+	<AK_Recruit_Ashlock.nickname>灰毫</AK_Recruit_Ashlock.nickname>
+	<AK_Recruit_Ashlock.description>FIXME</AK_Recruit_Ashlock.description>
+
+	<AK_Recruit_Horn.name>号角</AK_Recruit_Horn.name>
+	<AK_Recruit_Horn.nickname>号角</AK_Recruit_Horn.nickname>
+	<AK_Recruit_Horn.description>FIXME</AK_Recruit_Horn.description>
+
+	<AK_Recruit_Gummy.name>古米</AK_Recruit_Gummy.name>
+	<AK_Recruit_Gummy.nickname>古米</AK_Recruit_Gummy.nickname>
+	<AK_Recruit_Gummy.description>FIXME</AK_Recruit_Gummy.description>
+
 </LanguageData>

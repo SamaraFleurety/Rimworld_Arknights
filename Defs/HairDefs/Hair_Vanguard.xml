@@ -45,4 +45,10 @@
 		<texPath>Things/Hair/Vanguard/Flametail</texPath>
 	</HairDef>
 
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Wild</defName>
+		<label>野鬃发型</label>
+		<texPath>Things/Hair/Vanguard/Wild</texPath>
+	</HairDef>
+
 </Defs>

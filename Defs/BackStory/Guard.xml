@@ -211,4 +211,71 @@ ok halda njarðlásar níu.</baseDesc>
 陈的废纸篓里，常有撕得粉碎或揉成一团的残页，写满了莫名的怒意。</baseDesc>
 		<bodyTypeGlobal>Thin</bodyTypeGlobal>
 	</StoriesRetold.SRBackstoryDef>
+	
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Pallas_Child</defName>
+		<slot>Childhood</slot>
+		<title>显赫的米诺斯祭司</title>
+		<baseDesc>
+帕拉斯出生于米诺斯的显赫家庭，在经历了充实又无忧无虑的童年后，成为了一名祭司。
+但在一次意外中她感染了矿石病，因此她离开了英雄神殿，成为了边远地区的一名普通祭司。
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Pallas_Adult</defName>
+		<slot>Adulthood</slot>
+		<title>边缘村庄的小祭司</title>
+		<baseDesc>
+帕拉斯在离开英雄神殿后成为了一个米诺斯边缘村庄的普通祭司，在抵御了袭扰该村的萨尔贡部落后，因为矿石病恶化前往罗德岛治疗。
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Irene_Child</defName>
+		<slot>Childhood</slot>
+		<title>灾难遗孤</title>
+		<baseDesc>
+艾丽妮的童年被一个颇具宗教牺牲意味的残酷玩笑摧毁了，她的家人与原本平静的神话都被摧毁了。但她被达西奥救了下来。
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Irene_Adult</defName>
+		<slot>Adulthood</slot>
+		<title>小审判官</title>
+		<baseDesc>
+艾丽妮后来成为了伊比利亚审判庭的一位审判官，为保护伊比利亚的海岸线而战斗，直到愚人号事件后加入了罗德岛。
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Tequila_Child</defName>
+		<slot>Childhood</slot>
+		<title>玻利瓦尔军人之子</title>
+		<baseDesc>
+龙舌兰是当时还身为玻利瓦尔军人的潘乔的孩子，八年前因为父亲在战场上的势力，在经历了三年的动荡后他伴随父亲来到了多索雷斯。
+在多索雷斯的五年毫无疑问让龙舌兰完全融入了这座城市。
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Tequila_Adult</defName>
+		<slot>Adulthood</slot>
+		<title>多索雷斯国际贸易管理部副主任</title>
+		<baseDesc>
+龙舌兰在成年后成为了多索雷斯国际贸易管理部副主任，但因为多索雷斯事件被革职，后经干员陈的引荐来到罗德岛。
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_LaPluma_Child</defName>
+		<slot>Childhood</slot>
+		<title>潘乔的养女</title>
+		<baseDesc>
+羽毛笔曾经是玻利瓦尔一个中尉的女儿，在她的父亲死后被交给父亲的老友潘乔抚养。
+在多索雷斯事件后，羽毛笔加入罗德岛。
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
+
 </Defs>

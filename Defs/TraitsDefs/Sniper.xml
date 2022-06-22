@@ -291,4 +291,52 @@
 			</li>
 		</degreeDatas>
 	</TraitDef>
+	<TraitDef>
+		<ignoreConfigErrors>true</ignoreConfigErrors>
+		<commonality>0.0</commonality>
+		<defName>AK_Trait_AprilSecond</defName>
+		<degreeDatas>
+			<li>
+				<label></label>
+				<description>
+				</description>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+	<TraitDef>
+		<ignoreConfigErrors>true</ignoreConfigErrors>
+		<commonality>0.0</commonality>
+		<defName>AK_Trait_April</defName>
+		<degreeDatas>
+			<li>
+				<label></label>
+				<description>
+				</description>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+	<TraitDef>
+		<ignoreConfigErrors>true</ignoreConfigErrors>
+		<commonality>0.0</commonality>
+		<defName>AK_Trait_FartoothSecond</defName>
+		<degreeDatas>
+			<li>
+				<label></label>
+				<description>
+				</description>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+	<TraitDef>
+		<ignoreConfigErrors>true</ignoreConfigErrors>
+		<commonality>0.0</commonality>
+		<defName>AK_Trait_Fartooth</defName>
+		<degreeDatas>
+			<li>
+				<label></label>
+				<description>
+				</description>
+			</li>
+		</degreeDatas>
+	</TraitDef>
 </Defs>

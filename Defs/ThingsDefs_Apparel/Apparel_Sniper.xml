@@ -181,4 +181,28 @@
 		</apparel>
 	</ThingDef>
 
+	<ThingDef ParentName="AK_ArmorBase_Sniper">
+		<defName>AK_Apparel_April</defName>
+		<label>四月服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Sniper/April</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Sniper/April</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_ArmorBase_Sniper">
+		<defName>AK_Apparel_Fartooth</defName>
+		<label>远牙服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Sniper/Fartooth</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Sniper/Fartooth</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
 </Defs>

@@ -205,4 +205,40 @@
 		</SoundDef>
 		
 
+	<ThingDef ParentName="AK_WeaponBase_Supporter">
+		<defName>AK_Weapon_Scene</defName>
+		<label>稀音的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Supporter/SceneW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_WeaponBase_Supporter">
+		<defName>AK_Weapon_Sora</defName>
+		<label>空的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Supporter/SoraW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_WeaponBase_Supporter">
+		<defName>AK_Weapon_Ling</defName>
+		<label>令的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Supporter/LingW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_WeaponBase_Supporter">
+		<defName>AK_Weapon_Istina</defName>
+		<label>真理的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Supporter/IstinaW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
 </Defs>

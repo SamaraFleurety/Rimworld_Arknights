@@ -81,4 +81,20 @@
 	<AK_Recruit_Swire.nickname>诗怀雅</AK_Recruit_Swire.nickname>
 	<AK_Recruit_Swire.description>FIXME</AK_Recruit_Swire.description>
 
+	<AK_Recruit_Pallas.name>显赫的米诺斯</AK_Recruit_Pallas.name>
+	<AK_Recruit_Pallas.nickname>显赫的米诺斯</AK_Recruit_Pallas.nickname>
+	<AK_Recruit_Pallas.description>FIXME</AK_Recruit_Pallas.description>
+
+	<AK_Recruit_Irene.name>艾丽妮</AK_Recruit_Irene.name>
+	<AK_Recruit_Irene.nickname>艾丽妮</AK_Recruit_Irene.nickname>
+	<AK_Recruit_Irene.description>FIXME</AK_Recruit_Irene.description>
+
+	<AK_Recruit_Tequila.name>龙舌兰</AK_Recruit_Tequila.name>
+	<AK_Recruit_Tequila.nickname>龙舌兰</AK_Recruit_Tequila.nickname>
+	<AK_Recruit_Tequila.description>FIXME</AK_Recruit_Tequila.description>
+
+	<AK_Recruit_LaPluma.name>羽毛笔</AK_Recruit_LaPluma.name>
+	<AK_Recruit_LaPluma.nickname>羽毛笔</AK_Recruit_LaPluma.nickname>
+	<AK_Recruit_LaPluma.description>FIXME</AK_Recruit_LaPluma.description>
+
 </LanguageData>

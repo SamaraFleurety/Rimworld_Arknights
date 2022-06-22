@@ -97,4 +97,52 @@
 		</apparel>
 	</ThingDef>
 
+	<ThingDef ParentName="AK_ArmorBase_Supporter">
+		<defName>AK_Apparel_Scene</defName>
+		<label>稀音服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Supporter/Scene</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Supporter/Scene</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_ArmorBase_Supporter">
+		<defName>AK_Apparel_Sora</defName>
+		<label>空服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Supporter/Sora</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Supporter/Sora</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_ArmorBase_Supporter">
+		<defName>AK_Apparel_Ling</defName>
+		<label>令服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Supporter/Ling</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Supporter/Ling</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_ArmorBase_Supporter">
+		<defName>AK_Apparel_Istina</defName>
+		<label>真理服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Supporter/Istina</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Supporter/Istina</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
 </Defs>

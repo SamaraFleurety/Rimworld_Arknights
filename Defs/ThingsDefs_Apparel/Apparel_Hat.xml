@@ -273,4 +273,64 @@
 		</apparel>
 	</ThingDef>
 
+	<ThingDef ParentName="AK_HatBase">
+		<defName>AK_Hat_April</defName>
+		<label>四月帽子</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/HatAccessory/AprilH</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/HatAccessory/AprilH</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_HatBase">
+		<defName>AK_Hat_Fartooth</defName>
+		<label>远牙帽子</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/HatAccessory/FartoothH</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/HatAccessory/FartoothH</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_HatBase">
+		<defName>AK_Hat_Pallas</defName>
+		<label>显赫的米诺斯�guard帽子</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/HatAccessory/PallasH</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/HatAccessory/PallasH</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_HatBase">
+		<defName>AK_Hat_Ashlock</defName>
+		<label>灰毫帽子</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/HatAccessory/AshlockH</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/HatAccessory/AshlockH</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_HatBase">
+		<defName>AK_Hat_Wild</defName>
+		<label>野鬃帽子</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/HatAccessory/WildH</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/HatAccessory/WildH</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
 </Defs>

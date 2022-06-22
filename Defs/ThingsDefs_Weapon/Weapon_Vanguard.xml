@@ -64,4 +64,13 @@
 		</graphicData>
 	</ThingDef>
 
+	<ThingDef ParentName="AK_WeaponBase_Vanguard">
+		<defName>AK_Weapon_Wild</defName>
+		<label>野鬃的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Vanguard/WildW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
 </Defs>

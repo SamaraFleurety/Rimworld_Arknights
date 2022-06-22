@@ -87,4 +87,28 @@
 		<texPath>Things/Hair/Guard/Swire</texPath>
 	</HairDef>
 
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Pallas</defName>
+		<label>显赫的米诺斯�guard发型</label>
+		<texPath>Things/Hair/Guard/Pallas</texPath>
+	</HairDef>
+
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Irene</defName>
+		<label>艾丽妮发型</label>
+		<texPath>Things/Hair/Guard/Irene</texPath>
+	</HairDef>
+
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Tequila</defName>
+		<label>龙舌兰发型</label>
+		<texPath>Things/Hair/Guard/Tequila</texPath>
+	</HairDef>
+
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_LaPluma</defName>
+		<label>羽毛笔发型</label>
+		<texPath>Things/Hair/Guard/LaPluma</texPath>
+	</HairDef>
+
 </Defs>

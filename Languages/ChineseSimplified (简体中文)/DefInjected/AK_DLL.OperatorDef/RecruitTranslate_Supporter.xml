@@ -35,4 +35,20 @@
 	<AK_Recruit_Glaucus.nickname>格劳克斯</AK_Recruit_Glaucus.nickname>
 	<AK_Recruit_Glaucus.description>FIXME</AK_Recruit_Glaucus.description>
 
+	<AK_Recruit_Scene.name>稀音</AK_Recruit_Scene.name>
+	<AK_Recruit_Scene.nickname>稀音</AK_Recruit_Scene.nickname>
+	<AK_Recruit_Scene.description>FIXME</AK_Recruit_Scene.description>
+
+	<AK_Recruit_Sora.name>空</AK_Recruit_Sora.name>
+	<AK_Recruit_Sora.nickname>空</AK_Recruit_Sora.nickname>
+	<AK_Recruit_Sora.description>FIXME</AK_Recruit_Sora.description>
+
+	<AK_Recruit_Ling.name>令</AK_Recruit_Ling.name>
+	<AK_Recruit_Ling.nickname>令</AK_Recruit_Ling.nickname>
+	<AK_Recruit_Ling.description>FIXME</AK_Recruit_Ling.description>
+
+	<AK_Recruit_Istina.name>真理</AK_Recruit_Istina.name>
+	<AK_Recruit_Istina.nickname>真理</AK_Recruit_Istina.nickname>
+	<AK_Recruit_Istina.description>FIXME</AK_Recruit_Istina.description>
+
 </LanguageData>
