@@ -673,6 +673,7 @@ Saria, former researcher of Rhine Lab, will serve as a core part of the squad's 
 		</traits>
 		<age>20</age>
 		<adultHood>AK_BackStory_Saria_Adult</adultHood>
+		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Defender">
@@ -1147,6 +1148,7 @@ Saria, former researcher of Rhine Lab, will serve as a core part of the squad's 
 				<fireLevel>0</fireLevel>
 			</li>
 		</skills>
+		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Defender">

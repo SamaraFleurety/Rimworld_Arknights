@@ -299,13 +299,26 @@
 
 	<ThingDef ParentName="AK_HatBase">
 		<defName>AK_Hat_Pallas</defName>
-		<label>显赫的米诺斯�guard帽子</label>
+		<label>帕拉斯帽子</label>
 		<graphicData>
 			<texPath>Things/AK_Agents/HatAccessory/PallasH</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>Things/AK_Agents/HatAccessory/PallasH</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+
+	<ThingDef ParentName="AK_HatBase">
+		<defName>AK_Hat_Rosa</defName>
+		<label>早露帽子</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/HatAccessory/RosaH</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/HatAccessory/RosaH</wornGraphicPath>
 		</apparel>
 	</ThingDef>
 
@@ -330,6 +343,18 @@
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>Things/AK_Agents/HatAccessory/WildH</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+	
+	<ThingDef ParentName="AK_HatBase">
+		<defName>AK_Hat_Bluepoison</defName>
+		<label>蓝毒帽子</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/HatAccessory/BluepoisonH</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/HatAccessory/BluepoisonH</wornGraphicPath>
 		</apparel>
 	</ThingDef>
 

@@ -33,22 +33,32 @@
 
 	<AK_Recruit_Glaucus.name>格劳克斯</AK_Recruit_Glaucus.name>
 	<AK_Recruit_Glaucus.nickname>格劳克斯</AK_Recruit_Glaucus.nickname>
-	<AK_Recruit_Glaucus.description>FIXME</AK_Recruit_Glaucus.description>
+	<AK_Recruit_Glaucus.description>雷神工业武器评测师格劳克斯，凭借全新的技术打击敌人的机械单位。
+
+请记得保留随身通讯设备的发票。</AK_Recruit_Glaucus.description>
 
 	<AK_Recruit_Scene.name>稀音</AK_Recruit_Scene.name>
 	<AK_Recruit_Scene.nickname>稀音</AK_Recruit_Scene.nickname>
-	<AK_Recruit_Scene.description>FIXME</AK_Recruit_Scene.description>
+	<AK_Recruit_Scene.description>战场摄影师稀音，忠实履行自己的职责。
+
+她动了？她动了吗？</AK_Recruit_Scene.description>
 
 	<AK_Recruit_Sora.name>空</AK_Recruit_Sora.name>
 	<AK_Recruit_Sora.nickname>空</AK_Recruit_Sora.nickname>
-	<AK_Recruit_Sora.description>FIXME</AK_Recruit_Sora.description>
+	<AK_Recruit_Sora.description>企鹅物流职员空，将以歌声为小队提供多种战术援助。
+
+希望她能用歌声带来和平。</AK_Recruit_Sora.description>
 
 	<AK_Recruit_Ling.name>令</AK_Recruit_Ling.name>
 	<AK_Recruit_Ling.nickname>令</AK_Recruit_Ling.nickname>
-	<AK_Recruit_Ling.description>FIXME</AK_Recruit_Ling.description>
+	<AK_Recruit_Ling.description>来自炎国的诗人令，洒脱无羁，纵情快意，只要有酒，一切皆可入诗。
+
+你问写诗的笔在哪儿？注意看她的尾巴。</AK_Recruit_Ling.description>
 
 	<AK_Recruit_Istina.name>真理</AK_Recruit_Istina.name>
 	<AK_Recruit_Istina.nickname>真理</AK_Recruit_Istina.nickname>
-	<AK_Recruit_Istina.description>FIXME</AK_Recruit_Istina.description>
+	<AK_Recruit_Istina.description>乌萨斯学生自治团成员真理，从书籍中挑选合适的源石技艺痛击敌人。
+
+书中自有颜如玉。</AK_Recruit_Istina.description>
 
 </LanguageData>

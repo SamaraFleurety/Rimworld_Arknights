@@ -75,26 +75,38 @@
 
 	<AK_Recruit_Whislash.name>鞭刃</AK_Recruit_Whislash.name>
 	<AK_Recruit_Whislash.nickname>鞭刃</AK_Recruit_Whislash.nickname>
-	<AK_Recruit_Whislash.description>FIXME</AK_Recruit_Whislash.description>
+	<AK_Recruit_Whislash.description>前卡西米尔竞技骑士鞭刃，固执却又温柔。
+
+当心点，她很在乎自己的辈分。</AK_Recruit_Whislash.description>
 
 	<AK_Recruit_Swire.name>诗怀雅</AK_Recruit_Swire.name>
 	<AK_Recruit_Swire.nickname>诗怀雅</AK_Recruit_Swire.nickname>
-	<AK_Recruit_Swire.description>FIXME</AK_Recruit_Swire.description>
+	<AK_Recruit_Swire.description>近卫干员诗怀雅，来自龙门，愿意为你提供专业的警力协助与额外训练课程。
 
-	<AK_Recruit_Pallas.name>显赫的米诺斯</AK_Recruit_Pallas.name>
-	<AK_Recruit_Pallas.nickname>显赫的米诺斯</AK_Recruit_Pallas.nickname>
-	<AK_Recruit_Pallas.description>FIXME</AK_Recruit_Pallas.description>
+龙门的骄傲，果然来自于商业、贸易与资本！</AK_Recruit_Swire.description>
+
+	<AK_Recruit_Pallas.name>帕拉斯</AK_Recruit_Pallas.name>
+	<AK_Recruit_Pallas.nickname>帕拉斯</AK_Recruit_Pallas.nickname>
+	<AK_Recruit_Pallas.description>祭司帕拉斯，自米诺斯而来。
+
+她会十分乐意与人交谈，只要对方与她一样心怀善意，还有不灭的热情。</AK_Recruit_Pallas.description>
 
 	<AK_Recruit_Irene.name>艾丽妮</AK_Recruit_Irene.name>
 	<AK_Recruit_Irene.nickname>艾丽妮</AK_Recruit_Irene.nickname>
-	<AK_Recruit_Irene.description>FIXME</AK_Recruit_Irene.description>
+	<AK_Recruit_Irene.description>审判庭信使艾丽妮，为守护伊比利亚的海岸线而战。
+
+利剑挑破黑夜，提灯照亮前路。</AK_Recruit_Irene.description>
 
 	<AK_Recruit_Tequila.name>龙舌兰</AK_Recruit_Tequila.name>
 	<AK_Recruit_Tequila.nickname>龙舌兰</AK_Recruit_Tequila.nickname>
-	<AK_Recruit_Tequila.description>FIXME</AK_Recruit_Tequila.description>
+	<AK_Recruit_Tequila.description>近卫干员龙舌兰，在战场上也面带笑容。
+
+别担心，他会把一切都安排妥帖。</AK_Recruit_Tequila.description>
 
 	<AK_Recruit_LaPluma.name>羽毛笔</AK_Recruit_LaPluma.name>
 	<AK_Recruit_LaPluma.nickname>羽毛笔</AK_Recruit_LaPluma.nickname>
-	<AK_Recruit_LaPluma.description>FIXME</AK_Recruit_LaPluma.description>
+	<AK_Recruit_LaPluma.description>近卫干员羽毛笔，完全服从指挥。
+
+当心，有的时候这未必是一件好事。</AK_Recruit_LaPluma.description>
 
 </LanguageData>

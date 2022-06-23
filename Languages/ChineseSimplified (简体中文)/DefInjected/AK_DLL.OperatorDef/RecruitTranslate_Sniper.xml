@@ -85,14 +85,20 @@
 
 	<AK_Recruit_Fiammetta.name>菲亚梅塔</AK_Recruit_Fiammetta.name>
 	<AK_Recruit_Fiammetta.nickname>菲亚梅塔</AK_Recruit_Fiammetta.nickname>
-	<AK_Recruit_Fiammetta.description>FIXME</AK_Recruit_Fiammetta.description>
+	<AK_Recruit_Fiammetta.description>拉特兰公证所高级特派员菲亚梅塔，只要定下目标，就一定会坚持到底。
+
+别问她的代号，否则她会抽空把你也干掉。</AK_Recruit_Fiammetta.description>
 
 	<AK_Recruit_April.name>四月</AK_Recruit_April.name>
 	<AK_Recruit_April.nickname>四月</AK_Recruit_April.nickname>
-	<AK_Recruit_April.description>FIXME</AK_Recruit_April.description>
+	<AK_Recruit_April.description>罗德岛狙击干员四月，总是保持着好心情。
+
+叫她的时候记得大声点。</AK_Recruit_April.description>
 
 	<AK_Recruit_Fartooth.name>远牙</AK_Recruit_Fartooth.name>
 	<AK_Recruit_Fartooth.nickname>远牙</AK_Recruit_Fartooth.nickname>
-	<AK_Recruit_Fartooth.description>FIXME</AK_Recruit_Fartooth.description>
+	<AK_Recruit_Fartooth.description>“远牙”骑士查丝汀娜，不会漏过任何目标。
+
+不太喜欢吵闹，但更不愿孤单一人。</AK_Recruit_Fartooth.description>
 
 </LanguageData>

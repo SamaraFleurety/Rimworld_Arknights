@@ -51,22 +51,32 @@
 
 	<AK_Recruit_Croissant.name>可颂</AK_Recruit_Croissant.name>
 	<AK_Recruit_Croissant.nickname>可颂</AK_Recruit_Croissant.nickname>
-	<AK_Recruit_Croissant.description>FIXME</AK_Recruit_Croissant.description>
+	<AK_Recruit_Croissant.description>企鹅物流特派物流人员可颂，愿意作为重装干员，为罗德岛提供可靠的防御力量。
+
+商场即战场！所有的锻炼和积累，都是为了这一天！</AK_Recruit_Croissant.description>
 
 	<AK_Recruit_Aurora.name>极光</AK_Recruit_Aurora.name>
 	<AK_Recruit_Aurora.nickname>极光</AK_Recruit_Aurora.nickname>
-	<AK_Recruit_Aurora.description>FIXME</AK_Recruit_Aurora.description>
+	<AK_Recruit_Aurora.description>重装干员极光，总会在你需要的时候伴你左右。
+
+风雪越大，她的手就越温暖。</AK_Recruit_Aurora.description>
 
 	<AK_Recruit_Ashlock.name>灰毫</AK_Recruit_Ashlock.name>
 	<AK_Recruit_Ashlock.nickname>灰毫</AK_Recruit_Ashlock.nickname>
-	<AK_Recruit_Ashlock.description>FIXME</AK_Recruit_Ashlock.description>
+	<AK_Recruit_Ashlock.description>“灰毫”骑士格蕾纳蒂，整装待发迎接挑战。
+
+对手将被迫在盾击和炮击中做出选择。</AK_Recruit_Ashlock.description>
 
 	<AK_Recruit_Horn.name>号角</AK_Recruit_Horn.name>
 	<AK_Recruit_Horn.nickname>号角</AK_Recruit_Horn.nickname>
-	<AK_Recruit_Horn.description>FIXME</AK_Recruit_Horn.description>
+	<AK_Recruit_Horn.description>维多利亚军人号角，与您共御危机。
+
+炮弹迅疾如风暴，盾牌坚硬似铁壁。</AK_Recruit_Horn.description>
 
 	<AK_Recruit_Gummy.name>古米</AK_Recruit_Gummy.name>
 	<AK_Recruit_Gummy.nickname>古米</AK_Recruit_Gummy.nickname>
-	<AK_Recruit_Gummy.description>FIXME</AK_Recruit_Gummy.description>
+	<AK_Recruit_Gummy.description>罗德岛重装干员古米，在保护同伴的同时，治疗他们的伤口。
+
+她做的早餐，真的是，非常好吃。</AK_Recruit_Gummy.description>
 
 </LanguageData>

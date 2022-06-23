@@ -69,10 +69,14 @@
 
 	<AK_Recruit_Indigo.name>深靛</AK_Recruit_Indigo.name>
 	<AK_Recruit_Indigo.nickname>深靛</AK_Recruit_Indigo.nickname>
-	<AK_Recruit_Indigo.description>FIXME</AK_Recruit_Indigo.description>
+	<AK_Recruit_Indigo.description>术师深靛，携一点灯火而来。
+
+别问她对罗德岛目前照明系统的看法，除非你在期待一场甲板灯光秀。</AK_Recruit_Indigo.description>
 
 	<AK_Recruit_Goldenglow.name>澄闪</AK_Recruit_Goldenglow.name>
 	<AK_Recruit_Goldenglow.nickname>澄闪</AK_Recruit_Goldenglow.nickname>
-	<AK_Recruit_Goldenglow.description>FIXME</AK_Recruit_Goldenglow.description>
+	<AK_Recruit_Goldenglow.description>理发师兼新手术师澄闪，正在放电和触电的轮回中苦恼。
+
+啪！</AK_Recruit_Goldenglow.description>
 
 </LanguageData>

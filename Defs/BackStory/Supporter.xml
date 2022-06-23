@@ -173,23 +173,4 @@
 </baseDesc>
 		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
 
-	<StoriesRetold.SRBackstoryDef>
-		<defName>AK_BackStory_Ling_Child</defName>
-		<slot>Childhood</slot>
-		<title>神灵碎片（其三）</title>
-		<baseDesc>
-人重于器 兽悯于情
-长河远上 埋骸其下 吾自逍遥
-</baseDesc>
-		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
-
-	<StoriesRetold.SRBackstoryDef>
-		<defName>AK_BackStory_Ling_Adult</defName>
-		<slot>Adulthood</slot>
-		<title>诗人</title>
-		<baseDesc>
-令，寓居尚蜀的诗人，与炎国司岁台等政府部门均有联系，在尚蜀事件中接触罗德岛，现通过审核，以访客身份驻留本舰。
-</baseDesc>
-		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
-
 </Defs>

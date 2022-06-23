@@ -39,10 +39,14 @@
 
 	<AK_Recruit_Flametail.name>焰尾</AK_Recruit_Flametail.name>
 	<AK_Recruit_Flametail.nickname>焰尾</AK_Recruit_Flametail.nickname>
-	<AK_Recruit_Flametail.description>FIXME</AK_Recruit_Flametail.description>
+	<AK_Recruit_Flametail.description>焰尾骑士索娜，如火一般穿梭在战场上。
+
+她有两点领袖的魅力，思想与笑容。</AK_Recruit_Flametail.description>
 
 	<AK_Recruit_Wild.name>野鬃</AK_Recruit_Wild.name>
 	<AK_Recruit_Wild.nickname>野鬃</AK_Recruit_Wild.nickname>
-	<AK_Recruit_Wild.description>FIXME</AK_Recruit_Wild.description>
+	<AK_Recruit_Wild.description>“野鬃”骑士艾沃娜，气势十足地准备出战。
+
+很快，很强，还很自信。</AK_Recruit_Wild.description>
 
 </LanguageData>
