@@ -1054,6 +1054,7 @@ Saria, former researcher of Rhine Lab, will serve as a core part of the squad's 
 				<fireLevel>0</fireLevel>
 			</li>
 		</skills>
+		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
 	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Defender">

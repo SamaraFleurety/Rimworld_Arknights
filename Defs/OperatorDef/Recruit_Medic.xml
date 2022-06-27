@@ -305,7 +305,7 @@ Gavial, Medic Operator of Rhodes Island, will protect the lives of her squad mem
 		</apparels>
 		<stand>UI/Image/Medic/KaltsitStand</stand>
 		<headPortrait>UI/Image/Medic/KaltsitPortrait</headPortrait>
-		<bodyTypeDef>Female</bodyTypeDef>
+		<bodyTypeDef>Thin</bodyTypeDef>
 		<skills>
 			<li>
 				<skill>Animals</skill>

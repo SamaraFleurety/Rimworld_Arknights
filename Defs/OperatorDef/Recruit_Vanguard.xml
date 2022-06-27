@@ -755,6 +755,7 @@ Texas, employee of Penguin Logistics, will give the squad a tactical advantage w
 				<fireLevel>0</fireLevel>
 			</li>
 		</skills>
+		<bodyTypeDef>Female</bodyTypeDef>
 	</AK_DLL.OperatorDef>
 
 </Defs>
