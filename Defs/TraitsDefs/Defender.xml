@@ -192,48 +192,66 @@
 		<defName>AK_Trait_AshlockSecond</defName>
 		<degreeDatas>
 			<li>
-				<label></label>
-				<description>
+				<label>寡言</label>
+				<description>虽然性格与肉体已经坚如堡垒，而且在战斗方面已经炉火纯青，但是灰毫显然对社交很不对付，她表现的很沉默甚至是...腼腆。
 				</description>
+				<statOffsets>
+					<GlobalLearningFactor>0.2</GlobalLearningFactor>
+				</statOffsets>
 			</li>
 		</degreeDatas>
 	</TraitDef>
+	
 	<TraitDef>
 		<ignoreConfigErrors>true</ignoreConfigErrors>
 		<commonality>0.0</commonality>
 		<defName>AK_Trait_Ashlock</defName>
 		<degreeDatas>
 			<li>
-				<label></label>
-				<description>
+				<label>坚垒</label>
+				<description>在经历了童年的那些事之后，无论是内心还是外表，灰毫都表现的坚如堡垒。
 				</description>
+				<statOffsets>
+					<MentalBreakThreshold>0.35</MentalBreakThreshold>
+					<PainShockThreshold>0.15</PainShockThreshold>
+				</statOffsets>
 			</li>
 		</degreeDatas>
 	</TraitDef>
+	
 	<TraitDef>
 		<ignoreConfigErrors>true</ignoreConfigErrors>
 		<commonality>0.0</commonality>
 		<defName>AK_Trait_HornSecond</defName>
 		<degreeDatas>
 			<li>
-				<label></label>
-				<description>
+				<label>鸣号</label>
+				<description>号角的精神在小丘郡后已经宛若钢铁，她也将会背负着死者的信念继续前行，但小丘郡所见证的那些惨剧不是一时半会就能平复的。
 				</description>
+				<statOffsets>
+					<MentalBreakThreshold>0.15</MentalBreakThreshold>
+				</statOffsets>
 			</li>
 		</degreeDatas>
 	</TraitDef>
+	
 	<TraitDef>
 		<ignoreConfigErrors>true</ignoreConfigErrors>
 		<commonality>0.0</commonality>
 		<defName>AK_Trait_Horn</defName>
 		<degreeDatas>
 			<li>
-				<label></label>
-				<description>
+				<label>暴风</label>
+				<description>号角可以说是暴风突击队的最佳象征，勇敢，坚韧，顽强，忠诚。
 				</description>
+				<statOffsets>
+					<MentalBreakThreshold>0.45</MentalBreakThreshold>
+					<PainShockThreshold>0.20</PainShockThreshold>
+				</statOffsets>
 			</li>
 		</degreeDatas>
 	</TraitDef>
+	
 	<TraitDef>
 		<ignoreConfigErrors>true</ignoreConfigErrors>
 		<commonality>0.0</commonality>
@@ -246,6 +264,7 @@
 			</li>
 		</degreeDatas>
 	</TraitDef>
+	
 	<TraitDef>
 		<ignoreConfigErrors>true</ignoreConfigErrors>
 		<commonality>0.0</commonality>
@@ -258,4 +277,5 @@
 			</li>
 		</degreeDatas>
 	</TraitDef>
+	
 </Defs>

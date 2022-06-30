@@ -216,23 +216,29 @@
 	<TraitDef>
 		<ignoreConfigErrors>true</ignoreConfigErrors>
 		<commonality>0.0</commonality>
-		<defName>AK_Trait_GoldenglowSecond</defName>
-		<degreeDatas>
-			<li>
-				<label></label>
-				<description>
-				</description>
-			</li>
-		</degreeDatas>
-	</TraitDef>
-	<TraitDef>
-		<ignoreConfigErrors>true</ignoreConfigErrors>
-		<commonality>0.0</commonality>
 		<defName>AK_Trait_Goldenglow</defName>
 		<degreeDatas>
 			<li>
-				<label></label>
-				<description>
+				<label>愤怒的电击</label>
+				<description>澄闪在卡拉顿经历了一系列刺激后，源石技艺开始变得极度不稳定。
+澄闪的静电现在仿佛带有了情绪，一种一种宣泄，一种苦痛，一种悲伤。
+				</description>
+				<statOffsets>
+					<MentalBreakThreshold>-0.05</MentalBreakThreshold>
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+	
+	<TraitDef>
+		<ignoreConfigErrors>true</ignoreConfigErrors>
+		<commonality>0.0</commonality>
+		<defName>AK_Trait_GoldenglowSecond</defName>
+		<degreeDatas>
+			<li>
+				<label>随和</label>
+				<description>澄闪的性格相当受人欢迎，开朗，随和。勤恳做事，认真生活。
+尽管她有着良好的源石技艺适应性，但是她的目标却是成为一个出色的理发师。
 				</description>
 			</li>
 		</degreeDatas>
