@@ -872,7 +872,7 @@ Magallan, the Commissioner of Rhine Labs, is glad to welcome new adventures.</de
 		<stand>UI/Image/Supporter/IstinaStand</stand>
 		<headPortrait>UI/Image/Supporter/IstinaPortrait</headPortrait>
 		<traits>
-			<li><def>AK_Trait_IstinaSecond</def></li>
+			<li><def>AK_Trait_Chernobog</def></li>
 			<li><def>AK_Trait_Istina</def></li>
 			<li>
 				<def>Abrasive</def>
@@ -885,6 +885,7 @@ Magallan, the Commissioner of Rhine Labs, is glad to welcome new adventures.</de
 				<def>Tough</def>
 			</li>
 		</traits>
+		<childHood>AK_BackStory_UrsusStudent</childHood>
 		<skills>
 			<li>
 				<skill>Animals</skill>

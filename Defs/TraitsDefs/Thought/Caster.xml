@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<ThoughtDef Name = "AK_Thought_Permanent" Abstract = "True">
+		<workerClass>ThoughtWorker_AlwaysActive</workerClass>
+		<validWhileDespawned>true</validWhileDespawned>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Chernobog</defName>
+		<requiredTraits>
+			<li>AK_Trait_Chernobog</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label></label>
+				<description></description>
+				<baseMoodEffect>-20</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+	
+	<!-- Caster -->
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Dusk</defName>
+		<requiredTraits>
+			<li>AK_Trait_Dusk</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>尽波澜</label>
+				<description>山川风月，花羽林渊，贩夫走卒，老少男女，画不尽，也看不完，越不过，也走不出。</description>
+				<baseMoodEffect>-6</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Ceobe</defName>
+		<requiredTraits>
+			<li>AK_Trait_Ceobe</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>独行长路</label>
+				<description>
+					她来自荒野，她是荒野的孩子。
+					荒野之子终究归于荒野。
+				</description>
+				<baseMoodEffect>20</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Eyjafjalla</defName>
+		<requiredTraits>
+			<li>AK_Trait_Eyjafjalla</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>学者之心</label>
+				<description>
+					黑暗追着她，她追着光。
+					经火烧过的是真理，亦是永恒。
+				</description>
+				<baseMoodEffect>5</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Absinthe</defName>
+		<requiredTraits>
+			<li>AK_Trait_Absinthe</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>执法者</label>
+				<description>磨难可能毁灭一个人，也可能带来新生。</description>
+				<baseMoodEffect>-10</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Mostima</defName>
+		<requiredTraits>
+			<li>AK_Trait_Mostima</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>堕天使</label>
+				<description>法令的效力是绝对的。当她将枪口对准同类时，她的命运就已经被决定了。</description>
+				<baseMoodEffect>10</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Ifrit</defName>
+		<requiredTraits>
+			<li>AK_Trait_Ifrit</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>炎魔</label>
+				<description>
+					{0}时常会出现幻觉，她会看到烧焦的尸体与动物，或者亲密的人烈火焚身。
+					每当此时，她就会变得意识恍惚，因此烧掉一条走廊的事也不是没有。
+				</description>
+				<baseMoodEffect>-12</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Carnelian</defName>
+		<requiredTraits>
+			<li>AK_Trait_Carnelian</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>尽在掌握</label>
+				<description>卡涅利安小姐并不过多掩饰自己的真实性情，不论面对怎样的情况，她都依照自己的准则行事，对待朋友时热情大方，而对待自己认定的敌人，她从不会手下留情。莱塔尼亚无法真正束缚这样的一个的萨尔贡人。</description>
+				<baseMoodEffect>5</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Beeswax</defName>
+		<requiredTraits>
+			<li>AK_Trait_Beeswax</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>沙原的祝福</label>
+				<description>请记住，不论我们各自去往何方，她给出的那份祝福，都将随你一路前行。</description>
+				<baseMoodEffect>8</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_AmiyaSecond</defName>
+		<requiredTraits>
+			<li>AK_Trait_AmiyaSecond</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>奇美拉</label>
+				<description>来自同名特性。</description>
+				<baseMoodEffect>15</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+	
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Goldenglow</defName>
+		<requiredTraits>
+			<li>AK_Trait_Goldenglow</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>愤怒的电击</label>
+				<description>“绿意火花”没了，全都没了...呜......</description>
+				<baseMoodEffect>-10</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+	
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_GoldenglowSecond</defName>
+		<requiredTraits>
+			<li>AK_Trait_GoldenglowSecond</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>随和</label>
+				<description>今天也要开开心心的哦</description>
+				<baseMoodEffect>12</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+	
+</Defs>

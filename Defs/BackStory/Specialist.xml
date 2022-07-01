@@ -46,6 +46,7 @@
 		<defName>AK_BackStory_Robin_Child</defName>
 		<slot>Childhood</slot>
 		<title>破产家庭的孩子</title>
+		<titleShort>穷孩子</titleShort>
 		<baseDesc>罗宾原本是个相当开朗的都市女孩，而且最大的爱好就是看电影。
 但是当他的父亲公司破产，父母离异，并且数次再创业不成而因此一蹶不振后，她变成了现在这幅样子。</baseDesc>
 		<bodyTypeGlobal>Thin</bodyTypeGlobal>
@@ -74,7 +75,7 @@
 		<defName>AK_BackStory_Weedy_Adult</defName>
 		<slot>Adulthood</slot>
 		<title>罗德岛工程部元老</title>
-		<titleShort>工程师</titleShort>
+		<titleShort>大工程师</titleShort>
 		<baseDesc>其实比起罗德岛，莱茵生命的工作环境更适合温蒂，而她之所以选择罗德岛，只是因为在接到莱茵生命的offer前，先接到了罗德岛的offer而已。
 于是，温蒂就这么阴差阳错的成为了罗德岛的元老级人物之一。</baseDesc>
 		<bodyTypeGlobal>Thin</bodyTypeGlobal>
@@ -123,7 +124,7 @@
 		<defName>AK_BackStory_Cliffheart_Child</defName>
 		<slot>Childhood</slot>
 		<title>希瓦艾什家族的幺女</title>
-		<titleShort>幺女</titleShort>
+		<titleShort>家族幺女</titleShort>
 		<baseDesc>希瓦艾什一家人过去的和谐随着初雪当上圣女而终结，银灰无法坦率对待崖心，初雪则因为职位原因鲜少和另外两人交流，崖心对此很是气愤。
 但她也明白三人已经无法和好如初，自己无论做什么都无济于事，由此产生的无力感，是唯一会让她颓丧的事物。</baseDesc>
 		<bodyTypeGlobal>Thin</bodyTypeGlobal>

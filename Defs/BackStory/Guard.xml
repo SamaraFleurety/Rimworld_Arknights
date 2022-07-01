@@ -82,7 +82,7 @@
 		<defName>AK_BackStory_Swire_Adult</defName>
 		<slot>Adulthood</slot>
 		<title>龙门近卫局二把手</title>
-		<titleShort>警察</titleShort>
+		<titleShort>龙门警察</titleShort>
 		<baseDesc>成年后的诗怀雅虽然没有选择投身于家族企业，她依然自豪于自己的家族，并且在加入近卫局后以家族姓氏直接作为代号，失败的处理了几次事件。但随着经验的积累，她终于成长为一名成熟的警官，并且上任了龙门近卫局的二把手，在陈离开后接手了近卫局的责任。
 此时的她，终于摆脱了祖父投在自己头顶的阴影。</baseDesc>
 		<bodyTypeGlobal>Thin</bodyTypeGlobal>
@@ -216,6 +216,7 @@ ok halda njarðlásar níu.</baseDesc>
 		<defName>AK_BackStory_Pallas_Child</defName>
 		<slot>Childhood</slot>
 		<title>显赫的米诺斯祭司</title>
+		<titleShort>米诺斯祭司</titleShort>
 		<baseDesc>
 帕拉斯出生于米诺斯的显赫家庭，在经历了充实又无忧无虑的童年后，成为了一名祭司。
 但在一次意外中她感染了矿石病，因此她离开了英雄神殿，成为了边远地区的一名普通祭司。
@@ -226,6 +227,7 @@ ok halda njarðlásar níu.</baseDesc>
 		<defName>AK_BackStory_Pallas_Adult</defName>
 		<slot>Adulthood</slot>
 		<title>边缘村庄的小祭司</title>
+		<titleShort>小祭司</titleShort>
 		<baseDesc>
 帕拉斯在离开英雄神殿后成为了一个米诺斯边缘村庄的普通祭司，在抵御了袭扰该村的萨尔贡部落后，因为矿石病恶化前往罗德岛治疗。
 </baseDesc>
@@ -253,6 +255,7 @@ ok halda njarðlásar níu.</baseDesc>
 		<defName>AK_BackStory_Tequila_Child</defName>
 		<slot>Childhood</slot>
 		<title>玻利瓦尔军人之子</title>
+		<titleShort>军人之子</titleShort>
 		<baseDesc>
 龙舌兰是当时还身为玻利瓦尔军人的潘乔的孩子，八年前因为父亲在战场上的势力，在经历了三年的动荡后他伴随父亲来到了多索雷斯。
 在多索雷斯的五年毫无疑问让龙舌兰完全融入了这座城市。
@@ -263,6 +266,7 @@ ok halda njarðlásar níu.</baseDesc>
 		<defName>AK_BackStory_Tequila_Adult</defName>
 		<slot>Adulthood</slot>
 		<title>多索雷斯国际贸易管理部副主任</title>
+		<titleShort>副主任</titleShort>
 		<baseDesc>
 龙舌兰在成年后成为了多索雷斯国际贸易管理部副主任，但因为多索雷斯事件被革职，后经干员陈的引荐来到罗德岛。
 </baseDesc>

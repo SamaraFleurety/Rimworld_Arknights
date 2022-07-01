@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<!-- Supporter -->
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Pramanix</defName>
+		<requiredTraits>
+			<li>AK_Trait_Pramanix</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>谢拉格圣女</label>
+				<description>FIXME</description>
+				<baseMoodEffect>-2</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Suzuran</defName>
+		<requiredTraits>
+			<li>AK_Trait_Suzuran</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>好孩子</label>
+				<description>FIXME</description>
+				<baseMoodEffect>10</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_LingSecond</defName>
+		<requiredTraits>
+			<li>AK_Trait_LingSecond</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>乐逍遥</label>
+				<description>FIXME</description>
+				<baseMoodEffect>20</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Sora</defName>
+		<requiredTraits>
+			<li>AK_Trait_Sora</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>阳光偶像</label>
+				<description></description>
+				<baseMoodEffect>20</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+	
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_SceneSecond</defName>
+		<requiredTraits>
+			<li>AK_Trait_SceneSecond</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>缓慢但坚定</label>
+				<description></description>
+				<baseMoodEffect>12</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+	
+</Defs>

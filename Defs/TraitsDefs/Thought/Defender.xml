@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+<!-- Defender -->
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Mudrock</defName>
+		<requiredTraits>
+			<li>AK_Trait_Mudrock</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>沃土磐石之友</label>
+				<description>
+					或许是特殊的源石技艺，泥岩对于泥土有着一种奇妙的情感。
+					她和泥土之间的关系可能比她和大部分人都要亲密得多。
+				</description>
+				<baseMoodEffect>10</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Nian</defName>
+		<requiredTraits>
+			<li>AK_Trait_Nian</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>肆无忌惮</label>
+				<description>"'没有干扰他人工作的习惯'？她劝诱别人上班打麻将，有没有人阻止一下？"</description>
+				<baseMoodEffect>20</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Hoshiguma</defName>
+		<requiredTraits>
+			<li>AK_Trait_Hoshiguma</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>冷静的鬼</label>
+				<description>
+					在好战方面，星熊和其他鬼没有区别，在战场上的她比任何人都要骁勇善战。
+					但星熊有着大部分鬼族欠缺的一项特质——冷静。
+					从她的言行举止中，能感受到思考，在她的骁勇善战中，能感受到克制。
+				</description>
+				<baseMoodEffect>5</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Croissant</defName>
+		<requiredTraits>
+			<li>AK_Trait_Croissant</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>都市少女</label>
+				<description>
+					即使成为了干员，可颂小姐也完全不打算放弃她在日常生活中的兴趣爱好。
+					她知道成为干员后要面临许多前所未有的危险，她也知道成为干员后会遇到很多笑不出来的事，她没有忽视这些，而是在此之上，她依然会是那个精打细算的都市少女。
+				</description>
+				<baseMoodEffect>15</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Nearl</defName>
+		<requiredTraits>
+			<li>AK_Trait_Nearl</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>耀骑士</label>
+				<description>所谓骑士，就是照亮整片大地的崇高者。</description>
+				<baseMoodEffect>12</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Cuora</defName>
+		<requiredTraits>
+			<li>AK_Trait_Cuora</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>无忧无虑</label>
+				<description>干员蛇屠箱拥有天真烂漫的性格，即使成为矿石病患者也丝毫未能减损她的阳光。</description>
+				<baseMoodEffect>20</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+	
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Gummy</defName>
+		<requiredTraits>
+			<li>AK_Trait_Gummy</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>习惯</label>
+				<description></description>
+				<baseMoodEffect>20</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+	
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Chernobog</defName>
+		<requiredTraits>
+			<li>AK_Trait_GummySecond</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label></label>
+				<description></description>
+				<baseMoodEffect>-20</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+	
+</Defs>

@@ -297,7 +297,7 @@
 		<defName>AK_Trait_AprilSecond</defName>
 		<degreeDatas>
 			<li>
-				<label></label>
+				<label>猎人的直觉</label>
 				<description>
 				</description>
 			</li>
@@ -309,9 +309,12 @@
 		<defName>AK_Trait_April</defName>
 		<degreeDatas>
 			<li>
-				<label></label>
-				<description>
+				<label>阳光少女</label>
+				<description>尽管因为对感染者的天热歧视，四月一时难以接受自己成为感染者的事实，但是她还是依靠着阳光外向的性格扛了下来。并且慢慢适应罗德岛的生活。
 				</description>
+				<statOffsets>
+					<MentalBreakThreshold>0.2</MentalBreakThreshold>
+				</statOffsets>
 			</li>
 		</degreeDatas>
 	</TraitDef>

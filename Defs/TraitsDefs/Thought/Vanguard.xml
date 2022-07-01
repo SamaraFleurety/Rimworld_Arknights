@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<!-- Vanguard -->
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Flametail</defName>
+		<requiredTraits>
+			<li>AK_Trait_Flametail</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>小小的领袖</label>
+				<description>FIXME</description>
+				<baseMoodEffect>18</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_SagaSecond</defName>
+		<requiredTraits>
+			<li>AK_Trait_SagaSecond</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>入世</label>
+				<description>FIXME</description>
+				<baseMoodEffect>10</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Siege</defName>
+		<requiredTraits>
+			<li>AK_Trait_Siege</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>狮心王</label>
+				<description>FIXME</description>
+				<baseMoodEffect>-10</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Texas</defName>
+		<requiredTraits>
+			<li>AK_Trait_Texas</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>过去的影子</label>
+				<description>FIXME</description>
+				<baseMoodEffect>15</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_SaileachSecond</defName>
+		<requiredTraits>
+			<li>AK_Trait_SaileachSecond</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>感染力</label>
+				<description>FIXME</description>
+				<baseMoodEffect>10</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Bagpipe</defName>
+		<requiredTraits>
+			<li>AK_Trait_Bagpipe</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>阳光女孩</label>
+				<description>FIXME</description>
+				<baseMoodEffect>20</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Reed</defName>
+		<requiredTraits>
+			<li>AK_Trait_Reed</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>生命之火</label>
+				<description>FIXME</description>
+				<baseMoodEffect>-15</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_WildSecond</defName>
+		<requiredTraits>
+			<li>AK_Trait_WildSecond</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>自信</label>
+				<description></description>
+				<baseMoodEffect>18</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+	
+</Defs>

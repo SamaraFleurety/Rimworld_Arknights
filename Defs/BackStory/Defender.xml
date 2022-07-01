@@ -174,6 +174,7 @@
 在叫醒蛇屠箱并进行询问的过程中，蛇屠箱发现自己完全没有来到罗德岛的相关记忆。随后在罗德岛为蛇屠箱安排了一次免费的检查中发现，她是一名轻度感染者。</baseDesc>
 		<bodyTypeGlobal>Thin</bodyTypeGlobal>
 	</StoriesRetold.SRBackstoryDef>
+	
 	<StoriesRetold.SRBackstoryDef>
 		<defName>AK_BackStory_Ashlock_Child</defName>
 		<slot>Childhood</slot>
@@ -182,7 +183,8 @@
 灰毫在幼年曾经是一个名贵骑士家族的一员，但是家族在因为决策失误一蹶不振，并且因为自己感染矿石病后。
 灰毫因为一次不合时机的出场造成家族的合同被对方借故撕毁，自己也因此被逐出家族，她因此成为了一名感染者骑士想要为自己正名。
 </baseDesc>
-		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>	
+	</StoriesRetold.SRBackstoryDef>
 
 	<StoriesRetold.SRBackstoryDef>
 		<defName>AK_BackStory_Ashlock_Adult</defName>
@@ -190,17 +192,20 @@
 		<title>灰毫骑士</title>
 		<baseDesc>
 灰毫在一次感染骑士特锦赛后遇到了现在的焰尾骑士，并且与她一同创建了红松骑士团并且拥有了越来越高的名气。
-</baseDesc>
-		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
+		</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>	
+	</StoriesRetold.SRBackstoryDef>
 
 	<StoriesRetold.SRBackstoryDef>
 		<defName>AK_BackStory_Horn_Child</defName>
 		<slot>Childhood</slot>
 		<title>白狼公爵的孩子</title>
+		<titleShort>公爵孩子</titleShort>
 		<baseDesc>
 号角诞生与维多利亚赫赫有名的军事贵族家庭，并且顺利考入了维多利亚近卫学院并毕业，在毕业后加入了暴风突击队。
 </baseDesc>
-		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>	
+	</StoriesRetold.SRBackstoryDef>
 
 	<StoriesRetold.SRBackstoryDef>
 		<defName>AK_BackStory_Horn_Adult</defName>
@@ -209,15 +214,7 @@
 		<baseDesc>
 号角在加入暴风突击队后迅速晋升为了号角小队是队长，但在小丘郡的动乱中，号角小队几近全军覆没。
 </baseDesc>
-		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
-
-	<StoriesRetold.SRBackstoryDef>
-		<defName>AK_BackStory_Gummy_Child</defName>
-		<slot>Childhood</slot>
-		<title>FIXME乌萨斯学生自治团团员（通用）</title>
-		<baseDesc>
-同乌萨斯学生自治团其他团员一样，古米原本是就读于彼得海姆的普通学生，但她们原本可以被称为平静的生活因为切尔诺伯格发生的灾难戛然而止了。
-</baseDesc>
-		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>	
+	</StoriesRetold.SRBackstoryDef>
 
 </Defs>

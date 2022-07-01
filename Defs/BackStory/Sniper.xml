@@ -135,7 +135,7 @@
 		<defName>AK_BackStory_Jessica_Adult</defName>
 		<slot>Adulthood</slot>
 		<title>黑钢雇员（富婆）</title>
-		<titleShort>雇员</titleShort>
+		<titleShort>富婆雇员</titleShort>
 		<baseDesc>极度缺乏自信的黑钢国际正式员工、派遣干员。似乎非常非常有钱！
 或许是性格软弱的原因，在黑钢时就经常被各方抓去测试一些新型的协议和器械，来到罗德岛后，这一点也延续了下来。
 对新晋干员来说，她们在使用大部分器械前，都要先观看杰西卡的演示。
@@ -234,6 +234,7 @@
 		<defName>AK_BackStory_Fiammetta_Adult</defName>
 		<slot>Adulthood</slot>
 		<title>拉特兰公证所高级特派员</title>
+		<titleShort>高级特派员</titleShort>
 		<baseDesc>
 菲亚梅塔在加入公证所之后原本同安多恩和他手下的小队一起行动，但是在某些变故后她现在的任务变成了监视莫斯提马。
 </baseDesc>
@@ -243,6 +244,7 @@
 		<defName>AK_BackStory_April_Child</defName>
 		<slot>Childhood</slot>
 		<title>被公司养大的孤儿</title>
+		<titleShort>孤儿</titleShort>
 		<baseDesc>
 四月的父母在她很小的时候就因为矿难去世了，而四月靠着公司的补助勉强长大了。
 </baseDesc>

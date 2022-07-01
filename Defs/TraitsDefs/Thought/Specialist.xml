@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<!-- Specialist -->
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Weedy</defName>
+		<requiredTraits>
+			<li>AK_Trait_Weedy</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>极端洁癖</label>
+				<description>FIXME</description>
+				<baseMoodEffect>5</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_MizukiSecond</defName>
+		<requiredTraits>
+			<li>AK_Trait_MizukiSecond</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>镜花水月</label>
+				<description>FIXME</description>
+				<baseMoodEffect>10</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Cliffheart</defName>
+		<requiredTraits>
+			<li>AK_Trait_Cliffheart</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>登山家的热情</label>
+				<description>FIXME</description>
+				<baseMoodEffect>15</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+	
+</Defs>

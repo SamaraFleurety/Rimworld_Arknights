@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<!-- Sniper -->
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Pinecone</defName>
+		<requiredTraits>
+			<li>AK_Trait_Pinecone</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>安于现状</label>
+				<description>FIXME</description>
+				<baseMoodEffect>6</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Exusiai</defName>
+		<requiredTraits>
+			<li>AK_Trait_Exusiai</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>天使的祝福</label>
+				<description>FIXME</description>
+				<baseMoodEffect>20</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Archetto</defName>
+		<requiredTraits>
+			<li>AK_Trait_Archetto</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>虔诚</label>
+				<description>FIXME</description>
+				<baseMoodEffect>5</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Schwarz</defName>
+		<requiredTraits>
+			<li>AK_Trait_Schwarz</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>阴影里生存的人</label>
+				<description>FIXME</description>
+				<baseMoodEffect>-8</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Provence</defName>
+		<requiredTraits>
+			<li>AK_Trait_Provence</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>踏入荒野之人</label>
+				<description>FIXME</description>
+				<baseMoodEffect>10</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_W</defName>
+		<requiredTraits>
+			<li>AK_Trait_W</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>索然无味</label>
+				<description>FIXME</description>
+				<baseMoodEffect>5</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Platinum</defName>
+		<requiredTraits>
+			<li>AK_Trait_Platinum</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>悠闲自在</label>
+				<description>FIXME</description>
+				<baseMoodEffect>5</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Greythroat</defName>
+		<requiredTraits>
+			<li>AK_Trait_Greythroat</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>对感染者的小小不适</label>
+				<description>FIXME</description>
+				<baseMoodEffect>-15</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Jessica</defName>
+		<requiredTraits>
+			<li>AK_Trait_Jessica</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>性格软弱</label>
+				<description>FIXME</description>
+				<baseMoodEffect>-5</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Bluepoison</defName>
+		<requiredTraits>
+			<li>AK_Trait_Bluepoison</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>毒物</label>
+				<description>FIXME</description>
+				<baseMoodEffect>-5</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_RosmontisSecond</defName>
+		<requiredTraits>
+			<li>AK_Trait_RosmontisSecond</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>被封印的记忆</label>
+				<description>FIXME</description>
+				<baseMoodEffect>-5</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Rosa</defName>
+		<requiredTraits>
+			<li>AK_Trait_Rosa</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>没落的贵族</label>
+				<description>FIXME</description>
+				<baseMoodEffect>-5</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Meteorite</defName>
+		<requiredTraits>
+			<li>AK_Trait_Meteorite</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>独特的萨卡兹</label>
+				<description>FIXME</description>
+				<baseMoodEffect>-5</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Firewatch</defName>
+		<requiredTraits>
+			<li>AK_Trait_Firewatch</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>唯余复仇</label>
+				<description>FIXME</description>
+				<baseMoodEffect>-25</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+	
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_April</defName>
+		<requiredTraits>
+			<li>AK_Trait_April</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>阳光少女</label>
+				<description></description>
+				<baseMoodEffect>20</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+	
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Fartooth</defName>
+		<requiredTraits>
+			<li>AK_Trait_Fartooth</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>翔隼</label>
+				<description>即使被金钱暂时埋没，卡西米尔的精神却从未远去，它们等待着再次现身，在天空中翱翔。</description>
+				<baseMoodEffect>-5</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+	
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_FartoothSecond</defName>
+		<requiredTraits>
+			<li>AK_Trait_FartoothSecond</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>风息</label>
+				<description>远牙的思维像风一样迅速又自由，或许她也会在风中闻到家乡的气息。</description>
+				<baseMoodEffect>10</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+	
+</Defs>

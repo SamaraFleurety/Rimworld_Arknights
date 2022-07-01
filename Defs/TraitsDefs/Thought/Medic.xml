@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<!-- Medic -->
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Ptilopsis</defName>
+		<requiredTraits>
+			<li>AK_Trait_Ptilopsis</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>另一个声音</label>
+				<description>FIXME</description>
+				<baseMoodEffect>-5</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Gavial</defName>
+		<requiredTraits>
+			<li>AK_Trait_Gavial</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>奇特却坚定的医师</label>
+				<description>FIXME</description>
+				<baseMoodEffect>12</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Myrrh</defName>
+		<requiredTraits>
+			<li>AK_Trait_Myrrh</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>单一的友谊</label>
+				<description>FIXME</description>
+				<baseMoodEffect>-5</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Perfumer</defName>
+		<requiredTraits>
+			<li>AK_Trait_Perfumer</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>手有余香</label>
+				<description>FIXME</description>
+				<baseMoodEffect>10</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Shining</defName>
+		<requiredTraits>
+			<li>AK_Trait_Shining</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>慈悲</label>
+				<description>FIXME</description>
+				<baseMoodEffect>15</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Nightingale</defName>
+		<requiredTraits>
+			<li>AK_Trait_Nightingale</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>封闭的希望</label>
+				<description>FIXME</description>
+				<baseMoodEffect>-20</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Kaltsit</defName>
+		<requiredTraits>
+			<li>AK_Trait_Kaltsit</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>旧日之影</label>
+				<description>
+					魔王死了
+					巴别塔倒塌了。
+				</description>
+				<baseMoodEffect>-10</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+	
+</Defs>

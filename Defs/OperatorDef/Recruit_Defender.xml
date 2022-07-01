@@ -1165,7 +1165,7 @@ Saria, former researcher of Rhine Lab, will serve as a core part of the squad's 
 		<stand>UI/Image/Defender/GummyStand</stand>
 		<headPortrait>UI/Image/Defender/GummyPortrait</headPortrait>
 		<traits>
-			<li><def>AK_Trait_GummySecond</def></li>
+			<li><def>AK_Trait_Chernobog</def></li>
 			<li><def>AK_Trait_Gummy</def></li>
 			<li>
 				<def>Beauty</def>
@@ -1178,7 +1178,7 @@ Saria, former researcher of Rhine Lab, will serve as a core part of the squad's 
 				<def>Tough</def>
 			</li>
 		</traits>
-		<childHood>AK_BackStory_Gummy_Child</childHood>
+		<childHood>AK_BackStory_UrsusStudent</childHood>
 		<skills>
 			<li>
 				<skill>Animals</skill>
