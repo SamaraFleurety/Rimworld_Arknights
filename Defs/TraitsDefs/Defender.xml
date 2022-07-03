@@ -255,25 +255,16 @@
 	<TraitDef>
 		<ignoreConfigErrors>true</ignoreConfigErrors>
 		<commonality>0.0</commonality>
-		<defName>AK_Trait_GummySecond</defName>
-		<degreeDatas>
-			<li>
-				<label></label>
-				<description>
-				</description>
-			</li>
-		</degreeDatas>
-	</TraitDef>
-	
-	<TraitDef>
-		<ignoreConfigErrors>true</ignoreConfigErrors>
-		<commonality>0.0</commonality>
 		<defName>AK_Trait_Gummy</defName>
 		<degreeDatas>
 			<li>
-				<label></label>
-				<description>
+				<label>习惯</label>
+				<description>相比于其他学生，切尔诺伯格的灾难对古米造成的伤害显然更大，这造成了古米虽然看上去依旧乐观，但是却有了一些奇怪的“小习惯”.
 				</description>
+				<statOffsets>
+					<MentalBreakThreshold>0.05</MentalBreakThreshold>
+					<WorkSpeedGlobal>-0.20</WorkSpeedGlobal>
+				</statOffsets>
 			</li>
 		</degreeDatas>
 	</TraitDef>

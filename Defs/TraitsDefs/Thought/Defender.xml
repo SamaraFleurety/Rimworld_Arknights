@@ -111,18 +111,4 @@
 		</stages>
 	</ThoughtDef>
 	
-	<ThoughtDef ParentName = "AK_Thought_Permanent">
-		<defName>AK_Thought_Trait_Chernobog</defName>
-		<requiredTraits>
-			<li>AK_Trait_GummySecond</li>
-		</requiredTraits>
-		<stages>
-			<li>
-				<label></label>
-				<description></description>
-				<baseMoodEffect>-20</baseMoodEffect>
-			</li>
-		</stages>
-	</ThoughtDef>
-	
 </Defs>

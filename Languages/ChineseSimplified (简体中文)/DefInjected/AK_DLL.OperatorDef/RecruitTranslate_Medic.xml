@@ -43,6 +43,11 @@
 
 101010111101000</AK_Recruit_Ptilopsis.description>
 
+	<AK_Recruit_Myrrh.name>末药</AK_Recruit_Myrrh.name>
+	<AK_Recruit_Myrrh.nickname>末药</AK_Recruit_Myrrh.nickname>
+	<AK_Recruit_Myrrh.description>罗德岛医疗干员末药，将用草药为小队提供医疗援助。
+苦在舌尖，甜在心间。</AK_Recruit_Myrrh.description>
+
 	<AK_Recruit_Purestream.name>清流</AK_Recruit_Purestream.name>
 	<AK_Recruit_Purestream.nickname>清流</AK_Recruit_Purestream.nickname>
 	<AK_Recruit_Purestream.description>水道治理人清流，吃苦耐劳，兢兢业业。
