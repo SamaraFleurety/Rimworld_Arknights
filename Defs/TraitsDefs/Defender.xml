@@ -269,4 +269,17 @@
 		</degreeDatas>
 	</TraitDef>
 	
+	<TraitDef>
+		<ignoreConfigErrors>true</ignoreConfigErrors>
+		<commonality>0.0</commonality>
+		<defName>AK_Trait_Matterhorn</defName>
+		<degreeDatas>
+			<li>
+				<label></label>
+				<description>
+				</description>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+
 </Defs>

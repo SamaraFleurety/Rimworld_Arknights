@@ -217,4 +217,24 @@
 		<bodyTypeGlobal>Thin</bodyTypeGlobal>	
 	</StoriesRetold.SRBackstoryDef>
 
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Matterhorn_Child</defName>
+		<slot>Childhood</slot>
+		<title>家族侍卫</title>
+		<baseDesc>
+角峰从小就是被当做银灰家侍卫来训练，他的父亲，祖父，都是银灰家荣耀的近卫，他自然也以此作为目标。
+在格斗训练之余他也会学习一些厨艺。
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Matterhorn_Adult</defName>
+		<slot>Adulthood</slot>
+		<title>喀兰贸易员工</title>
+		<baseDesc>
+谢拉格出身，喀兰贸易公司成员。作为喀兰贸易公司与罗德岛合作协定的一部分，以外派人员身份参与罗德岛任务。</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+	</StoriesRetold.SRBackstoryDef>
+
 </Defs>

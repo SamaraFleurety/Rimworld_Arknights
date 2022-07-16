@@ -155,4 +155,23 @@
 		<bodyTypeGlobal>Thin</bodyTypeGlobal>	
 	</StoriesRetold.SRBackstoryDef>
 
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Courier_Child</defName>
+		<slot>Childhood</slot>
+		<title>迷路的孩子</title>
+		<baseDesc>
+小时候的讯使不仅不怎么识路，甚至还会迷路。据他所说，在一次外出游玩时曾经被风雪困住，差点就没法活着回家了。幸好在那附近狩猎野味的银灰发现了他。
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Courier_Adult</defName>
+		<slot>Adulthood</slot>
+		<title>讯使</title>
+		<baseDesc>讯使
+讯使，谢拉格出身，喀兰贸易公司成员。作为喀兰贸易公司与罗德岛合作协定的一部分，以外派人员身份参与罗德岛任务。</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+	</StoriesRetold.SRBackstoryDef>
+
 </Defs>

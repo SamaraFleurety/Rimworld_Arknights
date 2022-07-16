@@ -168,4 +168,16 @@
 		</apparel>
 	</ThingDef>
 
+	<ThingDef ParentName="AK_ArmorBase_Defender">
+		<defName>AK_Apparel_Matterhorn</defName>
+		<label>角峰服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Defender/Matterhorn</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Defender/Matterhorn</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
 </Defs>

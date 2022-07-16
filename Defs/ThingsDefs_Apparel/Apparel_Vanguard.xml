@@ -97,4 +97,16 @@
 		</apparel>
 	</ThingDef>
 
+	<ThingDef ParentName="AK_ArmorBase_Vanguard">
+		<defName>AK_Apparel_Courier</defName>
+		<label>讯使服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Vanguard/Courier</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Vanguard/Courier</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
 </Defs>

@@ -81,4 +81,10 @@
 		<texPath>Things/Hair/Defender/Gummy</texPath>
 	</HairDef>
 
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Matterhorn</defName>
+		<label>角峰发型</label>
+		<texPath>Things/Hair/Defender/Matterhorn</texPath>
+	</HairDef>
+
 </Defs>

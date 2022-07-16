@@ -136,4 +136,13 @@
 		</graphicData>
 	</ThingDef>
 
+	<ThingDef ParentName="AK_WeaponBase_Defender">
+		<defName>AK_Weapon_Matterhorn</defName>
+		<label>角峰的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Defender/MatterhornW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
 </Defs>
