@@ -109,4 +109,16 @@
 
 当心，有的时候这未必是一件好事。</AK_Recruit_LaPluma.description>
 
+	<AK_Recruit_Estelle.name>艾丝黛尔</AK_Recruit_Estelle.name>
+	<AK_Recruit_Estelle.nickname>艾丝黛尔</AK_Recruit_Estelle.nickname>
+	<AK_Recruit_Estelle.description>罗德岛近卫干员艾丝黛尔，还在犹豫自己是否能帮上忙。
+请相信她的能力吧！
+</AK_Recruit_Estelle.description>
+
+	<AK_Recruit_Flint.name>燧石</AK_Recruit_Flint.name>
+	<AK_Recruit_Flint.nickname>燧石</AK_Recruit_Flint.nickname>
+	<AK_Recruit_Flint.description>部族拳手燧石，强大而纯粹的战士。
+交流的第一步从学习通用语开始。
+</AK_Recruit_Flint.description>
+
 </LanguageData>

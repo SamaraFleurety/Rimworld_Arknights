@@ -218,4 +218,45 @@
 </baseDesc>
 		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
 
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Tomimi_Child</defName>
+		<slot>Childhood</slot>
+		<title>嘉维尔的狂热粉丝</title>
+		<baseDesc>
+特米米从小与嘉维尔就是朋友，在谁打架更厉害谁就是头头的萨尔贡部落里，嘉维尔毫无疑问是孩子王与所有孩子的崇拜对象，这也让与她朝夕相处的特米米对嘉维尔产生了几乎狂热的崇拜。
+她把飞行器轰下来可能只是因为很久没见的嘉维尔。</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Tomimi_Adult</defName>
+		<slot>Adulthood</slot>
+		<title>阿达克利斯术士</title>
+		<baseDesc>
+特米米，萨尔贡阿卡胡拉地区的阿达克利斯人，嘉维尔的同伴与支持者，曾试图以激进手段阻止嘉维尔返回罗德岛，未果，随后便同其一起来到罗德岛。
+承担术师干员职责，但经常会忘记，鉴于在战场上表现尚佳，暂不考虑改变她的干员定位。</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Kjera_Child</defName>
+		<slot>Childhood</slot>
+		<title>耶拉冈德</title>
+		<baseDesc>
+祂在诞生时，以为天地间只有这片雪山，和生活在这片雪原上的人，祂自然而然地对他们产生了亲近之感。祂从未离开过谢拉格，祂知道的，只有谢拉格这片土地，认识的，也只有生活在这片土地上的人。谢拉格人以为自己在依靠祂，实际上，是不是祂也在依靠谢拉格人呢？
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Kjera_Adult</defName>
+		<slot>Adulthood</slot>
+		<title>侍女长</title>
+		<baseDesc>
+谢拉格圣女，恩雅·希瓦艾什，也就是干员初雪的侍女长，作为圣女的代表加入罗德岛。
+负责初雪秘密访问罗德岛的诸多对接事宜，除此之外，本人也十分享受干员生活，现作为术师干员活跃于各种任务中。
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+	</StoriesRetold.SRBackstoryDef>
+
 </Defs>

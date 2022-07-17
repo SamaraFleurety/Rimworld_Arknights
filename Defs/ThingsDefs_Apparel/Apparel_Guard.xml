@@ -228,4 +228,28 @@
 		</apparel>
 	</ThingDef>
 
+	<ThingDef ParentName="AK_ArmorBase_Guard">
+		<defName>AK_Apparel_Estelle</defName>
+		<label>艾丝黛尔服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Guard/Estelle</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Guard/Estelle</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_ArmorBase_Guard">
+		<defName>AK_Apparel_Flint</defName>
+		<label>燧石服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Guard/Flint</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Guard/Flint</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
 </Defs>

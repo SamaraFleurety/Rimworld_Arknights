@@ -11,7 +11,7 @@
                 <description>即便已经知晓了感染者的结局，安洁莉娜却并不甘心。
 作为信使，作为感染者，也作为一个普通的高中生，安洁莉娜正在努力地生活下去，无论未来会变成什么模样。</description>
 	            <statOffsets>
-		            <MentalBreakThreshold>0.15</MentalBreakThreshold>
+		            <MentalBreakThreshold>-0.15</MentalBreakThreshold>
                 </statOffsets>
             </li>
         </degreeDatas>
@@ -26,7 +26,7 @@
 				<label>谢拉格圣女</label>
 				<description>喀兰圣女、神启者、应被称颂者……这样那样的称号，都只属于初雪一人。她是那样的尊贵，她是那样的完美，她是那样的神圣，整个谢拉格，皆因她的存在而荣耀。可是，她心中的苦痛，又有谁知道呢？</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.05</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.05</MentalBreakThreshold>
 				</statOffsets>
 			</li>
 		</degreeDatas>
@@ -41,7 +41,7 @@
 				<label>好孩子</label>
 				<description>她是个孩子，但不要因此忽视了她内心的坚强，就像阿米娅一样。丽萨在默默忍耐辛苦，也在默默成长。要保护丽萨的干员，到最后都会被这个坚强的孩子所保护。</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.3</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.3</MentalBreakThreshold>
 				</statOffsets>
 			</li>
 		</degreeDatas>
@@ -57,7 +57,7 @@
 				<description>深海色描述的海洋究竟是什么？她使用的蓝色为何会让人感到不安？她在绘画时那令人不适的杂音又从何而来？
 管它呢，探听别人的机密可不好。</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.5</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.5</MentalBreakThreshold>
 				</statOffsets>
 			</li>
 		</degreeDatas>
@@ -72,7 +72,7 @@
 				<label>将进酒</label>
 				<description>悲长梦，醉挑灯。他年长风今犹在，旧时铁甲踏新声。</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.85</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.85</MentalBreakThreshold>
 				</statOffsets>
 				<statFactors>
 					<PsychicSensitivity>0.0</PsychicSensitivity>

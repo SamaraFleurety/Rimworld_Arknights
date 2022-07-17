@@ -79,4 +79,16 @@
 
 啪！</AK_Recruit_Goldenglow.description>
 
+	<AK_Recruit_Tomimi.name>特米米</AK_Recruit_Tomimi.name>
+	<AK_Recruit_Tomimi.nickname>特米米</AK_Recruit_Tomimi.nickname>
+	<AK_Recruit_Tomimi.description>术师干员特米米，正在罗德岛进行特训。
+特训内容是成为一名出色的术师。
+</AK_Recruit_Tomimi.description>
+
+	<AK_Recruit_Kjera.name>耶拉</AK_Recruit_Kjera.name>
+	<AK_Recruit_Kjera.nickname>耶拉</AK_Recruit_Kjera.nickname>
+	<AK_Recruit_Kjera.description>圣女陪侍耶拉，自雪山之巅而来。
+烦恼的时候就问问她吧，她会安慰你的。
+</AK_Recruit_Kjera.description>
+
 </LanguageData>

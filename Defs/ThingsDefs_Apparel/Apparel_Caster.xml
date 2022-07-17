@@ -157,4 +157,28 @@
 		</apparel>
 	</ThingDef>
 
+	<ThingDef ParentName="AK_ArmorBase_Caster">
+		<defName>AK_Apparel_Tomimi</defName>
+		<label>特米米服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Caster/Tomimi</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Caster/Tomimi</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_ArmorBase_Caster">
+		<defName>AK_Apparel_Kjera</defName>
+		<label>耶拉服装</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Caster/Kjera</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/AK_Agents/Caster/Kjera</wornGraphicPath>
+		</apparel>
+	</ThingDef>
+
 </Defs>

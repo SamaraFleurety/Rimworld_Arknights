@@ -188,4 +188,28 @@
 		</stages>
 	</ThoughtDef>
 	
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Estelle</defName>
+		<requiredTraits><li>AK_Trait_Estelle</li></requiredTraits>
+		<stages>
+			<li>
+				<label></label>
+				<description></description>
+				<baseMoodEffect>-12</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Flint</defName>
+		<requiredTraits><li>AK_Trait_Flint</li></requiredTraits>
+		<stages>
+			<li>
+				<label></label>
+				<description></description>
+				<baseMoodEffect>12</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
 </Defs>

@@ -181,4 +181,22 @@
 		</graphicData>
 	</ThingDef>
 
+	<ThingDef ParentName="AK_WeaponBase_Guard">
+		<defName>AK_Weapon_Estelle</defName>
+		<label>艾丝黛尔的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Guard/EstelleW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_WeaponBase_Guard">
+		<defName>AK_Weapon_Flint</defName>
+		<label>燧石的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Guard/FlintW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
 </Defs>

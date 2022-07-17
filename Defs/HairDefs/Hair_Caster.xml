@@ -81,4 +81,16 @@
 		<texPath>Things/Hair/Caster/Goldenglow</texPath>
 	</HairDef>
 
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Tomimi</defName>
+		<label>特米米发型</label>
+		<texPath>Things/Hair/Caster/Tomimi</texPath>
+	</HairDef>
+
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Kjera</defName>
+		<label>耶拉发型</label>
+		<texPath>Things/Hair/Caster/Kjera</texPath>
+	</HairDef>
+
 </Defs>

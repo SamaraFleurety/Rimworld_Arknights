@@ -111,4 +111,16 @@
 		<texPath>Things/Hair/Guard/LaPluma</texPath>
 	</HairDef>
 
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Estelle</defName>
+		<label>艾丝黛尔发型</label>
+		<texPath>Things/Hair/Guard/Estelle</texPath>
+	</HairDef>
+
+	<HairDef ParentName="AK_HairBaseF">
+		<defName>AK_Hair_Flint</defName>
+		<label>燧石发型</label>
+		<texPath>Things/Hair/Guard/Flint</texPath>
+	</HairDef>
+
 </Defs>

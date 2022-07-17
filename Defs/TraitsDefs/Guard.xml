@@ -10,7 +10,7 @@
 				<label>脆弱的佣兵</label>
 				<description>霜叶虽然作为一名前佣兵，抗压能力理应较好，但她的内心还是一个喜欢音乐的旋律，向往着正常生活的小女孩。</description>
 				<statOffsets>
-					<MentalBreakThreshold>-0.15</MentalBreakThreshold>
+					<MentalBreakThreshold>0.15</MentalBreakThreshold>
 				</statOffsets>
 			</li>
 		</degreeDatas>
@@ -25,7 +25,7 @@
 				<label>敏感的孩子</label>
 				<description>在维多利亚王国的社会氛围中，富家出身的女性将各色聚会和庄园间穿梭。慕斯并不适应这样的生活。慕斯想做的，只是她自己。</description>
 				<statOffsets>
-					<MentalBreakThreshold>-0.05</MentalBreakThreshold>
+					<MentalBreakThreshold>0.05</MentalBreakThreshold>
 					<PsychicSensitivity>0.3</PsychicSensitivity>
 				</statOffsets>
 			</li>
@@ -58,7 +58,7 @@
 至于自己直率的言行所招来的误解，干员棘刺并不在乎</description>
 				<statOffsets>
 					<PsychicSensitivity>-0.15</PsychicSensitivity>
-					<MentalBreakThreshold>0.4</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.4</MentalBreakThreshold>
 				</statOffsets>
 			</li>
 		</degreeDatas>
@@ -73,7 +73,7 @@
 				<label>轻浮作风</label>
 				<description>芙兰卡性格略显轻浮，作风较为激进，以戏耍他人为乐——无论面对的是敌人还是自己的同伴。</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.2</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.2</MentalBreakThreshold>
 				</statOffsets>
 			</li>
 		</degreeDatas>
@@ -88,7 +88,7 @@
 				<label>热情似火</label>
 				<description>易燃，易爆，易炸！煌的热情如同她的战斗方式一般热情似火！</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.35</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.35</MentalBreakThreshold>
 					<PsychicSensitivity>-0.2</PsychicSensitivity>
 				</statOffsets>
 				<statFactors>
@@ -107,7 +107,7 @@
 				<label>挑剔的大小姐</label>
 				<description>只是为了教官训练室的地毯造型，诗怀雅小姐也能耿耿于怀很久呢！“虽然杜宾说她无所谓，但我的工作热情可是会下降的......”</description>
 				<statOffsets>
-					<MentalBreakThreshold>-0.1</MentalBreakThreshold>
+					<MentalBreakThreshold>0.1</MentalBreakThreshold>
 				</statOffsets>
 			</li>
 		</degreeDatas>
@@ -123,7 +123,7 @@
 				<description>史尔特尔的脑内充斥着各种各样混乱的，重叠的记忆，而且有着大量的断层。
 不知道这些真的是史尔特尔亲身的体验，还是她把一些见闻当成是了自己的经历。</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.35</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.35</MentalBreakThreshold>
 				</statOffsets>
 			</li>
 		</degreeDatas>
@@ -139,7 +139,7 @@
 				<description>有人认为拉普兰德是一个十足的战斗狂人，实际上，她在日常中表现得颇为有礼，她会主动与人攀谈，讲一些有点残酷的黑色笑话，同时观察听者的反应。
 但即使在她最放松的时候，她依旧会令人畏惧。</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.25</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.25</MentalBreakThreshold>
 				</statOffsets>
 			</li>
 		</degreeDatas>
@@ -154,7 +154,7 @@
 				<label>领袖</label>
 				<description>作为喀兰之主的银灰，只是站在战场上就让人有一种可靠感，无论是战略策划还是战术指挥，多数干员都会为银灰的实力所折服。</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.3</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.3</MentalBreakThreshold>
 					<GlobalLearningFactor>0.5</GlobalLearningFactor>
 				</statOffsets>
 			</li>
@@ -170,7 +170,7 @@
 				<label>深海猎人</label>
 				<description>“战争。事关生命延续的战争是场没有胜利的死战，战争唯一的结果是星空下其它种群的彻底消亡。猎人为推迟那末日的到来而殊死战斗，不悯，不休，不悔。”</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.8</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.8</MentalBreakThreshold>
 					<PsychicSensitivity>-0.8</PsychicSensitivity>
 				</statOffsets>
 			</li>
@@ -198,7 +198,7 @@
 				<label>疯狂</label>
 				<description>“干员幽灵鲨患有严重的精神障碍，可能包含并不止于记忆障碍、情感障碍与认知障碍。”</description>
 				<statOffsets>
-					<MentalBreakThreshold>-0.5</MentalBreakThreshold>
+					<MentalBreakThreshold>0.5</MentalBreakThreshold>
 				</statOffsets>
 			</li>
 		</degreeDatas>
@@ -218,7 +218,7 @@
 					“云裂之剑，当立则立。”
 				</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.55</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.55</MentalBreakThreshold>
 					<PsychicSensitivity>-0.25</PsychicSensitivity>
 				</statOffsets>
 			</li>
@@ -323,4 +323,43 @@
 			</li>
 		</degreeDatas>
 	</TraitDef>
+	<TraitDef>
+		<ignoreConfigErrors>true</ignoreConfigErrors>
+		<commonality>0.0</commonality>
+		<defName>AK_Trait_Estelle</defName>
+		<degreeDatas>
+			<li>
+				<label></label>
+				<description>
+				</description>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+
+	<TraitDef>
+		<ignoreConfigErrors>true</ignoreConfigErrors>
+		<commonality>0.0</commonality>
+		<defName>AK_Trait_FlintSecond</defName>
+		<degreeDatas>
+			<li>
+				<label></label>
+				<description>
+				</description>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+
+	<TraitDef>
+		<ignoreConfigErrors>true</ignoreConfigErrors>
+		<commonality>0.0</commonality>
+		<defName>AK_Trait_Flint</defName>
+		<degreeDatas>
+			<li>
+				<label></label>
+				<description>
+				</description>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+
 </Defs>

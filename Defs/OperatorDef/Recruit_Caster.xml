@@ -1177,8 +1177,8 @@ Ceobe is always ready to go after the bad guys.</description>
 		<skills>
 			<li>
 				<skill>Animals</skill>
-				<level>1</level>
-				<fireLevel>0</fireLevel>
+				<level>2</level>
+				<fireLevel>1</fireLevel>
 			</li>
 			<li>
 				<skill>Artistic</skill>
@@ -1187,27 +1187,27 @@ Ceobe is always ready to go after the bad guys.</description>
 			</li>
 			<li>
 				<skill>Construction</skill>
-				<level>2</level>
+				<level>4</level>
 				<fireLevel>0</fireLevel>
 			</li>
 			<li>
 				<skill>Cooking</skill>
-				<level>1</level>
+				<level>4</level>
 				<fireLevel>0</fireLevel>
 			</li>
 			<li>
 				<skill>Crafting</skill>
-				<level>11</level>
+				<level>10</level>
 				<fireLevel>2</fireLevel>
 			</li>
 			<li>
 				<skill>Intellectual</skill>
-				<level>6</level>
+				<level>8</level>
 				<fireLevel>0</fireLevel>
 			</li>
 			<li>
 				<skill>Medicine</skill>
-				<level>1</level>
+				<level>2</level>
 				<fireLevel>0</fireLevel>
 			</li>
 			<li>
@@ -1217,23 +1217,212 @@ Ceobe is always ready to go after the bad guys.</description>
 			</li>
 			<li>
 				<skill>Mining</skill>
-				<level>0</level>
+				<level>2</level>
 				<fireLevel>0</fireLevel>
 			</li>
 			<li>
 				<skill>Plants</skill>
-				<level>1</level>
+				<level>2</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Shooting</skill>
+				<level>8</level>
+				<fireLevel>1</fireLevel>
+			</li>
+			<li>
+				<skill>Social</skill>
+				<level>9</level>
+				<fireLevel>1</fireLevel>
+			</li>
+		</skills>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Caster">
+		<defName>AK_Recruit_Tomimi</defName>
+		<name>Tomimi</name>
+		<nickname>Tomimi</nickname>
+		<description>FIXMEDESC
+</description>
+		<weapon>AK_Weapon_Tomimi</weapon>
+		<hair>AK_Hair_Tomimi</hair>
+		<apparels>
+			<li>AK_Apparel_Tomimi</li>
+		</apparels>
+		<stand>UI/Image/Caster/TomimiStand</stand>
+		<headPortrait>UI/Image/Caster/TomimiPortrait</headPortrait>
+		<bodyTypeDef>Female</bodyTypeDef>
+		<traits>
+			<li>
+				<def>Kind</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Brawler</def>
+			</li>
+			<li><def>AK_Trait_Tomimi</def></li>
+			<li>
+				<def>NaturalMood</def>
+				<degree>1</degree>
+			</li>
+		</traits>
+		<age>20</age>
+		<childHood>AK_BackStory_Tomimi_Child</childHood>
+		<adultHood>AK_BackStory_Tomimi_Adult</adultHood>
+		<skills>
+			<li>
+				<skill>Animals</skill>
+				<level>2</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Artistic</skill>
+				<level>2</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Construction</skill>
+				<level>4</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Cooking</skill>
+				<level>4</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Crafting</skill>
+				<level>12</level>
+				<fireLevel>1</fireLevel>
+			</li>
+			<li>
+				<skill>Intellectual</skill>
+				<level>9</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Medicine</skill>
+				<level>2</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Melee</skill>
+				<level>12</level>
+				<fireLevel>2</fireLevel>
+			</li>
+			<li>
+				<skill>Mining</skill>
+				<level>2</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Plants</skill>
+				<level>3</level>
 				<fireLevel>0</fireLevel>
 			</li>
 			<li>
 				<skill>Shooting</skill>
 				<level>5</level>
-				<fireLevel>0</fireLevel>
+				<fireLevel>1</fireLevel>
 			</li>
 			<li>
 				<skill>Social</skill>
-				<level>9</level>
+				<level>8</level>
 				<fireLevel>0</fireLevel>
+			</li>
+		</skills>
+	</AK_DLL.OperatorDef>
+
+	<AK_DLL.OperatorDef ParentName="AK_RecruitBase_Caster">
+		<defName>AK_Recruit_Kjera</defName>
+		<name>Kjera</name>
+		<nickname>Kjera</nickname>
+		<description>FIXMEDESC
+</description>
+		<weapon>AK_Weapon_Kjera</weapon>
+		<hair>AK_Hair_Kjera</hair>
+		<apparels>
+			<li>AK_Apparel_Kjera</li>
+		</apparels>
+		<stand>UI/Image/Caster/KjeraStand</stand>
+		<headPortrait>UI/Image/Caster/KjeraPortrait</headPortrait>
+		<bodyTypeDef>Female</bodyTypeDef>
+		<traits>
+			<li><def>AK_Trait_Kjera</def></li>
+			<li>
+				<def>Beauty</def>
+				<degree>2</degree>
+			</li>
+			<li>
+				<def>TooSmart</def>
+			</li>
+		</traits>
+		<age>20</age>
+		<childHood>AK_BackStory_Kjera_Child</childHood>
+		<adultHood>AK_BackStory_Kjera_Adult</adultHood>
+		<skills>
+			<li>
+				<skill>Animals</skill>
+				<level>5</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Artistic</skill>
+				<level>7</level>
+				<fireLevel>1</fireLevel>
+			</li>
+			<li>
+				<skill>Construction</skill>
+				<level>3</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Cooking</skill>
+				<level>11</level>
+				<fireLevel>1</fireLevel>
+			</li>
+			<li>
+				<skill>Crafting</skill>
+				<level>12</level>
+				<fireLevel>1</fireLevel>
+			</li>
+			<li>
+				<skill>Intellectual</skill>
+				<level>20</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Medicine</skill>
+				<level>2</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Melee</skill>
+				<level>2</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Mining</skill>
+				<level>3</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Plants</skill>
+				<level>2</level>
+				<fireLevel>0</fireLevel>
+			</li>
+			<li>
+				<skill>Shooting</skill>
+				<level>10</level>
+				<fireLevel>1</fireLevel>
+			</li>
+			<li>
+				<skill>Social</skill>
+				<level>11</level>
+				<fireLevel>2</fireLevel>
 			</li>
 		</skills>
 	</AK_DLL.OperatorDef>

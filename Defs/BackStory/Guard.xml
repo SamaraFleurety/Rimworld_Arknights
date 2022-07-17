@@ -282,4 +282,44 @@ ok halda njarðlásar níu.</baseDesc>
 </baseDesc>
 		<bodyTypeGlobal>Thin</bodyTypeGlobal>	</StoriesRetold.SRBackstoryDef>
 
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Estelle_Child</defName>
+		<slot>Childhood</slot>
+		<title>巨角战神</title>
+		<baseDesc>
+萨尔贡境内的一支“锈锤”团伙——“阿达克利斯恶魔”一直在寻找“头上长着巨角的阿达克利斯战神”。
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Estelle_Adult</defName>
+		<slot>Adulthood</slot>
+		<title>“怪胎”</title>
+		<baseDesc>
+艾丝黛尔，中度感染者，因矿石病引发的显性突变而受到一定关注，后为寻求庇护联络罗德岛制药，在接受数项治疗方案后转至罗德岛进行治疗。
+经本人意愿，接受若干心理辅导并通过多项测试后，获准正式加入罗德岛。现作为近卫人员于罗德岛小队任职。</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Flint_Child</defName>
+		<slot>Childhood</slot>
+		<title>雨林中的黎博利</title>
+		<baseDesc>
+干员燧石是生活在雨林中的黎博利人，这一族的黎博利天生身材娇小，身体素质较其他黎博利人也稍显不足，更不用说和周围那些孔武健壮的种族相提并论。这样的现状也就导致燧石的部族一直以来都在雨林中生活得较为艰难。
+</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+	</StoriesRetold.SRBackstoryDef>
+
+	<StoriesRetold.SRBackstoryDef>
+		<defName>AK_BackStory_Flint_Adult</defName>
+		<slot>Adulthood</slot>
+		<title>部族战士</title>
+		<baseDesc>
+萨尔贡部族战士燧石，她的战斗经验从有力气挥动双拳时起就开始累积，擅长精准而快速的拳击格斗术。 
+现经由某位隐去姓名的精英干员推荐，通过测试作为近卫干员加入罗德岛。</baseDesc>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+	</StoriesRetold.SRBackstoryDef>
+
 </Defs>

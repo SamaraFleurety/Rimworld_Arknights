@@ -157,20 +157,6 @@
 	</ThoughtDef>
 	
 	<ThoughtDef ParentName = "AK_Thought_Permanent">
-		<defName>AK_Thought_Trait_Goldenglow</defName>
-		<requiredTraits>
-			<li>AK_Trait_Goldenglow</li>
-		</requiredTraits>
-		<stages>
-			<li>
-				<label>愤怒的电击</label>
-				<description>“绿意火花”没了，全都没了...呜......</description>
-				<baseMoodEffect>-10</baseMoodEffect>
-			</li>
-		</stages>
-	</ThoughtDef>
-	
-	<ThoughtDef ParentName = "AK_Thought_Permanent">
 		<defName>AK_Thought_Trait_GoldenglowSecond</defName>
 		<requiredTraits>
 			<li>AK_Trait_GoldenglowSecond</li>
@@ -184,4 +170,28 @@
 		</stages>
 	</ThoughtDef>
 	
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Tomimi</defName>
+		<requiredTraits><li>AK_Trait_Tomimi</li></requiredTraits>
+		<stages>
+			<li>
+				<label></label>
+				<description></description>
+				<baseMoodEffect>-5</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName = "AK_Thought_Permanent">
+		<defName>AK_Thought_Trait_Kjera</defName>
+		<requiredTraits><li>AK_Trait_Kjera</li></requiredTraits>
+		<stages>
+			<li>
+				<label></label>
+				<description></description>
+				<baseMoodEffect>10</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
 </Defs>

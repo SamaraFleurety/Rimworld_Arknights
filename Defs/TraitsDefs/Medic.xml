@@ -12,7 +12,7 @@
 只有使用机械性语言逻辑才能减轻这种痛苦。</description>
 				<statOffsets>
 					<PsychicSensitivity>1.2</PsychicSensitivity>
-					<MentalBreakThreshold>-0.2</MentalBreakThreshold>
+					<MentalBreakThreshold>0.2</MentalBreakThreshold>
 				</statOffsets>
 			</li>
 		</degreeDatas>
@@ -43,7 +43,7 @@
 				<label>真正的学者</label>
 				<description>赫默拥有敏锐的洞察力以及极强的执行力。她就像一台精密的机器，不会出现一丝一毫的错误。她手下的科研小组也耳濡目染，整个组的氛围都显得有些忙碌和紧凑。</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.1</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.1</MentalBreakThreshold>
 					<WorkSpeedGlobal>0.15</WorkSpeedGlobal>
 					<GlobalLearningFactor>0.25</GlobalLearningFactor>
 				</statOffsets>
@@ -63,7 +63,7 @@
 她现在在这里，她为每个人疗伤，对她来说，这样就足够了。
 这样的嘉维尔小姐，是值得每个人去尊敬和学习的。</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.25</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.25</MentalBreakThreshold>
 				</statOffsets>
 			</li>
 		</degreeDatas>
@@ -78,7 +78,7 @@
 				<label>单一的友谊</label>
 				<description>除了自己的知心好友，她似乎很难和大多数人维持稳固而持久的人际关系。</description>
 				<statOffsets>
-					<MentalBreakThreshold>-0.05</MentalBreakThreshold>
+					<MentalBreakThreshold>0.05</MentalBreakThreshold>
 				</statOffsets>
 			</li>
 		</degreeDatas>
@@ -93,7 +93,7 @@
 				<label>手有余香</label>
 				<description>就职于疗养庭园期间，莱娜展现出的温柔，耐心和十足的修养，以及足以令人沉醉其中的调制香薰，使她在干员之间颇受欢迎。</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.15</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.15</MentalBreakThreshold>
 				</statOffsets>
 			</li>
 		</degreeDatas>
@@ -115,7 +115,7 @@
 
 “不但赐给我，也赐给凡爱慕他显现的人” </description>
 				<statOffsets>
-					<MentalBreakThreshold>0.35</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.35</MentalBreakThreshold>
 				</statOffsets>
 			</li>
 		</degreeDatas>
@@ -176,7 +176,7 @@ HE SAYS HE WILL WIPE ALL THEM OUT FROM SARKAZ. HE NEVER RESTS, HE SAYS. HE SAYS 
 				<description>魔王死了
 巴别塔倒塌了。</description>
 				<statOffsets>
-					<MentalBreakThreshold>1.0</MentalBreakThreshold>
+					<MentalBreakThreshold>-1.0</MentalBreakThreshold>
 				</statOffsets>
 				<statFactors>
 					<PsychicSensitivity>0.0</PsychicSensitivity>

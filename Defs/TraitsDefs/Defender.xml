@@ -12,7 +12,7 @@
 风暴中，唯保守者屹立不倒。</description>
 				<statOffsets>
 					<PsychicSensitivity>-0.8</PsychicSensitivity>
-					<MentalBreakThreshold>0.55</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.55</MentalBreakThreshold>
 				</statOffsets>
 			</li>
 		</degreeDatas>
@@ -29,7 +29,7 @@
 她和泥土之间的关系可能比她和大部分人都要亲密得多。</description>
 				<statOffsets>
 					<PsychicSensitivity>-0.35</PsychicSensitivity>
-					<MentalBreakThreshold>0.35</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.35</MentalBreakThreshold>
 				</statOffsets>
 			</li>
 		</degreeDatas>
@@ -47,7 +47,7 @@
 					国蚀器锈 如梦似电 无踪泡影
 				</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.65</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.65</MentalBreakThreshold>
 					<GlobalLearningFactor>0.55</GlobalLearningFactor>
 				</statOffsets>
 				<statFactors>
@@ -82,7 +82,7 @@
 					从她的言行举止中，能感受到思考，在她的骁勇善战中，能感受到克制。
 				</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.4</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.4</MentalBreakThreshold>
 				</statOffsets>
 			</li>
 		</degreeDatas>
@@ -98,7 +98,7 @@
 				<description>即使成为了干员，可颂小姐也完全不打算放弃她在日常生活中的兴趣爱好。
 她知道成为干员后要面临许多前所未有的危险，她也知道成为干员后会遇到很多笑不出来的事，她没有忽视这些，而是在此之上，她依然会是那个精打细算的都市少女。</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.25</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.25</MentalBreakThreshold>
 					<PsychicSensitivity>0.4</PsychicSensitivity>
 				</statOffsets>
 			</li>
@@ -114,7 +114,7 @@
 				<label>耀骑士</label>
 				<description>“所谓骑士，就是照亮整片大地的崇高者”</description>
 				<statOffsets>
-					<MentalBreakThreshold>-0.35</MentalBreakThreshold>
+					<MentalBreakThreshold>0.35</MentalBreakThreshold>
 				</statOffsets>
 			</li>
 		</degreeDatas>
@@ -129,7 +129,7 @@
 				<label>我寻思能行</label>
 				<description>森蚺在大部分事情的观念上远比已经离开家乡数年的嘉维尔正常，但唯独涉及机械方面时有一些奇怪的偏执和想法。</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.25</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.25</MentalBreakThreshold>
 					<PsychicSensitivity>-0.15</PsychicSensitivity>
 					<GlobalLearningFactor>0.45</GlobalLearningFactor>
 				</statOffsets>
@@ -146,7 +146,7 @@
 				<label>雪山上的乌萨斯</label>
 				<description>“她看着是很文静没错，但她也是雪山上的乌萨斯。”</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.3</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.3</MentalBreakThreshold>
 					<PsychicSensitivity>-0.1</PsychicSensitivity>
 				</statOffsets>
 			</li>
@@ -165,7 +165,7 @@
 					时常沐浴着温暖的朝晖，偶尔也踏过照不见影子的苦暗。
 				</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.4</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.4</MentalBreakThreshold>
 				</statOffsets>
 			</li>
 		</degreeDatas>
@@ -180,7 +180,7 @@
 				<label>无忧无虑</label>
 				<description>干员蛇屠箱拥有天真烂漫的性格，即使成为矿石病患者也丝毫未能减损她的阳光。</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.15</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.15</MentalBreakThreshold>
 				</statOffsets>
 			</li>
 		</degreeDatas>
@@ -212,7 +212,7 @@
 				<description>在经历了童年的那些事之后，无论是内心还是外表，灰毫都表现的坚如堡垒。
 				</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.35</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.35</MentalBreakThreshold>
 					<PainShockThreshold>0.15</PainShockThreshold>
 				</statOffsets>
 			</li>
@@ -229,7 +229,7 @@
 				<description>号角的精神在小丘郡后已经宛若钢铁，她也将会背负着死者的信念继续前行，但小丘郡所见证的那些惨剧不是一时半会就能平复的。
 				</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.15</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.15</MentalBreakThreshold>
 				</statOffsets>
 			</li>
 		</degreeDatas>
@@ -245,7 +245,7 @@
 				<description>号角可以说是暴风突击队的最佳象征，勇敢，坚韧，顽强，忠诚。
 				</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.45</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.45</MentalBreakThreshold>
 					<PainShockThreshold>0.20</PainShockThreshold>
 				</statOffsets>
 			</li>
@@ -262,7 +262,7 @@
 				<description>相比于其他学生，切尔诺伯格的灾难对古米造成的伤害显然更大，这造成了古米虽然看上去依旧乐观，但是却有了一些奇怪的“小习惯”.
 				</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.05</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.05</MentalBreakThreshold>
 					<WorkSpeedGlobal>-0.20</WorkSpeedGlobal>
 				</statOffsets>
 			</li>

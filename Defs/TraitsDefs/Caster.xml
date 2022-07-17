@@ -26,7 +26,7 @@
 				<label>尽波澜</label>
 				<description>山川风月，花羽林渊，贩夫走卒，老少男女，画不尽，也看不完，越不过，也走不出。</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.1</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.1</MentalBreakThreshold>
 				</statOffsets>
 			</li>
 		</degreeDatas>
@@ -42,7 +42,7 @@
 				<description>她来自荒野，她是荒野的孩子。
 荒野之子终究归于荒野</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.2</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.2</MentalBreakThreshold>
 					<GlobalLearningFactor>-0.6</GlobalLearningFactor>
 					<WorkSpeedGlobal>0.1</WorkSpeedGlobal>
 				</statOffsets>
@@ -60,7 +60,7 @@
 				<description>黑暗追着她，她追着光。
 经火烧过的是真理，亦是永恒。</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.3</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.3</MentalBreakThreshold>
 					<GlobalLearningFactor>0.2</GlobalLearningFactor>
 				</statOffsets>
 			</li>
@@ -76,7 +76,7 @@
 				<label>执法者</label>
 				<description>磨难可能毁灭一个人，也可能带来新生。</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.25</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.25</MentalBreakThreshold>
 				</statOffsets>
 			</li>
 		</degreeDatas>
@@ -91,7 +91,7 @@
 				<label>堕天使</label>
 				<description>法令的效力是绝对的。当她将枪口对准同类时，她的命运就已经被决定了。</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.55</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.55</MentalBreakThreshold>
 					<PsychicSensitivity>-0.75</PsychicSensitivity>
 				</statOffsets>
 			</li>
@@ -109,7 +109,7 @@
 其实她不是想训斥别人，只不过是找不到办法表达自己的心情罢了。
 这可能是这位优等生天才少数感到苦恼的事情。</description>
 				<statOffsets>
-					<MentalBreakThreshold>-0.05</MentalBreakThreshold>
+					<MentalBreakThreshold>0.05</MentalBreakThreshold>
 					<GlobalLearningFactor>0.8</GlobalLearningFactor>
 				</statOffsets>
 			</li>
@@ -127,7 +127,7 @@
 每当此时，她就会变得意识恍惚，因此烧掉一条走廊的事也不是没有。
 但当她陷入恍惚时，身后那个巨大的实体是什么？</description>
 				<statOffsets>
-					<MentalBreakThreshold>-0.4</MentalBreakThreshold>
+					<MentalBreakThreshold>0.4</MentalBreakThreshold>
 					<PsychicSensitivity>1.0</PsychicSensitivity>
 				</statOffsets>
 			</li>
@@ -143,7 +143,7 @@
 				<label>尽在掌握</label>
 				<description>卡涅利安小姐并不过多掩饰自己的真实性情，不论面对怎样的情况，她都依照自己的准则行事，对待朋友时热情大方，而对待自己认定的敌人，她从不会手下留情。莱塔尼亚无法真正束缚这样的一个的萨尔贡人。</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.35</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.35</MentalBreakThreshold>
 				</statOffsets>
 			</li>
 		</degreeDatas>
@@ -158,7 +158,7 @@
 				<label>沙原的祝福</label>
 				<description>请记住，不论我们各自去往何方，她给出的那份祝福，都将随你一路前行。</description>
 				<statOffsets>
-					<MentalBreakThreshold>0.25</MentalBreakThreshold>
+					<MentalBreakThreshold>-0.25</MentalBreakThreshold>
 				</statOffsets>
 			</li>
 		</degreeDatas>
@@ -173,7 +173,7 @@
 				<label>救世的魔王</label>
 				<description>衣服需要缝补，伤口需要愈合。</description>
 				<statOffsets>
-					<MentalBreakThreshold>1.0</MentalBreakThreshold>
+					<MentalBreakThreshold>-1.0</MentalBreakThreshold>
 					<PsychicSensitivity>1.0</PsychicSensitivity>
 				</statOffsets>
 			</li>
@@ -219,12 +219,11 @@
 		<defName>AK_Trait_Goldenglow</defName>
 		<degreeDatas>
 			<li>
-				<label>愤怒的电击</label>
-				<description>澄闪在卡拉顿经历了一系列刺激后，源石技艺开始变得极度不稳定。
-澄闪的静电现在仿佛带有了情绪，一种一种宣泄，一种苦痛，一种悲伤。
+				<label>静电</label>
+				<description>尽管澄闪在感染矿石病之初就体现出了不断释放静电的能力，但是在经历了卡拉顿的一系列事件后，澄闪的静电开始进入了不稳定的状态。澄闪的静电现在仿佛带有了情绪。
 				</description>
 				<statOffsets>
-					<MentalBreakThreshold>-0.05</MentalBreakThreshold>
+					<MentalBreakThreshold>0.10</MentalBreakThreshold>
 				</statOffsets>
 			</li>
 		</degreeDatas>
@@ -243,4 +242,31 @@
 			</li>
 		</degreeDatas>
 	</TraitDef>
+	
+	<TraitDef>
+		<ignoreConfigErrors>true</ignoreConfigErrors>
+		<commonality>0.0</commonality>
+		<defName>AK_Trait_Tomimi</defName>
+		<degreeDatas>
+			<li>
+				<label></label>
+				<description>
+				</description>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+
+	<TraitDef>
+		<ignoreConfigErrors>true</ignoreConfigErrors>
+		<commonality>0.0</commonality>
+		<defName>AK_Trait_Kjera</defName>
+		<degreeDatas>
+			<li>
+				<label></label>
+				<description>
+				</description>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+
 </Defs>

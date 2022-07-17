@@ -490,4 +490,22 @@
 		</graphicData>
 	</ThingDef>
 
+	<ThingDef ParentName="AK_WeaponBase_Caster">
+		<defName>AK_Weapon_Tomimi</defName>
+		<label>特米米的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Caster/TomimiW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="AK_WeaponBase_Caster">
+		<defName>AK_Weapon_Kjera</defName>
+		<label>耶拉的武器</label>
+		<graphicData>
+			<texPath>Things/AK_Agents/Weapon/Caster/KjeraW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
 </Defs>
